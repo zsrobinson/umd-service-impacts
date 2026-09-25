@@ -52,7 +52,7 @@ export function ImpactDetail({ impact, now, sourceUrl, onBack }: Props) {
   }
 
   return (
-    <div className="flex flex-col">
+    <div className="flex min-w-0 flex-col [overflow-wrap:anywhere]">
       <div className="flex items-center justify-between gap-2 px-2 pt-2">
         <Button variant="ghost" size="sm" onClick={onBack} className="text-muted-foreground">
           <ArrowLeft data-icon="inline-start" />
@@ -163,11 +163,16 @@ export function ImpactDetail({ impact, now, sourceUrl, onBack }: Props) {
                     <span className="block px-3 py-2 text-xs text-muted-foreground">Click to enlarge</span>
                   </button>
                 ) : (
-                  <Button key={url} variant="outline" asChild className="h-auto justify-start py-2">
-                    <a href={url} target="_blank" rel="noreferrer">
-                      <FileText data-icon="inline-start" />
-                      <span className="truncate">{attachmentName(url)}</span>
-                      <ExternalLink className="ml-auto opacity-60" />
+                  <Button
+                    key={url}
+                    variant="outline"
+                    asChild
+                    className="h-auto w-full items-start justify-start py-2 text-left whitespace-normal"
+                  >
+                    <a href={url} target="_blank" rel="noreferrer" title={attachmentName(url)}>
+                      <FileText data-icon="inline-start" className="mt-0.5" />
+                      <span className="min-w-0 flex-1 leading-snug">{attachmentName(url)}</span>
+                      <ExternalLink className="mt-0.5 opacity-60" />
                     </a>
                   </Button>
                 ),

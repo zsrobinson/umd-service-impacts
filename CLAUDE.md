@@ -40,6 +40,9 @@ the conventions and the traps.
 - **`maplibre-gl.css` sets `position: relative` on the map container,** overriding Tailwind's
   `absolute inset-0`, which collapses the map to zero height. The container is an inner
   `h-full w-full` div inside the absolute wrapper.
+- **Radix `ScrollArea` wraps its content in a `display: table` div** that grows to its widest
+  unbreakable line, so one long attachment name widened the whole sidebar. `scroll-area.tsx`
+  forces that div to `block`; long text in the detail view wraps (`overflow-wrap: anywhere`).
 - **`["geometry-type"]` returns `MultiPolygon`/`MultiLineString`** for multi geometries, so layer
   filters use `["in", ["geometry-type"], ["literal", [...]]]`.
 - **Public Overpass servers time out often.** `build_gazetteer.py` retries three mirrors; with
