@@ -17,7 +17,6 @@ import { cn } from "@/lib/utils"
 import type { Category, ImpactData, ImpactFile } from "@/types"
 
 type View = "now" | "upcoming" | "all"
-const STALE_AFTER = 36 * 36e5
 
 export default function App() {
   const [data, setData] = useState<ImpactData | null>(null)
@@ -114,8 +113,6 @@ export default function App() {
     [selected, visible],
   )
 
-  const stale = data && now - Date.parse(data.fetchedAt) > STALE_AFTER
-
   const emptyText =
     query || categories.length
       ? "Nothing matches these filters."
@@ -205,9 +202,8 @@ export default function App() {
           {data && (
             <>
               {" · "}
-              <span className={cn(stale && "font-medium text-destructive")}>
-                {stale ? "Last checked" : "Checked"} {formatDateTime(data.fetchedAt, now)}
-              </span>
+              {/* fetchedAt moves only when the notices change (the daily check skips quiet days) */}
+              <span>Updated {formatDateTime(data.fetchedAt, now)}</span>
             </>
           )}
         </p>

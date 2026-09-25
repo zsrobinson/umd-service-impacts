@@ -16,7 +16,8 @@
     "fetch": "node scripts/fetch-notices.mjs",
     "place": "node scripts/find-place.mjs",
     "data": "node scripts/compile.mjs",
-    "lint": "oxlint"
+    "lint": "oxlint",
+    "daily": "node scripts/daily.mjs"
   },
   "dependencies": {
     "@fontsource-variable/geist": "^5.3.0",

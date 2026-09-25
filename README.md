@@ -10,8 +10,9 @@ The page isn't machine-readable, so an LLM reads it once a day and writes struct
 ## How it fits together
 
 ```
-facilities.umd.edu ──npm run fetch──▶ rows (JSON)
-                                         │  LLM: titles, categories, dates, places   (PROMPT.md)
+facilities.umd.edu ──scripts/daily.mjs──▶ unchanged? stop.
+                                         │  dates, text, removals: applied by the script
+                                         │  new notices only: title, category, places (PROMPT.md)
                                          ▼
                              data/impacts.source.json
                                          │  npm run data: resolve places, validate
@@ -35,7 +36,8 @@ reference/places.json ──────────────────▶�
 ```sh
 npm install
 npm run dev                  # http://localhost:5173
-npm run fetch                # today's notices as JSON
+npm run daily                # the daily update (see PROMPT.md)
+npm run -s fetch             # today's notices as JSON
 npm run place -- toll        # look up place ids
 npm run data                 # compile and validate data
 npm run build                # data + typecheck + production build into dist/
@@ -44,9 +46,12 @@ python3 scripts/build_gazetteer.py            # rebuild reference/places.json fr
 
 ## Daily updates
 
-A Claude Code routine runs once a day in a fresh cloud session. It uses the `daily-update` agent
-(`.claude/agents/daily-update.md`, on Opus), which follows `PROMPT.md` and pushes the new data to
-`main`. To run it by hand, open the repository in Claude Code and type `/update`.
+A Claude Code routine wakes an updater session once a day. It runs `node scripts/daily.mjs`,
+which compares the page with the last run (`data/page-rows.json`) and stops if nothing changed.
+Otherwise the script applies every change it can decide by rule (dates, descriptions, resolved
+notices, removals) and pushes to `main`; only brand-new notices need the model, for a title, a
+category and the places, which the script has already guessed. To run it by hand, open the
+repository in Claude Code and type `/update`.
 
 ## Deploying
 

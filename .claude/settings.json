@@ -2,21 +2,15 @@
   "$schema": "https://json.schemastore.org/claude-code-settings.json",
   "permissions": {
     "allow": [
-      "Bash(npm ci)",
-      "Bash(npm install)",
-      "Bash(npm run fetch:*)",
-      "Bash(npm run -s fetch:*)",
-      "Bash(npm run place:*)",
+      "Bash(node scripts/daily.mjs)",
+      "Bash(node scripts/daily.mjs --finish)",
+      "Bash(node scripts/find-place.mjs:*)",
+      "Bash(node scripts/compile.mjs)",
       "Bash(npm run data)",
       "Bash(npm run build)",
       "Bash(git status:*)",
       "Bash(git diff:*)",
-      "Bash(git add data/*)",
-      "Bash(git commit:*)",
-      "Bash(git pull:*)",
-      "Bash(git push origin main)",
-      "Bash(curl -sSL https://facilities.umd.edu/*)",
-      "WebFetch(domain:facilities.umd.edu)"
+      "Bash(git log:*)"
     ]
   }
 }

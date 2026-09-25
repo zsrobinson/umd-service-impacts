@@ -101,6 +101,7 @@ if (!src.fetchedAt || !ISO.test(src.fetchedAt)) fail("fetchedAt", "must be an IS
 const ids = new Set()
 const impacts = (src.impacts ?? []).map((it, i) => {
   const w = `impacts[${i}] ${it.id ?? "(no id)"}`
+  if (it.todo) fail(w, `still marked todo (${[].concat(it.todo).join("; ")}); fill it in and delete "todo"`)
   for (const k of ["id", "title", "sourceTitle", "section", "category", "notice", "start", "description", "precision"]) {
     if (typeof it[k] !== "string" || !it[k].trim()) fail(w, `missing ${k}`)
   }
