@@ -27,16 +27,23 @@ the conventions and the traps.
 
 ## Look
 
-The styling follows UMD's published brand (brand.umd.edu) without its marks:
-- Colors from brand.umd.edu/colors only: Maryland Red `#e21833`, Gold `#ffd200`, black, white,
-  and the grays. Status is red (in effect), gold (upcoming), medium gray (ended). Gold needs a dark
-  edge on the light basemap (`edgeColor` in `impact-map.tsx`).
-- Fonts from brand.umd.edu/typography, via Google Fonts: Source Sans 3 (text), Crimson Text
-  (detail headlines, `font-heading`), Roboto Condensed (caps labels, `font-condensed`).
-- Red is AA on white only (4.75:1). Small labels use the `eyebrow` token: red in light mode,
-  gold in dark. Don't put red text on black or gold text on white.
-- Square corners (`--radius: 0.125rem`), a red utility bar, black header and footer blocks.
-- No UMD logo, wordmark, Testudo or state-flag pattern, and "Unofficial" stays visible.
+The styling follows UMD's published brand without its marks. Sources, in order of authority:
+brand.umd.edu (Colors, Typography, Website Guidelines) and the UMD Design System's MIT-licensed
+packages, `@universityofmaryland/web-token-library` (colors, font families) and
+`@universityofmaryland/web-styles-library` (`.umd-eyebrow`, `.umd-eyebrow-ribbon`, campaign type).
+- Colors are the Design System tokens only (`--umd-*` in `index.css`): Maryland Red `#e21833`,
+  Gold `#ffd200`, black, white, and its grays (`#757575` is the AA-safe medium gray for muted
+  text). Status is red (in effect), gold (upcoming), gray `#7f7f7f` (ended). Gold needs a dark edge
+  on the light basemap (`edgeColor` in `impact-map.tsx`).
+- Type is the Design System families: Barlow Condensed (campaign headline, bold italic, and
+  condensed caps: `font-condensed`), Crimson Pro (detail headlines: `font-heading`), and Source
+  Sans 3 for text, brand.umd.edu's stand-in for the licensed Interstate.
+- `eyebrow` and `eyebrow-ribbon` (utilities in `index.css`) copy the Design System's styles.
+- Red is AA on white only (4.75:1): never red text on black or gold text on white.
+- Square corners (`--radius: 0.125rem`), a red bar, black header and footer blocks.
+- The Website Guidelines reserve the university header for official sites. Ours must never look
+  like it: the red bar says "Unofficial", and there is no UMD logo, wordmark, globe, Testudo or
+  state-flag pattern anywhere.
 
 ## Traps already hit
 

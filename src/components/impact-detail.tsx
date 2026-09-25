@@ -73,13 +73,15 @@ export function ImpactDetail({ impact, now, sourceUrl, onBack }: Props) {
           {impact.notice !== "planned" && (
             <Badge className="rounded-sm font-condensed tracking-[0.04em] uppercase">{impact.notice}</Badge>
           )}
-          <Badge variant="secondary" className="rounded-sm font-condensed tracking-[0.04em] uppercase">
-            <Icon />
-            {categoryLabel}
-          </Badge>
         </div>
 
-        <h2 className="mt-3 font-heading text-[28px] leading-[1.1] font-semibold text-balance">{impact.title}</h2>
+        <p className="mt-4 eyebrow-ribbon">
+          <span className="inline-flex items-center gap-1.5">
+            <Icon className="size-3.5" aria-hidden />
+            {categoryLabel}
+          </span>
+        </p>
+        <h2 className="mt-2.5 font-heading text-[30px] leading-[1.08] font-semibold text-balance">{impact.title}</h2>
         <p className="mt-2 flex items-start gap-1.5 text-sm text-muted-foreground">
           <MapPin className="mt-0.5 size-3.5 shrink-0" />
           <span>
@@ -91,7 +93,7 @@ export function ImpactDetail({ impact, now, sourceUrl, onBack }: Props) {
         </p>
 
         <div className="mt-4 rounded-sm border border-l-[3px] border-l-primary bg-muted/40 p-3">
-          <div className="flex items-center gap-1.5 font-condensed text-[12px] font-semibold tracking-[0.08em] text-eyebrow uppercase">
+          <div className="flex items-center gap-1.5 eyebrow">
             <CalendarClock className="size-3.5" />
             When
           </div>
@@ -127,7 +129,7 @@ export function ImpactDetail({ impact, now, sourceUrl, onBack }: Props) {
         </div>
 
         <section className="mt-5">
-          <h3 className="font-condensed text-[12px] font-semibold tracking-[0.08em] text-eyebrow uppercase">What's happening</h3>
+          <h3 className="eyebrow">What's happening</h3>
           <p className="mt-1.5 text-[15px] leading-relaxed">{impact.description}</p>
           {impact.services.length > 0 && (
             <div className="mt-3 flex flex-wrap gap-1.5">
@@ -142,7 +144,7 @@ export function ImpactDetail({ impact, now, sourceUrl, onBack }: Props) {
 
         {impact.attachments.length > 0 && (
           <section className="mt-5">
-            <h3 className="font-condensed text-[12px] font-semibold tracking-[0.08em] text-eyebrow uppercase">Notice map</h3>
+            <h3 className="eyebrow">Notice map</h3>
             <div className="mt-2 flex flex-col gap-2">
               {impact.attachments.map((url) =>
                 isImage(url) ? (
@@ -204,7 +206,7 @@ export function ImpactDetail({ impact, now, sourceUrl, onBack }: Props) {
         </section>
 
         <div className="mt-5 rounded-sm border p-3 text-[13px] text-muted-foreground">
-          <p className="font-condensed text-[12px] font-semibold tracking-[0.08em] text-eyebrow uppercase">Original notice</p>
+          <p className="eyebrow">Original notice</p>
           <p className="mt-1 leading-relaxed">“{impact.sourceTitle}”</p>
           <a
             href={sourceUrl}

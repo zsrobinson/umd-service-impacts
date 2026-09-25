@@ -145,7 +145,7 @@ export default function App() {
             <TabsTrigger
               key={value}
               value={value}
-              className="flex-none px-0 font-condensed text-[13px] font-semibold tracking-[0.06em] uppercase after:bg-primary group-data-horizontal/tabs:after:bottom-[-1px] group-data-horizontal/tabs:after:h-[3px]"
+              className="flex-none px-0 font-condensed text-[15px] font-semibold tracking-[0.04em] uppercase after:bg-primary group-data-horizontal/tabs:after:bottom-[-1px] group-data-horizontal/tabs:after:h-[3px]"
             >
               {label} <Count n={n} />
             </TabsTrigger>
@@ -207,7 +207,7 @@ export default function App() {
 
   const header = (
     <header className="bg-black text-white">
-      <div className="flex items-center justify-between gap-3 bg-umd-red px-4 py-1.5 font-condensed text-[11px] font-semibold tracking-[0.08em] uppercase">
+      <div className="flex items-center justify-between gap-3 bg-umd-red px-4 py-1.5 font-condensed text-[13px] font-semibold tracking-[0.05em] uppercase">
         <span className="whitespace-nowrap">
           Unofficial<span className="max-[380px]:hidden"> community map</span>
         </span>
@@ -225,8 +225,9 @@ export default function App() {
         <div className="min-w-0">
           <h1
             className={cn(
-              "font-condensed leading-none font-bold tracking-[-0.01em] uppercase",
-              desktop ? "text-[26px]" : "pt-1 text-[21px]",
+              // the Design System's campaign headline: Barlow Condensed bold italic, 0.02em
+              "font-condensed leading-[0.91] font-bold tracking-[0.02em] uppercase italic",
+              desktop ? "text-[34px]" : "pt-1 text-[26px]",
             )}
           >
             UMD Service Impacts
@@ -374,7 +375,7 @@ function Legend({ className }: { className?: string }) {
   return (
     <div
       className={cn(
-        "pointer-events-none absolute z-10 flex flex-col gap-1 rounded-sm border bg-background/95 px-2.5 py-2 font-condensed text-[11px] font-medium tracking-[0.04em] text-foreground/80 uppercase shadow-sm",
+        "pointer-events-none absolute z-10 flex flex-col gap-1 rounded-sm border bg-background/95 px-2.5 py-2 font-condensed text-[13px] font-semibold tracking-[0.04em] text-foreground/85 uppercase shadow-sm",
         className,
       )}
     >
