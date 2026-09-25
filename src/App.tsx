@@ -14,7 +14,7 @@ import { useMediaQuery } from "@/hooks/use-media-query"
 import { useTheme } from "@/hooks/use-theme"
 import { CATEGORIES, STATUS, compareImpacts, formatDateTime, statusOf } from "@/lib/impacts"
 import { cn } from "@/lib/utils"
-import type { Category, ImpactData } from "@/types"
+import type { Category, ImpactData, ImpactFile } from "@/types"
 
 type View = "now" | "upcoming" | "all"
 const STALE_AFTER = 36 * 36e5
@@ -35,7 +35,15 @@ export default function App() {
   useEffect(() => {
     fetch("/data/impacts.json", { cache: "no-cache" })
       .then((r) => (r.ok ? r.json() : Promise.reject(new Error(`HTTP ${r.status}`))))
-      .then(setData)
+      .then((file: ImpactFile) =>
+        setData({
+          ...file,
+          impacts: file.impacts.map((i) => ({
+            ...i,
+            places: i.places.map((p) => ({ ...p, geometry: p.geometry ?? file.geometries[p.id!] })),
+          })),
+        }),
+      )
       .catch((e) => setError(String(e)))
   }, [])
 

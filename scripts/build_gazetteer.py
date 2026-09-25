@@ -171,7 +171,13 @@ def main():
         add("road", n, {"type": "MultiLineString", "coordinates": ls})
 
     # Purple Line alignment through the campus area
-    pl = [ring(e["geometry"]) for e in elements if e["tags"].get("railway") == "light_rail"]
+    # One track (the two run side by side), clipped to what the notices cover:
+    # Adelphi Road (UMGC) to the College Park Metro Station.
+    tracks = [ring(e["geometry"]) for e in elements if e["tags"].get("railway") == "light_rail"]
+    pl = []
+    if tracks:
+        keep = [c for c in max(tracks, key=len) if c[0] >= -76.9575 and c[1] >= 38.9780]
+        pl = [keep] if len(keep) > 1 else []
     if pl:
         add("line", "Purple Line", {"type": "MultiLineString", "coordinates": pl}, ["Purple Line alignment", "Purple Line (Campus Drive)"])
 

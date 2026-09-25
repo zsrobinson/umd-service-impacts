@@ -57,4 +57,10 @@ export interface ImpactData {
   impacts: Impact[]
 }
 
+/** impacts.json as published: shared place outlines are stored once in `geometries`. */
+export interface ImpactFile extends Omit<ImpactData, "impacts"> {
+  impacts: (Omit<Impact, "places"> & { places: (Omit<Place, "geometry"> & { geometry?: Geometry })[] })[]
+  geometries: Record<string, Geometry>
+}
+
 export type Status = "active" | "upcoming" | "ended" | "resolved"

@@ -87,6 +87,7 @@ function resolvePlace(where, p) {
   if (!label) fail(where, "a custom place needs a label")
   return {
     ...(base ? { id: base.id } : {}),
+    ...(p.geometry || p.point ? { custom: true } : {}),
     label,
     kind: p.geometry || p.point ? kindOf(geometry) : base.kind,
     center: base && !p.geometry && !p.point ? base.center : center(geometry),
@@ -143,7 +144,43 @@ if (errors.length) {
   process.exit(1)
 }
 
+// Shared places (the Purple Line carries three notices) are stored once, in `geometries`;
+// coordinates are rounded to ~1 m and lines simplified, which the map can't tell apart.
+const round = (c) => (typeof c[0] === "number" ? [+c[0].toFixed(5), +c[1].toFixed(5)] : c.map(round))
+function simplify(line, tol = 1.5e-5) {
+  if (line.length < 3) return line
+  const [a, b] = [line[0], line.at(-1)]
+  let max = 0
+  let at = 0
+  for (let i = 1; i < line.length - 1; i++) {
+    const [x, y] = line[i]
+    const dx = b[0] - a[0]
+    const dy = b[1] - a[1]
+    const d = Math.abs(dy * x - dx * y + b[0] * a[1] - b[1] * a[0]) / (Math.hypot(dx, dy) || 1)
+    if (d > max) [max, at] = [d, i]
+  }
+  if (max <= tol) return [a, b]
+  return [...simplify(line.slice(0, at + 1), tol).slice(0, -1), ...simplify(line.slice(at), tol)]
+}
+function compact(g) {
+  const c = g.type === "LineString" ? simplify(g.coordinates) : g.type === "MultiLineString" ? g.coordinates.map((l) => simplify(l)) : g.coordinates
+  return { type: g.type, coordinates: round(c) }
+}
+const geometries = {}
+for (const it of impacts) {
+  for (const p of it.places) {
+    p.center = round(p.center)
+    if (p.id && !p.custom) {
+      geometries[p.id] ??= compact(p.geometry)
+      delete p.geometry
+    } else {
+      p.geometry = compact(p.geometry)
+    }
+    delete p.custom
+  }
+}
+
 mkdirSync(dirname(OUT), { recursive: true })
-const out = { source: src.source, fetchedAt: src.fetchedAt, compiledAt: new Date().toISOString(), impacts }
+const out = { source: src.source, fetchedAt: src.fetchedAt, compiledAt: new Date().toISOString(), impacts, geometries }
 writeFileSync(OUT, JSON.stringify(out) + "\n")
 console.log(`✓ ${impacts.length} impacts, ${impacts.reduce((n, i) => n + i.places.length, 0)} places -> public/data/impacts.json`)
