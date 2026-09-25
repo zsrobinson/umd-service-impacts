@@ -42,7 +42,20 @@ npm run build                # data + typecheck + production build into dist/
 python3 scripts/build_gazetteer.py            # rebuild reference/places.json from OSM
 ```
 
+## Daily updates
+
+A Claude Code routine runs once a day in a fresh cloud session. It uses the `daily-update` agent
+(`.claude/agents/daily-update.md`, on Opus), which follows `PROMPT.md` and pushes the new data to
+`main`. To run it by hand, open the repository in Claude Code and type `/update`.
+
 ## Deploying
 
-Vercel, from this repository: every push to `main` rebuilds. `vercel.json` makes browsers revalidate
-`/data/*` on every visit and cache the hashed assets for a year.
+Vercel, from this repository: every push to `main` deploys <https://umd-service-impacts.vercel.app>,
+and every other branch gets a preview. `vercel.json` makes browsers revalidate `/data/*` on every
+visit and cache the hashed assets for a year.
+
+## License and data
+
+Code: MIT (see `LICENSE`). Notices: University of Maryland Facilities Management; this site is
+unofficial and not affiliated with the university. Building outlines, lots and roads: ©
+OpenStreetMap contributors, ODbL. Basemap: CARTO.

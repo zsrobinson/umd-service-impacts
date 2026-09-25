@@ -11,7 +11,7 @@ the way a careful local would, and never make up a fact the notice doesn't give.
 
 ## Steps
 
-1. `npm ci` (first run only), then `npm run fetch > /tmp/rows.json`. This prints every table row on
+1. `npm ci` (first run only), then `npm run -s fetch > /tmp/rows.json` (`-s` keeps npm's own banner out of the JSON). This prints every table row on
    https://facilities.umd.edu/info-resources/service-impacts as JSON. Each row has:
    - `existingId`: the id the notice already has in our file, or `null` if it is new;
    - `noLongerListed`: ids in our file that the page no longer shows.

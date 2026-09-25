@@ -2,6 +2,12 @@
   "name": "umd-service-impacts",
   "private": true,
   "version": "0.0.0",
+  "description": "Map of UMD Facilities Management service outages, road closures and elevator work.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zsrobinson/umd-service-impacts"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -36,5 +42,8 @@
     "oxlint": "^1.81.0",
     "typescript": "~6.0.2",
     "vite": "^8.3.0"
+  },
+  "engines": {
+    "node": ">=22"
   }
 }
