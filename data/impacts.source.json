@@ -1,0 +1,684 @@
+{
+  "source": "https://facilities.umd.edu/info-resources/service-impacts",
+  "fetchedAt": "2026-09-24T22:37:00-04:00",
+  "impacts": [
+    {
+      "id": "mckeldin-rooftop-painting",
+      "title": "Rooftop painting",
+      "sourceTitle": "McKeldin Library - Rooftop Painting",
+      "section": "outages",
+      "category": "construction",
+      "services": [
+        "Rooftop work"
+      ],
+      "notice": "planned",
+      "start": "2026-09-28T08:00:00-04:00",
+      "end": "2026-10-13T16:00:00-04:00",
+      "area": "Rooftop",
+      "repairType": "Rooftop Painting",
+      "description": "Contractors will be painting the existing metal support structure serving the rooftop HVAC Units in McKeldin Library.",
+      "contacts": [
+        "Rolando Mendez"
+      ],
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/McKeldin-Library-Steel-Paint.png"
+      ],
+      "precision": "building",
+      "places": [
+        "building-theodore-r-mckeldin-library"
+      ],
+      "phone": "301-405-2222",
+      "resolved": false
+    },
+    {
+      "id": "purple-line-sign-installation",
+      "title": "Sign installation noise along the Purple Line",
+      "sourceTitle": "Purple Line: Sign Installation Noise along the Purple Line",
+      "section": "outages",
+      "category": "construction",
+      "services": [
+        "Noise"
+      ],
+      "notice": "planned",
+      "start": "2026-09-28T08:00:00-04:00",
+      "end": "2026-10-18T17:00:00-04:00",
+      "area": "Along the Purple Line",
+      "repairType": "Sign Installation",
+      "description": "The Purple Line project plans to install signs on the overhead catenary poles along the alignment from Adelphi Road (near UMCG) through the UMD campus to the College Park Metro Station.",
+      "contacts": [
+        "Casey Ferraro"
+      ],
+      "precision": "campus-wide",
+      "locationNote": "Covers the whole Purple Line alignment from Adelphi Road to the College Park Metro Station.",
+      "places": [
+        "line-purple-line"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "resolved": false
+    },
+    {
+      "id": "manhole-205-steam-hot-water",
+      "title": "Steam and heating hot water outage (Manhole 205)",
+      "sourceTitle": "Manhole 205 - Multiple Buildings Impacted: Steam Outage and HVAC Heating Hot Water Outage",
+      "section": "outages",
+      "category": "steam",
+      "services": [
+        "Steam",
+        "Domestic hot water",
+        "HVAC heating hot water"
+      ],
+      "notice": "planned",
+      "start": "2026-09-25T06:00:00-04:00",
+      "end": "2026-09-25T10:00:00-04:00",
+      "area": "Plant Sciences Building, Biology-Psychology Building, Hornbake Library, Regents Drive Parking Garage, Geology Building, Bioscience Research Building",
+      "repairType": "Domestic Hot Water, and Steam Outages",
+      "description": "To facilitate the testing of an isolation valve in manhole 205.",
+      "contacts": [
+        "Chrysanthe Broikos"
+      ],
+      "precision": "building",
+      "places": [
+        "building-plant-science-building",
+        "building-biology-psychology-building",
+        "building-hornbake-library",
+        "building-regents-drive-parking-garage",
+        "building-geology-building",
+        "building-biosciences-research-building"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "resolved": false
+    },
+    {
+      "id": "wind-tunnel-csic-plaza-closure",
+      "title": "Plaza closed for construction laydown",
+      "sourceTitle": "Plaza between the Wind Tunnel Building and the Computer Science Instructional Center - Sidewalk Closure",
+      "section": "outages",
+      "category": "sidewalk",
+      "services": [
+        "Sidewalk",
+        "Plaza"
+      ],
+      "notice": "planned",
+      "start": "2026-09-25T06:00:00-04:00",
+      "end": "2027-04-30T17:00:00-04:00",
+      "area": "Plaza",
+      "repairType": "Plaza/Sidewalk Closure",
+      "description": "The plaza sidewalk area between the Wind Tunnel Building and the Computer Science Instructional Center will be closed to store equipment and materials for construction activities.",
+      "contacts": [
+        "Randall Phillips"
+      ],
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026.9.18---P%26C-to-CRC---Laydown-Space-Wind-Tunnel.pdf"
+      ],
+      "precision": "approximate",
+      "locationNote": "Fenced area traced from the attached map. A 10-foot pedestrian path along the west side of the Computer Science Instructional Center stays open.",
+      "places": [
+        {
+          "label": "Fenced laydown area",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -76.93672,
+                  38.99012
+                ],
+                [
+                  -76.93646,
+                  38.99012
+                ],
+                [
+                  -76.93646,
+                  38.98985
+                ],
+                [
+                  -76.9366,
+                  38.98985
+                ],
+                [
+                  -76.93672,
+                  38.98998
+                ],
+                [
+                  -76.93672,
+                  38.99012
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "phone": "301-405-2222",
+      "resolved": false
+    },
+    {
+      "id": "toll-physics-ac-outage",
+      "title": "Air conditioning outage in classrooms 1410 and 1412",
+      "sourceTitle": "Urgent Outage Notification: John S. Toll Physics Building, Air Conditioning Outage",
+      "section": "outages",
+      "category": "hvac",
+      "services": [
+        "Air conditioning"
+      ],
+      "notice": "emergency",
+      "start": "2026-09-25T05:00:00-04:00",
+      "end": "2026-09-25T09:00:00-04:00",
+      "area": "Classrooms 1410 and 1412",
+      "repairType": "Air Conditioning Outage, HVAC Systems Outage",
+      "description": "Facilities Management crews will need to perform emergency repairs on the HVAC equipment that provides air conditioning to classrooms 1410 and 1412 at the John S. Toll Physics Building.",
+      "contacts": [
+        "Ray Pessagno",
+        "Mike McCormick"
+      ],
+      "precision": "building",
+      "places": [
+        "building-john-s-toll-physics"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "resolved": false
+    },
+    {
+      "id": "chemistry-lab-flooring",
+      "title": "Lab flooring work in rooms 2219 and 2221",
+      "sourceTitle": "Chemistry Building - Lab Rooms 2219 and 2221, Flooring Work",
+      "section": "outages",
+      "category": "construction",
+      "services": [
+        "Lab access"
+      ],
+      "notice": "planned",
+      "start": "2026-09-24T03:00:00-04:00",
+      "end": "2026-09-26T07:30:00-04:00",
+      "area": "Rooms 2219 and 2221",
+      "repairType": "Install MMA Flooring",
+      "description": "MMA flooring installation is scheduled for lab rooms 2219 and 2221.",
+      "contacts": [
+        "Cornell Jones"
+      ],
+      "precision": "building",
+      "places": [
+        "building-chemistry-building"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "resolved": false
+    },
+    {
+      "id": "martin-mote-fire-alarm-testing",
+      "title": "Fire alarm and suppression testing",
+      "sourceTitle": "Glenn L. Martin Hall and C. Daniel Mote, Jr. Engineering Laboratory Building - Fire Alarm System and Suppression Testing and Inspection",
+      "section": "outages",
+      "category": "fire-safety",
+      "services": [
+        "Fire alarms"
+      ],
+      "notice": "planned",
+      "start": "2026-09-23T06:00:00-04:00",
+      "end": "2026-09-24T15:00:00-04:00",
+      "area": "Entire building",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "Fire alarm and suppression testing and inspection.",
+      "contacts": [
+        "Clarence Brown"
+      ],
+      "phone": "301-405-0134",
+      "precision": "building",
+      "places": [
+        "building-glenn-l-martin-hall",
+        "building-engineering-laboratory-building"
+      ],
+      "attachments": [],
+      "resolved": false
+    },
+    {
+      "id": "microbiology-roof-lift-work",
+      "title": "Roof repairs and sidewalk closure",
+      "sourceTitle": "Microbiology Building - Lift Work for Roof Repairs, Temporary Sidewalk Closure, September 21 - October 2",
+      "section": "outages",
+      "category": "construction",
+      "services": [
+        "Sidewalk",
+        "Roof work"
+      ],
+      "notice": "planned",
+      "start": "2026-09-21T07:00:00-04:00",
+      "end": "2026-10-02T16:00:00-04:00",
+      "area": "Exterior roof and sidewalk",
+      "repairType": "Lift Work, Roof Repair",
+      "description": "To accommodate lift work for roof repairs.",
+      "contacts": [
+        "Colin Davis"
+      ],
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Microbiology-T.A.P.-Map.png"
+      ],
+      "precision": "building",
+      "places": [
+        "building-microbiology-building"
+      ],
+      "phone": "301-405-2222",
+      "resolved": false
+    },
+    {
+      "id": "biopsych-wing-2-heating",
+      "title": "Heating outage on the fourth floor of Wing 2",
+      "sourceTitle": "Urgent Outage Notification: Biology-Psychology - Fourth Floor of Wing 2, HVAC Heating Outage",
+      "section": "outages",
+      "category": "hvac",
+      "services": [
+        "Heating"
+      ],
+      "notice": "emergency",
+      "start": "2026-09-17T14:00:00-04:00",
+      "end": null,
+      "area": "Fourth floor of Wing 2",
+      "repairType": "HVAC Heating Outage",
+      "description": "Emergency repairs are needed on the HVAC equipment that provides heating to the fourth floor of Wing 2 at the Biology-Psychology Building, resulting in a heating outage in this area of the building.",
+      "contacts": [
+        "Michael Dickman"
+      ],
+      "precision": "building",
+      "places": [
+        "building-biology-psychology-building"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "resolved": false
+    },
+    {
+      "id": "hornbake-4th-floor-heating",
+      "title": "Heating hot water outage on the fourth floor",
+      "sourceTitle": "Hornbake Library - Fourth Floor on North and South Sides, HVAC Heating Hot Water Outage",
+      "section": "outages",
+      "category": "hvac",
+      "services": [
+        "HVAC heating hot water"
+      ],
+      "notice": "planned",
+      "start": "2026-08-24T06:00:00-04:00",
+      "end": "2026-09-29T15:30:00-04:00",
+      "area": "Fourth floor, north and south sides",
+      "repairType": "HVAC Heating Hot Water Outage",
+      "description": "To perform upgrades to the HVAC components.",
+      "contacts": [
+        "James Trythall"
+      ],
+      "precision": "building",
+      "places": [
+        "building-hornbake-library"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "resolved": false
+    },
+    {
+      "id": "manufacturing-m1101-ac",
+      "title": "Air conditioning outage in M1101 (Cube Farm)",
+      "sourceTitle": "Urgent Outage Notification: Manufacturing Building, HVAC Air Conditioning Outage",
+      "section": "outages",
+      "category": "hvac",
+      "services": [
+        "Air conditioning"
+      ],
+      "notice": "unplanned",
+      "start": "2026-07-15T20:00:00-04:00",
+      "end": null,
+      "area": "M1101 (Cube Farm)",
+      "repairType": "HVAC Systems Outage, HVAC Air Conditioning",
+      "description": "Facilities Management crews are working to repair the air conditioning units that provide cooling to the M1101 (Cube Farm) area of the Manufacturing Building. As a result, this area of the building currently has an air conditioning outage.",
+      "contacts": [
+        "Charles Ivey"
+      ],
+      "precision": "building",
+      "places": [
+        "building-manufacturing-building"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "resolved": false
+    },
+    {
+      "id": "manufacturing-north-hvac",
+      "title": "HVAC outage on the north side of the first floor",
+      "sourceTitle": "Urgent Outage Notification: Manufacturing Building, HVAC Systems Outage",
+      "section": "outages",
+      "category": "hvac",
+      "services": [
+        "Air conditioning",
+        "Cooling"
+      ],
+      "notice": "unplanned",
+      "start": "2026-06-25T11:50:00-04:00",
+      "end": null,
+      "area": "North side, first floor",
+      "repairType": "HVAC Systems Outage",
+      "description": "An urgent HVAC systems outage that is impacting HVAC equipment responsible for HVAC air conditioning and cooling for the north side of the first floor at the Manufacturing Building.",
+      "contacts": [
+        "Charles Ivey"
+      ],
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/148---Urgent-Outage-Notice-HVAC-Cooling.png"
+      ],
+      "precision": "building",
+      "places": [
+        "building-manufacturing-building"
+      ],
+      "phone": "301-405-2222",
+      "resolved": false
+    },
+    {
+      "id": "fieldhouse-drive-closure",
+      "title": "Fieldhouse Drive closed for excavation",
+      "sourceTitle": "Fieldhouse Drive near the Northwest Corner of Stamp Student Union, Roadway Closure and Excavation Work",
+      "section": "roads",
+      "category": "road",
+      "services": [
+        "Road"
+      ],
+      "notice": "planned",
+      "start": "2026-09-28T08:00:00-04:00",
+      "end": "2026-10-02T18:00:00-04:00",
+      "area": "Fieldhouse Drive near the northwest corner of Stamp Student Union. The road reopens outside working hours.",
+      "repairType": "Roadway Closure and Excavation Work",
+      "description": "A section of Fieldhouse Drive will need to be closed near the intersection with Union Lane, as shown on the attached drawing, to perform excavation work to locate and repair a potential underground leak in this area.",
+      "contacts": [
+        "Horacio Torres"
+      ],
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Fieldhouse-Drive-Road-Closure.png"
+      ],
+      "precision": "exact",
+      "locationNote": "Only the excavation area just east of Union Lane is closed. Traffic stays open from Fieldhouse Drive to Union Lane, and Gossett Hall stays reachable.",
+      "places": [
+        {
+          "label": "Fieldhouse Drive excavation area",
+          "geometry": {
+            "type": "LineString",
+            "coordinates": [
+              [
+                -76.945307,
+                38.988774
+              ],
+              [
+                -76.945065,
+                38.988731
+              ],
+              [
+                -76.944886,
+                38.988696
+              ]
+            ]
+          }
+        }
+      ],
+      "phone": "301-405-2222",
+      "resolved": false
+    },
+    {
+      "id": "fraternity-row-closure",
+      "title": "Fraternity Row closed for leak repair",
+      "sourceTitle": "Fraternity Row, Road Closure",
+      "section": "roads",
+      "category": "road",
+      "services": [
+        "Road",
+        "Parking"
+      ],
+      "notice": "planned",
+      "start": "2026-09-28T07:00:00-04:00",
+      "end": "2026-09-29T17:00:00-04:00",
+      "area": "Entire Fraternity Row; work site in front of Fraternity House 2",
+      "repairType": "Roadway Closure",
+      "description": "From the excavation work performed in an area of Parking Lot 16A in front of Fraternity House 2, an underground leak has been located in the middle of the Fraternity Row roadway that needs to be repaired.",
+      "contacts": [
+        "Horacio Torres"
+      ],
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Fraternity-Row-Closure.png"
+      ],
+      "precision": "exact",
+      "locationNote": "The whole road is closed; the work site is on the north side in front of Greek House 2 (Phi Sigma Kappa). Road plates stay on site for emergency vehicles.",
+      "places": [
+        "road-fraternity-row",
+        {
+          "label": "Work site in front of Greek House 2",
+          "point": [
+            -76.93632,
+            38.98443
+          ]
+        }
+      ],
+      "phone": "301-405-2222",
+      "resolved": false
+    },
+    {
+      "id": "lot-16a-excavation",
+      "title": "Partial closure of Lot 16A for excavation",
+      "sourceTitle": "Parking Lot 16A in front of Fraternity House 2, Partial Parking Lot Closure and Excavation Work",
+      "section": "roads",
+      "category": "parking",
+      "services": [
+        "Parking"
+      ],
+      "notice": "planned",
+      "start": "2026-09-21T08:00:00-04:00",
+      "end": "2026-09-25T17:00:00-04:00",
+      "area": "Lot 16A in front of Fraternity House 2",
+      "repairType": "Parking Lot Closure, Excavation Work",
+      "description": "Planned excavation work will be performed to identify and repair a possible underground leak in Parking Lot 16A in front of Fraternity House 2.",
+      "contacts": [
+        "Horacio Torres"
+      ],
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Parking-Lot-16A-in-front-of-Fraternity-House-2%2C-Partial-Parking-Lot-Closure-and-Excavation-Work%2C-September-21---September-25-%28Map%29.png"
+      ],
+      "precision": "approximate",
+      "locationNote": "Only part of Lot 16A in front of Greek House 2 is closed.",
+      "places": [
+        "parking-lot-16a"
+      ],
+      "phone": "301-405-2222",
+      "resolved": false
+    },
+    {
+      "id": "purple-line-overnight-testing",
+      "title": "Overnight Purple Line testing",
+      "sourceTitle": "Purple Line: Campus-wide Overnight Testing Impacts",
+      "section": "roads",
+      "category": "construction",
+      "services": [
+        "Road",
+        "Sidewalk"
+      ],
+      "notice": "planned",
+      "start": "2026-08-29T22:00:00-04:00",
+      "end": "2027-01-26T06:00:00-05:00",
+      "area": "See the attached map",
+      "repairType": "Purple Line Construction",
+      "description": "Overnight light rail vehicle testing along the Purple Line, with vehicle and pedestrian impacts across campus.",
+      "contacts": [
+        "Casey Ferraro"
+      ],
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---LRV-Testing-Vehicle%2C-Pedestrian-Impacts---Notification-Map.pdf"
+      ],
+      "precision": "campus-wide",
+      "locationNote": "The notice only points to its attached map; drawn here along the whole Purple Line.",
+      "places": [
+        "line-purple-line"
+      ],
+      "phone": "301-405-2222",
+      "resolved": false
+    },
+    {
+      "id": "purple-line-lane-sidewalk-closures",
+      "title": "Periodic lane and sidewalk closures along the Purple Line",
+      "sourceTitle": "Purple Line: Campus-wide Periodic Lane and Sidewalk Closures",
+      "section": "roads",
+      "category": "road",
+      "services": [
+        "Road",
+        "Sidewalk"
+      ],
+      "notice": "planned",
+      "start": "2026-08-29T00:00:00-04:00",
+      "end": "2027-01-26T23:00:00-05:00",
+      "area": "See the attached map for affected roads and sidewalks",
+      "repairType": "Purple Line Construction",
+      "description": "Periodic lane and sidewalk closures on campus for Purple Line construction.",
+      "contacts": [
+        "Casey Ferraro"
+      ],
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---Periodic-Lane-%26-Sidewalk-Closures---Fall-2026---Notification-Map.pdf"
+      ],
+      "precision": "campus-wide",
+      "locationNote": "The notice only points to its attached map; drawn here along the whole Purple Line.",
+      "places": [
+        "line-purple-line"
+      ],
+      "phone": "301-405-2222",
+      "resolved": false
+    },
+    {
+      "id": "lot-z-partial-closure",
+      "title": "Lot Z southeast corner closed for construction laydown",
+      "sourceTitle": "Parking Lot #Z, Partial Parking Lot Closure",
+      "section": "roads",
+      "category": "parking",
+      "services": [
+        "Parking",
+        "Sidewalk"
+      ],
+      "notice": "planned",
+      "start": "2025-12-22T07:00:00-05:00",
+      "end": "2028-09-01T16:00:00-04:00",
+      "area": "Southeast corner of the lot",
+      "repairType": "Partial Parking Lot Closure",
+      "description": "To facilitate the construction laydown area for the Health and Human Sciences Complex project.",
+      "contacts": [
+        "Randall Phillips"
+      ],
+      "phone": "443-500-2356",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
+      ],
+      "precision": "approximate",
+      "locationNote": "Work area traced roughly from the attached plan.",
+      "places": [
+        {
+          "label": "Lot Z laydown yard",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -76.94935,
+                  38.98729
+                ],
+                [
+                  -76.94889,
+                  38.9873
+                ],
+                [
+                  -76.94889,
+                  38.98768
+                ],
+                [
+                  -76.94935,
+                  38.98768
+                ],
+                [
+                  -76.94935,
+                  38.98729
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "resolved": false
+    },
+    {
+      "id": "clarice-elevator-71",
+      "title": "Elevator car 71 out of service",
+      "sourceTitle": "Urgent Outage Notification: Clarice Smith Performing Arts Center - Elevator Car 71, Elevator Outage",
+      "section": "elevators",
+      "category": "elevator",
+      "services": [
+        "Elevator"
+      ],
+      "notice": "emergency",
+      "start": "2026-09-10T14:15:00-04:00",
+      "end": null,
+      "area": "Elevator car 71",
+      "repairType": "Elevator Outage",
+      "description": "Facilities Management crews are responding to an urgent elevator outage.",
+      "contacts": [
+        "Mark Loriso"
+      ],
+      "precision": "building",
+      "places": [
+        "building-clarice-smith-performing-arts-center"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "resolved": false
+    },
+    {
+      "id": "cumberland-elevator-1-modernization",
+      "title": "Elevator car 1 modernization",
+      "sourceTitle": "Cumberland Hall, Elevator Modernization",
+      "section": "elevators",
+      "category": "elevator",
+      "services": [
+        "Elevator"
+      ],
+      "notice": "planned",
+      "start": "2026-07-27T13:00:00-04:00",
+      "end": null,
+      "area": "Elevator car 1",
+      "repairType": "Elevator Modernization",
+      "description": "Elevator car 1 has been taken out of service at Cumberland Hall for a planned modernization upgrade of the elevator car.",
+      "contacts": [
+        "Chris O'Dea"
+      ],
+      "precision": "building",
+      "places": [
+        "building-cumberland-hall"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "resolved": false
+    },
+    {
+      "id": "ellicott-elevator-3-modernization",
+      "title": "Elevator car 3 modernization",
+      "sourceTitle": "Ellicott Hall - Elevator 3, Elevator Modernization",
+      "section": "elevators",
+      "category": "elevator",
+      "services": [
+        "Elevator"
+      ],
+      "notice": "planned",
+      "start": "2026-04-09T06:00:00-04:00",
+      "end": null,
+      "area": "Elevator car 3",
+      "repairType": "Elevator Modernization",
+      "description": "Modernization of elevator #3.",
+      "contacts": [
+        "Chris O'Dea"
+      ],
+      "precision": "building",
+      "places": [
+        "building-ellicott-hall"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "resolved": false
+    }
+  ]
+}
