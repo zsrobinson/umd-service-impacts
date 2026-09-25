@@ -22,6 +22,8 @@ import { FEEDS, candidatePlaces, guessCategory, hashOf, loadPage, mechanical, pa
 const root = join(dirname(fileURLToPath(import.meta.url)), "..")
 const SOURCE = join(root, "data/impacts.source.json")
 const SNAPSHOT = join(root, "data/page-rows.json")
+// When the page was last checked, changed or not. Its own file so a quiet day's commit is one line.
+const CHECKED = join(root, "data/checked.json")
 const args = process.argv.slice(2)
 const flag = (f) => args.includes(f)
 const dry = flag("--dry-run")
@@ -118,7 +120,14 @@ const pageHash = hashOf(rows)
 const snapshot = existsSync(SNAPSHOT) ? readJson(SNAPSHOT) : null
 
 if (snapshot?.pageHash === pageHash) {
-  console.log(`No changes: the page still lists the same ${rows.length} notices as on ${snapshot.changedAt.slice(0, 10)}. Nothing to do.`)
+  // Nothing to update, but record the check so the site can show it (and flag a check that
+  // stopped happening). The script commits this itself; no model involved.
+  const note = `the page still lists the same ${rows.length} notices as on ${snapshot.changedAt.slice(0, 10)}`
+  if (!dry) {
+    writeJson(CHECKED, { checkedAt: nowEastern() })
+    commitAndPush(`Checked notices: no changes (${nowEastern().slice(0, 10)})`)
+  }
+  console.log(`No changes: ${note}. Done.`)
   process.exit(0)
 }
 
@@ -202,6 +211,7 @@ if (dry) {
 }
 writeJson(SOURCE, source)
 writeJson(SNAPSHOT, newSnapshot)
+writeJson(CHECKED, { checkedAt: source.fetchedAt })
 
 if (!todos.length) {
   compile()

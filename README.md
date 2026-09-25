@@ -47,7 +47,8 @@ python3 scripts/build_gazetteer.py            # rebuild reference/places.json fr
 ## Daily updates
 
 A Claude Code routine wakes an updater session once a day. It runs `node scripts/daily.mjs`,
-which compares the page with the last run (`data/page-rows.json`) and stops if nothing changed.
+which compares the page with the last run (`data/page-rows.json`). If nothing changed it only
+records the check time (`data/checked.json`, shown on the site as "Checked …") and stops.
 Otherwise the script applies every change it can decide by rule (dates, descriptions, resolved
 notices, removals) and pushes to `main`; only brand-new notices need the model, for a title, a
 category and the places, which the script has already guessed. To run it by hand, open the

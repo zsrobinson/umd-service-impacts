@@ -3,8 +3,8 @@
 Run `node scripts/daily.mjs` (no `npm install` needed) and act on its exit code. Read nothing else
 first.
 
-- **0**: done. Either the page is unchanged, or the script already applied the changes, committed
-  and pushed. Reply with its last line and stop.
+- **0**: done. Either the page is unchanged (the script recorded the check and pushed it), or the
+  script already applied the changes, committed and pushed. Reply with its last line and stop.
 - **20**: some notices need judgement. The script printed them, and in
   `data/impacts.source.json` they carry a `"todo"` list. Fill in only those entries (below),
   delete their `"todo"`, then run `node scripts/daily.mjs --finish`. If that prints problems, fix

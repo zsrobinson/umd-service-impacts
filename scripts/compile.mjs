@@ -182,6 +182,18 @@ for (const it of impacts) {
 }
 
 mkdirSync(dirname(OUT), { recursive: true })
-const out = { source: src.source, fetchedAt: src.fetchedAt, compiledAt: new Date().toISOString(), impacts, geometries }
+// checkedAt: the last daily check, even one that found nothing new (data/checked.json).
+let checkedAt = src.fetchedAt
+try {
+  checkedAt = JSON.parse(readFileSync(join(root, "data/checked.json"), "utf8")).checkedAt ?? checkedAt
+} catch {
+  /* no check recorded yet */
+}
+if (!ISO.test(checkedAt)) fail("checkedAt", "data/checked.json must hold an ISO time with a -04:00/-05:00 offset")
+if (errors.length) {
+  console.error(`✗ ${errors.join("\n  ")}`)
+  process.exit(1)
+}
+const out = { source: src.source, fetchedAt: src.fetchedAt, checkedAt, compiledAt: new Date().toISOString(), impacts, geometries }
 writeFileSync(OUT, JSON.stringify(out) + "\n")
 console.log(`✓ ${impacts.length} impacts, ${impacts.reduce((n, i) => n + i.places.length, 0)} places -> public/data/impacts.json`)

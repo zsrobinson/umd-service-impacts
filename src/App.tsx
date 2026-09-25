@@ -17,6 +17,8 @@ import { cn } from "@/lib/utils"
 import type { Category, ImpactData, ImpactFile } from "@/types"
 
 type View = "now" | "upcoming" | "all"
+// The check runs daily; after a day and a half without one, something is broken.
+const STALE_AFTER = 36 * 36e5
 
 export default function App() {
   const [data, setData] = useState<ImpactData | null>(null)
@@ -37,6 +39,7 @@ export default function App() {
       .then((file: ImpactFile) =>
         setData({
           ...file,
+          checkedAt: file.checkedAt ?? file.fetchedAt,
           impacts: file.impacts.map((i) => ({
             ...i,
             places: i.places.map((p) => ({ ...p, geometry: p.geometry ?? file.geometries[p.id!] })),
@@ -105,6 +108,8 @@ export default function App() {
       })
       .sort((a, b) => compareImpacts(a, b, now))
   }, [inView, categories, query, now])
+
+  const stale = data && now - Date.parse(data.checkedAt) > STALE_AFTER
 
   const selected = all.find((i) => i.id === selectedId) ?? null
   // A linked notice stays on the map even when the filters would hide it.
@@ -202,8 +207,12 @@ export default function App() {
           {data && (
             <>
               {" · "}
-              {/* fetchedAt moves only when the notices change (the daily check skips quiet days) */}
-              <span>Updated {formatDateTime(data.fetchedAt, now)}</span>
+              <span
+                className={cn(stale && "font-medium text-destructive")}
+                title={`Notices last changed ${formatDateTime(data.fetchedAt, now)}`}
+              >
+                {stale ? "Last checked" : "Checked"} {formatDateTime(data.checkedAt, now)}
+              </span>
             </>
           )}
         </p>

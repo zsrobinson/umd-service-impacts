@@ -52,7 +52,10 @@ export interface Impact {
 
 export interface ImpactData {
   source: string
+  /** When the notices last changed. */
   fetchedAt: string
+  /** When the page was last checked, even if nothing had changed. */
+  checkedAt: string
   compiledAt: string
   impacts: Impact[]
 }
