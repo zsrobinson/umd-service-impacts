@@ -66,23 +66,21 @@ export function ImpactDetail({ impact, now, sourceUrl, onBack }: Props) {
 
       <div className="px-4 pt-2 pb-5">
         <div className="flex flex-wrap items-center gap-1.5">
-          <Badge variant="outline" className="gap-1.5">
-            <span className="size-2 rounded-full" style={{ background: STATUS[status].color }} />
+          <Badge variant="outline" className="gap-1.5 rounded-sm font-condensed tracking-[0.04em] uppercase">
+            <span className="size-2 rounded-full border border-black/35" style={{ background: STATUS[status].color }} />
             {STATUS[status].label}
           </Badge>
           {impact.notice !== "planned" && (
-            <Badge variant="destructive" className="capitalize">
-              {impact.notice}
-            </Badge>
+            <Badge className="rounded-sm font-condensed tracking-[0.04em] uppercase">{impact.notice}</Badge>
           )}
-          <Badge variant="secondary">
+          <Badge variant="secondary" className="rounded-sm font-condensed tracking-[0.04em] uppercase">
             <Icon />
             {categoryLabel}
           </Badge>
         </div>
 
-        <h2 className="mt-3 text-lg leading-snug font-semibold text-balance">{impact.title}</h2>
-        <p className="mt-1 flex items-start gap-1.5 text-sm text-muted-foreground">
+        <h2 className="mt-3 font-heading text-[28px] leading-[1.1] font-semibold text-balance">{impact.title}</h2>
+        <p className="mt-2 flex items-start gap-1.5 text-sm text-muted-foreground">
           <MapPin className="mt-0.5 size-3.5 shrink-0" />
           <span>
             {impact.places.map((p) => p.label).join(" · ")}
@@ -92,8 +90,8 @@ export function ImpactDetail({ impact, now, sourceUrl, onBack }: Props) {
           </span>
         </p>
 
-        <div className="mt-4 rounded-lg border bg-muted/30 p-3">
-          <div className="flex items-center gap-2 text-xs font-medium text-muted-foreground">
+        <div className="mt-4 rounded-sm border border-l-[3px] border-l-primary bg-muted/40 p-3">
+          <div className="flex items-center gap-1.5 font-condensed text-[12px] font-semibold tracking-[0.08em] text-eyebrow uppercase">
             <CalendarClock className="size-3.5" />
             When
           </div>
@@ -117,7 +115,7 @@ export function ImpactDetail({ impact, now, sourceUrl, onBack }: Props) {
           </dl>
           {pct !== null && (
             <div className="mt-3">
-              <div className="h-1.5 overflow-hidden rounded-full bg-muted">
+              <div className="h-1.5 overflow-hidden rounded-full bg-border">
                 <div
                   className="h-full rounded-full"
                   style={{ width: `${Math.max(2, pct * 100)}%`, background: STATUS.active.color }}
@@ -129,12 +127,12 @@ export function ImpactDetail({ impact, now, sourceUrl, onBack }: Props) {
         </div>
 
         <section className="mt-5">
-          <h3 className="text-xs font-medium text-muted-foreground">What's happening</h3>
-          <p className="mt-1.5 text-sm leading-relaxed">{impact.description}</p>
+          <h3 className="font-condensed text-[12px] font-semibold tracking-[0.08em] text-eyebrow uppercase">What's happening</h3>
+          <p className="mt-1.5 text-[15px] leading-relaxed">{impact.description}</p>
           {impact.services.length > 0 && (
             <div className="mt-3 flex flex-wrap gap-1.5">
               {impact.services.map((s) => (
-                <Badge key={s} variant="outline" className="font-normal">
+                <Badge key={s} variant="outline" className="rounded-sm font-normal">
                   {s}
                 </Badge>
               ))}
@@ -144,7 +142,7 @@ export function ImpactDetail({ impact, now, sourceUrl, onBack }: Props) {
 
         {impact.attachments.length > 0 && (
           <section className="mt-5">
-            <h3 className="text-xs font-medium text-muted-foreground">Notice map</h3>
+            <h3 className="font-condensed text-[12px] font-semibold tracking-[0.08em] text-eyebrow uppercase">Notice map</h3>
             <div className="mt-2 flex flex-col gap-2">
               {impact.attachments.map((url) =>
                 isImage(url) ? (
@@ -152,7 +150,7 @@ export function ImpactDetail({ impact, now, sourceUrl, onBack }: Props) {
                     key={url}
                     type="button"
                     onClick={() => setZoomed(url)}
-                    className="group overflow-hidden rounded-lg border bg-muted/30 text-left"
+                    className="group overflow-hidden rounded-sm border bg-muted/30 text-left"
                   >
                     <img
                       src={url}
@@ -177,7 +175,7 @@ export function ImpactDetail({ impact, now, sourceUrl, onBack }: Props) {
         )}
 
         {impact.locationNote && (
-          <p className="mt-5 flex gap-2 rounded-lg bg-muted/50 p-3 text-xs leading-relaxed text-muted-foreground">
+          <p className="mt-5 flex gap-2 rounded-sm bg-muted/60 p-3 text-[13px] leading-relaxed text-muted-foreground">
             <Info className="mt-px size-3.5 shrink-0" />
             <span>{impact.locationNote}</span>
           </p>
@@ -205,14 +203,14 @@ export function ImpactDetail({ impact, now, sourceUrl, onBack }: Props) {
           )}
         </section>
 
-        <div className="mt-5 rounded-lg border p-3 text-xs text-muted-foreground">
-          <p className="font-medium text-foreground/80">Original notice</p>
+        <div className="mt-5 rounded-sm border p-3 text-[13px] text-muted-foreground">
+          <p className="font-condensed text-[12px] font-semibold tracking-[0.08em] text-eyebrow uppercase">Original notice</p>
           <p className="mt-1 leading-relaxed">“{impact.sourceTitle}”</p>
           <a
             href={sourceUrl}
             target="_blank"
             rel="noreferrer"
-            className="mt-2 inline-flex items-center gap-1 text-foreground underline-offset-4 hover:underline"
+            className="mt-2 inline-flex items-center gap-1 font-semibold text-foreground underline decoration-primary underline-offset-4 hover:decoration-2"
           >
             View on facilities.umd.edu
             <ExternalLink className="size-3" />

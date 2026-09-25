@@ -31,11 +31,12 @@ export const CATEGORIES: Record<Category, { label: string; icon: LucideIcon }> =
   other: { label: "Other", icon: Wrench },
 }
 
+/** UMD brand colors: Maryland Red, Maryland Gold, Medium Gray. */
 export const STATUS: Record<Status, { label: string; color: string }> = {
-  active: { label: "In effect", color: "#e5484d" },
-  upcoming: { label: "Upcoming", color: "#3e63dd" },
-  ended: { label: "Ended", color: "#8b8d98" },
-  resolved: { label: "Resolved", color: "#8b8d98" },
+  active: { label: "In effect", color: "#e21833" },
+  upcoming: { label: "Upcoming", color: "#ffd200" },
+  ended: { label: "Ended", color: "#7f7f7f" },
+  resolved: { label: "Resolved", color: "#7f7f7f" },
 }
 
 export function statusOf(impact: Impact, now: number): Status {

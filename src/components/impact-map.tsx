@@ -29,6 +29,19 @@ const statusColor: maplibregl.ExpressionSpecification = [
   STATUS.ended.color,
 ]
 
+/** Outlines need more contrast than fills: gold disappears against a light basemap. */
+function edgeColor(theme: "light" | "dark"): maplibregl.ExpressionSpecification {
+  return [
+    "match",
+    ["get", "status"],
+    "active",
+    STATUS.active.color,
+    "upcoming",
+    theme === "dark" ? STATUS.upcoming.color : "#1a1a1a",
+    STATUS.ended.color,
+  ]
+}
+
 interface Props {
   impacts: Impact[]
   now: number
@@ -240,7 +253,7 @@ function addLayers(
     filter: ["in", ["geometry-type"], ["literal", ["Polygon", "MultiPolygon"]]],
     paint: {
       "fill-color": statusColor,
-      "fill-opacity": ["case", ["get", "selected"], 0.45, ["get", "dimmed"], 0.08, 0.28],
+      "fill-opacity": ["case", ["get", "selected"], 0.5, ["get", "dimmed"], 0.08, 0.32],
     },
   })
   map.addLayer({
@@ -249,7 +262,7 @@ function addLayers(
     source: "imp-shapes",
     filter: ["in", ["geometry-type"], ["literal", ["Polygon", "MultiPolygon"]]],
     paint: {
-      "line-color": statusColor,
+      "line-color": edgeColor(theme),
       "line-width": ["case", ["get", "selected"], 2.5, 1.25],
       "line-opacity": dim(1, 0.3),
     },
@@ -261,8 +274,8 @@ function addLayers(
     filter: ["in", ["geometry-type"], ["literal", ["LineString", "MultiLineString"]]],
     layout: { "line-cap": "round", "line-join": "round" },
     paint: {
-      "line-color": theme === "dark" ? "#111113" : "#ffffff",
-      "line-width": ["interpolate", ["linear"], ["zoom"], 13, 4, 17, ["case", ["get", "selected"], 12, 9]],
+      "line-color": theme === "dark" ? "#000000" : "#1a1a1a",
+      "line-width": ["interpolate", ["linear"], ["zoom"], 13, 4.5, 17, ["case", ["get", "selected"], 12, 9]],
       "line-opacity": dim(0.9, 0.3),
     },
   })
@@ -295,8 +308,8 @@ function addLayers(
     paint: {
       "circle-color": statusColor,
       "circle-radius": ["interpolate", ["linear"], ["zoom"], 12, 3.5, 16, ["case", ["get", "selected"], 9, 6.5]],
-      "circle-stroke-color": theme === "dark" ? "#18181b" : "#ffffff",
-      "circle-stroke-width": ["case", ["get", "selected"], 3, 2],
+      "circle-stroke-color": theme === "dark" ? "#000000" : "#1a1a1a",
+      "circle-stroke-width": ["case", ["get", "selected"], 2.5, 1.5],
       "circle-opacity": dim(1, 0.35),
       "circle-stroke-opacity": dim(1, 0.35),
     },

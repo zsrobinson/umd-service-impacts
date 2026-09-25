@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useState } from "react"
-import { Crosshair, Moon, Search, Sun, TriangleAlert, X } from "lucide-react"
+import { Crosshair, Moon, Search, Sun, X } from "lucide-react"
 
 import { ImpactDetail } from "@/components/impact-detail"
 import { ImpactList } from "@/components/impact-list"
@@ -132,18 +132,24 @@ export default function App() {
   )
 
   const controls = (
-    <div className="flex flex-col gap-2.5 px-4 pb-3">
+    <div className="flex flex-col gap-3 px-4 pb-3">
       <Tabs value={view} onValueChange={(v) => setView(v as View)}>
-        <TabsList className="w-full">
-          <TabsTrigger value="now">
-            In effect <Count n={counts.now} />
-          </TabsTrigger>
-          <TabsTrigger value="upcoming">
-            Upcoming <Count n={counts.upcoming} />
-          </TabsTrigger>
-          <TabsTrigger value="all">
-            All <Count n={counts.all} />
-          </TabsTrigger>
+        <TabsList variant="line" className="h-10 w-full justify-start gap-4 border-b p-0">
+          {(
+            [
+              ["now", "In effect", counts.now],
+              ["upcoming", "Upcoming", counts.upcoming],
+              ["all", "All", counts.all],
+            ] as const
+          ).map(([value, label, n]) => (
+            <TabsTrigger
+              key={value}
+              value={value}
+              className="flex-none px-0 font-condensed text-[13px] font-semibold tracking-[0.06em] uppercase after:bg-primary group-data-horizontal/tabs:after:bottom-[-1px] group-data-horizontal/tabs:after:h-[3px]"
+            >
+              {label} <Count n={n} />
+            </TabsTrigger>
+          ))}
         </TabsList>
       </Tabs>
       <div className="relative">
@@ -174,13 +180,21 @@ export default function App() {
           variant="outline"
           size="sm"
           spacing={1}
-          className="flex-wrap justify-start"
+          className={cn(
+            "justify-start",
+            desktop ? "flex-wrap" : "-mx-4 w-auto max-w-none flex-nowrap overflow-x-auto px-4 [scrollbar-width:none]",
+          )}
           aria-label="Filter by type"
         >
           {presentCategories.map((c) => {
             const { icon: Icon, label } = CATEGORIES[c]
             return (
-              <ToggleGroupItem key={c} value={c} className="h-7 gap-1 px-2 text-xs" aria-label={label}>
+              <ToggleGroupItem
+                key={c}
+                value={c}
+                className="h-7 gap-1 px-2 text-[13px] data-[state=on]:border-foreground data-[state=on]:bg-foreground data-[state=on]:text-background"
+                aria-label={label}
+              >
                 <Icon className="size-3.5" />
                 {label}
               </ToggleGroupItem>
@@ -192,44 +206,82 @@ export default function App() {
   )
 
   const header = (
-    <header className="flex items-start justify-between gap-3 px-4 pt-4 pb-3">
-      <div className="min-w-0">
-        <h1 className="flex items-center gap-2 text-base font-semibold tracking-tight">
-          <span className="flex size-6 items-center justify-center rounded-md bg-foreground text-background">
-            <TriangleAlert className="size-3.5" />
-          </span>
-          UMD Service Impacts
-        </h1>
-        <p className="mt-1 text-xs text-muted-foreground">
-          Outages and closures on the College Park campus
-          {data && (
-            <>
-              {" · "}
-              <span className={cn(stale && "font-medium text-destructive")}>
-                {stale ? "Last checked" : "Checked"} {formatDateTime(data.fetchedAt, now)}
-              </span>
-            </>
-          )}
-        </p>
+    <header className="bg-black text-white">
+      <div className="flex items-center justify-between gap-3 bg-umd-red px-4 py-1.5 font-condensed text-[11px] font-semibold tracking-[0.08em] uppercase">
+        <span className="whitespace-nowrap">
+          Unofficial<span className="max-[380px]:hidden"> community map</span>
+        </span>
+        {desktop ? (
+          <span className="text-white/85">College Park campus</span>
+        ) : (
+          data && (
+            <span className={cn("whitespace-nowrap", stale ? "text-umd-gold" : "text-white/85")}>
+              Checked {formatDateTime(data.fetchedAt, now)}
+            </span>
+          )
+        )}
       </div>
-      <Tooltip>
-        <TooltipTrigger asChild>
-          <Button variant="ghost" size="icon-sm" onClick={toggle} aria-label="Toggle dark mode">
-            {theme === "dark" ? <Sun /> : <Moon />}
-          </Button>
-        </TooltipTrigger>
-        <TooltipContent>{theme === "dark" ? "Light mode" : "Dark mode"}</TooltipContent>
-      </Tooltip>
+      <div className={cn("flex items-start justify-between gap-3 px-4", desktop ? "pt-4 pb-4" : "py-2.5")}>
+        <div className="min-w-0">
+          <h1
+            className={cn(
+              "font-condensed leading-none font-bold tracking-[-0.01em] uppercase",
+              desktop ? "text-[26px]" : "pt-1 text-[21px]",
+            )}
+          >
+            UMD Service Impacts
+          </h1>
+          {desktop && <div className="mt-2.5 h-[3px] w-12 bg-umd-gold" aria-hidden />}
+          <p className={cn("mt-2.5 text-[13px] leading-snug text-white/70", !desktop && "hidden")}>
+            Outages, closures and elevator work posted by Facilities Management
+            {data && (
+              <>
+                {" · "}
+                <span className={cn(stale ? "font-semibold text-umd-gold" : "text-white/90")}>
+                  {stale ? "Last checked" : "Checked"} {formatDateTime(data.fetchedAt, now)}
+                </span>
+              </>
+            )}
+          </p>
+        </div>
+        <Tooltip>
+          <TooltipTrigger asChild>
+            <Button
+              variant="ghost"
+              size="icon-sm"
+              onClick={toggle}
+              aria-label="Toggle dark mode"
+              className="text-white/80 hover:bg-white/10 hover:text-white dark:hover:bg-white/10"
+            >
+              {theme === "dark" ? <Sun /> : <Moon />}
+            </Button>
+          </TooltipTrigger>
+          <TooltipContent>{theme === "dark" ? "Light mode" : "Dark mode"}</TooltipContent>
+        </Tooltip>
+      </div>
     </header>
   )
 
   const footer = (
-    <footer className="border-t px-4 py-2.5 text-[11px] leading-relaxed text-muted-foreground">
-      Unofficial. Parsed daily from{" "}
-      <a href={data?.source} target="_blank" rel="noreferrer" className="underline underline-offset-2 hover:text-foreground">
+    <footer className="bg-black px-4 py-3 text-xs leading-relaxed text-white/65">
+      Not affiliated with the University of Maryland. Parsed daily from{" "}
+      <a
+        href={data?.source}
+        target="_blank"
+        rel="noreferrer"
+        className="text-white underline decoration-umd-gold underline-offset-2 hover:decoration-2"
+      >
         Facilities Management's notices
       </a>
-      ; locations are best-effort. Map © OpenStreetMap, CARTO.
+      ; locations are best-effort. Map © OpenStreetMap, CARTO.{" "}
+      <a
+        href="https://github.com/zsrobinson/umd-service-impacts"
+        target="_blank"
+        rel="noreferrer"
+        className="text-white underline decoration-white/40 underline-offset-2 hover:decoration-white"
+      >
+        Source
+      </a>
     </footer>
   )
 
@@ -240,7 +292,7 @@ export default function App() {
   )
 
   // Phone bottom sheet: a peek height and a tall one; a selected notice opens at mid height.
-  const sheetVh = sheetOpen ? 88 : selected ? 52 : 40
+  const sheetVh = sheetOpen ? 88 : selected ? 52 : 46
   const insets = useMemo(
     () => (desktop ? undefined : { top: 0, bottom: (window.innerHeight * sheetVh) / 100, left: 0, right: 0 }),
     [desktop, sheetVh],
@@ -252,7 +304,7 @@ export default function App() {
         {desktop && (
           <aside className="z-10 flex w-[400px] shrink-0 flex-col border-r bg-background">
             {header}
-            {!selected && controls}
+            {!selected && <div className="pt-1">{controls}</div>}
             <div className="min-h-0 flex-1 border-t">
               <ScrollArea className="h-full">{data ? panel : loadingOrError}</ScrollArea>
             </div>
@@ -285,19 +337,19 @@ export default function App() {
 
         {!desktop && (
           <section
-            className="fixed inset-x-0 bottom-0 z-20 flex flex-col rounded-t-2xl border-t bg-background shadow-[0_-8px_30px_rgba(0,0,0,0.12)] transition-[height] duration-300 ease-out"
+            className="fixed inset-x-0 bottom-0 z-20 flex flex-col overflow-hidden border-t bg-background shadow-[0_-8px_30px_rgba(0,0,0,0.18)] transition-[height] duration-300 ease-out"
             style={{ height: `${sheetVh}dvh` }}
           >
             <button
               type="button"
               onClick={() => setSheetOpen((o) => !o)}
-              className="flex w-full shrink-0 justify-center pt-2 pb-1"
+              className={cn("flex w-full shrink-0 justify-center pt-2 pb-1", !selected && "bg-umd-red")}
               aria-label={sheetOpen ? "Collapse panel" : "Expand panel"}
             >
-              <span className="h-1.5 w-10 rounded-full bg-muted-foreground/30" />
+              <span className={cn("h-1.5 w-10 rounded-full", selected ? "bg-muted-foreground/30" : "bg-white/60")} />
             </button>
             {!selected && header}
-            {!selected && controls}
+            {!selected && <div className="pt-1">{controls}</div>}
             <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain border-t">
               {data ? panel : loadingOrError}
               {footer}
@@ -310,7 +362,7 @@ export default function App() {
 }
 
 function Count({ n }: { n: number }) {
-  return <span className="ml-1 text-xs text-muted-foreground tabular-nums">{n}</span>
+  return <span className="ml-1 font-sans text-xs font-semibold text-muted-foreground tabular-nums">{n}</span>
 }
 
 function Legend({ className }: { className?: string }) {
@@ -322,13 +374,13 @@ function Legend({ className }: { className?: string }) {
   return (
     <div
       className={cn(
-        "pointer-events-none absolute z-10 flex flex-col gap-1 rounded-lg border bg-background/90 px-2.5 py-2 text-[11px] text-muted-foreground shadow-sm backdrop-blur",
+        "pointer-events-none absolute z-10 flex flex-col gap-1 rounded-sm border bg-background/95 px-2.5 py-2 font-condensed text-[11px] font-medium tracking-[0.04em] text-foreground/80 uppercase shadow-sm",
         className,
       )}
     >
       {items.map(([label, color]) => (
         <span key={label} className="flex items-center gap-1.5">
-          <span className="size-2.5 rounded-full" style={{ background: color }} />
+          <span className="size-2.5 rounded-full ring-1 ring-black/40" style={{ background: color }} />
           {label}
         </span>
       ))}

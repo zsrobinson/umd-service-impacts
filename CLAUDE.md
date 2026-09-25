@@ -25,6 +25,19 @@ the conventions and the traps.
   credited in the map attribution). Rebuild it only when a needed building is missing, and review
   the diff.
 
+## Look
+
+The styling follows UMD's published brand (brand.umd.edu) without its marks:
+- Colors from brand.umd.edu/colors only: Maryland Red `#e21833`, Gold `#ffd200`, black, white,
+  and the grays. Status is red (in effect), gold (upcoming), medium gray (ended). Gold needs a dark
+  edge on the light basemap (`edgeColor` in `impact-map.tsx`).
+- Fonts from brand.umd.edu/typography, via Google Fonts: Source Sans 3 (text), Crimson Text
+  (detail headlines, `font-heading`), Roboto Condensed (caps labels, `font-condensed`).
+- Red is AA on white only (4.75:1). Small labels use the `eyebrow` token: red in light mode,
+  gold in dark. Don't put red text on black or gold text on white.
+- Square corners (`--radius: 0.125rem`), a red utility bar, black header and footer blocks.
+- No UMD logo, wordmark, Testudo or state-flag pattern, and "Unofficial" stays visible.
+
 ## Traps already hit
 
 - **MapLibre 6 loads its worker from a URL Vite can't see.** `impact-map.tsx` imports
