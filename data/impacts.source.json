@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-09-25T00:27:00-04:00",
+  "fetchedAt": "2026-09-26T06:46:00-04:00",
   "impacts": [
     {
       "id": "mckeldin-rooftop-painting",
@@ -203,33 +203,6 @@
         "building-chemistry-building"
       ],
       "phone": "301-405-2222",
-      "attachments": [],
-      "resolved": false
-    },
-    {
-      "id": "martin-mote-fire-alarm-testing",
-      "title": "Fire alarm and suppression testing",
-      "sourceTitle": "Glenn L. Martin Hall and C. Daniel Mote, Jr. Engineering Laboratory Building - Fire Alarm System and Suppression Testing and Inspection",
-      "section": "outages",
-      "category": "fire-safety",
-      "services": [
-        "Fire alarms"
-      ],
-      "notice": "planned",
-      "start": "2026-09-23T06:00:00-04:00",
-      "end": "2026-09-24T15:00:00-04:00",
-      "area": "Entire building",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "Fire alarm and suppression testing and inspection.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-0134",
-      "precision": "building",
-      "places": [
-        "building-glenn-l-martin-hall",
-        "building-engineering-laboratory-building"
-      ],
       "attachments": [],
       "resolved": false
     },
@@ -679,6 +652,177 @@
       "phone": "301-405-2222",
       "attachments": [],
       "resolved": false
+    },
+    {
+      "id": "steam-steam-pressure-reduction-north-campus",
+      "title": "Steam outage and reduced steam pressure north of Campus Drive",
+      "sourceTitle": "Steam Outage and Steam Pressure Reduction North of Campus Drive",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-12T04:00:00-04:00",
+      "end": "2026-10-12T18:00:00-04:00",
+      "area": "Steam Pressure Reduction: Buildings north of Campus Drive; Steam Outage: Wind Tunnel Building, A.V. Williams Building, Computer Science Instructional Center, Brendan Iribe Center",
+      "repairType": "Steam Outage, Steam Pressure Reduction",
+      "description": "**See copy of notice attached**",
+      "contacts": [
+        "Daniel Klenner"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Steam-Outage-and-Steam-Pressure-Reduction-North-of-Campus-Drive%2C-October-12-%28Outage-Notice%29.pdf"
+      ],
+      "category": "steam",
+      "services": [
+        "Steam",
+        "Heating",
+        "Hot water"
+      ],
+      "precision": "approximate",
+      "places": [
+        "building-computer-science-instructional-center",
+        "building-a-v-williams-building",
+        "building-brendan-iribe-center-for-computer-science-and-engineering",
+        "building-wind-tunnel-building",
+        "road-campus-drive"
+      ],
+      "locationNote": "The notice names four buildings with a full outage; the pressure reduction covers all buildings north of Campus Drive, shown here by the road."
+    },
+    {
+      "id": "awes-hall-knight-hall-hvac-heating",
+      "title": "Heating hot water outage to repair a steam leak",
+      "sourceTitle": "awes Hall, Knight Hall - HVAC Heating Hot Water Outage",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-01T08:00:00-04:00",
+      "end": "2026-10-01T12:00:00-04:00",
+      "area": "Mechanical Room Penthouse",
+      "repairType": "Heating Hot Water Outage",
+      "description": "To repair a steam leak within the mechanical room.",
+      "contacts": [
+        "Horacio Torres"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating"
+      ],
+      "precision": "building",
+      "places": [
+        "building-tawes-fine-arts-building",
+        "building-knight-hall"
+      ]
+    },
+    {
+      "id": "campus-wide-steam",
+      "title": "Campus-wide steam outage",
+      "sourceTitle": "Urgent Outage Notification: Campus-Wide Steam Outage",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-09-26T23:00:00-04:00",
+      "end": "2026-09-27T01:00:00-04:00",
+      "area": "Campus-Wide",
+      "repairType": "HVAC Steam Outage",
+      "description": "To make a water connect to the boilers at the Central Energy Plant .",
+      "contacts": [
+        "Randy Bayer"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "steam",
+      "services": [
+        "Steam",
+        "Heating",
+        "Hot water"
+      ],
+      "precision": "campus-wide",
+      "places": [
+        "building-umcp-chp-plant"
+      ],
+      "locationNote": "Affects the whole campus; shown at the energy plant, where the boiler work happens."
+    },
+    {
+      "id": "service-domestic-hot-cold-water",
+      "title": "Hot and cold water outage",
+      "sourceTitle": "Urgent Outage Notification: Service Building, Domestic Hot and Cold Water Outage",
+      "section": "outages",
+      "notice": "unplanned",
+      "resolved": false,
+      "start": "2026-09-26T08:00:00-04:00",
+      "end": "2026-09-26T12:00:00-04:00",
+      "area": "Entire Building.",
+      "repairType": "Domestic Hot and Cold Water Outage",
+      "description": "The Washington Suburban Sanitary Commission (WSSC) will perform an urgent domestic water outage that will impact sinks, toilets, showers, and drinking water.",
+      "contacts": [
+        "Matthew Lansberry"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "water",
+      "services": [
+        "Hot water",
+        "Cold water"
+      ],
+      "precision": "building",
+      "places": [
+        "building-service-building"
+      ]
+    },
+    {
+      "id": "washington-hall-domestic-cold-water-sprinkler",
+      "title": "Cold water and sprinkler outage for a broken sprinkler line",
+      "sourceTitle": "Urgent Outage Notification: Washington Hall, Domestic Cold Water Outage and Sprinkler Outage",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-09-25T10:20:00-04:00",
+      "end": "2026-09-25T11:38:00-04:00",
+      "area": "Entire Building.",
+      "repairType": "Sprinkler Outage, Domestic Cold Water Outage",
+      "description": "A broken sprinkler line occurring at Washington Hall that will need emergency repairs.",
+      "contacts": [
+        "William Marsters"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Cold water",
+        "Sprinklers"
+      ],
+      "precision": "building",
+      "places": [
+        "building-washington-hall"
+      ]
+    },
+    {
+      "id": "tawes-hall-elevator-car-2-elevator",
+      "title": "Elevator car 2 out of service",
+      "sourceTitle": "Urgent Outage Notification: Tawes Hall - Elevator Car 2, Elevator Outage",
+      "section": "elevators",
+      "notice": "unplanned",
+      "resolved": false,
+      "start": "2026-09-25T07:15:00-04:00",
+      "end": "2026-09-25T10:45:00-04:00",
+      "area": "Elevator Car 2",
+      "repairType": "Elevator Outage",
+      "description": "Facilities Management crews have taken Elevator Car 2 (passenger elevator) out of service at Tawes Hall for maintenance and testing.",
+      "contacts": [
+        "Shane Kogok"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "elevator",
+      "services": [
+        "Elevator"
+      ],
+      "precision": "building",
+      "places": [
+        "building-tawes-fine-arts-building"
+      ]
     }
   ]
 }
