@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-09-26T06:46:00-04:00",
+  "fetchedAt": "2026-09-28T06:46:00-04:00",
   "impacts": [
     {
       "id": "mckeldin-rooftop-painting",
@@ -822,6 +822,58 @@
       "precision": "building",
       "places": [
         "building-tawes-fine-arts-building"
+      ]
+    },
+    {
+      "id": "elkton-hall-elevator-3-elevator",
+      "title": "Elevator car 3 out of service",
+      "sourceTitle": "Urgent Outage Notification: Elkton Hall - Elevator 3, Elevator Outage",
+      "section": "elevators",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-09-27T18:00:00-04:00",
+      "end": null,
+      "area": "Elevator Car 3",
+      "repairType": "Elevator Outage",
+      "description": "Facilities Management crews are responding to an urgent maintenance repair for elevator car 3 at Elkton Hall, which has resulted in the elevator being taken out of service",
+      "contacts": [
+        "Shane Kogok"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "elevator",
+      "services": [
+        "Elevator"
+      ],
+      "precision": "building",
+      "places": [
+        "building-elkton-hall"
+      ]
+    },
+    {
+      "id": "easton-hall-elevator-1-elevator",
+      "title": "Elevator car 1 out of service",
+      "sourceTitle": "Urgent Outage Notification: Easton Hall - Elevator 1, Elevator Outage",
+      "section": "elevators",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-09-27T18:00:00-04:00",
+      "end": null,
+      "area": "Elevator Car 1",
+      "repairType": "Elevator Outage",
+      "description": "Facilities Management crews are responding to an urgent maintenance repair for elevator car 1 at Easton Hall, which has resulted in the elevator being taken out of service.",
+      "contacts": [
+        "Shane Kogok"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "elevator",
+      "services": [
+        "Elevator"
+      ],
+      "precision": "building",
+      "places": [
+        "building-easton-hall"
       ]
     }
   ]
