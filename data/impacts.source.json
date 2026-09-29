@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-09-28T06:46:00-04:00",
+  "fetchedAt": "2026-09-29T06:46:00-04:00",
   "impacts": [
     {
       "id": "mckeldin-rooftop-painting",
@@ -52,39 +52,6 @@
       "locationNote": "Covers the whole Purple Line alignment from Adelphi Road to the College Park Metro Station.",
       "places": [
         "line-purple-line"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "resolved": false
-    },
-    {
-      "id": "manhole-205-steam-hot-water",
-      "title": "Steam and heating hot water outage (Manhole 205)",
-      "sourceTitle": "Manhole 205 - Multiple Buildings Impacted: Steam Outage and HVAC Heating Hot Water Outage",
-      "section": "outages",
-      "category": "steam",
-      "services": [
-        "Steam",
-        "Domestic hot water",
-        "HVAC heating hot water"
-      ],
-      "notice": "planned",
-      "start": "2026-09-25T06:00:00-04:00",
-      "end": "2026-09-25T10:00:00-04:00",
-      "area": "Plant Sciences Building, Biology-Psychology Building, Hornbake Library, Regents Drive Parking Garage, Geology Building, Bioscience Research Building",
-      "repairType": "Domestic Hot Water, and Steam Outages",
-      "description": "To facilitate the testing of an isolation valve in manhole 205.",
-      "contacts": [
-        "Chrysanthe Broikos"
-      ],
-      "precision": "building",
-      "places": [
-        "building-plant-science-building",
-        "building-biology-psychology-building",
-        "building-hornbake-library",
-        "building-regents-drive-parking-garage",
-        "building-geology-building",
-        "building-biosciences-research-building"
       ],
       "phone": "301-405-2222",
       "attachments": [],
@@ -154,62 +121,9 @@
       "resolved": false
     },
     {
-      "id": "toll-physics-ac-outage",
-      "title": "Air conditioning outage in classrooms 1410 and 1412",
-      "sourceTitle": "Urgent Outage Notification: John S. Toll Physics Building, Air Conditioning Outage",
-      "section": "outages",
-      "category": "hvac",
-      "services": [
-        "Air conditioning"
-      ],
-      "notice": "emergency",
-      "start": "2026-09-25T05:00:00-04:00",
-      "end": "2026-09-25T09:00:00-04:00",
-      "area": "Classrooms 1410 and 1412",
-      "repairType": "Air Conditioning Outage, HVAC Systems Outage",
-      "description": "Facilities Management crews will need to perform emergency repairs on the HVAC equipment that provides air conditioning to classrooms 1410 and 1412 at the John S. Toll Physics Building.",
-      "contacts": [
-        "Ray Pessagno",
-        "Mike McCormick"
-      ],
-      "precision": "building",
-      "places": [
-        "building-john-s-toll-physics"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "resolved": false
-    },
-    {
-      "id": "chemistry-lab-flooring",
-      "title": "Lab flooring work in rooms 2219 and 2221",
-      "sourceTitle": "Chemistry Building - Lab Rooms 2219 and 2221, Flooring Work",
-      "section": "outages",
-      "category": "construction",
-      "services": [
-        "Lab access"
-      ],
-      "notice": "planned",
-      "start": "2026-09-24T03:00:00-04:00",
-      "end": "2026-09-26T07:30:00-04:00",
-      "area": "Rooms 2219 and 2221",
-      "repairType": "Install MMA Flooring",
-      "description": "MMA flooring installation is scheduled for lab rooms 2219 and 2221.",
-      "contacts": [
-        "Cornell Jones"
-      ],
-      "precision": "building",
-      "places": [
-        "building-chemistry-building"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "resolved": false
-    },
-    {
       "id": "microbiology-roof-lift-work",
       "title": "Roof repairs and sidewalk closure",
-      "sourceTitle": "Microbiology Building - Lift Work for Roof Repairs, Temporary Sidewalk Closure, September 21 - October 2",
+      "sourceTitle": "Microbiology Building - Lift Work for Roof Repairs, Temporary Sidewalk Closure",
       "section": "outages",
       "category": "construction",
       "services": [
@@ -218,7 +132,7 @@
       ],
       "notice": "planned",
       "start": "2026-09-21T07:00:00-04:00",
-      "end": "2026-10-02T16:00:00-04:00",
+      "end": "2026-10-09T16:00:00-04:00",
       "area": "Exterior roof and sidewalk",
       "repairType": "Lift Work, Roof Repair",
       "description": "To accommodate lift work for roof repairs.",
@@ -326,7 +240,7 @@
       "notice": "unplanned",
       "start": "2026-06-25T11:50:00-04:00",
       "end": null,
-      "area": "North side, first floor",
+      "area": "North side, first floor of the building",
       "repairType": "HVAC Systems Outage",
       "description": "An urgent HVAC systems outage that is impacting HVAC equipment responsible for HVAC air conditioning and cooling for the north side of the first floor at the Manufacturing Building.",
       "contacts": [
@@ -354,7 +268,7 @@
       "notice": "planned",
       "start": "2026-09-28T08:00:00-04:00",
       "end": "2026-10-02T18:00:00-04:00",
-      "area": "Fieldhouse Drive near the northwest corner of Stamp Student Union. The road reopens outside working hours.",
+      "area": "Fieldhouse Drive near the Northwest Corner of Stamp Student Union",
       "repairType": "Roadway Closure and Excavation Work",
       "description": "A section of Fieldhouse Drive will need to be closed near the intersection with Union Lane, as shown on the attached drawing, to perform excavation work to locate and repair a potential underground leak in this area.",
       "contacts": [
@@ -428,35 +342,6 @@
       "resolved": false
     },
     {
-      "id": "lot-16a-excavation",
-      "title": "Partial closure of Lot 16A for excavation",
-      "sourceTitle": "Parking Lot 16A in front of Fraternity House 2, Partial Parking Lot Closure and Excavation Work",
-      "section": "roads",
-      "category": "parking",
-      "services": [
-        "Parking"
-      ],
-      "notice": "planned",
-      "start": "2026-09-21T08:00:00-04:00",
-      "end": "2026-09-25T17:00:00-04:00",
-      "area": "Lot 16A in front of Fraternity House 2",
-      "repairType": "Parking Lot Closure, Excavation Work",
-      "description": "Planned excavation work will be performed to identify and repair a possible underground leak in Parking Lot 16A in front of Fraternity House 2.",
-      "contacts": [
-        "Horacio Torres"
-      ],
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Parking-Lot-16A-in-front-of-Fraternity-House-2%2C-Partial-Parking-Lot-Closure-and-Excavation-Work%2C-September-21---September-25-%28Map%29.png"
-      ],
-      "precision": "approximate",
-      "locationNote": "Only part of Lot 16A in front of Greek House 2 is closed.",
-      "places": [
-        "parking-lot-16a"
-      ],
-      "phone": "301-405-2222",
-      "resolved": false
-    },
-    {
       "id": "purple-line-overnight-testing",
       "title": "Overnight Purple Line testing",
       "sourceTitle": "Purple Line: Campus-wide Overnight Testing Impacts",
@@ -499,7 +384,7 @@
       "notice": "planned",
       "start": "2026-08-29T00:00:00-04:00",
       "end": "2027-01-26T23:00:00-05:00",
-      "area": "See the attached map for affected roads and sidewalks",
+      "area": "See the attached map",
       "repairType": "Purple Line Construction",
       "description": "Periodic lane and sidewalk closures on campus for Purple Line construction.",
       "contacts": [
@@ -586,7 +471,7 @@
       ],
       "notice": "emergency",
       "start": "2026-09-10T14:15:00-04:00",
-      "end": null,
+      "end": "2026-09-28T12:30:00-04:00",
       "area": "Elevator car 71",
       "repairType": "Elevator Outage",
       "description": "Facilities Management crews are responding to an urgent elevator outage.",
@@ -691,7 +576,7 @@
     {
       "id": "awes-hall-knight-hall-hvac-heating",
       "title": "Heating hot water outage to repair a steam leak",
-      "sourceTitle": "awes Hall, Knight Hall - HVAC Heating Hot Water Outage",
+      "sourceTitle": "Tawes Hall, Knight Hall - HVAC Heating Hot Water Outage",
       "section": "outages",
       "notice": "planned",
       "resolved": false,
@@ -716,115 +601,6 @@
       ]
     },
     {
-      "id": "campus-wide-steam",
-      "title": "Campus-wide steam outage",
-      "sourceTitle": "Urgent Outage Notification: Campus-Wide Steam Outage",
-      "section": "outages",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-09-26T23:00:00-04:00",
-      "end": "2026-09-27T01:00:00-04:00",
-      "area": "Campus-Wide",
-      "repairType": "HVAC Steam Outage",
-      "description": "To make a water connect to the boilers at the Central Energy Plant .",
-      "contacts": [
-        "Randy Bayer"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "steam",
-      "services": [
-        "Steam",
-        "Heating",
-        "Hot water"
-      ],
-      "precision": "campus-wide",
-      "places": [
-        "building-umcp-chp-plant"
-      ],
-      "locationNote": "Affects the whole campus; shown at the energy plant, where the boiler work happens."
-    },
-    {
-      "id": "service-domestic-hot-cold-water",
-      "title": "Hot and cold water outage",
-      "sourceTitle": "Urgent Outage Notification: Service Building, Domestic Hot and Cold Water Outage",
-      "section": "outages",
-      "notice": "unplanned",
-      "resolved": false,
-      "start": "2026-09-26T08:00:00-04:00",
-      "end": "2026-09-26T12:00:00-04:00",
-      "area": "Entire Building.",
-      "repairType": "Domestic Hot and Cold Water Outage",
-      "description": "The Washington Suburban Sanitary Commission (WSSC) will perform an urgent domestic water outage that will impact sinks, toilets, showers, and drinking water.",
-      "contacts": [
-        "Matthew Lansberry"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "water",
-      "services": [
-        "Hot water",
-        "Cold water"
-      ],
-      "precision": "building",
-      "places": [
-        "building-service-building"
-      ]
-    },
-    {
-      "id": "washington-hall-domestic-cold-water-sprinkler",
-      "title": "Cold water and sprinkler outage for a broken sprinkler line",
-      "sourceTitle": "Urgent Outage Notification: Washington Hall, Domestic Cold Water Outage and Sprinkler Outage",
-      "section": "outages",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-09-25T10:20:00-04:00",
-      "end": "2026-09-25T11:38:00-04:00",
-      "area": "Entire Building.",
-      "repairType": "Sprinkler Outage, Domestic Cold Water Outage",
-      "description": "A broken sprinkler line occurring at Washington Hall that will need emergency repairs.",
-      "contacts": [
-        "William Marsters"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Cold water",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-washington-hall"
-      ]
-    },
-    {
-      "id": "tawes-hall-elevator-car-2-elevator",
-      "title": "Elevator car 2 out of service",
-      "sourceTitle": "Urgent Outage Notification: Tawes Hall - Elevator Car 2, Elevator Outage",
-      "section": "elevators",
-      "notice": "unplanned",
-      "resolved": false,
-      "start": "2026-09-25T07:15:00-04:00",
-      "end": "2026-09-25T10:45:00-04:00",
-      "area": "Elevator Car 2",
-      "repairType": "Elevator Outage",
-      "description": "Facilities Management crews have taken Elevator Car 2 (passenger elevator) out of service at Tawes Hall for maintenance and testing.",
-      "contacts": [
-        "Shane Kogok"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "elevator",
-      "services": [
-        "Elevator"
-      ],
-      "precision": "building",
-      "places": [
-        "building-tawes-fine-arts-building"
-      ]
-    },
-    {
       "id": "elkton-hall-elevator-3-elevator",
       "title": "Elevator car 3 out of service",
       "sourceTitle": "Urgent Outage Notification: Elkton Hall - Elevator 3, Elevator Outage",
@@ -832,7 +608,7 @@
       "notice": "emergency",
       "resolved": false,
       "start": "2026-09-27T18:00:00-04:00",
-      "end": null,
+      "end": "2026-09-28T09:00:00-04:00",
       "area": "Elevator Car 3",
       "repairType": "Elevator Outage",
       "description": "Facilities Management crews are responding to an urgent maintenance repair for elevator car 3 at Elkton Hall, which has resulted in the elevator being taken out of service",
@@ -858,7 +634,7 @@
       "notice": "emergency",
       "resolved": false,
       "start": "2026-09-27T18:00:00-04:00",
-      "end": null,
+      "end": "2026-09-28T09:00:00-04:00",
       "area": "Elevator Car 1",
       "repairType": "Elevator Outage",
       "description": "Facilities Management crews are responding to an urgent maintenance repair for elevator car 1 at Easton Hall, which has resulted in the elevator being taken out of service.",
@@ -874,6 +650,32 @@
       "precision": "building",
       "places": [
         "building-easton-hall"
+      ]
+    },
+    {
+      "id": "physical-sciences-complex-heating-october-1",
+      "title": "Heating outage for HVAC repairs",
+      "sourceTitle": "Physical Sciences Complex, Heating Outage, October 1",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-01T06:00:00-04:00",
+      "end": "2026-10-01T10:00:00-04:00",
+      "area": "subbasement mechanical room",
+      "repairType": "Heating Outage",
+      "description": "To make necessary repairs to the HVAC equipment.",
+      "contacts": [
+        "Alonzo Banks"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating"
+      ],
+      "precision": "building",
+      "places": [
+        "building-physical-sciences-complex"
       ]
     }
   ]
