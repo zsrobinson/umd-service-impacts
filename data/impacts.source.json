@@ -1,35 +1,7 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-09-29T06:46:00-04:00",
+  "fetchedAt": "2026-09-30T06:47:00-04:00",
   "impacts": [
-    {
-      "id": "mckeldin-rooftop-painting",
-      "title": "Rooftop painting",
-      "sourceTitle": "McKeldin Library - Rooftop Painting",
-      "section": "outages",
-      "category": "construction",
-      "services": [
-        "Rooftop work"
-      ],
-      "notice": "planned",
-      "start": "2026-09-28T08:00:00-04:00",
-      "end": "2026-10-13T16:00:00-04:00",
-      "area": "Rooftop",
-      "repairType": "Rooftop Painting",
-      "description": "Contractors will be painting the existing metal support structure serving the rooftop HVAC Units in McKeldin Library.",
-      "contacts": [
-        "Rolando Mendez"
-      ],
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/McKeldin-Library-Steel-Paint.png"
-      ],
-      "precision": "building",
-      "places": [
-        "building-theodore-r-mckeldin-library"
-      ],
-      "phone": "301-405-2222",
-      "resolved": false
-    },
     {
       "id": "purple-line-sign-installation",
       "title": "Sign installation noise along the Purple Line",
@@ -58,101 +30,9 @@
       "resolved": false
     },
     {
-      "id": "wind-tunnel-csic-plaza-closure",
-      "title": "Plaza closed for construction laydown",
-      "sourceTitle": "Plaza between the Wind Tunnel Building and the Computer Science Instructional Center - Sidewalk Closure",
-      "section": "outages",
-      "category": "sidewalk",
-      "services": [
-        "Sidewalk",
-        "Plaza"
-      ],
-      "notice": "planned",
-      "start": "2026-09-25T06:00:00-04:00",
-      "end": "2027-04-30T17:00:00-04:00",
-      "area": "Plaza",
-      "repairType": "Plaza/Sidewalk Closure",
-      "description": "The plaza sidewalk area between the Wind Tunnel Building and the Computer Science Instructional Center will be closed to store equipment and materials for construction activities.",
-      "contacts": [
-        "Randall Phillips"
-      ],
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026.9.18---P%26C-to-CRC---Laydown-Space-Wind-Tunnel.pdf"
-      ],
-      "precision": "approximate",
-      "locationNote": "Fenced area traced from the attached map. A 10-foot pedestrian path along the west side of the Computer Science Instructional Center stays open.",
-      "places": [
-        {
-          "label": "Fenced laydown area",
-          "geometry": {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  -76.93672,
-                  38.99012
-                ],
-                [
-                  -76.93646,
-                  38.99012
-                ],
-                [
-                  -76.93646,
-                  38.98985
-                ],
-                [
-                  -76.9366,
-                  38.98985
-                ],
-                [
-                  -76.93672,
-                  38.98998
-                ],
-                [
-                  -76.93672,
-                  38.99012
-                ]
-              ]
-            ]
-          }
-        }
-      ],
-      "phone": "301-405-2222",
-      "resolved": false
-    },
-    {
-      "id": "microbiology-roof-lift-work",
-      "title": "Roof repairs and sidewalk closure",
-      "sourceTitle": "Microbiology Building - Lift Work for Roof Repairs, Temporary Sidewalk Closure",
-      "section": "outages",
-      "category": "construction",
-      "services": [
-        "Sidewalk",
-        "Roof work"
-      ],
-      "notice": "planned",
-      "start": "2026-09-21T07:00:00-04:00",
-      "end": "2026-10-09T16:00:00-04:00",
-      "area": "Exterior roof and sidewalk",
-      "repairType": "Lift Work, Roof Repair",
-      "description": "To accommodate lift work for roof repairs.",
-      "contacts": [
-        "Colin Davis"
-      ],
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Microbiology-T.A.P.-Map.png"
-      ],
-      "precision": "building",
-      "places": [
-        "building-microbiology-building"
-      ],
-      "phone": "301-405-2222",
-      "resolved": false
-    },
-    {
       "id": "biopsych-wing-2-heating",
       "title": "Heating outage on the fourth floor of Wing 2",
-      "sourceTitle": "Urgent Outage Notification: Biology-Psychology - Fourth Floor of Wing 2, HVAC Heating Outage",
+      "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
       "category": "hvac",
       "services": [
@@ -176,41 +56,15 @@
       "resolved": false
     },
     {
-      "id": "hornbake-4th-floor-heating",
-      "title": "Heating hot water outage on the fourth floor",
-      "sourceTitle": "Hornbake Library - Fourth Floor on North and South Sides, HVAC Heating Hot Water Outage",
-      "section": "outages",
-      "category": "hvac",
-      "services": [
-        "HVAC heating hot water"
-      ],
-      "notice": "planned",
-      "start": "2026-08-24T06:00:00-04:00",
-      "end": "2026-09-29T15:30:00-04:00",
-      "area": "Fourth floor, north and south sides",
-      "repairType": "HVAC Heating Hot Water Outage",
-      "description": "To perform upgrades to the HVAC components.",
-      "contacts": [
-        "James Trythall"
-      ],
-      "precision": "building",
-      "places": [
-        "building-hornbake-library"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "resolved": false
-    },
-    {
       "id": "manufacturing-m1101-ac",
       "title": "Air conditioning outage in M1101 (Cube Farm)",
-      "sourceTitle": "Urgent Outage Notification: Manufacturing Building, HVAC Air Conditioning Outage",
+      "sourceTitle": "Manufacturing Building",
       "section": "outages",
       "category": "hvac",
       "services": [
         "Air conditioning"
       ],
-      "notice": "unplanned",
+      "notice": "emergency",
       "start": "2026-07-15T20:00:00-04:00",
       "end": null,
       "area": "M1101 (Cube Farm)",
@@ -230,7 +84,7 @@
     {
       "id": "manufacturing-north-hvac",
       "title": "HVAC outage on the north side of the first floor",
-      "sourceTitle": "Urgent Outage Notification: Manufacturing Building, HVAC Systems Outage",
+      "sourceTitle": "Manufacturing Building",
       "section": "outages",
       "category": "hvac",
       "services": [
@@ -241,7 +95,7 @@
       "start": "2026-06-25T11:50:00-04:00",
       "end": null,
       "area": "North side, first floor of the building",
-      "repairType": "HVAC Systems Outage",
+      "repairType": "HVAC Systems Outage, Air Conditioning Outage",
       "description": "An urgent HVAC systems outage that is impacting HVAC equipment responsible for HVAC air conditioning and cooling for the north side of the first floor at the Manufacturing Building.",
       "contacts": [
         "Charles Ivey"
@@ -259,7 +113,7 @@
     {
       "id": "fieldhouse-drive-closure",
       "title": "Fieldhouse Drive closed for excavation",
-      "sourceTitle": "Fieldhouse Drive near the Northwest Corner of Stamp Student Union, Roadway Closure and Excavation Work",
+      "sourceTitle": "Fieldhouse Drive",
       "section": "roads",
       "category": "road",
       "services": [
@@ -307,7 +161,7 @@
     {
       "id": "fraternity-row-closure",
       "title": "Fraternity Row closed for leak repair",
-      "sourceTitle": "Fraternity Row, Road Closure",
+      "sourceTitle": "Fraternity Row",
       "section": "roads",
       "category": "road",
       "services": [
@@ -404,7 +258,7 @@
     {
       "id": "lot-z-partial-closure",
       "title": "Lot Z southeast corner closed for construction laydown",
-      "sourceTitle": "Parking Lot #Z, Partial Parking Lot Closure",
+      "sourceTitle": "Parking Lot #Z",
       "section": "roads",
       "category": "parking",
       "services": [
@@ -458,32 +312,6 @@
           }
         }
       ],
-      "resolved": false
-    },
-    {
-      "id": "clarice-elevator-71",
-      "title": "Elevator car 71 out of service",
-      "sourceTitle": "Urgent Outage Notification: Clarice Smith Performing Arts Center - Elevator Car 71, Elevator Outage",
-      "section": "elevators",
-      "category": "elevator",
-      "services": [
-        "Elevator"
-      ],
-      "notice": "emergency",
-      "start": "2026-09-10T14:15:00-04:00",
-      "end": "2026-09-28T12:30:00-04:00",
-      "area": "Elevator car 71",
-      "repairType": "Elevator Outage",
-      "description": "Facilities Management crews are responding to an urgent elevator outage.",
-      "contacts": [
-        "Mark Loriso"
-      ],
-      "precision": "building",
-      "places": [
-        "building-clarice-smith-performing-arts-center"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
       "resolved": false
     },
     {
@@ -574,16 +402,167 @@
       "locationNote": "The notice names four buildings with a full outage; the pressure reduction covers all buildings north of Campus Drive, shown here by the road."
     },
     {
-      "id": "awes-hall-knight-hall-hvac-heating",
-      "title": "Heating hot water outage to repair a steam leak",
-      "sourceTitle": "Tawes Hall, Knight Hall - HVAC Heating Hot Water Outage",
+      "id": "riggs-alumni-center",
+      "title": "Sidewalk along Alumni Drive closed for Homecoming",
+      "sourceTitle": "Riggs Alumni Center",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-16T07:00:00-04:00",
+      "end": "2026-10-18T11:00:00-04:00",
+      "area": "Sidewalk parallel to Alumni Drive on the west side of Riggs Alumni Center",
+      "repairType": "Sidewalk Closure",
+      "description": "To accommodate Homecoming events.",
+      "contacts": [
+        "Sharon Furguson"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Riggs-Alumni-Sidewalk-Closure.pdf"
+      ],
+      "category": "sidewalk",
+      "services": [
+        "Sidewalk"
+      ],
+      "precision": "approximate",
+      "places": [
+        "building-samuel-riggs-iv-alumni-center"
+      ],
+      "locationNote": "Only the sidewalk along Alumni Drive on the west side of the building is closed; shown at the building."
+    },
+    {
+      "id": "elkins",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "Elkins Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-09T06:00:00-04:00",
+      "end": "2026-10-09T16:00:00-04:00",
+      "area": "Entire Building.",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "To test the building's fire alarm, sprinkler, and suppression systems.",
+      "contacts": [
+        "Clarence L Brown jr"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm",
+        "Sprinklers"
+      ],
+      "precision": "approximate",
+      "places": [
+        {
+          "label": "Elkins Building (location not given)",
+          "point": [
+            -76.9426,
+            38.9861
+          ]
+        }
+      ],
+      "locationNote": "The notice doesn't say where the Elkins Building is and it isn't in the map data, so it is pinned at the centre of campus."
+    },
+    {
+      "id": "xfinity-center",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "Xfinity Center",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-07T06:00:00-04:00",
+      "end": "2026-10-08T16:00:00-04:00",
+      "area": "Entire Building.",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "To test the building's fire alarm, sprinkler, and suppression systems.",
+      "contacts": [
+        "Clarence L Brown jr"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm",
+        "Sprinklers"
+      ],
+      "precision": "building",
+      "places": [
+        "building-xfinity-center"
+      ]
+    },
+    {
+      "id": "chemical-nuclear-engineering",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "Chemical and Nuclear Engineering Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-06T06:00:00-04:00",
+      "end": "2026-10-06T16:00:00-04:00",
+      "area": "Entire Building.",
+      "repairType": "Fire Alarm System and Suppression Testing and Inspection",
+      "description": "To test the building's fire alarm, sprinkler, and suppression systems.",
+      "contacts": [
+        "Clarence L Brown jr"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm",
+        "Sprinklers"
+      ],
+      "precision": "building",
+      "places": [
+        "building-chemical-and-nuclear-engineering-building"
+      ]
+    },
+    {
+      "id": "severn",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "Severn Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-05T06:00:00-04:00",
+      "end": "2026-10-05T16:00:00-04:00",
+      "area": "Entire Building.",
+      "repairType": "Fire Alarm System and Suppression Testing and Inspection",
+      "description": "To test the building's fire alarm, sprinkler, and suppression systems.",
+      "contacts": [
+        "Clarence L Brown jr"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm",
+        "Sprinklers"
+      ],
+      "precision": "approximate",
+      "places": [
+        {
+          "label": "Severn Building (location not given)",
+          "point": [
+            -76.9426,
+            38.9861
+          ]
+        }
+      ],
+      "locationNote": "The notice doesn't say where the Severn Building is and it isn't in the map data, so it is pinned at the centre of campus."
+    },
+    {
+      "id": "tawes-hall-knight-hall",
+      "title": "Heating outage to repair a steam leak",
+      "sourceTitle": "Tawes Hall, Knight Hall",
       "section": "outages",
       "notice": "planned",
       "resolved": false,
       "start": "2026-10-01T08:00:00-04:00",
       "end": "2026-10-01T12:00:00-04:00",
-      "area": "Mechanical Room Penthouse",
-      "repairType": "Heating Hot Water Outage",
+      "area": "Entire Building(s)",
+      "repairType": "Heating Outage",
       "description": "To repair a steam leak within the mechanical room.",
       "contacts": [
         "Horacio Torres"
@@ -601,69 +580,17 @@
       ]
     },
     {
-      "id": "elkton-hall-elevator-3-elevator",
-      "title": "Elevator car 3 out of service",
-      "sourceTitle": "Urgent Outage Notification: Elkton Hall - Elevator 3, Elevator Outage",
-      "section": "elevators",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-09-27T18:00:00-04:00",
-      "end": "2026-09-28T09:00:00-04:00",
-      "area": "Elevator Car 3",
-      "repairType": "Elevator Outage",
-      "description": "Facilities Management crews are responding to an urgent maintenance repair for elevator car 3 at Elkton Hall, which has resulted in the elevator being taken out of service",
-      "contacts": [
-        "Shane Kogok"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "elevator",
-      "services": [
-        "Elevator"
-      ],
-      "precision": "building",
-      "places": [
-        "building-elkton-hall"
-      ]
-    },
-    {
-      "id": "easton-hall-elevator-1-elevator",
-      "title": "Elevator car 1 out of service",
-      "sourceTitle": "Urgent Outage Notification: Easton Hall - Elevator 1, Elevator Outage",
-      "section": "elevators",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-09-27T18:00:00-04:00",
-      "end": "2026-09-28T09:00:00-04:00",
-      "area": "Elevator Car 1",
-      "repairType": "Elevator Outage",
-      "description": "Facilities Management crews are responding to an urgent maintenance repair for elevator car 1 at Easton Hall, which has resulted in the elevator being taken out of service.",
-      "contacts": [
-        "Shane Kogok"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "elevator",
-      "services": [
-        "Elevator"
-      ],
-      "precision": "building",
-      "places": [
-        "building-easton-hall"
-      ]
-    },
-    {
-      "id": "physical-sciences-complex-heating-october-1",
+      "id": "physical-sciences-complex",
       "title": "Heating outage for HVAC repairs",
-      "sourceTitle": "Physical Sciences Complex, Heating Outage, October 1",
+      "sourceTitle": "Physical Sciences Complex",
       "section": "outages",
       "notice": "planned",
       "resolved": false,
       "start": "2026-10-01T06:00:00-04:00",
       "end": "2026-10-01T10:00:00-04:00",
-      "area": "subbasement mechanical room",
+      "area": "Entire Building.",
       "repairType": "Heating Outage",
-      "description": "To make necessary repairs to the HVAC equipment.",
+      "description": "To make necessary repairs to building HVAC equipment.",
       "contacts": [
         "Alonzo Banks"
       ],
@@ -676,6 +603,152 @@
       "precision": "building",
       "places": [
         "building-physical-sciences-complex"
+      ]
+    },
+    {
+      "id": "biology-psychology",
+      "title": "RO/DI water outage for emergency repairs",
+      "sourceTitle": "Biology-Psychology Building",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-09-29T08:09:00-04:00",
+      "end": null,
+      "area": "Entire Building.",
+      "repairType": "RO/DI Water Outage",
+      "description": "There is currently an urgent RO/DI water outage in the Biology-Psychology Building in order to perform emergency repairs to the system.",
+      "contacts": [
+        "John McBride"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "water",
+      "services": [
+        "RO/DI water"
+      ],
+      "precision": "building",
+      "places": [
+        "building-biology-psychology-building"
+      ]
+    },
+    {
+      "id": "mckeldin-library",
+      "title": "Rooftop painting",
+      "sourceTitle": "McKeldin Library",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-09-28T08:00:00-04:00",
+      "end": "2026-10-13T16:00:00-04:00",
+      "area": "Rooftop Area",
+      "repairType": "Rooftop Painting",
+      "description": "Contractors will be painting the existing metal support structure serving the rooftop HVAC Units in McKeldin Library.",
+      "contacts": [
+        "Rolando Mendez"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/McKeldin-Library-Steel-Paint.png"
+      ],
+      "category": "construction",
+      "services": [
+        "Rooftop work"
+      ],
+      "precision": "building",
+      "places": [
+        "building-theodore-r-mckeldin-library"
+      ]
+    },
+    {
+      "id": "plaza-between-wind-tunnel-computer-science",
+      "title": "Plaza closed for construction laydown",
+      "sourceTitle": "Plaza between the Wind Tunnel Building and the Computer Science Instructional Center",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-09-25T06:00:00-04:00",
+      "end": "2027-04-30T17:00:00-04:00",
+      "area": "Exterior Plaza",
+      "repairType": "Plaz/Sidewalk Closure",
+      "description": "The plaza sidewalk area between the Wind Tunnel Building and the Computer Science Instructional Center will be closed to store equipment and materials for construction activities.",
+      "contacts": [
+        "Randall Phillips"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026.9.18---P%26C-to-CRC---Laydown-Space-Wind-Tunnel.pdf"
+      ],
+      "category": "sidewalk",
+      "services": [
+        "Sidewalk",
+        "Plaza"
+      ],
+      "precision": "approximate",
+      "places": [
+        {
+          "label": "Fenced laydown area",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -76.93672,
+                  38.99012
+                ],
+                [
+                  -76.93646,
+                  38.99012
+                ],
+                [
+                  -76.93646,
+                  38.98985
+                ],
+                [
+                  -76.9366,
+                  38.98985
+                ],
+                [
+                  -76.93672,
+                  38.98998
+                ],
+                [
+                  -76.93672,
+                  38.99012
+                ]
+              ]
+            ]
+          }
+        }
+      ],
+      "locationNote": "Fenced area traced from the attached map. A 10-foot pedestrian path along the west side of the Computer Science Instructional Center stays open."
+    },
+    {
+      "id": "microbiology",
+      "title": "Roof repairs and sidewalk closure",
+      "sourceTitle": "Microbiology Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-09-21T07:00:00-04:00",
+      "end": "2026-10-09T16:00:00-04:00",
+      "area": "Exterior roof and surrounding sidewalk areas.",
+      "repairType": "Lift Work, Roof Repair, Sidewalk Closure",
+      "description": "To accommodate lift work for roof repairs.",
+      "contacts": [
+        "Colin Davis"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Microbiology-T.A.P.-Map.png"
+      ],
+      "category": "construction",
+      "services": [
+        "Sidewalk",
+        "Roof work"
+      ],
+      "precision": "building",
+      "places": [
+        "building-microbiology-building"
       ]
     }
   ]
