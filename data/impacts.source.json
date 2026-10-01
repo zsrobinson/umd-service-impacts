@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-09-30T06:47:00-04:00",
+  "fetchedAt": "2026-10-01T06:47:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -31,21 +31,21 @@
     },
     {
       "id": "biopsych-wing-2-heating",
-      "title": "Heating outage on the fourth floor of Wing 2",
+      "title": "RO/DI water outage for emergency repairs",
       "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
-      "category": "hvac",
+      "category": "water",
       "services": [
-        "Heating"
+        "RO/DI water"
       ],
       "notice": "emergency",
-      "start": "2026-09-17T14:00:00-04:00",
+      "start": "2026-09-29T08:09:00-04:00",
       "end": null,
-      "area": "Fourth floor of Wing 2",
-      "repairType": "HVAC Heating Outage",
-      "description": "Emergency repairs are needed on the HVAC equipment that provides heating to the fourth floor of Wing 2 at the Biology-Psychology Building, resulting in a heating outage in this area of the building.",
+      "area": "Entire Building.",
+      "repairType": "RO/DI Water Outage",
+      "description": "There is currently an urgent RO/DI water outage in the Biology-Psychology Building in order to perform emergency repairs to the system.",
       "contacts": [
-        "Michael Dickman"
+        "John McBride"
       ],
       "precision": "building",
       "places": [
@@ -153,43 +153,6 @@
               ]
             ]
           }
-        }
-      ],
-      "phone": "301-405-2222",
-      "resolved": false
-    },
-    {
-      "id": "fraternity-row-closure",
-      "title": "Fraternity Row closed for leak repair",
-      "sourceTitle": "Fraternity Row",
-      "section": "roads",
-      "category": "road",
-      "services": [
-        "Road",
-        "Parking"
-      ],
-      "notice": "planned",
-      "start": "2026-09-28T07:00:00-04:00",
-      "end": "2026-09-29T17:00:00-04:00",
-      "area": "Entire Fraternity Row; work site in front of Fraternity House 2",
-      "repairType": "Roadway Closure",
-      "description": "From the excavation work performed in an area of Parking Lot 16A in front of Fraternity House 2, an underground leak has been located in the middle of the Fraternity Row roadway that needs to be repaired.",
-      "contacts": [
-        "Horacio Torres"
-      ],
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Fraternity-Row-Closure.png"
-      ],
-      "precision": "exact",
-      "locationNote": "The whole road is closed; the work site is on the north side in front of Greek House 2 (Phi Sigma Kappa). Road plates stay on site for emergency vehicles.",
-      "places": [
-        "road-fraternity-row",
-        {
-          "label": "Work site in front of Greek House 2",
-          "point": [
-            -76.93632,
-            38.98443
-          ]
         }
       ],
       "phone": "301-405-2222",
@@ -315,35 +278,9 @@
       "resolved": false
     },
     {
-      "id": "cumberland-elevator-1-modernization",
-      "title": "Elevator car 1 modernization",
-      "sourceTitle": "Cumberland Hall, Elevator Modernization",
-      "section": "elevators",
-      "category": "elevator",
-      "services": [
-        "Elevator"
-      ],
-      "notice": "planned",
-      "start": "2026-07-27T13:00:00-04:00",
-      "end": null,
-      "area": "Elevator car 1",
-      "repairType": "Elevator Modernization",
-      "description": "Elevator car 1 has been taken out of service at Cumberland Hall for a planned modernization upgrade of the elevator car.",
-      "contacts": [
-        "Chris O'Dea"
-      ],
-      "precision": "building",
-      "places": [
-        "building-cumberland-hall"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "resolved": false
-    },
-    {
       "id": "ellicott-elevator-3-modernization",
       "title": "Elevator car 3 modernization",
-      "sourceTitle": "Ellicott Hall - Elevator 3, Elevator Modernization",
+      "sourceTitle": "Ellicott Hall",
       "section": "elevators",
       "category": "elevator",
       "services": [
@@ -607,24 +544,24 @@
     },
     {
       "id": "biology-psychology",
-      "title": "RO/DI water outage for emergency repairs",
+      "title": "Heating outage on the fourth floor of Wing 2",
       "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
       "notice": "emergency",
       "resolved": false,
-      "start": "2026-09-29T08:09:00-04:00",
+      "start": "2026-09-17T14:00:00-04:00",
       "end": null,
-      "area": "Entire Building.",
-      "repairType": "RO/DI Water Outage",
-      "description": "There is currently an urgent RO/DI water outage in the Biology-Psychology Building in order to perform emergency repairs to the system.",
+      "area": "Fourth Floor of Wing 2",
+      "repairType": "HVAC Heating Outage",
+      "description": "Emergency repairs are needed on the HVAC equipment that provides heating to the fourth floor of Wing 2 at the Biology-Psychology Building, resulting in a heating outage in this area of the building.",
       "contacts": [
-        "John McBride"
+        "Michael Dickman"
       ],
       "phone": "301-405-2222",
       "attachments": [],
-      "category": "water",
+      "category": "hvac",
       "services": [
-        "RO/DI water"
+        "Heating"
       ],
       "precision": "building",
       "places": [
@@ -750,6 +687,114 @@
       "places": [
         "building-microbiology-building"
       ]
+    },
+    {
+      "id": "chemistry",
+      "title": "Labs 2219 and 2221 closed for flooring installation",
+      "sourceTitle": "Chemistry Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-03T05:00:00-04:00",
+      "end": "2026-10-04T05:00:00-04:00",
+      "area": "Lab Rooms 2219 and 2221",
+      "repairType": "Flooring Installation",
+      "description": "To complete the installation of MMA flooring",
+      "contacts": [
+        "Cornell Jones"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "construction",
+      "services": [
+        "Lab access"
+      ],
+      "precision": "building",
+      "places": [
+        "building-chemistry-building"
+      ]
+    },
+    {
+      "id": "cumberland-hall",
+      "title": "Elevator cars 1 and 2 out of service for early-morning maintenance",
+      "sourceTitle": "Cumberland Hall",
+      "section": "elevators",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-10-01T04:00:00-04:00",
+      "end": "2026-10-02T08:00:00-04:00",
+      "area": "Elevator Car 1 and 2",
+      "repairType": "Elevator Outage",
+      "description": "There will be planned elevator maintenance work in Cumberland Hall that will result in elevator cars 1 and 2 being taken out of service. Work will occur daily, 4am - 8am.",
+      "contacts": [
+        "Chris O'Dea"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "elevator",
+      "services": [
+        "Elevator"
+      ],
+      "precision": "building",
+      "places": [
+        "building-cumberland-hall"
+      ]
+    },
+    {
+      "id": "cumberland-hall-2",
+      "title": "Elevator car 1 modernization",
+      "sourceTitle": "Cumberland Hall",
+      "section": "elevators",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-07-27T13:00:00-04:00",
+      "end": null,
+      "area": "Elevator Car 1",
+      "repairType": "Elevator modernization",
+      "description": "Elevator car 1 has been taken out of service at Cumberland Hall for a planned modernization upgrade of the elevator car.",
+      "contacts": [
+        "Chris O'Dea"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "elevator",
+      "services": [
+        "Elevator"
+      ],
+      "precision": "building",
+      "places": [
+        "building-cumberland-hall"
+      ]
+    },
+    {
+      "id": "paint-branch-drive",
+      "title": "Light pole banner replacement on Paint Branch Drive",
+      "sourceTitle": "Paint Branch Drive",
+      "section": "roads",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-09-30T09:00:00-04:00",
+      "end": "2026-09-30T16:00:00-04:00",
+      "area": "Paint Branch Drive, from Campus Drive to Technology Drive",
+      "repairType": "Signage, Light Pole Banner Installation Work",
+      "description": "There may be minor impacts to pedestrian and vehicle traffic along Paint Branch Drive for Facilities Management Signs and Graphics to remove and replace light pole banners.",
+      "contacts": [
+        "Marc Vogts"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Banner-Locations%2C-Work-on-Paint-Branch-Drive.pdf"
+      ],
+      "category": "construction",
+      "services": [
+        "Road",
+        "Sidewalk"
+      ],
+      "precision": "approximate",
+      "places": [
+        "road-paint-branch-drive"
+      ],
+      "locationNote": "Work moves along Paint Branch Drive between Campus Drive and Technology Drive; the whole road is shown."
     }
   ]
 }
