@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-01T06:47:00-04:00",
+  "fetchedAt": "2026-10-02T06:47:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -31,28 +31,30 @@
     },
     {
       "id": "biopsych-wing-2-heating",
-      "title": "RO/DI water outage for emergency repairs",
+      "title": "Rooftop ductwork painting",
       "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
-      "category": "water",
+      "category": "construction",
       "services": [
-        "RO/DI water"
+        "Rooftop work"
       ],
-      "notice": "emergency",
-      "start": "2026-09-29T08:09:00-04:00",
-      "end": null,
-      "area": "Entire Building.",
-      "repairType": "RO/DI Water Outage",
-      "description": "There is currently an urgent RO/DI water outage in the Biology-Psychology Building in order to perform emergency repairs to the system.",
+      "notice": "planned",
+      "start": "2026-10-07T08:00:00-04:00",
+      "end": "2026-10-21T15:00:00-04:00",
+      "area": "Exterior Rooftop Area",
+      "repairType": "Exterior painting",
+      "description": "A contractor will be scraping, priming, and applying a finish coat of paint on ductwork located on the roof of the Biology-Psychology Building.",
       "contacts": [
-        "John McBride"
+        "Rolando Mendez"
       ],
       "precision": "building",
       "places": [
         "building-biology-psychology-building"
       ],
       "phone": "301-405-2222",
-      "attachments": [],
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Biology-Psychology---Exterior-Rooftop-Area%2C-Painting-Work%2C-October-7---October-21-%28Visual%29.png"
+      ],
       "resolved": false
     },
     {
@@ -221,7 +223,7 @@
     {
       "id": "lot-z-partial-closure",
       "title": "Lot Z southeast corner closed for construction laydown",
-      "sourceTitle": "Parking Lot #Z",
+      "sourceTitle": "Parking Lot Z",
       "section": "roads",
       "category": "parking",
       "services": [
@@ -524,7 +526,7 @@
       "notice": "planned",
       "resolved": false,
       "start": "2026-10-01T06:00:00-04:00",
-      "end": "2026-10-01T10:00:00-04:00",
+      "end": "2026-10-01T16:00:00-04:00",
       "area": "Entire Building.",
       "repairType": "Heating Outage",
       "description": "To make necessary repairs to building HVAC equipment.",
@@ -544,24 +546,24 @@
     },
     {
       "id": "biology-psychology",
-      "title": "Heating outage on the fourth floor of Wing 2",
+      "title": "RO/DI water outage for emergency repairs",
       "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
       "notice": "emergency",
       "resolved": false,
-      "start": "2026-09-17T14:00:00-04:00",
-      "end": null,
-      "area": "Fourth Floor of Wing 2",
-      "repairType": "HVAC Heating Outage",
-      "description": "Emergency repairs are needed on the HVAC equipment that provides heating to the fourth floor of Wing 2 at the Biology-Psychology Building, resulting in a heating outage in this area of the building.",
+      "start": "2026-09-29T08:09:00-04:00",
+      "end": "2026-10-01T14:00:00-04:00",
+      "area": "Entire Building.",
+      "repairType": "RO/DI Water Outage",
+      "description": "There is currently an urgent RO/DI water outage in the Biology-Psychology Building in order to perform emergency repairs to the system.",
       "contacts": [
-        "Michael Dickman"
+        "John McBride"
       ],
       "phone": "301-405-2222",
       "attachments": [],
-      "category": "hvac",
+      "category": "water",
       "services": [
-        "Heating"
+        "RO/DI water"
       ],
       "precision": "building",
       "places": [
@@ -767,34 +769,118 @@
       ]
     },
     {
-      "id": "paint-branch-drive",
-      "title": "Light pole banner replacement on Paint Branch Drive",
-      "sourceTitle": "Paint Branch Drive",
+      "id": "v-williams",
+      "title": "Electrical outage in Wings 1 and 2",
+      "sourceTitle": "A.V. Williams Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-13T03:00:00-04:00",
+      "end": "2026-10-13T06:30:00-04:00",
+      "area": "Wing 1 and Wing 2",
+      "repairType": "Electrical Outage",
+      "description": "There will be a planned electrical outage at the A.V. Williams Building that will impact normal electrical power to lighting and outlets, building accessibility, and air conditioning in Wings 1 and 2 of the building.",
+      "contacts": [
+        "Tim Zhao"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "electrical",
+      "services": [
+        "Power",
+        "Air conditioning",
+        "Building access"
+      ],
+      "precision": "building",
+      "places": [
+        "building-a-v-williams-building"
+      ]
+    },
+    {
+      "id": "biology-psychology-2",
+      "title": "Heating outage on the fourth floor of Wing 2",
+      "sourceTitle": "Biology-Psychology Building",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-09-17T14:00:00-04:00",
+      "end": null,
+      "area": "Fourth Floor of Wing 2",
+      "repairType": "HVAC Heating Outage",
+      "description": "Emergency repairs are needed on the HVAC equipment that provides heating to the fourth floor of Wing 2 at the Biology-Psychology Building, resulting in a heating outage in this area of the building.",
+      "contacts": [
+        "Michael Dickman"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating"
+      ],
+      "precision": "building",
+      "places": [
+        "building-biology-psychology-building"
+      ]
+    },
+    {
+      "id": "morrill-hall-quad",
+      "title": "Sidewalk closures on Morrill Quad for tree trimming",
+      "sourceTitle": "Morrill Hall Quad",
       "section": "roads",
       "notice": "planned",
       "resolved": false,
-      "start": "2026-09-30T09:00:00-04:00",
-      "end": "2026-09-30T16:00:00-04:00",
-      "area": "Paint Branch Drive, from Campus Drive to Technology Drive",
-      "repairType": "Signage, Light Pole Banner Installation Work",
-      "description": "There may be minor impacts to pedestrian and vehicle traffic along Paint Branch Drive for Facilities Management Signs and Graphics to remove and replace light pole banners.",
+      "start": "2026-10-12T07:00:00-04:00",
+      "end": "2026-10-12T15:00:00-04:00",
+      "area": "Morrill Hall Quad Sidewalks",
+      "repairType": "Sidewalk Closures and Tree Trimming Work",
+      "description": "There will be planned tree trimming work on the Morrill Hall Quad area that will result in temporary sidewalk closures as work progresses around the quad.",
       "contacts": [
-        "Marc Vogts"
+        "Richard Jones"
       ],
-      "phone": "301-405-2222",
+      "phone": "301-405-5645",
       "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Banner-Locations%2C-Work-on-Paint-Branch-Drive.pdf"
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Temporary-Sidewalk-Closure-areas-%281%29.pdf"
       ],
-      "category": "construction",
+      "category": "sidewalk",
       "services": [
-        "Road",
         "Sidewalk"
       ],
       "precision": "approximate",
       "places": [
-        "road-paint-branch-drive"
+        "building-morrill-hall"
       ],
-      "locationNote": "Work moves along Paint Branch Drive between Campus Drive and Technology Drive; the whole road is shown."
+      "locationNote": "Closures move around the quad sidewalks as work progresses; shown at Morrill Hall."
+    },
+    {
+      "id": "alumni-drive-parking-lot-z",
+      "title": "Alumni Drive and part of Lot Z closed for construction",
+      "sourceTitle": "Alumni Drive, Parking Lot Z",
+      "section": "roads",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-09T06:00:00-04:00",
+      "end": "2026-10-13T18:00:00-04:00",
+      "area": "Alumni Drive, from Campus Drive to Fieldhouse Drive between Championship Lane and Parking Lot Z.",
+      "repairType": "Road Closure, Partial Parking Lot Closure",
+      "description": "A portion of Alumni Drive from Campus Drive to Fieldhouse Drive and several parking spaces in Parking Lot Z will be closed to accommodate construction activities related to the Health and Human Sciences Complex project.",
+      "contacts": [
+        "Daniel Klenner"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Alumni-Drive-Roadway-Closure-and-Parking-Lot-Z-Parking-Space-Closures%2C-October-9---October-13-%28Map%29.pdf"
+      ],
+      "category": "road",
+      "services": [
+        "Road",
+        "Parking"
+      ],
+      "precision": "approximate",
+      "places": [
+        "road-alumni-drive",
+        "parking-lot-z"
+      ],
+      "locationNote": "Only part of Alumni Drive between Campus Drive and Fieldhouse Drive and some spaces in Lot Z are closed; the whole road and lot are shown."
     }
   ]
 }
