@@ -1,6 +1,6 @@
 {
-  "pageHash": "59c2c794845add8b",
-  "changedAt": "2026-10-02T06:47:00-04:00",
+  "pageHash": "826ad36e949476ce",
+  "changedAt": "2026-10-03T06:46:00-04:00",
   "rows": {
     "riggs-alumni-center": {
       "section": "outages",
@@ -16,6 +16,19 @@
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Riggs-Alumni-Sidewalk-Closure.pdf"
       ]
+    },
+    "v-williams": {
+      "section": "outages",
+      "title": "A.V. Williams Building",
+      "area": "Wing 1 and Wing 2",
+      "start": "10-13-2026 3:00 am",
+      "finish": "10-13-2026 6:30 am",
+      "repairType": "Electrical Outage",
+      "description": "There will be a planned electrical outage at the A.V. Williams Building that will impact normal electrical power to lighting and outlets, building accessibility, and air conditioning in Wings 1 and 2 of the building.",
+      "impactType": "Planned",
+      "contact": "Tim Zhao",
+      "phone": "301-405-2222",
+      "attachments": []
     },
     "steam-steam-pressure-reduction-north-campus": {
       "section": "outages",
@@ -112,45 +125,6 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "tawes-hall-knight-hall": {
-      "section": "outages",
-      "title": "Tawes Hall, Knight Hall",
-      "area": "Entire Building(s)",
-      "start": "10-01-2026 8:00 am",
-      "finish": "10-01-2026 12:00 pm",
-      "repairType": "Heating Outage",
-      "description": "To repair a steam leak within the mechanical room.",
-      "impactType": "Planned",
-      "contact": "Horacio Torres",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "physical-sciences-complex": {
-      "section": "outages",
-      "title": "Physical Sciences Complex",
-      "area": "Entire Building.",
-      "start": "10-01-2026 6:00 am",
-      "finish": "10-01-2026 4:00 pm",
-      "repairType": "Heating Outage",
-      "description": "To make necessary repairs to building HVAC equipment.",
-      "impactType": "Planned",
-      "contact": "Alonzo Banks",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "biology-psychology": {
-      "section": "outages",
-      "title": "Biology-Psychology Building",
-      "area": "Entire Building.",
-      "start": "09-29-2026 8:09 am",
-      "finish": "10-01-2026 2:00 pm",
-      "repairType": "RO/DI Water Outage",
-      "description": "There is currently an urgent RO/DI water outage in the Biology-Psychology Building in order to perform emergency repairs to the system.",
-      "impactType": "Emergency",
-      "contact": "John McBride",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "mckeldin-library": {
       "section": "outages",
       "title": "McKeldin Library",
@@ -209,6 +183,19 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Microbiology-T.A.P.-Map.png"
       ]
     },
+    "biology-psychology": {
+      "section": "outages",
+      "title": "Biology-Psychology Building",
+      "area": "Fourth Floor of Wing 2",
+      "start": "09-17-2026 2:00 pm",
+      "finish": "",
+      "repairType": "HVAC Heating Outage",
+      "description": "Emergency repairs are needed on the HVAC equipment that provides heating to the fourth floor of Wing 2 at the Biology-Psychology Building, resulting in a heating outage in this area of the building.",
+      "impactType": "Emergency",
+      "contact": "Michael Dickman",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "manufacturing-m1101-ac": {
       "section": "outages",
       "title": "Manufacturing Building",
@@ -237,14 +224,44 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/148---Urgent-Outage-Notice-HVAC-Cooling.png"
       ]
     },
+    "morrill-hall-quad": {
+      "section": "roads",
+      "title": "Morrill Hall Quad",
+      "area": "Morrill Hall Quad Sidewalks",
+      "start": "10-12-2026 7:00 am",
+      "finish": "10-12-2026 3:00 pm",
+      "repairType": "Sidewalk Closures and Tree Trimming Work",
+      "description": "There will be planned tree trimming work on the Morrill Hall Quad area that will result in temporary sidewalk closures as work progresses around the quad.",
+      "impactType": "Planned",
+      "contact": "Richard Jones",
+      "phone": "301-405-5645",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Temporary-Sidewalk-Closure-areas-%281%29.pdf"
+      ]
+    },
+    "alumni-drive-parking-lot-z": {
+      "section": "roads",
+      "title": "Alumni Drive, Parking Lot Z",
+      "area": "Alumni Drive, from Campus Drive to Fieldhouse Drive between Championship Lane and Parking Lot Z. **See map attached**",
+      "start": "10-09-2026 6:00 am",
+      "finish": "10-13-2026 6:00 pm",
+      "repairType": "Road Closure, Partial Parking Lot Closure",
+      "description": "A portion of Alumni Drive from Campus Drive to Fieldhouse Drive and several parking spaces in Parking Lot Z will be closed to accommodate construction activities related to the Health and Human Sciences Complex project.",
+      "impactType": "Planned",
+      "contact": "Daniel Klenner",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Alumni-Drive-Roadway-Closure-and-Parking-Lot-Z-Parking-Space-Closures%2C-October-9---October-13-%28Map%29.pdf"
+      ]
+    },
     "fieldhouse-drive-closure": {
       "section": "roads",
       "title": "Fieldhouse Drive",
       "area": "Fieldhouse Drive near the Northwest Corner of Stamp Student Union *Roadway will be reopened outside of working hours noted*",
       "start": "09-28-2026 8:00 am",
-      "finish": "10-02-2026 6:00 pm",
+      "finish": "10-09-2026 6:00 pm",
       "repairType": "Roadway Closure and Excavation Work",
-      "description": "A section of Fieldhouse Drive will need to be closed near the intersection with Union Lane, as shown on the attached drawing, to perform excavation work to locate and repair a potential underground leak in this area.",
+      "description": "Fieldhouse Drive to be closed near intersection with Union Lane, as shown on the attached drawing, for excavation work to locate and repair an underground leak. **Roadway will be reopened at the end of each work day; open on weekend**",
       "impactType": "Planned",
       "contact": "Horacio Torres",
       "phone": "301-405-2222",
@@ -336,61 +353,44 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "v-williams": {
+    "james-clark-hall": {
       "section": "outages",
-      "title": "A.V. Williams Building",
-      "area": "Wing 1 and Wing 2",
-      "start": "10-13-2026 3:00 am",
-      "finish": "10-13-2026 6:30 am",
-      "repairType": "Electrical Outage",
-      "description": "There will be a planned electrical outage at the A.V. Williams Building that will impact normal electrical power to lighting and outlets, building accessibility, and air conditioning in Wings 1 and 2 of the building.",
+      "title": "A. James Clark Hall",
+      "area": "Entire Building.",
+      "start": "10-12-2026 5:00 am",
+      "finish": "10-13-2026 5:00 pm",
+      "repairType": "Possible Reduction of Lab Compressed Air",
+      "description": "There will be a possible reduction of lab compressed air in A. James Clark Hall while FM HVAC Operations replaces air compressors in the building. A temporary air compressor will be operating to maintain lab equipment compressed air needs.",
       "impactType": "Planned",
-      "contact": "Tim Zhao",
+      "contact": "John Cole",
       "phone": "301-405-2222",
       "attachments": []
     },
-    "biology-psychology-2": {
+    "south-campus-dining-hall-anne-arundel": {
       "section": "outages",
-      "title": "Biology-Psychology Building",
-      "area": "Fourth Floor of Wing 2",
-      "start": "09-17-2026 2:00 pm",
-      "finish": "",
-      "repairType": "HVAC Heating Outage",
-      "description": "Emergency repairs are needed on the HVAC equipment that provides heating to the fourth floor of Wing 2 at the Biology-Psychology Building, resulting in a heating outage in this area of the building.",
-      "impactType": "Emergency",
-      "contact": "Michael Dickman",
+      "title": "South Campus Dining Hall, Anne Arundel Hall, Queen Anne's Hall, St. Mary's Hall, Somerset Hall, Dorchester Hall, DTP-2",
+      "area": "Entire Building(s)",
+      "start": "10-10-2026 9:00 pm",
+      "finish": "10-11-2026 6:00 am",
+      "repairType": "Domestic Hot Water Outage",
+      "description": "There will be an overnight domestic hot water outage that will impact the buildings noted. This is necessary to accommodate the installation of domestic water system upgrades within the DTP-2 that supports domestic hot water service in these buildings.",
+      "impactType": "Planned",
+      "contact": "Horacio Torres",
       "phone": "301-405-2222",
       "attachments": []
     },
-    "morrill-hall-quad": {
-      "section": "roads",
-      "title": "Morrill Hall Quad",
-      "area": "Morrill Hall Quad Sidewalks",
-      "start": "10-12-2026 7:00 am",
-      "finish": "10-12-2026 3:00 pm",
-      "repairType": "Sidewalk Closures and Tree Trimming Work",
-      "description": "There will be planned tree trimming work on the Morrill Hall Quad area that will result in temporary sidewalk closures as work progresses around the quad.",
+    "v-williams-computer-sciences-instructional-center": {
+      "section": "outages",
+      "title": "A.V. Williams Building, Computer Sciences Instructional Center",
+      "area": "Entire Building(s)",
+      "start": "10-09-2026 5:00 pm",
+      "finish": "10-14-2026 4:00 am",
+      "repairType": "HVAC Chilled Water Outage, Air Conditioning Outage",
+      "description": "There will be a planned chilled water and air conditioning outage that will impact the A.V. Williams Building and the Computer Science Instructional Center to accommodate the removal and replacement of HVAC equipment at the A.V. Williams Building.",
       "impactType": "Planned",
-      "contact": "Richard Jones",
-      "phone": "301-405-5645",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Temporary-Sidewalk-Closure-areas-%281%29.pdf"
-      ]
-    },
-    "alumni-drive-parking-lot-z": {
-      "section": "roads",
-      "title": "Alumni Drive, Parking Lot Z",
-      "area": "Alumni Drive, from Campus Drive to Fieldhouse Drive between Championship Lane and Parking Lot Z. **See map attached**",
-      "start": "10-09-2026 6:00 am",
-      "finish": "10-13-2026 6:00 pm",
-      "repairType": "Road Closure, Partial Parking Lot Closure",
-      "description": "A portion of Alumni Drive from Campus Drive to Fieldhouse Drive and several parking spaces in Parking Lot Z will be closed to accommodate construction activities related to the Health and Human Sciences Complex project.",
-      "impactType": "Planned",
-      "contact": "Daniel Klenner",
+      "contact": "Randall Phillips",
       "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Alumni-Drive-Roadway-Closure-and-Parking-Lot-Z-Parking-Space-Closures%2C-October-9---October-13-%28Map%29.pdf"
-      ]
+      "attachments": []
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-02T06:47:00-04:00",
+  "fetchedAt": "2026-10-03T06:46:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -123,10 +123,10 @@
       ],
       "notice": "planned",
       "start": "2026-09-28T08:00:00-04:00",
-      "end": "2026-10-02T18:00:00-04:00",
+      "end": "2026-10-09T18:00:00-04:00",
       "area": "Fieldhouse Drive near the Northwest Corner of Stamp Student Union",
       "repairType": "Roadway Closure and Excavation Work",
-      "description": "A section of Fieldhouse Drive will need to be closed near the intersection with Union Lane, as shown on the attached drawing, to perform excavation work to locate and repair a potential underground leak in this area.",
+      "description": "Fieldhouse Drive to be closed near intersection with Union Lane, as shown on the attached drawing, for excavation work to locate and repair an underground leak. **Roadway will be reopened at the end of each work day; open on weekend**",
       "contacts": [
         "Horacio Torres"
       ],
@@ -492,78 +492,25 @@
       "locationNote": "The notice doesn't say where the Severn Building is and it isn't in the map data, so it is pinned at the centre of campus."
     },
     {
-      "id": "tawes-hall-knight-hall",
-      "title": "Heating outage to repair a steam leak",
-      "sourceTitle": "Tawes Hall, Knight Hall",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-01T08:00:00-04:00",
-      "end": "2026-10-01T12:00:00-04:00",
-      "area": "Entire Building(s)",
-      "repairType": "Heating Outage",
-      "description": "To repair a steam leak within the mechanical room.",
-      "contacts": [
-        "Horacio Torres"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "hvac",
-      "services": [
-        "Heating"
-      ],
-      "precision": "building",
-      "places": [
-        "building-tawes-fine-arts-building",
-        "building-knight-hall"
-      ]
-    },
-    {
-      "id": "physical-sciences-complex",
-      "title": "Heating outage for HVAC repairs",
-      "sourceTitle": "Physical Sciences Complex",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-01T06:00:00-04:00",
-      "end": "2026-10-01T16:00:00-04:00",
-      "area": "Entire Building.",
-      "repairType": "Heating Outage",
-      "description": "To make necessary repairs to building HVAC equipment.",
-      "contacts": [
-        "Alonzo Banks"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "hvac",
-      "services": [
-        "Heating"
-      ],
-      "precision": "building",
-      "places": [
-        "building-physical-sciences-complex"
-      ]
-    },
-    {
       "id": "biology-psychology",
-      "title": "RO/DI water outage for emergency repairs",
+      "title": "Heating outage on the fourth floor of Wing 2",
       "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
       "notice": "emergency",
       "resolved": false,
-      "start": "2026-09-29T08:09:00-04:00",
-      "end": "2026-10-01T14:00:00-04:00",
-      "area": "Entire Building.",
-      "repairType": "RO/DI Water Outage",
-      "description": "There is currently an urgent RO/DI water outage in the Biology-Psychology Building in order to perform emergency repairs to the system.",
+      "start": "2026-09-17T14:00:00-04:00",
+      "end": null,
+      "area": "Fourth Floor of Wing 2",
+      "repairType": "HVAC Heating Outage",
+      "description": "Emergency repairs are needed on the HVAC equipment that provides heating to the fourth floor of Wing 2 at the Biology-Psychology Building, resulting in a heating outage in this area of the building.",
       "contacts": [
-        "John McBride"
+        "Michael Dickman"
       ],
       "phone": "301-405-2222",
       "attachments": [],
-      "category": "water",
+      "category": "hvac",
       "services": [
-        "RO/DI water"
+        "Heating"
       ],
       "precision": "building",
       "places": [
@@ -797,32 +744,6 @@
       ]
     },
     {
-      "id": "biology-psychology-2",
-      "title": "Heating outage on the fourth floor of Wing 2",
-      "sourceTitle": "Biology-Psychology Building",
-      "section": "outages",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-09-17T14:00:00-04:00",
-      "end": null,
-      "area": "Fourth Floor of Wing 2",
-      "repairType": "HVAC Heating Outage",
-      "description": "Emergency repairs are needed on the HVAC equipment that provides heating to the fourth floor of Wing 2 at the Biology-Psychology Building, resulting in a heating outage in this area of the building.",
-      "contacts": [
-        "Michael Dickman"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "hvac",
-      "services": [
-        "Heating"
-      ],
-      "precision": "building",
-      "places": [
-        "building-biology-psychology-building"
-      ]
-    },
-    {
       "id": "morrill-hall-quad",
       "title": "Sidewalk closures on Morrill Quad for tree trimming",
       "sourceTitle": "Morrill Hall Quad",
@@ -881,6 +802,90 @@
         "parking-lot-z"
       ],
       "locationNote": "Only part of Alumni Drive between Campus Drive and Fieldhouse Drive and some spaces in Lot Z are closed; the whole road and lot are shown."
+    },
+    {
+      "id": "james-clark-hall",
+      "title": "Possible reduced lab compressed air during compressor replacement",
+      "sourceTitle": "A. James Clark Hall",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-12T05:00:00-04:00",
+      "end": "2026-10-13T17:00:00-04:00",
+      "area": "Entire Building.",
+      "repairType": "Possible Reduction of Lab Compressed Air",
+      "description": "There will be a possible reduction of lab compressed air in A. James Clark Hall while FM HVAC Operations replaces air compressors in the building. A temporary air compressor will be operating to maintain lab equipment compressed air needs.",
+      "contacts": [
+        "John Cole"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "other",
+      "services": [
+        "Lab compressed air"
+      ],
+      "precision": "building",
+      "places": [
+        "building-a-james-clark-hall"
+      ]
+    },
+    {
+      "id": "south-campus-dining-hall-anne-arundel",
+      "title": "Overnight hot water outage",
+      "sourceTitle": "South Campus Dining Hall, Anne Arundel Hall, Queen Anne's Hall, St. Mary's Hall, Somerset Hall, Dorchester Hall, DTP-2",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-10T21:00:00-04:00",
+      "end": "2026-10-11T06:00:00-04:00",
+      "area": "Entire Building(s)",
+      "repairType": "Domestic Hot Water Outage",
+      "description": "There will be an overnight domestic hot water outage that will impact the buildings noted. This is necessary to accommodate the installation of domestic water system upgrades within the DTP-2 that supports domestic hot water service in these buildings.",
+      "contacts": [
+        "Horacio Torres"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "water",
+      "services": [
+        "Hot water"
+      ],
+      "precision": "building",
+      "places": [
+        "building-south-campus-dining-hall",
+        "building-anne-arundel-hall",
+        "building-queen-annes-hall",
+        "building-dorchester-hall",
+        "building-st-marys-hall",
+        "building-somerset-hall"
+      ]
+    },
+    {
+      "id": "v-williams-computer-sciences-instructional-center",
+      "title": "Chilled water and air conditioning outage",
+      "sourceTitle": "A.V. Williams Building, Computer Sciences Instructional Center",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-09T17:00:00-04:00",
+      "end": "2026-10-14T04:00:00-04:00",
+      "area": "Entire Building(s)",
+      "repairType": "HVAC Chilled Water Outage, Air Conditioning Outage",
+      "description": "There will be a planned chilled water and air conditioning outage that will impact the A.V. Williams Building and the Computer Science Instructional Center to accommodate the removal and replacement of HVAC equipment at the A.V. Williams Building.",
+      "contacts": [
+        "Randall Phillips"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Air conditioning"
+      ],
+      "precision": "building",
+      "places": [
+        "building-a-v-williams-building",
+        "building-computer-science-instructional-center"
+      ]
     }
   ]
 }
