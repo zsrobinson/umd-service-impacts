@@ -1,11 +1,11 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-03T06:46:00-04:00",
+  "fetchedAt": "2026-10-05T06:47:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
       "title": "Sign installation noise along the Purple Line",
-      "sourceTitle": "Purple Line: Sign Installation Noise along the Purple Line",
+      "sourceTitle": "Purple Line, Campus-wide",
       "section": "outages",
       "category": "construction",
       "services": [
@@ -163,7 +163,7 @@
     {
       "id": "purple-line-overnight-testing",
       "title": "Overnight Purple Line testing",
-      "sourceTitle": "Purple Line: Campus-wide Overnight Testing Impacts",
+      "sourceTitle": "Purple Line, Campus-wide",
       "section": "roads",
       "category": "construction",
       "services": [
@@ -175,7 +175,7 @@
       "end": "2027-01-26T06:00:00-05:00",
       "area": "See the attached map",
       "repairType": "Purple Line Construction",
-      "description": "Overnight light rail vehicle testing along the Purple Line, with vehicle and pedestrian impacts across campus.",
+      "description": "Campus-wide overnight testing.",
       "contacts": [
         "Casey Ferraro"
       ],
@@ -193,7 +193,7 @@
     {
       "id": "purple-line-lane-sidewalk-closures",
       "title": "Periodic lane and sidewalk closures along the Purple Line",
-      "sourceTitle": "Purple Line: Campus-wide Periodic Lane and Sidewalk Closures",
+      "sourceTitle": "Purple Line, Campus-wide",
       "section": "roads",
       "category": "road",
       "services": [
@@ -205,7 +205,7 @@
       "end": "2027-01-26T23:00:00-05:00",
       "area": "See the attached map",
       "repairType": "Purple Line Construction",
-      "description": "Periodic lane and sidewalk closures on campus for Purple Line construction.",
+      "description": "Periodic lane and sidewalk closures.",
       "contacts": [
         "Casey Ferraro"
       ],
@@ -308,7 +308,7 @@
     {
       "id": "steam-steam-pressure-reduction-north-campus",
       "title": "Steam outage and reduced steam pressure north of Campus Drive",
-      "sourceTitle": "Steam Outage and Steam Pressure Reduction North of Campus Drive",
+      "sourceTitle": "UMD Buildings North of Campus Drive",
       "section": "outages",
       "notice": "planned",
       "resolved": false,
@@ -668,7 +668,7 @@
       "title": "Elevator cars 1 and 2 out of service for early-morning maintenance",
       "sourceTitle": "Cumberland Hall",
       "section": "elevators",
-      "notice": "emergency",
+      "notice": "planned",
       "resolved": false,
       "start": "2026-10-01T04:00:00-04:00",
       "end": "2026-10-02T08:00:00-04:00",
@@ -885,6 +885,58 @@
       "places": [
         "building-a-v-williams-building",
         "building-computer-science-instructional-center"
+      ]
+    },
+    {
+      "id": "easton-hall",
+      "title": "Elevator car 1 out of service",
+      "sourceTitle": "Easton Hall",
+      "section": "elevators",
+      "notice": "unplanned",
+      "resolved": false,
+      "start": "2026-10-04T02:30:00-04:00",
+      "end": null,
+      "area": "Elevator 1 (passenger elevator)",
+      "repairType": "Elevator Outage",
+      "description": "Elevator car 1 at Easton Hall is currently out of service and unavailable for use.",
+      "contacts": [
+        "Shane Kogok"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "elevator",
+      "services": [
+        "Elevator"
+      ],
+      "precision": "building",
+      "places": [
+        "building-easton-hall"
+      ]
+    },
+    {
+      "id": "xfinity-center-2",
+      "title": "Freight elevator car 1 out of service",
+      "sourceTitle": "Xfinity Center",
+      "section": "elevators",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-10-02T18:15:00-04:00",
+      "end": "2026-10-02T22:15:00-04:00",
+      "area": "Elevator Car 1 (freight elevator)",
+      "repairType": "Elevator Outage",
+      "description": "Elevator Car 1 (freight elevator) at the Xfinity Center has been taken out of service to perform emergency maintenance repairs.",
+      "contacts": [
+        "Shane Kogok"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "elevator",
+      "services": [
+        "Freight elevator"
+      ],
+      "precision": "building",
+      "places": [
+        "building-xfinity-center"
       ]
     }
   ]
