@@ -1,6 +1,6 @@
 {
-  "pageHash": "d65c8b9b83389ea6",
-  "changedAt": "2026-10-05T06:47:00-04:00",
+  "pageHash": "063f6b019b47287f",
+  "changedAt": "2026-10-06T06:47:00-04:00",
   "rows": {
     "riggs-alumni-center": {
       "section": "outages",
@@ -151,32 +151,6 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "chemistry": {
-      "section": "outages",
-      "title": "Chemistry Building",
-      "area": "Lab Rooms 2219 and 2221",
-      "start": "10-03-2026 5:00 am",
-      "finish": "10-04-2026 5:00 am",
-      "repairType": "Flooring Installation",
-      "description": "To complete the installation of MMA flooring",
-      "impactType": "Planned",
-      "contact": "Cornell Jones",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "purple-line-sign-installation": {
-      "section": "outages",
-      "title": "Purple Line, Campus-wide",
-      "area": "Along the Purple Line",
-      "start": "09-28-2026 8:00 am",
-      "finish": "10-18-2026 5:00 pm",
-      "repairType": "Sign Installation",
-      "description": "The Purple Line project plans to install signs on the overhead catenary poles along the alignment from Adelphi Road (near UMCG) through the UMD campus to the College Park Metro Station.",
-      "impactType": "Planned",
-      "contact": "Casey Ferraro",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "mckeldin-library": {
       "section": "outages",
       "title": "McKeldin Library",
@@ -191,6 +165,19 @@
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/McKeldin-Library-Steel-Paint.png"
       ]
+    },
+    "purple-line-sign-installation": {
+      "section": "outages",
+      "title": "Purple Line, Campus-wide",
+      "area": "Along the Purple Line",
+      "start": "09-28-2026 8:00 am",
+      "finish": "10-18-2026 5:00 pm",
+      "repairType": "Sign Installation",
+      "description": "The Purple Line project plans to install signs on the overhead catenary poles along the alignment from Adelphi Road (near UMCG) through the UMD campus to the College Park Metro Station.",
+      "impactType": "Planned",
+      "contact": "Casey Ferraro",
+      "phone": "301-405-2222",
+      "attachments": []
     },
     "plaza-between-wind-tunnel-computer-science": {
       "section": "outages",
@@ -227,7 +214,7 @@
       "title": "Biology-Psychology Building",
       "area": "Fourth Floor of Wing 2",
       "start": "09-17-2026 2:00 pm",
-      "finish": "",
+      "finish": "10-05-2026 12:00 pm",
       "repairType": "HVAC Heating Outage",
       "description": "Emergency repairs are needed on the HVAC equipment that provides heating to the fourth floor of Wing 2 at the Biology-Psychology Building, resulting in a heating outage in this area of the building.",
       "impactType": "Emergency",
@@ -353,20 +340,20 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
       ]
     },
-    "cumberland-hall": {
+    "easton-hall": {
       "section": "elevators",
-      "title": "Cumberland Hall",
-      "area": "Elevator Car 1 and 2",
-      "start": "10-01-2026 4:00 am",
-      "finish": "10-02-2026 8:00 am",
+      "title": "Easton Hall",
+      "area": "Elevator 1 (passenger elevator)",
+      "start": "10-04-2026 2:30 am",
+      "finish": "10-05-2026 12:00 pm",
       "repairType": "Elevator Outage",
-      "description": "There will be planned elevator maintenance work in Cumberland Hall that will result in elevator cars 1 and 2 being taken out of service. Work will occur daily, 4am - 8am.",
-      "impactType": "Planned",
-      "contact": "Chris O'Dea",
+      "description": "Elevator car 1 at Easton Hall is currently out of service and unavailable for use.",
+      "impactType": "Unplanned",
+      "contact": "Shane Kogok",
       "phone": "301-405-2222",
       "attachments": []
     },
-    "cumberland-hall-2": {
+    "cumberland-hall": {
       "section": "elevators",
       "title": "Cumberland Hall",
       "area": "Elevator Car 1",
@@ -392,31 +379,50 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "easton-hall": {
-      "section": "elevators",
-      "title": "Easton Hall",
-      "area": "Elevator 1 (passenger elevator)",
-      "start": "10-04-2026 2:30 am",
-      "finish": "",
-      "repairType": "Elevator Outage",
-      "description": "Elevator car 1 at Easton Hall is currently out of service and unavailable for use.",
-      "impactType": "Unplanned",
-      "contact": "Shane Kogok",
+    "stamp-student-union": {
+      "section": "outages",
+      "title": "Stamp Student Union",
+      "area": "Northwest Corner Entrance and Hoff Theater Stairwell near Fieldhouse Drive.",
+      "start": "10-12-2026 6:00 am",
+      "finish": "10-12-2026 6:00 pm",
+      "repairType": "Sidewalk Closure, Building Entrance Closures",
+      "description": "A sidewalk and entrance closure will occur at the northwest corner entrance and the Hoff Theater stairwell of Stamp Student Union near Fieldhouse Drive to accommodate lift work for gutter replacement and lighting repairs.",
+      "impactType": "Planned",
+      "contact": "Raquel Gayle",
       "phone": "301-405-2222",
-      "attachments": []
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stamp-Student-Union---Northwest-Corner-Entrance-near-Fieldhouse-Drive%2C-Sidewalk-and-Entrance-Closures%2C-October-12-%28Map%29-%282%29.pdf"
+      ]
     },
-    "xfinity-center-2": {
-      "section": "elevators",
-      "title": "Xfinity Center",
-      "area": "Elevator Car 1 (freight elevator)",
-      "start": "10-02-2026 6:15 pm",
-      "finish": "10-02-2026 10:15 pm",
-      "repairType": "Elevator Outage",
-      "description": "Elevator Car 1 (freight elevator) at the Xfinity Center has been taken out of service to perform emergency maintenance repairs.",
-      "impactType": "Emergency",
-      "contact": "Shane Kogok",
+    "yale-avenue": {
+      "section": "roads",
+      "title": "Yale Avenue",
+      "area": "South of Fraternity Houses 9 through 11, between the Hillel Building and Princeton Avenue",
+      "start": "10-09-2026 9:00 am",
+      "finish": "10-16-2026 5:00 pm",
+      "repairType": "Parking Space Closures and Partial Road Closure",
+      "description": "A partial roadway closure of Yale Ave south of Fraternity Houses 9 thru 11, between the Hillel Building and Princeton Ave, to accommodate roadway and curb repairs. Parking spaces within the designated work site will be closed and unavailable for use.",
+      "impactType": "Planned",
+      "contact": "Kendra Howard",
       "phone": "301-405-2222",
-      "attachments": []
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Yale-Ave---Fall-Break-Work-Area-%282%29.pdf"
+      ]
+    },
+    "stadium-drive": {
+      "section": "roads",
+      "title": "Stadium Drive",
+      "area": "Near Intersections at Valley Drive and Hagerstown Drive.",
+      "start": "10-08-2026 7:00 am",
+      "finish": "10-12-2026 5:00 pm",
+      "repairType": "Partial Roadway Closure, Sidewalk Closure",
+      "description": "Sidewalk closures near Stadium Dr. at Valley Dr. and at the south exit to Hagerstown Dr. will occur for ADA compliance upgrades to the sidewalk areas and ramps. The south exit of Hagerstown Dr. at Stadium Dr. will be closed during the sidewalk work.",
+      "impactType": "Planned",
+      "contact": "Charles Patterson",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Drive-%283%29.png"
+      ]
     }
   }
 }

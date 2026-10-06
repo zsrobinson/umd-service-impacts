@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-05T06:47:00-04:00",
+  "fetchedAt": "2026-10-06T06:47:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -499,7 +499,7 @@
       "notice": "emergency",
       "resolved": false,
       "start": "2026-09-17T14:00:00-04:00",
-      "end": null,
+      "end": "2026-10-05T12:00:00-04:00",
       "area": "Fourth Floor of Wing 2",
       "repairType": "HVAC Heating Outage",
       "description": "Emergency repairs are needed on the HVAC equipment that provides heating to the fourth floor of Wing 2 at the Biology-Psychology Building, resulting in a heating outage in this area of the building.",
@@ -638,59 +638,7 @@
       ]
     },
     {
-      "id": "chemistry",
-      "title": "Labs 2219 and 2221 closed for flooring installation",
-      "sourceTitle": "Chemistry Building",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-03T05:00:00-04:00",
-      "end": "2026-10-04T05:00:00-04:00",
-      "area": "Lab Rooms 2219 and 2221",
-      "repairType": "Flooring Installation",
-      "description": "To complete the installation of MMA flooring",
-      "contacts": [
-        "Cornell Jones"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "construction",
-      "services": [
-        "Lab access"
-      ],
-      "precision": "building",
-      "places": [
-        "building-chemistry-building"
-      ]
-    },
-    {
       "id": "cumberland-hall",
-      "title": "Elevator cars 1 and 2 out of service for early-morning maintenance",
-      "sourceTitle": "Cumberland Hall",
-      "section": "elevators",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-01T04:00:00-04:00",
-      "end": "2026-10-02T08:00:00-04:00",
-      "area": "Elevator Car 1 and 2",
-      "repairType": "Elevator Outage",
-      "description": "There will be planned elevator maintenance work in Cumberland Hall that will result in elevator cars 1 and 2 being taken out of service. Work will occur daily, 4am - 8am.",
-      "contacts": [
-        "Chris O'Dea"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "elevator",
-      "services": [
-        "Elevator"
-      ],
-      "precision": "building",
-      "places": [
-        "building-cumberland-hall"
-      ]
-    },
-    {
-      "id": "cumberland-hall-2",
       "title": "Elevator car 1 modernization",
       "sourceTitle": "Cumberland Hall",
       "section": "elevators",
@@ -895,7 +843,7 @@
       "notice": "unplanned",
       "resolved": false,
       "start": "2026-10-04T02:30:00-04:00",
-      "end": null,
+      "end": "2026-10-05T12:00:00-04:00",
       "area": "Elevator 1 (passenger elevator)",
       "repairType": "Elevator Outage",
       "description": "Elevator car 1 at Easton Hall is currently out of service and unavailable for use.",
@@ -914,30 +862,94 @@
       ]
     },
     {
-      "id": "xfinity-center-2",
-      "title": "Freight elevator car 1 out of service",
-      "sourceTitle": "Xfinity Center",
-      "section": "elevators",
-      "notice": "emergency",
+      "id": "stamp-student-union",
+      "title": "Northwest entrance and Hoff Theater stairwell closed for lift work",
+      "sourceTitle": "Stamp Student Union",
+      "section": "outages",
+      "notice": "planned",
       "resolved": false,
-      "start": "2026-10-02T18:15:00-04:00",
-      "end": "2026-10-02T22:15:00-04:00",
-      "area": "Elevator Car 1 (freight elevator)",
-      "repairType": "Elevator Outage",
-      "description": "Elevator Car 1 (freight elevator) at the Xfinity Center has been taken out of service to perform emergency maintenance repairs.",
+      "start": "2026-10-12T06:00:00-04:00",
+      "end": "2026-10-12T18:00:00-04:00",
+      "area": "Northwest Corner Entrance and Hoff Theater Stairwell near Fieldhouse Drive.",
+      "repairType": "Sidewalk Closure, Building Entrance Closures",
+      "description": "A sidewalk and entrance closure will occur at the northwest corner entrance and the Hoff Theater stairwell of Stamp Student Union near Fieldhouse Drive to accommodate lift work for gutter replacement and lighting repairs.",
       "contacts": [
-        "Shane Kogok"
+        "Raquel Gayle"
       ],
       "phone": "301-405-2222",
-      "attachments": [],
-      "category": "elevator",
-      "services": [
-        "Freight elevator"
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stamp-Student-Union---Northwest-Corner-Entrance-near-Fieldhouse-Drive%2C-Sidewalk-and-Entrance-Closures%2C-October-12-%28Map%29-%282%29.pdf"
       ],
-      "precision": "building",
+      "category": "sidewalk",
+      "services": [
+        "Entrance",
+        "Sidewalk"
+      ],
+      "precision": "approximate",
       "places": [
-        "building-xfinity-center"
-      ]
+        "building-adele-h-stamp-student-union"
+      ],
+      "locationNote": "Only the northwest corner entrance and Hoff Theater stairwell near Fieldhouse Drive are closed; shown at the building."
+    },
+    {
+      "id": "yale-avenue",
+      "title": "Yale Avenue partly closed for road and curb repairs",
+      "sourceTitle": "Yale Avenue",
+      "section": "roads",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-09T09:00:00-04:00",
+      "end": "2026-10-16T17:00:00-04:00",
+      "area": "South of Fraternity Houses 9 through 11, between the Hillel Building and Princeton Avenue",
+      "repairType": "Parking Space Closures and Partial Road Closure",
+      "description": "A partial roadway closure of Yale Ave south of Fraternity Houses 9 thru 11, between the Hillel Building and Princeton Ave, to accommodate roadway and curb repairs. Parking spaces within the designated work site will be closed and unavailable for use.",
+      "contacts": [
+        "Kendra Howard"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Yale-Ave---Fall-Break-Work-Area-%282%29.pdf"
+      ],
+      "category": "road",
+      "services": [
+        "Road",
+        "Parking"
+      ],
+      "precision": "approximate",
+      "places": [
+        "building-rosenbloom-hillel-center-for-jewish-life"
+      ],
+      "locationNote": "Yale Avenue is not in the map data; the work is between the Hillel building and Princeton Avenue, so it is shown at Hillel."
+    },
+    {
+      "id": "stadium-drive",
+      "title": "Sidewalk closures and Hagerstown Drive exit closed on Stadium Drive",
+      "sourceTitle": "Stadium Drive",
+      "section": "roads",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-08T07:00:00-04:00",
+      "end": "2026-10-12T17:00:00-04:00",
+      "area": "Near Intersections at Valley Drive and Hagerstown Drive.",
+      "repairType": "Partial Roadway Closure, Sidewalk Closure",
+      "description": "Sidewalk closures near Stadium Dr. at Valley Dr. and at the south exit to Hagerstown Dr. will occur for ADA compliance upgrades to the sidewalk areas and ramps. The south exit of Hagerstown Dr. at Stadium Dr. will be closed during the sidewalk work.",
+      "contacts": [
+        "Charles Patterson"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Drive-%283%29.png"
+      ],
+      "category": "sidewalk",
+      "services": [
+        "Sidewalk",
+        "Road"
+      ],
+      "precision": "approximate",
+      "places": [
+        "road-stadium-drive"
+      ],
+      "locationNote": "Work is near the Valley Drive intersection and the south exit to Hagerstown Drive; the whole road is shown."
     }
   ]
 }
