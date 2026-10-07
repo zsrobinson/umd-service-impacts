@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-06T06:47:00-04:00",
+  "fetchedAt": "2026-10-07T06:47:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -458,66 +458,6 @@
       ]
     },
     {
-      "id": "severn",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "Severn Building",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-05T06:00:00-04:00",
-      "end": "2026-10-05T16:00:00-04:00",
-      "area": "Entire Building.",
-      "repairType": "Fire Alarm System and Suppression Testing and Inspection",
-      "description": "To test the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence L Brown jr"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "approximate",
-      "places": [
-        {
-          "label": "Severn Building (location not given)",
-          "point": [
-            -76.9426,
-            38.9861
-          ]
-        }
-      ],
-      "locationNote": "The notice doesn't say where the Severn Building is and it isn't in the map data, so it is pinned at the centre of campus."
-    },
-    {
-      "id": "biology-psychology",
-      "title": "Heating outage on the fourth floor of Wing 2",
-      "sourceTitle": "Biology-Psychology Building",
-      "section": "outages",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-09-17T14:00:00-04:00",
-      "end": "2026-10-05T12:00:00-04:00",
-      "area": "Fourth Floor of Wing 2",
-      "repairType": "HVAC Heating Outage",
-      "description": "Emergency repairs are needed on the HVAC equipment that provides heating to the fourth floor of Wing 2 at the Biology-Psychology Building, resulting in a heating outage in this area of the building.",
-      "contacts": [
-        "Michael Dickman"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "hvac",
-      "services": [
-        "Heating"
-      ],
-      "precision": "building",
-      "places": [
-        "building-biology-psychology-building"
-      ]
-    },
-    {
       "id": "mckeldin-library",
       "title": "Rooftop painting",
       "sourceTitle": "McKeldin Library",
@@ -753,24 +693,25 @@
     },
     {
       "id": "james-clark-hall",
-      "title": "Possible reduced lab compressed air during compressor replacement",
+      "title": "Elevator outage and brief emergency power interruptions for electrical work",
       "sourceTitle": "A. James Clark Hall",
       "section": "outages",
       "notice": "planned",
       "resolved": false,
-      "start": "2026-10-12T05:00:00-04:00",
-      "end": "2026-10-13T17:00:00-04:00",
+      "start": "2026-10-12T08:00:00-04:00",
+      "end": "2026-10-12T17:00:00-04:00",
       "area": "Entire Building.",
-      "repairType": "Possible Reduction of Lab Compressed Air",
-      "description": "There will be a possible reduction of lab compressed air in A. James Clark Hall while FM HVAC Operations replaces air compressors in the building. A temporary air compressor will be operating to maintain lab equipment compressed air needs.",
+      "repairType": "Electrical Work, Emergency Power Testing, Elevator Outage",
+      "description": "Planned electrical work will affect elevator access in the building. It will also briefly interrupt emergency power to the following areas: the vivarium, the MRI, engineering labs, and the audiovisual equipment serving Forum 1101 and rooms 1105 and 1229.",
       "contacts": [
-        "John Cole"
+        "Antonio Sanchez"
       ],
       "phone": "301-405-2222",
       "attachments": [],
-      "category": "other",
+      "category": "electrical",
       "services": [
-        "Lab compressed air"
+        "Elevator",
+        "Emergency power"
       ],
       "precision": "building",
       "places": [
@@ -833,32 +774,6 @@
       "places": [
         "building-a-v-williams-building",
         "building-computer-science-instructional-center"
-      ]
-    },
-    {
-      "id": "easton-hall",
-      "title": "Elevator car 1 out of service",
-      "sourceTitle": "Easton Hall",
-      "section": "elevators",
-      "notice": "unplanned",
-      "resolved": false,
-      "start": "2026-10-04T02:30:00-04:00",
-      "end": "2026-10-05T12:00:00-04:00",
-      "area": "Elevator 1 (passenger elevator)",
-      "repairType": "Elevator Outage",
-      "description": "Elevator car 1 at Easton Hall is currently out of service and unavailable for use.",
-      "contacts": [
-        "Shane Kogok"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "elevator",
-      "services": [
-        "Elevator"
-      ],
-      "precision": "building",
-      "places": [
-        "building-easton-hall"
       ]
     },
     {
@@ -950,6 +865,121 @@
         "road-stadium-drive"
       ],
       "locationNote": "Work is near the Valley Drive intersection and the south exit to Hagerstown Drive; the whole road is shown."
+    },
+    {
+      "id": "animal-sciences-agricultural-engineering",
+      "title": "Electrical outage affecting power, HVAC, elevators and lab ventilation",
+      "sourceTitle": "Animal Sciences / Agricultural Engineering Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-13T04:00:00-04:00",
+      "end": "2026-10-13T06:00:00-04:00",
+      "area": "Entire building; varying impacts occurring depending on the wing of the building",
+      "repairType": "Electrical Outage",
+      "description": "Electrical outage at the Animal Sciences / Agricultural Engineering Building that may impact normal electricity to outlets and lighting, HVAC services for heating and air conditioning, elevator service, and lab ventilation during the outage.",
+      "contacts": [
+        "Antonio Sanchez"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/University-of-Maryland%2C-College-Park-Mail---Animal-Sciences-_-Agricultural-Engineering-Building%2C-Electrical-Outage%2C-October-13-%28Outage-Notice-Email%29.pdf"
+      ],
+      "category": "electrical",
+      "services": [
+        "Power",
+        "HVAC",
+        "Elevator"
+      ],
+      "precision": "approximate",
+      "places": [
+        {
+          "label": "Animal Sciences / Agricultural Engineering Building (location not given)",
+          "point": [
+            -76.9426,
+            38.9861
+          ]
+        }
+      ],
+      "locationNote": "The notice doesn't say where the Animal Sciences / Agricultural Engineering Building is and it isn't in the map data, so it is pinned at the centre of campus."
+    },
+    {
+      "id": "francis-scott-key-hall",
+      "title": "Fire alarm testing for new devices in renovated restrooms",
+      "sourceTitle": "Francis Scott Key Hall",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-12T07:00:00-04:00",
+      "end": "2026-10-12T15:00:00-04:00",
+      "area": "Fire Alarm Testing: Entire Building; Installation/Testing Work: Restrooms 0108 and 0112",
+      "repairType": "Fire Alarm Testing and Inspection Work",
+      "description": "Fire alarm system testing and inspection will occur at Francis Scott Key Hall to install and test new fire alarm devices in renovated restrooms 0108 and 0112.",
+      "contacts": [
+        "Adesanmi Fajemisin"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm"
+      ],
+      "precision": "building",
+      "places": [
+        "building-francis-scott-key-hall"
+      ]
+    },
+    {
+      "id": "james-clark-hall-2",
+      "title": "Possible reduced lab compressed air during compressor replacement",
+      "sourceTitle": "A. James Clark Hall",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-12T05:00:00-04:00",
+      "end": "2026-10-13T17:00:00-04:00",
+      "area": "Entire Building.",
+      "repairType": "Possible Reduction of Lab Compressed Air",
+      "description": "There will be a possible reduction of lab compressed air in A. James Clark Hall while FM HVAC Operations replaces air compressors in the building. A temporary air compressor will be operating to maintain lab equipment compressed air needs.",
+      "contacts": [
+        "John Cole"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "other",
+      "services": [
+        "Lab compressed air"
+      ],
+      "precision": "building",
+      "places": [
+        "building-a-james-clark-hall"
+      ]
+    },
+    {
+      "id": "stamp-student-union-2",
+      "title": "Heating outage from a leaking hot water line",
+      "sourceTitle": "Stamp Student Union",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-10-06T15:55:00-04:00",
+      "end": null,
+      "area": "Entire Building.",
+      "repairType": "Heating Outage",
+      "description": "There is currently a heating outage at the Stamp Student Union due to a leak in a heating hot water line that supports the building. Work to repair the leak is underway.",
+      "contacts": [
+        "Horacio Torres"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating"
+      ],
+      "precision": "building",
+      "places": [
+        "building-adele-h-stamp-student-union"
+      ]
     }
   ]
 }

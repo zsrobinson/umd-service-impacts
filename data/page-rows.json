@@ -1,6 +1,6 @@
 {
-  "pageHash": "063f6b019b47287f",
-  "changedAt": "2026-10-06T06:47:00-04:00",
+  "pageHash": "1fd6b7a78d14db49",
+  "changedAt": "2026-10-07T06:47:00-04:00",
   "rows": {
     "riggs-alumni-center": {
       "section": "outages",
@@ -34,14 +34,29 @@
       "section": "outages",
       "title": "A. James Clark Hall",
       "area": "Entire Building.",
-      "start": "10-12-2026 5:00 am",
-      "finish": "10-13-2026 5:00 pm",
-      "repairType": "Possible Reduction of Lab Compressed Air",
-      "description": "There will be a possible reduction of lab compressed air in A. James Clark Hall while FM HVAC Operations replaces air compressors in the building. A temporary air compressor will be operating to maintain lab equipment compressed air needs.",
+      "start": "10-12-2026 8:00 am",
+      "finish": "10-12-2026 5:00 pm",
+      "repairType": "Electrical Work, Emergency Power Testing, Elevator Outage",
+      "description": "Planned electrical work will affect elevator access in the building. It will also briefly interrupt emergency power to the following areas: the vivarium, the MRI, engineering labs, and the audiovisual equipment serving Forum 1101 and rooms 1105 and 1229.",
       "impactType": "Planned",
-      "contact": "John Cole",
+      "contact": "Antonio Sanchez",
       "phone": "301-405-2222",
       "attachments": []
+    },
+    "stamp-student-union": {
+      "section": "outages",
+      "title": "Stamp Student Union",
+      "area": "Northwest Corner Entrance and Hoff Theater Stairwell near Fieldhouse Drive.",
+      "start": "10-12-2026 6:00 am",
+      "finish": "10-12-2026 6:00 pm",
+      "repairType": "Sidewalk Closure, Building Entrance Closures",
+      "description": "A sidewalk and entrance closure will occur at the northwest corner entrance and the Hoff Theater stairwell of Stamp Student Union near Fieldhouse Drive to accommodate lift work for gutter replacement and lighting repairs.",
+      "impactType": "Planned",
+      "contact": "Raquel Gayle",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stamp-Student-Union---Northwest-Corner-Entrance-near-Fieldhouse-Drive%2C-Sidewalk-and-Entrance-Closures%2C-October-12-%28Map%29-%282%29.pdf"
+      ]
     },
     "steam-steam-pressure-reduction-north-campus": {
       "section": "outages",
@@ -138,19 +153,6 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "severn": {
-      "section": "outages",
-      "title": "Severn Building",
-      "area": "Entire Building.",
-      "start": "10-05-2026 6:00 am",
-      "finish": "10-05-2026 4:00 pm",
-      "repairType": "Fire Alarm System and Suppression Testing and Inspection",
-      "description": "To test the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence L Brown jr",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "mckeldin-library": {
       "section": "outages",
       "title": "McKeldin Library",
@@ -209,19 +211,6 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Microbiology-T.A.P.-Map.png"
       ]
     },
-    "biology-psychology": {
-      "section": "outages",
-      "title": "Biology-Psychology Building",
-      "area": "Fourth Floor of Wing 2",
-      "start": "09-17-2026 2:00 pm",
-      "finish": "10-05-2026 12:00 pm",
-      "repairType": "HVAC Heating Outage",
-      "description": "Emergency repairs are needed on the HVAC equipment that provides heating to the fourth floor of Wing 2 at the Biology-Psychology Building, resulting in a heating outage in this area of the building.",
-      "impactType": "Emergency",
-      "contact": "Michael Dickman",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "manufacturing-m1101-ac": {
       "section": "outages",
       "title": "Manufacturing Building",
@@ -265,6 +254,21 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Temporary-Sidewalk-Closure-areas-%281%29.pdf"
       ]
     },
+    "yale-avenue": {
+      "section": "roads",
+      "title": "Yale Avenue",
+      "area": "South of Fraternity Houses 9 through 11, between the Hillel Building and Princeton Avenue",
+      "start": "10-09-2026 9:00 am",
+      "finish": "10-16-2026 5:00 pm",
+      "repairType": "Parking Space Closures and Partial Road Closure",
+      "description": "A partial roadway closure of Yale Ave south of Fraternity Houses 9 thru 11, between the Hillel Building and Princeton Ave, to accommodate roadway and curb repairs. Parking spaces within the designated work site will be closed and unavailable for use.",
+      "impactType": "Planned",
+      "contact": "Kendra Howard",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Yale-Ave---Fall-Break-Work-Area-%282%29.pdf"
+      ]
+    },
     "alumni-drive-parking-lot-z": {
       "section": "roads",
       "title": "Alumni Drive, Parking Lot Z",
@@ -278,6 +282,21 @@
       "phone": "301-405-2222",
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Alumni-Drive-Roadway-Closure-and-Parking-Lot-Z-Parking-Space-Closures%2C-October-9---October-13-%28Map%29.pdf"
+      ]
+    },
+    "stadium-drive": {
+      "section": "roads",
+      "title": "Stadium Drive",
+      "area": "Near Intersections at Valley Drive and Hagerstown Drive.",
+      "start": "10-08-2026 7:00 am",
+      "finish": "10-12-2026 5:00 pm",
+      "repairType": "Partial Roadway Closure, Sidewalk Closure",
+      "description": "Sidewalk closures near Stadium Dr. at Valley Dr. and at the south exit to Hagerstown Dr. will occur for ADA compliance upgrades to the sidewalk areas and ramps. The south exit of Hagerstown Dr. at Stadium Dr. will be closed during the sidewalk work.",
+      "impactType": "Planned",
+      "contact": "Charles Patterson",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Drive-%283%29.png"
       ]
     },
     "fieldhouse-drive-closure": {
@@ -340,19 +359,6 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
       ]
     },
-    "easton-hall": {
-      "section": "elevators",
-      "title": "Easton Hall",
-      "area": "Elevator 1 (passenger elevator)",
-      "start": "10-04-2026 2:30 am",
-      "finish": "10-05-2026 12:00 pm",
-      "repairType": "Elevator Outage",
-      "description": "Elevator car 1 at Easton Hall is currently out of service and unavailable for use.",
-      "impactType": "Unplanned",
-      "contact": "Shane Kogok",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "cumberland-hall": {
       "section": "elevators",
       "title": "Cumberland Hall",
@@ -379,50 +385,59 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "stamp-student-union": {
+    "animal-sciences-agricultural-engineering": {
+      "section": "outages",
+      "title": "Animal Sciences / Agricultural Engineering Building",
+      "area": "Entire building; varying impacts occurring depending on the wing of the building **See copy of the notice attached for further details**",
+      "start": "10-13-2026 4:00 am",
+      "finish": "10-13-2026 6:00 am",
+      "repairType": "Electrical Outage",
+      "description": "Electrical outage at the Animal Sciences / Agricultural Engineering Building that may impact normal electricity to outlets and lighting, HVAC services for heating and air conditioning, elevator service, and lab ventilation during the outage.",
+      "impactType": "Planned",
+      "contact": "Antonio Sanchez",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/University-of-Maryland%2C-College-Park-Mail---Animal-Sciences-_-Agricultural-Engineering-Building%2C-Electrical-Outage%2C-October-13-%28Outage-Notice-Email%29.pdf"
+      ]
+    },
+    "francis-scott-key-hall": {
+      "section": "outages",
+      "title": "Francis Scott Key Hall",
+      "area": "Fire Alarm Testing: Entire Building; Installation/Testing Work: Restrooms 0108 and 0112",
+      "start": "10-12-2026 7:00 am",
+      "finish": "10-12-2026 3:00 pm",
+      "repairType": "Fire Alarm Testing and Inspection Work",
+      "description": "Fire alarm system testing and inspection will occur at Francis Scott Key Hall to install and test new fire alarm devices in renovated restrooms 0108 and 0112.",
+      "impactType": "Planned",
+      "contact": "Adesanmi Fajemisin",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "james-clark-hall-2": {
+      "section": "outages",
+      "title": "A. James Clark Hall",
+      "area": "Entire Building.",
+      "start": "10-12-2026 5:00 am",
+      "finish": "10-13-2026 5:00 pm",
+      "repairType": "Possible Reduction of Lab Compressed Air",
+      "description": "There will be a possible reduction of lab compressed air in A. James Clark Hall while FM HVAC Operations replaces air compressors in the building. A temporary air compressor will be operating to maintain lab equipment compressed air needs.",
+      "impactType": "Planned",
+      "contact": "John Cole",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "stamp-student-union-2": {
       "section": "outages",
       "title": "Stamp Student Union",
-      "area": "Northwest Corner Entrance and Hoff Theater Stairwell near Fieldhouse Drive.",
-      "start": "10-12-2026 6:00 am",
-      "finish": "10-12-2026 6:00 pm",
-      "repairType": "Sidewalk Closure, Building Entrance Closures",
-      "description": "A sidewalk and entrance closure will occur at the northwest corner entrance and the Hoff Theater stairwell of Stamp Student Union near Fieldhouse Drive to accommodate lift work for gutter replacement and lighting repairs.",
-      "impactType": "Planned",
-      "contact": "Raquel Gayle",
+      "area": "Entire Building.",
+      "start": "10-06-2026 3:55 pm",
+      "finish": "",
+      "repairType": "Heating Outage",
+      "description": "There is currently a heating outage at the Stamp Student Union due to a leak in a heating hot water line that supports the building. Work to repair the leak is underway.",
+      "impactType": "Emergency",
+      "contact": "Horacio Torres",
       "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stamp-Student-Union---Northwest-Corner-Entrance-near-Fieldhouse-Drive%2C-Sidewalk-and-Entrance-Closures%2C-October-12-%28Map%29-%282%29.pdf"
-      ]
-    },
-    "yale-avenue": {
-      "section": "roads",
-      "title": "Yale Avenue",
-      "area": "South of Fraternity Houses 9 through 11, between the Hillel Building and Princeton Avenue",
-      "start": "10-09-2026 9:00 am",
-      "finish": "10-16-2026 5:00 pm",
-      "repairType": "Parking Space Closures and Partial Road Closure",
-      "description": "A partial roadway closure of Yale Ave south of Fraternity Houses 9 thru 11, between the Hillel Building and Princeton Ave, to accommodate roadway and curb repairs. Parking spaces within the designated work site will be closed and unavailable for use.",
-      "impactType": "Planned",
-      "contact": "Kendra Howard",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Yale-Ave---Fall-Break-Work-Area-%282%29.pdf"
-      ]
-    },
-    "stadium-drive": {
-      "section": "roads",
-      "title": "Stadium Drive",
-      "area": "Near Intersections at Valley Drive and Hagerstown Drive.",
-      "start": "10-08-2026 7:00 am",
-      "finish": "10-12-2026 5:00 pm",
-      "repairType": "Partial Roadway Closure, Sidewalk Closure",
-      "description": "Sidewalk closures near Stadium Dr. at Valley Dr. and at the south exit to Hagerstown Dr. will occur for ADA compliance upgrades to the sidewalk areas and ramps. The south exit of Hagerstown Dr. at Stadium Dr. will be closed during the sidewalk work.",
-      "impactType": "Planned",
-      "contact": "Charles Patterson",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Drive-%283%29.png"
-      ]
+      "attachments": []
     }
   }
 }
