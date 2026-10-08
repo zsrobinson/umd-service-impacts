@@ -1,6 +1,6 @@
 {
-  "pageHash": "1fd6b7a78d14db49",
-  "changedAt": "2026-10-07T06:47:00-04:00",
+  "pageHash": "270fb0739eb72f18",
+  "changedAt": "2026-10-08T06:48:00-04:00",
   "rows": {
     "riggs-alumni-center": {
       "section": "outages",
@@ -15,6 +15,34 @@
       "phone": "301-405-2222",
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Riggs-Alumni-Sidewalk-Closure.pdf"
+      ]
+    },
+    "francis-scott-key-hall": {
+      "section": "outages",
+      "title": "Francis Scott Key Hall",
+      "area": "Fire Alarm Testing: Entire Building; Installation/Testing Work: Restrooms 0108 and 0112",
+      "start": "10-13-2026 7:00 am",
+      "finish": "10-13-2026 8:00 am",
+      "repairType": "Fire Alarm Testing and Inspection Work",
+      "description": "Fire alarm system testing and inspection will occur at Francis Scott Key Hall to install and test new fire alarm devices in renovated restrooms 0108 and 0112.",
+      "impactType": "Planned",
+      "contact": "Adesanmi Fajemisin",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "animal-sciences-agricultural-engineering": {
+      "section": "outages",
+      "title": "Animal Sciences / Agricultural Engineering Building",
+      "area": "Entire building; varying impacts occurring depending on the wing of the building **See copy of the notice attached for further details**",
+      "start": "10-13-2026 4:00 am",
+      "finish": "10-13-2026 6:00 am",
+      "repairType": "Electrical Outage",
+      "description": "Electrical outage at the Animal Sciences / Agricultural Engineering Building that may impact normal electricity to outlets and lighting, HVAC services for heating and air conditioning, elevator service, and lab ventilation during the outage.",
+      "impactType": "Planned",
+      "contact": "Antonio Sanchez",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/University-of-Maryland%2C-College-Park-Mail---Animal-Sciences-_-Agricultural-Engineering-Building%2C-Electrical-Outage%2C-October-13-%28Outage-Notice-Email%29.pdf"
       ]
     },
     "v-williams": {
@@ -57,6 +85,19 @@
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stamp-Student-Union---Northwest-Corner-Entrance-near-Fieldhouse-Drive%2C-Sidewalk-and-Entrance-Closures%2C-October-12-%28Map%29-%282%29.pdf"
       ]
+    },
+    "james-clark-hall-2": {
+      "section": "outages",
+      "title": "A. James Clark Hall",
+      "area": "Entire Building.",
+      "start": "10-12-2026 5:00 am",
+      "finish": "10-13-2026 5:00 pm",
+      "repairType": "Possible Reduction of Lab Compressed Air",
+      "description": "There will be a possible reduction of lab compressed air in A. James Clark Hall while FM HVAC Operations replaces air compressors in the building. A temporary air compressor will be operating to maintain lab equipment compressed air needs.",
+      "impactType": "Planned",
+      "contact": "John Cole",
+      "phone": "301-405-2222",
+      "attachments": []
     },
     "steam-steam-pressure-reduction-north-campus": {
       "section": "outages",
@@ -140,16 +181,16 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "chemical-nuclear-engineering": {
+    "stamp-student-union-2": {
       "section": "outages",
-      "title": "Chemical and Nuclear Engineering Building",
+      "title": "Stamp Student Union",
       "area": "Entire Building.",
-      "start": "10-06-2026 6:00 am",
-      "finish": "10-06-2026 4:00 pm",
-      "repairType": "Fire Alarm System and Suppression Testing and Inspection",
-      "description": "To test the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence L Brown jr",
+      "start": "10-06-2026 3:55 pm",
+      "finish": "",
+      "repairType": "Heating Outage",
+      "description": "There is currently a heating outage at the Stamp Student Union due to a leak in a heating hot water line that supports the building. Work to repair the leak is underway.",
+      "impactType": "Emergency",
+      "contact": "Horacio Torres",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -239,6 +280,21 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/148---Urgent-Outage-Notice-HVAC-Cooling.png"
       ]
     },
+    "stadium-drive": {
+      "section": "roads",
+      "title": "Stadium Drive",
+      "area": "South of the E.A. Fernandez IDEA Factory Building, between the Chemistry Lane and Engineering Drive Intersection to the Stanley Zupnik Hall loading dock.",
+      "start": "10-14-2026 6:00 am",
+      "finish": "04-30-2027 4:00 pm",
+      "repairType": "Sidewalk Closures, Roadway Closure",
+      "description": "Closure is occurring for the staging of crane equipment to support construction activities occurring in this area of campus.",
+      "impactType": "Planned",
+      "contact": "Randall Phillips",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Dr-Closure%2C-Crane-Setup%2C-Detours-%28Map%29.pdf"
+      ]
+    },
     "morrill-hall-quad": {
       "section": "roads",
       "title": "Morrill Hall Quad",
@@ -282,21 +338,6 @@
       "phone": "301-405-2222",
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Alumni-Drive-Roadway-Closure-and-Parking-Lot-Z-Parking-Space-Closures%2C-October-9---October-13-%28Map%29.pdf"
-      ]
-    },
-    "stadium-drive": {
-      "section": "roads",
-      "title": "Stadium Drive",
-      "area": "Near Intersections at Valley Drive and Hagerstown Drive.",
-      "start": "10-08-2026 7:00 am",
-      "finish": "10-12-2026 5:00 pm",
-      "repairType": "Partial Roadway Closure, Sidewalk Closure",
-      "description": "Sidewalk closures near Stadium Dr. at Valley Dr. and at the south exit to Hagerstown Dr. will occur for ADA compliance upgrades to the sidewalk areas and ramps. The south exit of Hagerstown Dr. at Stadium Dr. will be closed during the sidewalk work.",
-      "impactType": "Planned",
-      "contact": "Charles Patterson",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Drive-%283%29.png"
       ]
     },
     "fieldhouse-drive-closure": {
@@ -385,57 +426,57 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "animal-sciences-agricultural-engineering": {
+    "avrum-gudelsky-veterinary-center": {
       "section": "outages",
-      "title": "Animal Sciences / Agricultural Engineering Building",
-      "area": "Entire building; varying impacts occurring depending on the wing of the building **See copy of the notice attached for further details**",
-      "start": "10-13-2026 4:00 am",
-      "finish": "10-13-2026 6:00 am",
-      "repairType": "Electrical Outage",
-      "description": "Electrical outage at the Animal Sciences / Agricultural Engineering Building that may impact normal electricity to outlets and lighting, HVAC services for heating and air conditioning, elevator service, and lab ventilation during the outage.",
+      "title": "Avrum Gudelsky Veterinary Center",
+      "area": "Entire Building.",
+      "start": "10-08-2026 6:00 am",
+      "finish": "10-08-2026 12:00 pm",
+      "repairType": "Domestic Hot Water Outage",
+      "description": "There will be an emergency domestic hot water outage at the Avrum Gudelsky Veterinary Center to accommodate urgent repairs to a domestic hot water valve in the building.",
+      "impactType": "Emergency",
+      "contact": "Daniel Narh",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "hornbake-library": {
+      "section": "outages",
+      "title": "Hornbake Library",
+      "area": "0300 Classroom and Media Center Areas",
+      "start": "10-07-2026 5:40 pm",
+      "finish": "",
+      "repairType": "Heating Outage, Air Conditioning Outage",
+      "description": "The 0300 classroom and media center areas in the Hornbake Library are currently experiencing a heating and air conditioning outage due to emergency repairs on the HVAC equipment supporting this area of the building.",
+      "impactType": "Unplanned",
+      "contact": "Michael Dickman",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "stadium-drive-2": {
+      "section": "roads",
+      "title": "Stadium Drive",
+      "area": "Near Intersections at Valley Drive and Hagerstown Drive.",
+      "start": "10-08-2026 7:00 am",
+      "finish": "10-12-2026 5:00 pm",
+      "repairType": "Partial Roadway Closure, Sidewalk Closure",
+      "description": "Sidewalk closures near Stadium Dr. at Valley Dr. and at the south exit to Hagerstown Dr. will occur for ADA compliance upgrades to the sidewalk areas and ramps. The south exit of Hagerstown Dr. at Stadium Dr. will be closed during the sidewalk work.",
       "impactType": "Planned",
-      "contact": "Antonio Sanchez",
+      "contact": "Charles Patterson",
       "phone": "301-405-2222",
       "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/University-of-Maryland%2C-College-Park-Mail---Animal-Sciences-_-Agricultural-Engineering-Building%2C-Electrical-Outage%2C-October-13-%28Outage-Notice-Email%29.pdf"
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Drive-%283%29.png"
       ]
     },
-    "francis-scott-key-hall": {
-      "section": "outages",
-      "title": "Francis Scott Key Hall",
-      "area": "Fire Alarm Testing: Entire Building; Installation/Testing Work: Restrooms 0108 and 0112",
-      "start": "10-12-2026 7:00 am",
-      "finish": "10-12-2026 3:00 pm",
-      "repairType": "Fire Alarm Testing and Inspection Work",
-      "description": "Fire alarm system testing and inspection will occur at Francis Scott Key Hall to install and test new fire alarm devices in renovated restrooms 0108 and 0112.",
-      "impactType": "Planned",
-      "contact": "Adesanmi Fajemisin",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "james-clark-hall-2": {
-      "section": "outages",
-      "title": "A. James Clark Hall",
-      "area": "Entire Building.",
-      "start": "10-12-2026 5:00 am",
-      "finish": "10-13-2026 5:00 pm",
-      "repairType": "Possible Reduction of Lab Compressed Air",
-      "description": "There will be a possible reduction of lab compressed air in A. James Clark Hall while FM HVAC Operations replaces air compressors in the building. A temporary air compressor will be operating to maintain lab equipment compressed air needs.",
-      "impactType": "Planned",
-      "contact": "John Cole",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "stamp-student-union-2": {
-      "section": "outages",
-      "title": "Stamp Student Union",
-      "area": "Entire Building.",
-      "start": "10-06-2026 3:55 pm",
+    "hornbake-library-2": {
+      "section": "elevators",
+      "title": "Hornbake Library",
+      "area": "Elevator Car 1",
+      "start": "10-08-2026 6:00 am",
       "finish": "",
-      "repairType": "Heating Outage",
-      "description": "There is currently a heating outage at the Stamp Student Union due to a leak in a heating hot water line that supports the building. Work to repair the leak is underway.",
+      "repairType": "Elevator Outage",
+      "description": "Facilities Management crews are responding to an emergency maintenance repair for Elevator Car 1 at the Hornbake Library, which has resulted in the elevator being taken out of service.",
       "impactType": "Emergency",
-      "contact": "Horacio Torres",
+      "contact": "Shane Kogok",
       "phone": "301-405-2222",
       "attachments": []
     }

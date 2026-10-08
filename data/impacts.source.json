@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-07T06:47:00-04:00",
+  "fetchedAt": "2026-10-08T06:48:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -431,33 +431,6 @@
       ]
     },
     {
-      "id": "chemical-nuclear-engineering",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "Chemical and Nuclear Engineering Building",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-06T06:00:00-04:00",
-      "end": "2026-10-06T16:00:00-04:00",
-      "area": "Entire Building.",
-      "repairType": "Fire Alarm System and Suppression Testing and Inspection",
-      "description": "To test the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence L Brown jr"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-chemical-and-nuclear-engineering-building"
-      ]
-    },
-    {
       "id": "mckeldin-library",
       "title": "Rooftop painting",
       "sourceTitle": "McKeldin Library",
@@ -838,33 +811,33 @@
     },
     {
       "id": "stadium-drive",
-      "title": "Sidewalk closures and Hagerstown Drive exit closed on Stadium Drive",
+      "title": "Stadium Drive and sidewalks closed for crane staging",
       "sourceTitle": "Stadium Drive",
       "section": "roads",
       "notice": "planned",
       "resolved": false,
-      "start": "2026-10-08T07:00:00-04:00",
-      "end": "2026-10-12T17:00:00-04:00",
-      "area": "Near Intersections at Valley Drive and Hagerstown Drive.",
-      "repairType": "Partial Roadway Closure, Sidewalk Closure",
-      "description": "Sidewalk closures near Stadium Dr. at Valley Dr. and at the south exit to Hagerstown Dr. will occur for ADA compliance upgrades to the sidewalk areas and ramps. The south exit of Hagerstown Dr. at Stadium Dr. will be closed during the sidewalk work.",
+      "start": "2026-10-14T06:00:00-04:00",
+      "end": "2027-04-30T16:00:00-04:00",
+      "area": "South of the E.A. Fernandez IDEA Factory Building, between the Chemistry Lane and Engineering Drive Intersection to the Stanley Zupnik Hall loading dock.",
+      "repairType": "Sidewalk Closures, Roadway Closure",
+      "description": "Closure is occurring for the staging of crane equipment to support construction activities occurring in this area of campus.",
       "contacts": [
-        "Charles Patterson"
+        "Randall Phillips"
       ],
       "phone": "301-405-2222",
       "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Drive-%283%29.png"
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Dr-Closure%2C-Crane-Setup%2C-Detours-%28Map%29.pdf"
       ],
-      "category": "sidewalk",
+      "category": "road",
       "services": [
-        "Sidewalk",
-        "Road"
+        "Road",
+        "Sidewalk"
       ],
       "precision": "approximate",
       "places": [
-        "road-stadium-drive"
+        "building-e-a-fernandez-idea-factory"
       ],
-      "locationNote": "Work is near the Valley Drive intersection and the south exit to Hagerstown Drive; the whole road is shown."
+      "locationNote": "The closure is on Stadium Drive south of the IDEA Factory, from the Chemistry Lane and Engineering Drive intersection to the Zupnik Hall loading dock; shown at the IDEA Factory."
     },
     {
       "id": "animal-sciences-agricultural-engineering",
@@ -910,8 +883,8 @@
       "section": "outages",
       "notice": "planned",
       "resolved": false,
-      "start": "2026-10-12T07:00:00-04:00",
-      "end": "2026-10-12T15:00:00-04:00",
+      "start": "2026-10-13T07:00:00-04:00",
+      "end": "2026-10-13T08:00:00-04:00",
       "area": "Fire Alarm Testing: Entire Building; Installation/Testing Work: Restrooms 0108 and 0112",
       "repairType": "Fire Alarm Testing and Inspection Work",
       "description": "Fire alarm system testing and inspection will occur at Francis Scott Key Hall to install and test new fire alarm devices in renovated restrooms 0108 and 0112.",
@@ -979,6 +952,122 @@
       "precision": "building",
       "places": [
         "building-adele-h-stamp-student-union"
+      ]
+    },
+    {
+      "id": "avrum-gudelsky-veterinary-center",
+      "title": "Hot water outage for an urgent valve repair",
+      "sourceTitle": "Avrum Gudelsky Veterinary Center",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-10-08T06:00:00-04:00",
+      "end": "2026-10-08T12:00:00-04:00",
+      "area": "Entire Building.",
+      "repairType": "Domestic Hot Water Outage",
+      "description": "There will be an emergency domestic hot water outage at the Avrum Gudelsky Veterinary Center to accommodate urgent repairs to a domestic hot water valve in the building.",
+      "contacts": [
+        "Daniel Narh"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "water",
+      "services": [
+        "Hot water"
+      ],
+      "precision": "approximate",
+      "places": [
+        {
+          "label": "Avrum Gudelsky Veterinary Center (location not given)",
+          "point": [
+            -76.9426,
+            38.9861
+          ]
+        }
+      ],
+      "locationNote": "The notice doesn't say where the Avrum Gudelsky Veterinary Center is and it isn't in the map data, so it is pinned at the centre of campus."
+    },
+    {
+      "id": "hornbake-library",
+      "title": "Heating and air conditioning outage in the 0300 classroom and media center",
+      "sourceTitle": "Hornbake Library",
+      "section": "outages",
+      "notice": "unplanned",
+      "resolved": false,
+      "start": "2026-10-07T17:40:00-04:00",
+      "end": null,
+      "area": "0300 Classroom and Media Center Areas",
+      "repairType": "Heating Outage, Air Conditioning Outage",
+      "description": "The 0300 classroom and media center areas in the Hornbake Library are currently experiencing a heating and air conditioning outage due to emergency repairs on the HVAC equipment supporting this area of the building.",
+      "contacts": [
+        "Michael Dickman"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating",
+        "Air conditioning"
+      ],
+      "precision": "building",
+      "places": [
+        "building-hornbake-library"
+      ]
+    },
+    {
+      "id": "stadium-drive-2",
+      "title": "Sidewalk closures and Hagerstown Drive exit closed on Stadium Drive",
+      "sourceTitle": "Stadium Drive",
+      "section": "roads",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-08T07:00:00-04:00",
+      "end": "2026-10-12T17:00:00-04:00",
+      "area": "Near Intersections at Valley Drive and Hagerstown Drive.",
+      "repairType": "Partial Roadway Closure, Sidewalk Closure",
+      "description": "Sidewalk closures near Stadium Dr. at Valley Dr. and at the south exit to Hagerstown Dr. will occur for ADA compliance upgrades to the sidewalk areas and ramps. The south exit of Hagerstown Dr. at Stadium Dr. will be closed during the sidewalk work.",
+      "contacts": [
+        "Charles Patterson"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Drive-%283%29.png"
+      ],
+      "category": "sidewalk",
+      "services": [
+        "Sidewalk",
+        "Road"
+      ],
+      "precision": "approximate",
+      "places": [
+        "road-stadium-drive"
+      ],
+      "locationNote": "Work is near the Valley Drive intersection and the south exit to Hagerstown Drive; the whole road is shown."
+    },
+    {
+      "id": "hornbake-library-2",
+      "title": "Elevator car 1 out of service",
+      "sourceTitle": "Hornbake Library",
+      "section": "elevators",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-10-08T06:00:00-04:00",
+      "end": null,
+      "area": "Elevator Car 1",
+      "repairType": "Elevator Outage",
+      "description": "Facilities Management crews are responding to an emergency maintenance repair for Elevator Car 1 at the Hornbake Library, which has resulted in the elevator being taken out of service.",
+      "contacts": [
+        "Shane Kogok"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "elevator",
+      "services": [
+        "Elevator"
+      ],
+      "precision": "building",
+      "places": [
+        "building-hornbake-library"
       ]
     }
   ]
