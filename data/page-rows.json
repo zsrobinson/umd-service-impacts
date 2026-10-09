@@ -1,6 +1,6 @@
 {
-  "pageHash": "270fb0739eb72f18",
-  "changedAt": "2026-10-08T06:48:00-04:00",
+  "pageHash": "053ddcf93d603671",
+  "changedAt": "2026-10-09T06:47:00-04:00",
   "rows": {
     "riggs-alumni-center": {
       "section": "outages",
@@ -150,6 +150,32 @@
       "description": "To test the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
       "contact": "Clarence L Brown jr",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "avrum-gudelsky-veterinary-center": {
+      "section": "outages",
+      "title": "Avrum Gudelsky Veterinary Center",
+      "area": "Entire Building.",
+      "start": "10-08-2026 6:00 am",
+      "finish": "10-08-2026 12:00 pm",
+      "repairType": "Domestic Hot Water Outage",
+      "description": "There will be an emergency domestic hot water outage at the Avrum Gudelsky Veterinary Center to accommodate urgent repairs to a domestic hot water valve in the building.",
+      "impactType": "Emergency",
+      "contact": "Daniel Narh",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "hornbake-library": {
+      "section": "outages",
+      "title": "Hornbake Library",
+      "area": "0300 Classroom and Media Center Areas",
+      "start": "10-07-2026 5:40 pm",
+      "finish": "",
+      "repairType": "Heating Outage, Air Conditioning Outage",
+      "description": "The 0300 classroom and media center areas in the Hornbake Library are currently experiencing a heating and air conditioning outage due to emergency repairs on the HVAC equipment supporting this area of the building.",
+      "impactType": "Unplanned",
+      "contact": "Michael Dickman",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -340,6 +366,21 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Alumni-Drive-Roadway-Closure-and-Parking-Lot-Z-Parking-Space-Closures%2C-October-9---October-13-%28Map%29.pdf"
       ]
     },
+    "stadium-drive-2": {
+      "section": "roads",
+      "title": "Stadium Drive",
+      "area": "Near Intersections at Valley Drive and Hagerstown Drive.",
+      "start": "10-08-2026 7:00 am",
+      "finish": "10-12-2026 5:00 pm",
+      "repairType": "Partial Roadway Closure, Sidewalk Closure",
+      "description": "Sidewalk closures near Stadium Dr. at Valley Dr. and at the south exit to Hagerstown Dr. will occur for ADA compliance upgrades to the sidewalk areas and ramps. The south exit of Hagerstown Dr. at Stadium Dr. will be closed during the sidewalk work.",
+      "impactType": "Planned",
+      "contact": "Charles Patterson",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Drive-%283%29.png"
+      ]
+    },
     "fieldhouse-drive-closure": {
       "section": "roads",
       "title": "Fieldhouse Drive",
@@ -400,6 +441,19 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
       ]
     },
+    "hornbake-library-2": {
+      "section": "elevators",
+      "title": "Hornbake Library",
+      "area": "Elevator Car 1",
+      "start": "10-08-2026 6:00 am",
+      "finish": "10-08-2026 9:32 am",
+      "repairType": "Elevator Outage",
+      "description": "Facilities Management crews are responding to an emergency maintenance repair for Elevator Car 1 at the Hornbake Library, which has resulted in the elevator being taken out of service.",
+      "impactType": "Emergency",
+      "contact": "Shane Kogok",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "cumberland-hall": {
       "section": "elevators",
       "title": "Cumberland Hall",
@@ -426,57 +480,29 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "avrum-gudelsky-veterinary-center": {
+    "severn": {
       "section": "outages",
-      "title": "Avrum Gudelsky Veterinary Center",
+      "title": "Severn Building",
       "area": "Entire Building.",
-      "start": "10-08-2026 6:00 am",
-      "finish": "10-08-2026 12:00 pm",
+      "start": "10-15-2026 6:00 am",
+      "finish": "11-15-2026 5:00 pm",
       "repairType": "Domestic Hot Water Outage",
-      "description": "There will be an emergency domestic hot water outage at the Avrum Gudelsky Veterinary Center to accommodate urgent repairs to a domestic hot water valve in the building.",
-      "impactType": "Emergency",
-      "contact": "Daniel Narh",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "hornbake-library": {
-      "section": "outages",
-      "title": "Hornbake Library",
-      "area": "0300 Classroom and Media Center Areas",
-      "start": "10-07-2026 5:40 pm",
-      "finish": "",
-      "repairType": "Heating Outage, Air Conditioning Outage",
-      "description": "The 0300 classroom and media center areas in the Hornbake Library are currently experiencing a heating and air conditioning outage due to emergency repairs on the HVAC equipment supporting this area of the building.",
-      "impactType": "Unplanned",
-      "contact": "Michael Dickman",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "stadium-drive-2": {
-      "section": "roads",
-      "title": "Stadium Drive",
-      "area": "Near Intersections at Valley Drive and Hagerstown Drive.",
-      "start": "10-08-2026 7:00 am",
-      "finish": "10-12-2026 5:00 pm",
-      "repairType": "Partial Roadway Closure, Sidewalk Closure",
-      "description": "Sidewalk closures near Stadium Dr. at Valley Dr. and at the south exit to Hagerstown Dr. will occur for ADA compliance upgrades to the sidewalk areas and ramps. The south exit of Hagerstown Dr. at Stadium Dr. will be closed during the sidewalk work.",
+      "description": "There will be a planned domestic hot water outage for the Severn Building to replace domestic hot water equipment and components in the building.",
       "impactType": "Planned",
-      "contact": "Charles Patterson",
+      "contact": "William Schmelyun",
       "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Drive-%283%29.png"
-      ]
+      "attachments": []
     },
-    "hornbake-library-2": {
-      "section": "elevators",
-      "title": "Hornbake Library",
-      "area": "Elevator Car 1",
-      "start": "10-08-2026 6:00 am",
+    "xfinity-center-james-clark-hall": {
+      "section": "outages",
+      "title": "Xfinity Center, A. James Clark Hall",
+      "area": "Xfinity Center - Domestic Hot Water Outage and Heating Outage; A. James Clark Hall - Steam Pressure Reduction",
+      "start": "10-13-2026 6:00 am",
       "finish": "",
-      "repairType": "Elevator Outage",
-      "description": "Facilities Management crews are responding to an emergency maintenance repair for Elevator Car 1 at the Hornbake Library, which has resulted in the elevator being taken out of service.",
-      "impactType": "Emergency",
-      "contact": "Shane Kogok",
+      "repairType": "Domestic Hot Water Outage, Heating Outage, Steam Pressure Reduction",
+      "description": "Steam outage for repairs on equipment supplying steam to Xfinity Center, impacting heating and domestic hot water. A. James Clark Hall will experience a brief steam pressure reduction at the end of the outage when steam to Xfinity Center is turned on.",
+      "impactType": "Planned",
+      "contact": "Horacio Torres",
       "phone": "301-405-2222",
       "attachments": []
     }
