@@ -1,32 +1,35 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-09T06:47:00-04:00",
+  "fetchedAt": "2026-10-10T06:46:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
-      "title": "Sign installation noise along the Purple Line",
+      "title": "Overnight Purple Line testing",
       "sourceTitle": "Purple Line, Campus-wide",
-      "section": "outages",
+      "section": "roads",
       "category": "construction",
       "services": [
-        "Noise"
+        "Road",
+        "Sidewalk"
       ],
       "notice": "planned",
-      "start": "2026-09-28T08:00:00-04:00",
-      "end": "2026-10-18T17:00:00-04:00",
-      "area": "Along the Purple Line",
-      "repairType": "Sign Installation",
-      "description": "The Purple Line project plans to install signs on the overhead catenary poles along the alignment from Adelphi Road (near UMCG) through the UMD campus to the College Park Metro Station.",
+      "start": "2026-08-29T22:00:00-04:00",
+      "end": "2027-01-26T06:00:00-05:00",
+      "area": "See the attached map",
+      "repairType": "Purple Line Construction",
+      "description": "Campus-wide overnight testing.",
       "contacts": [
         "Casey Ferraro"
       ],
       "precision": "campus-wide",
-      "locationNote": "Covers the whole Purple Line alignment from Adelphi Road to the College Park Metro Station.",
+      "locationNote": "The notice only points to its attached map; drawn here along the whole Purple Line.",
       "places": [
         "line-purple-line"
       ],
       "phone": "301-405-2222",
-      "attachments": [],
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---LRV-Testing-Vehicle%2C-Pedestrian-Impacts---Notification-Map.pdf"
+      ],
       "resolved": false
     },
     {
@@ -123,7 +126,7 @@
       ],
       "notice": "planned",
       "start": "2026-09-28T08:00:00-04:00",
-      "end": "2026-10-09T18:00:00-04:00",
+      "end": "2026-10-10T18:00:00-04:00",
       "area": "Fieldhouse Drive near the Northwest Corner of Stamp Student Union",
       "repairType": "Roadway Closure and Excavation Work",
       "description": "Fieldhouse Drive to be closed near intersection with Union Lane, as shown on the attached drawing, for excavation work to locate and repair an underground leak. **Roadway will be reopened at the end of each work day; open on weekend**",
@@ -162,36 +165,6 @@
     },
     {
       "id": "purple-line-overnight-testing",
-      "title": "Overnight Purple Line testing",
-      "sourceTitle": "Purple Line, Campus-wide",
-      "section": "roads",
-      "category": "construction",
-      "services": [
-        "Road",
-        "Sidewalk"
-      ],
-      "notice": "planned",
-      "start": "2026-08-29T22:00:00-04:00",
-      "end": "2027-01-26T06:00:00-05:00",
-      "area": "See the attached map",
-      "repairType": "Purple Line Construction",
-      "description": "Campus-wide overnight testing.",
-      "contacts": [
-        "Casey Ferraro"
-      ],
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---LRV-Testing-Vehicle%2C-Pedestrian-Impacts---Notification-Map.pdf"
-      ],
-      "precision": "campus-wide",
-      "locationNote": "The notice only points to its attached map; drawn here along the whole Purple Line.",
-      "places": [
-        "line-purple-line"
-      ],
-      "phone": "301-405-2222",
-      "resolved": false
-    },
-    {
-      "id": "purple-line-lane-sidewalk-closures",
       "title": "Periodic lane and sidewalk closures along the Purple Line",
       "sourceTitle": "Purple Line, Campus-wide",
       "section": "roads",
@@ -214,6 +187,33 @@
       ],
       "precision": "campus-wide",
       "locationNote": "The notice only points to its attached map; drawn here along the whole Purple Line.",
+      "places": [
+        "line-purple-line"
+      ],
+      "phone": "301-405-2222",
+      "resolved": false
+    },
+    {
+      "id": "purple-line-lane-sidewalk-closures",
+      "title": "Sign installation noise along the Purple Line",
+      "sourceTitle": "Purple Line, Campus-wide",
+      "section": "outages",
+      "category": "construction",
+      "services": [
+        "Noise"
+      ],
+      "notice": "planned",
+      "start": "2026-09-28T08:00:00-04:00",
+      "end": "2026-10-18T17:00:00-04:00",
+      "area": "Along the Purple Line",
+      "repairType": "Sign Installation",
+      "description": "The Purple Line project plans to install signs on the overhead catenary poles along the alignment from Adelphi Road (near UMCG) through the UMD campus to the College Park Metro Station.",
+      "contacts": [
+        "Casey Ferraro"
+      ],
+      "attachments": [],
+      "precision": "campus-wide",
+      "locationNote": "Covers the whole Purple Line alignment from Adelphi Road to the College Park Metro Station.",
       "places": [
         "line-purple-line"
       ],
@@ -314,7 +314,7 @@
       "resolved": false,
       "start": "2026-10-12T04:00:00-04:00",
       "end": "2026-10-12T18:00:00-04:00",
-      "area": "Steam Pressure Reduction: Buildings north of Campus Drive; Steam Outage: Wind Tunnel Building, A.V. Williams Building, Computer Science Instructional Center, Brendan Iribe Center",
+      "area": "Steam Pressure Reduction: Buildings north of Campus Drive; Steam Outage: Wind Tunnel Building, A.V. Williams Building, Computer Science Instructional Center, Brendan Iribe Center, IDEA Factory Building",
       "repairType": "Steam Outage, Steam Pressure Reduction",
       "description": "**See copy of notice attached**",
       "contacts": [
@@ -336,7 +336,8 @@
         "building-a-v-williams-building",
         "building-brendan-iribe-center-for-computer-science-and-engineering",
         "building-wind-tunnel-building",
-        "road-campus-drive"
+        "road-campus-drive",
+        "building-e-a-fernandez-idea-factory"
       ],
       "locationNote": "The notice names four buildings with a full outage; the pressure reduction covers all buildings north of Campus Drive, shown here by the road."
     },
@@ -402,33 +403,6 @@
         }
       ],
       "locationNote": "The notice doesn't say where the Elkins Building is and it isn't in the map data, so it is pinned at the centre of campus."
-    },
-    {
-      "id": "xfinity-center",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "Xfinity Center",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-07T06:00:00-04:00",
-      "end": "2026-10-08T16:00:00-04:00",
-      "area": "Entire Building.",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "To test the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence L Brown jr"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-xfinity-center"
-      ]
     },
     {
       "id": "mckeldin-library",
@@ -529,7 +503,7 @@
       "notice": "planned",
       "resolved": false,
       "start": "2026-09-21T07:00:00-04:00",
-      "end": "2026-10-09T16:00:00-04:00",
+      "end": "2026-10-23T16:00:00-04:00",
       "area": "Exterior roof and surrounding sidewalk areas.",
       "repairType": "Lift Work, Roof Repair, Sidewalk Closure",
       "description": "To accommodate lift work for roof repairs.",
@@ -816,7 +790,7 @@
       "section": "roads",
       "notice": "planned",
       "resolved": false,
-      "start": "2026-10-14T06:00:00-04:00",
+      "start": "2026-10-21T06:00:00-04:00",
       "end": "2027-04-30T16:00:00-04:00",
       "area": "South of the E.A. Fernandez IDEA Factory Building, between the Chemistry Lane and Engineering Drive Intersection to the Stanley Zupnik Hall loading dock.",
       "repairType": "Sidewalk Closures, Roadway Closure",
@@ -955,39 +929,6 @@
       ]
     },
     {
-      "id": "avrum-gudelsky-veterinary-center",
-      "title": "Hot water outage for an urgent valve repair",
-      "sourceTitle": "Avrum Gudelsky Veterinary Center",
-      "section": "outages",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-10-08T06:00:00-04:00",
-      "end": "2026-10-08T12:00:00-04:00",
-      "area": "Entire Building.",
-      "repairType": "Domestic Hot Water Outage",
-      "description": "There will be an emergency domestic hot water outage at the Avrum Gudelsky Veterinary Center to accommodate urgent repairs to a domestic hot water valve in the building.",
-      "contacts": [
-        "Daniel Narh"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "water",
-      "services": [
-        "Hot water"
-      ],
-      "precision": "approximate",
-      "places": [
-        {
-          "label": "Avrum Gudelsky Veterinary Center (location not given)",
-          "point": [
-            -76.9426,
-            38.9861
-          ]
-        }
-      ],
-      "locationNote": "The notice doesn't say where the Avrum Gudelsky Veterinary Center is and it isn't in the map data, so it is pinned at the centre of campus."
-    },
-    {
       "id": "hornbake-library",
       "title": "Heating and air conditioning outage in the 0300 classroom and media center",
       "sourceTitle": "Hornbake Library",
@@ -1043,32 +984,6 @@
         "road-stadium-drive"
       ],
       "locationNote": "Work is near the Valley Drive intersection and the south exit to Hagerstown Drive; the whole road is shown."
-    },
-    {
-      "id": "hornbake-library-2",
-      "title": "Elevator car 1 out of service",
-      "sourceTitle": "Hornbake Library",
-      "section": "elevators",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-10-08T06:00:00-04:00",
-      "end": "2026-10-08T09:32:00-04:00",
-      "area": "Elevator Car 1",
-      "repairType": "Elevator Outage",
-      "description": "Facilities Management crews are responding to an emergency maintenance repair for Elevator Car 1 at the Hornbake Library, which has resulted in the elevator being taken out of service.",
-      "contacts": [
-        "Shane Kogok"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "elevator",
-      "services": [
-        "Elevator"
-      ],
-      "precision": "building",
-      "places": [
-        "building-hornbake-library"
-      ]
     },
     {
       "id": "severn",
@@ -1129,6 +1044,116 @@
       "places": [
         "building-xfinity-center",
         "building-a-james-clark-hall"
+      ]
+    },
+    {
+      "id": "shoemaker",
+      "title": "East entrance and sidewalk closed for portico painting",
+      "sourceTitle": "Shoemaker Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-15T08:00:00-04:00",
+      "end": "2026-10-27T16:00:00-04:00",
+      "area": "The east side entrance and the surrounding sidewalk.",
+      "repairType": "Exterior Painting, Entrance Closure, Sidewalk Closure",
+      "description": "To accommodate exterior painting work and lift equipment activities to complete portico painting repairs.",
+      "contacts": [
+        "Rolando Mendez"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "sidewalk",
+      "services": [
+        "Entrance",
+        "Sidewalk"
+      ],
+      "precision": "approximate",
+      "places": [
+        "building-shoemaker-building"
+      ],
+      "locationNote": "Only the east side entrance and the sidewalk around it are closed; shown at the building."
+    },
+    {
+      "id": "ritchie-coliseum",
+      "title": "Heating outage for steam equipment repairs",
+      "sourceTitle": "Ritchie Coliseum",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-14T06:00:00-04:00",
+      "end": "2026-10-14T12:00:00-04:00",
+      "area": "Entire Building",
+      "repairType": "Heating Outage",
+      "description": "To perform repairs on steam equipment responsible for building heating.",
+      "contacts": [
+        "Horacio Torres"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "steam",
+      "services": [
+        "Heating"
+      ],
+      "precision": "building",
+      "places": [
+        "building-ritchie-coliseum"
+      ]
+    },
+    {
+      "id": "chemical-nuclear-engineering",
+      "title": "No heat while a heat exchanger leak is repaired",
+      "sourceTitle": "Chemical And Nuclear Engineering Building",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-10-12T06:00:00-04:00",
+      "end": "2026-10-13T10:00:00-04:00",
+      "area": "Entire Building",
+      "repairType": "Repair steam leaks in the HX for heating hot water",
+      "description": "Urgent leak on heat exchanger. There will be no heat in the building for the duration.",
+      "contacts": [
+        "Alonzo Banks"
+      ],
+      "phone": "301-395-2303",
+      "attachments": [],
+      "category": "steam",
+      "services": [
+        "Heating"
+      ],
+      "precision": "building",
+      "places": [
+        "building-chemical-and-nuclear-engineering-building"
+      ]
+    },
+    {
+      "id": "taliaferro-hall-shoemaker-talbot-hall-garrett",
+      "title": "Hot and cold water outage for a water main break",
+      "sourceTitle": "Taliaferro Hall, Shoemaker Building, Talbot Hall, Garrett Hall",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-10-09T18:00:00-04:00",
+      "end": "2026-10-09T21:00:00-04:00",
+      "area": "Entire Building(s)",
+      "repairType": "Domestic Hot and Cold Water Outage",
+      "description": "To make the necessary repairs to a water main break at the exterior of the Shoemaker Building, the domestic hot and cold water service to building plumbing fixtures will be turned off for the buildings noted.",
+      "contacts": [
+        "Daniel Narh"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "water",
+      "services": [
+        "Hot water",
+        "Cold water"
+      ],
+      "precision": "building",
+      "places": [
+        "building-shoemaker-building",
+        "building-taliaferro-hall",
+        "building-garrett-hall",
+        "building-talbot-hall"
       ]
     }
   ]
