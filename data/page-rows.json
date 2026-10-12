@@ -1,6 +1,6 @@
 {
-  "pageHash": "df553c285b24e326",
-  "changedAt": "2026-10-10T06:46:00-04:00",
+  "pageHash": "951cb15af91984d3",
+  "changedAt": "2026-10-12T06:47:00-04:00",
   "rows": {
     "stadium-drive": {
       "section": "roads",
@@ -152,6 +152,19 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Riggs-Alumni-Sidewalk-Closure.pdf"
       ]
     },
+    "shoemaker": {
+      "section": "outages",
+      "title": "Shoemaker Building",
+      "area": "The east side entrance and the surrounding sidewalk.",
+      "start": "10-15-2026 8:00 am",
+      "finish": "10-27-2026 4:00 pm",
+      "repairType": "Exterior Painting, Entrance Closure, Sidewalk Closure",
+      "description": "To accommodate exterior painting work and lift equipment activities to complete portico painting repairs.",
+      "impactType": "Planned",
+      "contact": "Rolando Mendez",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "severn": {
       "section": "outages",
       "title": "Severn Building",
@@ -162,6 +175,19 @@
       "description": "There will be a planned domestic hot water outage for the Severn Building to replace domestic hot water equipment and components in the building.",
       "impactType": "Planned",
       "contact": "William Schmelyun",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "ritchie-coliseum": {
+      "section": "outages",
+      "title": "Ritchie Coliseum",
+      "area": "Entire Building",
+      "start": "10-14-2026 6:00 am",
+      "finish": "10-14-2026 12:00 pm",
+      "repairType": "Heating Outage",
+      "description": "To perform repairs on steam equipment responsible for building heating.",
+      "impactType": "Planned",
+      "contact": "Horacio Torres",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -247,6 +273,19 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stamp-Student-Union---Northwest-Corner-Entrance-near-Fieldhouse-Drive%2C-Sidewalk-and-Entrance-Closures%2C-October-12-%28Map%29-%282%29.pdf"
       ]
     },
+    "chemical-nuclear-engineering": {
+      "section": "outages",
+      "title": "Chemical And Nuclear Engineering Building",
+      "area": "Entire Building",
+      "start": "10-12-2026 6:00 am",
+      "finish": "10-13-2026 10:00 am",
+      "repairType": "Repair steam leaks in the HX for heating hot water",
+      "description": "Urgent leak on heat exchanger. There will be no heat in the building for the duration.",
+      "impactType": "Emergency",
+      "contact": "Alonzo Banks",
+      "phone": "301-395-2303",
+      "attachments": []
+    },
     "james-clark-hall-2": {
       "section": "outages",
       "title": "A. James Clark Hall",
@@ -285,6 +324,19 @@
       "description": "There will be an overnight domestic hot water outage that will impact the buildings noted. This is necessary to accommodate the installation of domestic water system upgrades within the DTP-2 that supports domestic hot water service in these buildings.",
       "impactType": "Planned",
       "contact": "Horacio Torres",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "taliaferro-hall-shoemaker-talbot-hall-garrett": {
+      "section": "outages",
+      "title": "Taliaferro Hall, Shoemaker Building, Talbot Hall, Garrett Hall",
+      "area": "Entire Building(s)",
+      "start": "10-09-2026 6:00 pm",
+      "finish": "10-09-2026 9:00 pm",
+      "repairType": "Domestic Hot and Cold Water Outage",
+      "description": "To make the necessary repairs to a water main break at the exterior of the Shoemaker Building, the domestic hot and cold water service to building plumbing fixtures will be turned off for the buildings noted.",
+      "impactType": "Emergency",
+      "contact": "Daniel Narh",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -355,19 +407,6 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "purple-line-lane-sidewalk-closures": {
-      "section": "outages",
-      "title": "Purple Line, Campus-wide",
-      "area": "Along the Purple Line",
-      "start": "09-28-2026 8:00 am",
-      "finish": "10-18-2026 5:00 pm",
-      "repairType": "Sign Installation",
-      "description": "The Purple Line project plans to install signs on the overhead catenary poles along the alignment from Adelphi Road (near UMCG) through the UMD campus to the College Park Metro Station.",
-      "impactType": "Planned",
-      "contact": "Casey Ferraro",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "mckeldin-library": {
       "section": "outages",
       "title": "McKeldin Library",
@@ -382,6 +421,19 @@
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/McKeldin-Library-Steel-Paint.png"
       ]
+    },
+    "purple-line-lane-sidewalk-closures": {
+      "section": "outages",
+      "title": "Purple Line, Campus-wide",
+      "area": "Along the Purple Line",
+      "start": "09-28-2026 8:00 am",
+      "finish": "10-18-2026 5:00 pm",
+      "repairType": "Sign Installation",
+      "description": "The Purple Line project plans to install signs on the overhead catenary poles along the alignment from Adelphi Road (near UMCG) through the UMD campus to the College Park Metro Station.",
+      "impactType": "Planned",
+      "contact": "Casey Ferraro",
+      "phone": "301-405-2222",
+      "attachments": []
     },
     "plaza-between-wind-tunnel-computer-science": {
       "section": "outages",
@@ -464,58 +516,6 @@
       "description": "Modernization of Elevator #3",
       "impactType": "Planned",
       "contact": "Chris O'Dea",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "shoemaker": {
-      "section": "outages",
-      "title": "Shoemaker Building",
-      "area": "The east side entrance and the surrounding sidewalk.",
-      "start": "10-15-2026 8:00 am",
-      "finish": "10-27-2026 4:00 pm",
-      "repairType": "Exterior Painting, Entrance Closure, Sidewalk Closure",
-      "description": "To accommodate exterior painting work and lift equipment activities to complete portico painting repairs.",
-      "impactType": "Planned",
-      "contact": "Rolando Mendez",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "ritchie-coliseum": {
-      "section": "outages",
-      "title": "Ritchie Coliseum",
-      "area": "Entire Building",
-      "start": "10-14-2026 6:00 am",
-      "finish": "10-14-2026 12:00 pm",
-      "repairType": "Heating Outage",
-      "description": "To perform repairs on steam equipment responsible for building heating.",
-      "impactType": "Planned",
-      "contact": "Horacio Torres",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "chemical-nuclear-engineering": {
-      "section": "outages",
-      "title": "Chemical And Nuclear Engineering Building",
-      "area": "Entire Building",
-      "start": "10-12-2026 6:00 am",
-      "finish": "10-13-2026 10:00 am",
-      "repairType": "Repair steam leaks in the HX for heating hot water",
-      "description": "Urgent leak on heat exchanger. There will be no heat in the building for the duration.",
-      "impactType": "Emergency",
-      "contact": "Alonzo Banks",
-      "phone": "301-395-2303",
-      "attachments": []
-    },
-    "taliaferro-hall-shoemaker-talbot-hall-garrett": {
-      "section": "outages",
-      "title": "Taliaferro Hall, Shoemaker Building, Talbot Hall, Garrett Hall",
-      "area": "Entire Building(s)",
-      "start": "10-09-2026 6:00 pm",
-      "finish": "10-09-2026 9:00 pm",
-      "repairType": "Domestic Hot and Cold Water Outage",
-      "description": "To make the necessary repairs to a water main break at the exterior of the Shoemaker Building, the domestic hot and cold water service to building plumbing fixtures will be turned off for the buildings noted.",
-      "impactType": "Emergency",
-      "contact": "Daniel Narh",
       "phone": "301-405-2222",
       "attachments": []
     }
