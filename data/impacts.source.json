@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-12T06:47:00-04:00",
+  "fetchedAt": "2026-10-13T06:46:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -313,7 +313,7 @@
       "notice": "planned",
       "resolved": false,
       "start": "2026-10-12T04:00:00-04:00",
-      "end": "2026-10-12T18:00:00-04:00",
+      "end": "2026-10-13T12:00:00-04:00",
       "area": "Steam Pressure Reduction: Buildings north of Campus Drive; Steam Outage: Wind Tunnel Building, A.V. Williams Building, Computer Science Instructional Center, Brendan Iribe Center, IDEA Factory Building",
       "repairType": "Steam Outage, Steam Pressure Reduction",
       "description": "**See copy of notice attached**",
@@ -369,40 +369,6 @@
         "building-samuel-riggs-iv-alumni-center"
       ],
       "locationNote": "Only the sidewalk along Alumni Drive on the west side of the building is closed; shown at the building."
-    },
-    {
-      "id": "elkins",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "Elkins Building",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-09T06:00:00-04:00",
-      "end": "2026-10-09T16:00:00-04:00",
-      "area": "Entire Building.",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "To test the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence L Brown jr"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "approximate",
-      "places": [
-        {
-          "label": "Elkins Building (location not given)",
-          "point": [
-            -76.9426,
-            38.9861
-          ]
-        }
-      ],
-      "locationNote": "The notice doesn't say where the Elkins Building is and it isn't in the map data, so it is pinned at the centre of campus."
     },
     {
       "id": "mckeldin-library",
@@ -1081,8 +1047,8 @@
       "section": "outages",
       "notice": "planned",
       "resolved": false,
-      "start": "2026-10-14T06:00:00-04:00",
-      "end": "2026-10-14T12:00:00-04:00",
+      "start": "2026-10-12T11:00:00-04:00",
+      "end": "2026-10-12T13:00:00-04:00",
       "area": "Entire Building",
       "repairType": "Heating Outage",
       "description": "To perform repairs on steam equipment responsible for building heating.",

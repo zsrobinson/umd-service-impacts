@@ -1,6 +1,6 @@
 {
-  "pageHash": "951cb15af91984d3",
-  "changedAt": "2026-10-12T06:47:00-04:00",
+  "pageHash": "5c6d93fe6643f075",
+  "changedAt": "2026-10-13T06:46:00-04:00",
   "rows": {
     "stadium-drive": {
       "section": "roads",
@@ -178,19 +178,6 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "ritchie-coliseum": {
-      "section": "outages",
-      "title": "Ritchie Coliseum",
-      "area": "Entire Building",
-      "start": "10-14-2026 6:00 am",
-      "finish": "10-14-2026 12:00 pm",
-      "repairType": "Heating Outage",
-      "description": "To perform repairs on steam equipment responsible for building heating.",
-      "impactType": "Planned",
-      "contact": "Horacio Torres",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "francis-scott-key-hall": {
       "section": "outages",
       "title": "Francis Scott Key Hall",
@@ -242,6 +229,19 @@
       "description": "There will be a planned electrical outage at the A.V. Williams Building that will impact normal electrical power to lighting and outlets, building accessibility, and air conditioning in Wings 1 and 2 of the building.",
       "impactType": "Planned",
       "contact": "Tim Zhao",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "ritchie-coliseum": {
+      "section": "outages",
+      "title": "Ritchie Coliseum",
+      "area": "Entire Building",
+      "start": "10-12-2026 11:00 am",
+      "finish": "10-12-2026 1:00 pm",
+      "repairType": "Heating Outage",
+      "description": "To perform repairs on steam equipment responsible for building heating.",
+      "impactType": "Planned",
+      "contact": "Horacio Torres",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -304,7 +304,7 @@
       "title": "UMD Buildings North of Campus Drive",
       "area": "Steam Pressure Reduction: Buildings north of Campus Drive; Steam Outage: Wind Tunnel Building, A.V. Williams Building, Computer Science Instructional Center, Brendan Iribe Center, IDEA Factory Building",
       "start": "10-12-2026 4:00 am",
-      "finish": "10-12-2026 6:00 pm",
+      "finish": "10-13-2026 12:00 pm",
       "repairType": "Steam Outage, Steam Pressure Reduction",
       "description": "**See copy of notice attached**",
       "impactType": "Planned",
@@ -350,19 +350,6 @@
       "description": "There will be a planned chilled water and air conditioning outage that will impact the A.V. Williams Building and the Computer Science Instructional Center to accommodate the removal and replacement of HVAC equipment at the A.V. Williams Building.",
       "impactType": "Planned",
       "contact": "Randall Phillips",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "elkins": {
-      "section": "outages",
-      "title": "Elkins Building",
-      "area": "Entire Building.",
-      "start": "10-09-2026 6:00 am",
-      "finish": "10-09-2026 4:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "To test the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence L Brown jr",
       "phone": "301-405-2222",
       "attachments": []
     },
