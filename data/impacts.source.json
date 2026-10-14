@@ -1,35 +1,32 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-13T06:46:00-04:00",
+  "fetchedAt": "2026-10-14T06:46:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
-      "title": "Overnight Purple Line testing",
+      "title": "Sign installation noise along the Purple Line",
       "sourceTitle": "Purple Line, Campus-wide",
-      "section": "roads",
+      "section": "outages",
       "category": "construction",
       "services": [
-        "Road",
-        "Sidewalk"
+        "Noise"
       ],
       "notice": "planned",
-      "start": "2026-08-29T22:00:00-04:00",
-      "end": "2027-01-26T06:00:00-05:00",
-      "area": "See the attached map",
-      "repairType": "Purple Line Construction",
-      "description": "Campus-wide overnight testing.",
+      "start": "2026-09-28T08:00:00-04:00",
+      "end": "2026-10-18T17:00:00-04:00",
+      "area": "Along the Purple Line",
+      "repairType": "Sign Installation",
+      "description": "The Purple Line project plans to install signs on the overhead catenary poles along the alignment from Adelphi Road (near UMCG) through the UMD campus to the College Park Metro Station.",
       "contacts": [
         "Casey Ferraro"
       ],
       "precision": "campus-wide",
-      "locationNote": "The notice only points to its attached map; drawn here along the whole Purple Line.",
+      "locationNote": "Covers the whole Purple Line alignment from Adelphi Road to the College Park Metro Station.",
       "places": [
         "line-purple-line"
       ],
       "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---LRV-Testing-Vehicle%2C-Pedestrian-Impacts---Notification-Map.pdf"
-      ],
+      "attachments": [],
       "resolved": false
     },
     {
@@ -116,55 +113,37 @@
       "resolved": false
     },
     {
-      "id": "fieldhouse-drive-closure",
-      "title": "Fieldhouse Drive closed for excavation",
-      "sourceTitle": "Fieldhouse Drive",
+      "id": "purple-line-overnight-testing",
+      "title": "Overnight Purple Line testing",
+      "sourceTitle": "Purple Line, Campus-wide",
       "section": "roads",
-      "category": "road",
+      "category": "construction",
       "services": [
-        "Road"
+        "Road",
+        "Sidewalk"
       ],
       "notice": "planned",
-      "start": "2026-09-28T08:00:00-04:00",
-      "end": "2026-10-10T18:00:00-04:00",
-      "area": "Fieldhouse Drive near the Northwest Corner of Stamp Student Union",
-      "repairType": "Roadway Closure and Excavation Work",
-      "description": "Fieldhouse Drive to be closed near intersection with Union Lane, as shown on the attached drawing, for excavation work to locate and repair an underground leak. **Roadway will be reopened at the end of each work day; open on weekend**",
+      "start": "2026-08-29T22:00:00-04:00",
+      "end": "2027-01-26T06:00:00-05:00",
+      "area": "See the attached map",
+      "repairType": "Purple Line Construction",
+      "description": "Campus-wide overnight testing.",
       "contacts": [
-        "Horacio Torres"
+        "Casey Ferraro"
       ],
       "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Fieldhouse-Drive-Road-Closure.png"
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---LRV-Testing-Vehicle%2C-Pedestrian-Impacts---Notification-Map.pdf"
       ],
-      "precision": "exact",
-      "locationNote": "Only the excavation area just east of Union Lane is closed. Traffic stays open from Fieldhouse Drive to Union Lane, and Gossett Hall stays reachable.",
+      "precision": "campus-wide",
+      "locationNote": "The notice only points to its attached map; drawn here along the whole Purple Line.",
       "places": [
-        {
-          "label": "Fieldhouse Drive excavation area",
-          "geometry": {
-            "type": "LineString",
-            "coordinates": [
-              [
-                -76.945307,
-                38.988774
-              ],
-              [
-                -76.945065,
-                38.988731
-              ],
-              [
-                -76.944886,
-                38.988696
-              ]
-            ]
-          }
-        }
+        "line-purple-line"
       ],
       "phone": "301-405-2222",
       "resolved": false
     },
     {
-      "id": "purple-line-overnight-testing",
+      "id": "purple-line-lane-sidewalk-closures",
       "title": "Periodic lane and sidewalk closures along the Purple Line",
       "sourceTitle": "Purple Line, Campus-wide",
       "section": "roads",
@@ -187,33 +166,6 @@
       ],
       "precision": "campus-wide",
       "locationNote": "The notice only points to its attached map; drawn here along the whole Purple Line.",
-      "places": [
-        "line-purple-line"
-      ],
-      "phone": "301-405-2222",
-      "resolved": false
-    },
-    {
-      "id": "purple-line-lane-sidewalk-closures",
-      "title": "Sign installation noise along the Purple Line",
-      "sourceTitle": "Purple Line, Campus-wide",
-      "section": "outages",
-      "category": "construction",
-      "services": [
-        "Noise"
-      ],
-      "notice": "planned",
-      "start": "2026-09-28T08:00:00-04:00",
-      "end": "2026-10-18T17:00:00-04:00",
-      "area": "Along the Purple Line",
-      "repairType": "Sign Installation",
-      "description": "The Purple Line project plans to install signs on the overhead catenary poles along the alignment from Adelphi Road (near UMCG) through the UMD campus to the College Park Metro Station.",
-      "contacts": [
-        "Casey Ferraro"
-      ],
-      "attachments": [],
-      "precision": "campus-wide",
-      "locationNote": "Covers the whole Purple Line alignment from Adelphi Road to the College Park Metro Station.",
       "places": [
         "line-purple-line"
       ],
@@ -313,7 +265,7 @@
       "notice": "planned",
       "resolved": false,
       "start": "2026-10-12T04:00:00-04:00",
-      "end": "2026-10-13T12:00:00-04:00",
+      "end": "2026-10-13T18:00:00-04:00",
       "area": "Steam Pressure Reduction: Buildings north of Campus Drive; Steam Outage: Wind Tunnel Building, A.V. Williams Building, Computer Science Instructional Center, Brendan Iribe Center, IDEA Factory Building",
       "repairType": "Steam Outage, Steam Pressure Reduction",
       "description": "**See copy of notice attached**",
@@ -518,60 +470,30 @@
     },
     {
       "id": "v-williams",
-      "title": "Electrical outage in Wings 1 and 2",
+      "title": "Hot and cold water outage to replace the water meter",
       "sourceTitle": "A.V. Williams Building",
       "section": "outages",
       "notice": "planned",
       "resolved": false,
-      "start": "2026-10-13T03:00:00-04:00",
-      "end": "2026-10-13T06:30:00-04:00",
-      "area": "Wing 1 and Wing 2",
-      "repairType": "Electrical Outage",
-      "description": "There will be a planned electrical outage at the A.V. Williams Building that will impact normal electrical power to lighting and outlets, building accessibility, and air conditioning in Wings 1 and 2 of the building.",
+      "start": "2026-10-17T07:00:00-04:00",
+      "end": "2026-10-17T12:00:00-04:00",
+      "area": "Entire Building",
+      "repairType": "Domestic Hot and Cold Water Outage",
+      "description": "There will be a planned domestic hot and cold water outage that will impact sinks, drinking water, toilets, and showers at the A.V. Williams Building to replace the building's faulty water meter.",
       "contacts": [
-        "Tim Zhao"
+        "Jason Reardon"
       ],
       "phone": "301-405-2222",
       "attachments": [],
-      "category": "electrical",
+      "category": "water",
       "services": [
-        "Power",
-        "Air conditioning",
-        "Building access"
+        "Hot water",
+        "Cold water"
       ],
       "precision": "building",
       "places": [
         "building-a-v-williams-building"
       ]
-    },
-    {
-      "id": "morrill-hall-quad",
-      "title": "Sidewalk closures on Morrill Quad for tree trimming",
-      "sourceTitle": "Morrill Hall Quad",
-      "section": "roads",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-12T07:00:00-04:00",
-      "end": "2026-10-12T15:00:00-04:00",
-      "area": "Morrill Hall Quad Sidewalks",
-      "repairType": "Sidewalk Closures and Tree Trimming Work",
-      "description": "There will be planned tree trimming work on the Morrill Hall Quad area that will result in temporary sidewalk closures as work progresses around the quad.",
-      "contacts": [
-        "Richard Jones"
-      ],
-      "phone": "301-405-5645",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Temporary-Sidewalk-Closure-areas-%281%29.pdf"
-      ],
-      "category": "sidewalk",
-      "services": [
-        "Sidewalk"
-      ],
-      "precision": "approximate",
-      "places": [
-        "building-morrill-hall"
-      ],
-      "locationNote": "Closures move around the quad sidewalks as work progresses; shown at Morrill Hall."
     },
     {
       "id": "alumni-drive-parking-lot-z",
@@ -611,13 +533,13 @@
       "section": "outages",
       "notice": "planned",
       "resolved": false,
-      "start": "2026-10-12T08:00:00-04:00",
-      "end": "2026-10-12T17:00:00-04:00",
+      "start": "2026-10-12T05:00:00-04:00",
+      "end": "2026-10-13T17:00:00-04:00",
       "area": "Entire Building.",
-      "repairType": "Electrical Work, Emergency Power Testing, Elevator Outage",
-      "description": "Planned electrical work will affect elevator access in the building. It will also briefly interrupt emergency power to the following areas: the vivarium, the MRI, engineering labs, and the audiovisual equipment serving Forum 1101 and rooms 1105 and 1229.",
+      "repairType": "Possible Reduction of Lab Compressed Air",
+      "description": "There will be a possible reduction of lab compressed air in A. James Clark Hall while FM HVAC Operations replaces air compressors in the building. A temporary air compressor will be operating to maintain lab equipment compressed air needs.",
       "contacts": [
-        "Antonio Sanchez"
+        "John Cole"
       ],
       "phone": "301-405-2222",
       "attachments": [],
@@ -629,37 +551,6 @@
       "precision": "building",
       "places": [
         "building-a-james-clark-hall"
-      ]
-    },
-    {
-      "id": "south-campus-dining-hall-anne-arundel",
-      "title": "Overnight hot water outage",
-      "sourceTitle": "South Campus Dining Hall, Anne Arundel Hall, Queen Anne's Hall, St. Mary's Hall, Somerset Hall, Dorchester Hall, DTP-2",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-10T21:00:00-04:00",
-      "end": "2026-10-11T06:00:00-04:00",
-      "area": "Entire Building(s)",
-      "repairType": "Domestic Hot Water Outage",
-      "description": "There will be an overnight domestic hot water outage that will impact the buildings noted. This is necessary to accommodate the installation of domestic water system upgrades within the DTP-2 that supports domestic hot water service in these buildings.",
-      "contacts": [
-        "Horacio Torres"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "water",
-      "services": [
-        "Hot water"
-      ],
-      "precision": "building",
-      "places": [
-        "building-south-campus-dining-hall",
-        "building-anne-arundel-hall",
-        "building-queen-annes-hall",
-        "building-dorchester-hall",
-        "building-st-marys-hall",
-        "building-somerset-hall"
       ]
     },
     {
@@ -691,33 +582,29 @@
     },
     {
       "id": "stamp-student-union",
-      "title": "Northwest entrance and Hoff Theater stairwell closed for lift work",
+      "title": "Heating outage from a leaking hot water line",
       "sourceTitle": "Stamp Student Union",
       "section": "outages",
-      "notice": "planned",
+      "notice": "emergency",
       "resolved": false,
-      "start": "2026-10-12T06:00:00-04:00",
-      "end": "2026-10-12T18:00:00-04:00",
-      "area": "Northwest Corner Entrance and Hoff Theater Stairwell near Fieldhouse Drive.",
-      "repairType": "Sidewalk Closure, Building Entrance Closures",
-      "description": "A sidewalk and entrance closure will occur at the northwest corner entrance and the Hoff Theater stairwell of Stamp Student Union near Fieldhouse Drive to accommodate lift work for gutter replacement and lighting repairs.",
+      "start": "2026-10-06T15:55:00-04:00",
+      "end": "2026-10-13T15:15:00-04:00",
+      "area": "Entire Building.",
+      "repairType": "Heating Outage",
+      "description": "There is currently a heating outage at the Stamp Student Union due to a leak in a heating hot water line that supports the building. Work to repair the leak is underway.",
       "contacts": [
-        "Raquel Gayle"
+        "Horacio Torres"
       ],
       "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stamp-Student-Union---Northwest-Corner-Entrance-near-Fieldhouse-Drive%2C-Sidewalk-and-Entrance-Closures%2C-October-12-%28Map%29-%282%29.pdf"
-      ],
-      "category": "sidewalk",
+      "attachments": [],
+      "category": "hvac",
       "services": [
-        "Entrance",
-        "Sidewalk"
+        "Heating"
       ],
-      "precision": "approximate",
+      "precision": "building",
       "places": [
         "building-adele-h-stamp-student-union"
-      ],
-      "locationNote": "Only the northwest corner entrance and Hoff Theater stairwell near Fieldhouse Drive are closed; shown at the building."
+      ]
     },
     {
       "id": "yale-avenue",
@@ -781,28 +668,26 @@
     },
     {
       "id": "animal-sciences-agricultural-engineering",
-      "title": "Electrical outage affecting power, HVAC, elevators and lab ventilation",
+      "title": "Electrical outage in Wing 5 for an emergency breaker repair",
       "sourceTitle": "Animal Sciences / Agricultural Engineering Building",
       "section": "outages",
-      "notice": "planned",
+      "notice": "emergency",
       "resolved": false,
-      "start": "2026-10-13T04:00:00-04:00",
-      "end": "2026-10-13T06:00:00-04:00",
-      "area": "Entire building; varying impacts occurring depending on the wing of the building",
+      "start": "2026-10-13T09:08:00-04:00",
+      "end": "2026-10-13T09:23:00-04:00",
+      "area": "Wing 5",
       "repairType": "Electrical Outage",
-      "description": "Electrical outage at the Animal Sciences / Agricultural Engineering Building that may impact normal electricity to outlets and lighting, HVAC services for heating and air conditioning, elevator service, and lab ventilation during the outage.",
+      "description": "FM crews are responding to an emergency repair on an electrical breaker in Wing 5 of the Animal Sciences / Agricultural Engineering Building that is impacting normal electrical power to outlets and lighting, air conditioning, and fume hoods.",
       "contacts": [
-        "Antonio Sanchez"
+        "Erick Molina"
       ],
       "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/University-of-Maryland%2C-College-Park-Mail---Animal-Sciences-_-Agricultural-Engineering-Building%2C-Electrical-Outage%2C-October-13-%28Outage-Notice-Email%29.pdf"
-      ],
+      "attachments": [],
       "category": "electrical",
       "services": [
         "Power",
-        "HVAC",
-        "Elevator"
+        "Air conditioning",
+        "Fume hoods"
       ],
       "precision": "approximate",
       "places": [
@@ -843,58 +728,6 @@
       ]
     },
     {
-      "id": "james-clark-hall-2",
-      "title": "Possible reduced lab compressed air during compressor replacement",
-      "sourceTitle": "A. James Clark Hall",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-12T05:00:00-04:00",
-      "end": "2026-10-13T17:00:00-04:00",
-      "area": "Entire Building.",
-      "repairType": "Possible Reduction of Lab Compressed Air",
-      "description": "There will be a possible reduction of lab compressed air in A. James Clark Hall while FM HVAC Operations replaces air compressors in the building. A temporary air compressor will be operating to maintain lab equipment compressed air needs.",
-      "contacts": [
-        "John Cole"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "other",
-      "services": [
-        "Lab compressed air"
-      ],
-      "precision": "building",
-      "places": [
-        "building-a-james-clark-hall"
-      ]
-    },
-    {
-      "id": "stamp-student-union-2",
-      "title": "Heating outage from a leaking hot water line",
-      "sourceTitle": "Stamp Student Union",
-      "section": "outages",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-10-06T15:55:00-04:00",
-      "end": null,
-      "area": "Entire Building.",
-      "repairType": "Heating Outage",
-      "description": "There is currently a heating outage at the Stamp Student Union due to a leak in a heating hot water line that supports the building. Work to repair the leak is underway.",
-      "contacts": [
-        "Horacio Torres"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "hvac",
-      "services": [
-        "Heating"
-      ],
-      "precision": "building",
-      "places": [
-        "building-adele-h-stamp-student-union"
-      ]
-    },
-    {
       "id": "hornbake-library",
       "title": "Heating and air conditioning outage in the 0300 classroom and media center",
       "sourceTitle": "Hornbake Library",
@@ -902,7 +735,7 @@
       "notice": "unplanned",
       "resolved": false,
       "start": "2026-10-07T17:40:00-04:00",
-      "end": null,
+      "end": "2026-10-09T10:00:00-04:00",
       "area": "0300 Classroom and Media Center Areas",
       "repairType": "Heating Outage, Air Conditioning Outage",
       "description": "The 0300 classroom and media center areas in the Hornbake Library are currently experiencing a heating and air conditioning outage due to emergency repairs on the HVAC equipment supporting this area of the building.",
@@ -920,36 +753,6 @@
       "places": [
         "building-hornbake-library"
       ]
-    },
-    {
-      "id": "stadium-drive-2",
-      "title": "Sidewalk closures and Hagerstown Drive exit closed on Stadium Drive",
-      "sourceTitle": "Stadium Drive",
-      "section": "roads",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-08T07:00:00-04:00",
-      "end": "2026-10-12T17:00:00-04:00",
-      "area": "Near Intersections at Valley Drive and Hagerstown Drive.",
-      "repairType": "Partial Roadway Closure, Sidewalk Closure",
-      "description": "Sidewalk closures near Stadium Dr. at Valley Dr. and at the south exit to Hagerstown Dr. will occur for ADA compliance upgrades to the sidewalk areas and ramps. The south exit of Hagerstown Dr. at Stadium Dr. will be closed during the sidewalk work.",
-      "contacts": [
-        "Charles Patterson"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Drive-%283%29.png"
-      ],
-      "category": "sidewalk",
-      "services": [
-        "Sidewalk",
-        "Road"
-      ],
-      "precision": "approximate",
-      "places": [
-        "road-stadium-drive"
-      ],
-      "locationNote": "Work is near the Valley Drive intersection and the south exit to Hagerstown Drive; the whole road is shown."
     },
     {
       "id": "severn",
@@ -992,7 +795,7 @@
       "notice": "planned",
       "resolved": false,
       "start": "2026-10-13T06:00:00-04:00",
-      "end": null,
+      "end": "2026-10-13T17:15:00-04:00",
       "area": "Xfinity Center - Domestic Hot Water Outage and Heating Outage; A. James Clark Hall - Steam Pressure Reduction",
       "repairType": "Domestic Hot Water Outage, Heating Outage, Steam Pressure Reduction",
       "description": "Steam outage for repairs on equipment supplying steam to Xfinity Center, impacting heating and domestic hot water. A. James Clark Hall will experience a brief steam pressure reduction at the end of the outage when steam to Xfinity Center is turned on.",
@@ -1093,33 +896,214 @@
       ]
     },
     {
-      "id": "taliaferro-hall-shoemaker-talbot-hall-garrett",
-      "title": "Hot and cold water outage for a water main break",
-      "sourceTitle": "Taliaferro Hall, Shoemaker Building, Talbot Hall, Garrett Hall",
+      "id": "cambridge-community-quad",
+      "title": "Sidewalk closures for concrete repairs around Cambridge Community",
+      "sourceTitle": "Cambridge Community Quad",
       "section": "outages",
-      "notice": "emergency",
+      "notice": "planned",
       "resolved": false,
-      "start": "2026-10-09T18:00:00-04:00",
-      "end": "2026-10-09T21:00:00-04:00",
-      "area": "Entire Building(s)",
-      "repairType": "Domestic Hot and Cold Water Outage",
-      "description": "To make the necessary repairs to a water main break at the exterior of the Shoemaker Building, the domestic hot and cold water service to building plumbing fixtures will be turned off for the buildings noted.",
+      "start": "2026-10-21T08:00:00-04:00",
+      "end": "2026-11-20T16:30:00-05:00",
+      "area": "Bel Air Hall, south side of the building; Centreville Hall, west side of the building; Cambridge Hall, north side of the building; Cumberland Hall, east side of the building.",
+      "repairType": "Concrete Work and Sidewalk Closures",
+      "description": "Planned concrete repair work will be performed on damaged areas of sidewalk throughout the Cambridge Community Quad to address trip hazards and improve structural integrity.",
       "contacts": [
-        "Daniel Narh"
+        "Frank Dudley"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Cambridge-Community-Quad-%281%29.pdf"
+      ],
+      "category": "sidewalk",
+      "services": [
+        "Sidewalk"
+      ],
+      "precision": "approximate",
+      "places": [
+        "building-centreville-hall",
+        "building-cumberland-hall",
+        "building-cambridge-hall",
+        "building-bel-air-hall"
+      ],
+      "locationNote": "Closures are on the sidewalks beside Bel Air, Centreville, Cambridge and Cumberland halls around the quad; shown at those buildings."
+    },
+    {
+      "id": "avrum-gudelsky-veterinary-center",
+      "title": "Heating outage to replace HVAC valves",
+      "sourceTitle": "Avrum Gudelsky Veterinary Center",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-19T07:00:00-04:00",
+      "end": "2026-10-19T15:30:00-04:00",
+      "area": "Entire Building.",
+      "repairType": "Heating Outage",
+      "description": "There will be a planned heating outage at the Avrum Gudelsky Veterinary Center in order to replace several HVAC heating valves in the building.",
+      "contacts": [
+        "John Cole"
       ],
       "phone": "301-405-2222",
       "attachments": [],
-      "category": "water",
+      "category": "hvac",
       "services": [
-        "Hot water",
-        "Cold water"
+        "Heating"
+      ],
+      "precision": "approximate",
+      "places": [
+        {
+          "label": "Avrum Gudelsky Veterinary Center (location not given)",
+          "point": [
+            -76.9426,
+            38.9861
+          ]
+        }
+      ],
+      "locationNote": "The notice doesn't say where the Avrum Gudelsky Veterinary Center is and it isn't in the map data, so it is pinned at the centre of campus."
+    },
+    {
+      "id": "regents-drive-parking-garage",
+      "title": "Electrical outage affecting elevators and office heating and cooling",
+      "sourceTitle": "Regents Drive Parking Garage",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-18T06:00:00-04:00",
+      "end": "2026-10-18T11:00:00-04:00",
+      "area": "Entire Building.",
+      "repairType": "Electrical Outage",
+      "description": "There will be a planned electrical outage resulting in a loss of normal power to the Regents Drive Parking Garage. This will impact elevator service in the parking garage and air conditioning and heating in the office areas and basement gym area.",
+      "contacts": [
+        "Randall Phillips"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "electrical",
+      "services": [
+        "Power",
+        "Elevator",
+        "HVAC"
       ],
       "precision": "building",
       "places": [
-        "building-shoemaker-building",
-        "building-taliaferro-hall",
-        "building-garrett-hall",
-        "building-talbot-hall"
+        "building-regents-drive-parking-garage"
+      ]
+    },
+    {
+      "id": "h-j-patterson-hall",
+      "title": "Seed dryer unavailable during a steam outage",
+      "sourceTitle": "H. J. Patterson Hall",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-13T15:00:00-04:00",
+      "end": "2026-10-14T15:00:00-04:00",
+      "area": "Seed Dryer in the Building Only",
+      "repairType": "Seed Dryer Outage, Steam Outage",
+      "description": "There will be a steam outage at H.J. Patterson Hall to seal a steam pipe that is no longer in use, resulting in the seed dryer in the building being unavailable for the duration of the outage.",
+      "contacts": [
+        "Elber Coreas"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "steam",
+      "services": [
+        "Seed dryer"
+      ],
+      "precision": "building",
+      "places": [
+        "building-h-j-patterson-hall"
+      ]
+    },
+    {
+      "id": "xfinity-center",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "Xfinity Center",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-13T06:00:00-04:00",
+      "end": "2026-10-14T15:00:00-04:00",
+      "area": "Entire Building.",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "Fire alarm/suppression system inspections are scheduled at the Xfinity Center to test the building's fire alarm, sprinkler, and suppression systems.",
+      "contacts": [
+        "Clarence Brown"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm",
+        "Sprinklers"
+      ],
+      "precision": "building",
+      "places": [
+        "building-xfinity-center"
+      ]
+    },
+    {
+      "id": "animal-sciences-agricultural-engineering-2",
+      "title": "Electrical outage affecting power, HVAC, elevators and lab ventilation",
+      "sourceTitle": "Animal Sciences / Agricultural Engineering Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-13T04:00:00-04:00",
+      "end": "2026-10-13T06:00:00-04:00",
+      "area": "Entire building; varying impacts occurring depending on the wing of the building",
+      "repairType": "Electrical Outage",
+      "description": "Electrical outage at the Animal Sciences / Agricultural Engineering Building that may impact normal electricity to outlets and lighting, HVAC services for heating and air conditioning, elevator service, and lab ventilation during the outage.",
+      "contacts": [
+        "Antonio Sanchez"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/University-of-Maryland%2C-College-Park-Mail---Animal-Sciences-_-Agricultural-Engineering-Building%2C-Electrical-Outage%2C-October-13-%28Outage-Notice-Email%29.pdf"
+      ],
+      "category": "electrical",
+      "services": [
+        "Power",
+        "HVAC",
+        "Elevator"
+      ],
+      "precision": "approximate",
+      "places": [
+        {
+          "label": "Animal Sciences / Agricultural Engineering Building (location not given)",
+          "point": [
+            -76.9426,
+            38.9861
+          ]
+        }
+      ],
+      "locationNote": "The notice doesn't say where the Animal Sciences / Agricultural Engineering Building is and it isn't in the map data, so it is pinned at the centre of campus."
+    },
+    {
+      "id": "v-williams-2",
+      "title": "Electrical outage in Wings 1 and 2",
+      "sourceTitle": "A.V. Williams Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-13T03:00:00-04:00",
+      "end": "2026-10-13T06:30:00-04:00",
+      "area": "Wing 1 and Wing 2",
+      "repairType": "Electrical Outage",
+      "description": "There will be a planned electrical outage at the A.V. Williams Building that will impact normal electrical power to lighting and outlets, building accessibility, and air conditioning in Wings 1 and 2 of the building.",
+      "contacts": [
+        "Tim Zhao"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "electrical",
+      "services": [
+        "Power",
+        "Air conditioning",
+        "Building access"
+      ],
+      "precision": "building",
+      "places": [
+        "building-a-v-williams-building"
       ]
     }
   ]
