@@ -1,7 +1,48 @@
 {
-  "pageHash": "8f7fda8676730851",
-  "changedAt": "2026-10-14T06:46:00-04:00",
+  "pageHash": "bff51c918dd53673",
+  "changedAt": "2026-10-15T06:46:00-04:00",
   "rows": {
+    "cambridge-community-quad": {
+      "section": "outages",
+      "title": "Cambridge Community Quad",
+      "area": "Bel Air Hall, south side of the building; Centreville Hall, west side of the building; Cambridge Hall, north side of the building; Cumberland Hall, east side of the building.",
+      "start": "10-21-2026 8:00 am",
+      "finish": "11-20-2026 4:30 pm",
+      "repairType": "Concrete Work and Sidewalk Closures",
+      "description": "Planned concrete repair work will be performed on damaged areas of sidewalk throughout the Cambridge Community Quad to address trip hazards and improve structural integrity.",
+      "impactType": "Planned",
+      "contact": "Frank Dudley",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Cambridge-Community-Quad-%281%29.pdf"
+      ]
+    },
+    "avrum-gudelsky-veterinary-center": {
+      "section": "outages",
+      "title": "Avrum Gudelsky Veterinary Center",
+      "area": "Entire Building.",
+      "start": "10-19-2026 7:00 am",
+      "finish": "10-19-2026 3:30 pm",
+      "repairType": "Heating Outage",
+      "description": "There will be a planned heating outage at the Avrum Gudelsky Veterinary Center in order to replace several HVAC heating valves in the building.",
+      "impactType": "Planned",
+      "contact": "John Cole",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "regents-drive-parking-garage": {
+      "section": "outages",
+      "title": "Regents Drive Parking Garage",
+      "area": "Entire Building.",
+      "start": "10-18-2026 6:00 am",
+      "finish": "10-18-2026 11:00 am",
+      "repairType": "Electrical Outage",
+      "description": "There will be a planned electrical outage resulting in a loss of normal power to the Regents Drive Parking Garage. This will impact elevator service in the parking garage and air conditioning and heating in the office areas and basement gym area.",
+      "impactType": "Planned",
+      "contact": "Randall Phillips",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "v-williams": {
       "section": "outages",
       "title": "A.V. Williams Building",
@@ -56,98 +97,31 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "animal-sciences-agricultural-engineering": {
+    "h-j-patterson-hall": {
       "section": "outages",
-      "title": "Animal Sciences / Agricultural Engineering Building",
-      "area": "Wing 5",
-      "start": "10-13-2026 9:08 am",
-      "finish": "10-13-2026 9:23 am",
-      "repairType": "Electrical Outage",
-      "description": "FM crews are responding to an emergency repair on an electrical breaker in Wing 5 of the Animal Sciences / Agricultural Engineering Building that is impacting normal electrical power to outlets and lighting, air conditioning, and fume hoods.",
-      "impactType": "Emergency",
-      "contact": "Erick Molina",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "francis-scott-key-hall": {
-      "section": "outages",
-      "title": "Francis Scott Key Hall",
-      "area": "Fire Alarm Testing: Entire Building; Installation/Testing Work: Restrooms 0108 and 0112",
-      "start": "10-13-2026 7:00 am",
-      "finish": "10-13-2026 8:00 am",
-      "repairType": "Fire Alarm Testing and Inspection Work",
-      "description": "Fire alarm system testing and inspection will occur at Francis Scott Key Hall to install and test new fire alarm devices in renovated restrooms 0108 and 0112.",
+      "title": "H. J. Patterson Hall",
+      "area": "Seed Dryer in the Building Only",
+      "start": "10-13-2026 3:00 pm",
+      "finish": "10-14-2026 3:00 pm",
+      "repairType": "Seed Dryer Outage, Steam Outage",
+      "description": "There will be a steam outage at H.J. Patterson Hall to seal a steam pipe that is no longer in use, resulting in the seed dryer in the building being unavailable for the duration of the outage.",
       "impactType": "Planned",
-      "contact": "Adesanmi Fajemisin",
+      "contact": "Elber Coreas",
       "phone": "301-405-2222",
       "attachments": []
     },
-    "xfinity-center-james-clark-hall": {
+    "xfinity-center": {
       "section": "outages",
-      "title": "Xfinity Center, A. James Clark Hall",
-      "area": "Xfinity Center - Domestic Hot Water Outage and Heating Outage; A. James Clark Hall - Steam Pressure Reduction",
-      "start": "10-13-2026 6:00 am",
-      "finish": "10-13-2026 5:15 pm",
-      "repairType": "Domestic Hot Water Outage, Heating Outage, Steam Pressure Reduction",
-      "description": "Steam outage for repairs on equipment supplying steam to Xfinity Center, impacting heating and domestic hot water. A. James Clark Hall will experience a brief steam pressure reduction at the end of the outage when steam to Xfinity Center is turned on.",
-      "impactType": "Planned",
-      "contact": "Horacio Torres",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "ritchie-coliseum": {
-      "section": "outages",
-      "title": "Ritchie Coliseum",
-      "area": "Entire Building",
-      "start": "10-12-2026 11:00 am",
-      "finish": "10-12-2026 1:00 pm",
-      "repairType": "Heating Outage",
-      "description": "To perform repairs on steam equipment responsible for building heating.",
-      "impactType": "Planned",
-      "contact": "Horacio Torres",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "chemical-nuclear-engineering": {
-      "section": "outages",
-      "title": "Chemical And Nuclear Engineering Building",
-      "area": "Entire Building",
-      "start": "10-12-2026 6:00 am",
-      "finish": "10-13-2026 10:00 am",
-      "repairType": "Repair steam leaks in the HX for heating hot water",
-      "description": "Urgent leak on heat exchanger. There will be no heat in the building for the duration.",
-      "impactType": "Emergency",
-      "contact": "Alonzo Banks",
-      "phone": "301-395-2303",
-      "attachments": []
-    },
-    "james-clark-hall": {
-      "section": "outages",
-      "title": "A. James Clark Hall",
+      "title": "Xfinity Center",
       "area": "Entire Building.",
-      "start": "10-12-2026 5:00 am",
-      "finish": "10-13-2026 5:00 pm",
-      "repairType": "Possible Reduction of Lab Compressed Air",
-      "description": "There will be a possible reduction of lab compressed air in A. James Clark Hall while FM HVAC Operations replaces air compressors in the building. A temporary air compressor will be operating to maintain lab equipment compressed air needs.",
+      "start": "10-13-2026 6:00 am",
+      "finish": "10-14-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "Fire alarm/suppression system inspections are scheduled at the Xfinity Center to test the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
-      "contact": "John Cole",
+      "contact": "Clarence Brown",
       "phone": "301-405-2222",
       "attachments": []
-    },
-    "steam-steam-pressure-reduction-north-campus": {
-      "section": "outages",
-      "title": "UMD Buildings North of Campus Drive",
-      "area": "Steam Pressure Reduction: Buildings north of Campus Drive; Steam Outage: Wind Tunnel Building, A.V. Williams Building, Computer Science Instructional Center, Brendan Iribe Center, IDEA Factory Building",
-      "start": "10-12-2026 4:00 am",
-      "finish": "10-13-2026 6:00 pm",
-      "repairType": "Steam Outage, Steam Pressure Reduction",
-      "description": "**See copy of notice attached**",
-      "impactType": "Planned",
-      "contact": "Daniel Klenner",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Steam-Outage-and-Steam-Pressure-Reduction-North-of-Campus-Drive%2C-October-12-%28Outage-Notice%29.pdf"
-      ]
     },
     "v-williams-computer-sciences-instructional-center": {
       "section": "outages",
@@ -159,19 +133,6 @@
       "description": "There will be a planned chilled water and air conditioning outage that will impact the A.V. Williams Building and the Computer Science Instructional Center to accommodate the removal and replacement of HVAC equipment at the A.V. Williams Building.",
       "impactType": "Planned",
       "contact": "Randall Phillips",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "hornbake-library": {
-      "section": "outages",
-      "title": "Hornbake Library",
-      "area": "0300 Classroom and Media Center Areas",
-      "start": "10-07-2026 5:40 pm",
-      "finish": "10-09-2026 10:00 am",
-      "repairType": "Heating Outage, Air Conditioning Outage",
-      "description": "The 0300 classroom and media center areas in the Hornbake Library are currently experiencing a heating and air conditioning outage due to emergency repairs on the HVAC equipment supporting this area of the building.",
-      "impactType": "Unplanned",
-      "contact": "Michael Dickman",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -190,19 +151,6 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Biology-Psychology---Exterior-Rooftop-Area%2C-Painting-Work%2C-October-7---October-21-%28Visual%29.png"
       ]
     },
-    "stamp-student-union": {
-      "section": "outages",
-      "title": "Stamp Student Union",
-      "area": "Entire Building.",
-      "start": "10-06-2026 3:55 pm",
-      "finish": "10-13-2026 3:15 pm",
-      "repairType": "Heating Outage",
-      "description": "There is currently a heating outage at the Stamp Student Union due to a leak in a heating hot water line that supports the building. Work to repair the leak is underway.",
-      "impactType": "Emergency",
-      "contact": "Horacio Torres",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "purple-line-sign-installation": {
       "section": "outages",
       "title": "Purple Line, Campus-wide",
@@ -215,21 +163,6 @@
       "contact": "Casey Ferraro",
       "phone": "301-405-2222",
       "attachments": []
-    },
-    "mckeldin-library": {
-      "section": "outages",
-      "title": "McKeldin Library",
-      "area": "Rooftop Area",
-      "start": "09-28-2026 8:00 am",
-      "finish": "10-13-2026 4:00 pm",
-      "repairType": "Rooftop Painting",
-      "description": "Contractors will be painting the existing metal support structure serving the rooftop HVAC Units in McKeldin Library.",
-      "impactType": "Planned",
-      "contact": "Rolando Mendez",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/McKeldin-Library-Steel-Paint.png"
-      ]
     },
     "plaza-between-wind-tunnel-computer-science": {
       "section": "outages",
@@ -319,21 +252,6 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Yale-Ave---Fall-Break-Work-Area-%282%29.pdf"
       ]
     },
-    "alumni-drive-parking-lot-z": {
-      "section": "roads",
-      "title": "Alumni Drive, Parking Lot Z",
-      "area": "Alumni Drive, from Campus Drive to Fieldhouse Drive between Championship Lane and Parking Lot Z. **See map attached**",
-      "start": "10-09-2026 6:00 am",
-      "finish": "10-13-2026 6:00 pm",
-      "repairType": "Road Closure, Partial Parking Lot Closure",
-      "description": "A portion of Alumni Drive from Campus Drive to Fieldhouse Drive and several parking spaces in Parking Lot Z will be closed to accommodate construction activities related to the Health and Human Sciences Complex project.",
-      "impactType": "Planned",
-      "contact": "Daniel Klenner",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Alumni-Drive-Roadway-Closure-and-Parking-Lot-Z-Parking-Space-Closures%2C-October-9---October-13-%28Map%29.pdf"
-      ]
-    },
     "purple-line-overnight-testing": {
       "section": "roads",
       "title": "Purple Line, Campus-wide",
@@ -405,99 +323,95 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "cambridge-community-quad": {
+    "cambridge-community-center": {
       "section": "outages",
-      "title": "Cambridge Community Quad",
-      "area": "Bel Air Hall, south side of the building; Centreville Hall, west side of the building; Cambridge Hall, north side of the building; Cumberland Hall, east side of the building.",
-      "start": "10-21-2026 8:00 am",
-      "finish": "11-20-2026 4:30 pm",
-      "repairType": "Concrete Work and Sidewalk Closures",
-      "description": "Planned concrete repair work will be performed on damaged areas of sidewalk throughout the Cambridge Community Quad to address trip hazards and improve structural integrity.",
-      "impactType": "Planned",
-      "contact": "Frank Dudley",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Cambridge-Community-Quad-%281%29.pdf"
-      ]
-    },
-    "avrum-gudelsky-veterinary-center": {
-      "section": "outages",
-      "title": "Avrum Gudelsky Veterinary Center",
-      "area": "Entire Building.",
-      "start": "10-19-2026 7:00 am",
-      "finish": "10-19-2026 3:30 pm",
-      "repairType": "Heating Outage",
-      "description": "There will be a planned heating outage at the Avrum Gudelsky Veterinary Center in order to replace several HVAC heating valves in the building.",
-      "impactType": "Planned",
-      "contact": "John Cole",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "regents-drive-parking-garage": {
-      "section": "outages",
-      "title": "Regents Drive Parking Garage",
-      "area": "Entire Building.",
-      "start": "10-18-2026 6:00 am",
-      "finish": "10-18-2026 11:00 am",
-      "repairType": "Electrical Outage",
-      "description": "There will be a planned electrical outage resulting in a loss of normal power to the Regents Drive Parking Garage. This will impact elevator service in the parking garage and air conditioning and heating in the office areas and basement gym area.",
-      "impactType": "Planned",
-      "contact": "Randall Phillips",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "h-j-patterson-hall": {
-      "section": "outages",
-      "title": "H. J. Patterson Hall",
-      "area": "Seed Dryer in the Building Only",
-      "start": "10-13-2026 3:00 pm",
-      "finish": "10-14-2026 3:00 pm",
-      "repairType": "Seed Dryer Outage, Steam Outage",
-      "description": "There will be a steam outage at H.J. Patterson Hall to seal a steam pipe that is no longer in use, resulting in the seed dryer in the building being unavailable for the duration of the outage.",
-      "impactType": "Planned",
-      "contact": "Elber Coreas",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "xfinity-center": {
-      "section": "outages",
-      "title": "Xfinity Center",
-      "area": "Entire Building.",
-      "start": "10-13-2026 6:00 am",
-      "finish": "10-14-2026 3:00 pm",
+      "title": "Cambridge Community Center",
+      "area": "Entire Building",
+      "start": "10-23-2026 6:00 am",
+      "finish": "10-23-2026 3:00 pm",
       "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "Fire alarm/suppression system inspections are scheduled at the Xfinity Center to test the building's fire alarm, sprinkler, and suppression systems.",
+      "description": "Fire alarm/suppression system inspections are scheduled to occur at Cambridge Community Center to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
       "contact": "Clarence Brown",
-      "phone": "301-405-2222",
+      "phone": "301-405-0134",
       "attachments": []
     },
-    "animal-sciences-agricultural-engineering-2": {
+    "tawes-hall": {
       "section": "outages",
-      "title": "Animal Sciences / Agricultural Engineering Building",
-      "area": "Entire building; varying impacts occurring depending on the wing of the building **See copy of the notice attached for further details**",
-      "start": "10-13-2026 4:00 am",
-      "finish": "10-13-2026 6:00 am",
-      "repairType": "Electrical Outage",
-      "description": "Electrical outage at the Animal Sciences / Agricultural Engineering Building that may impact normal electricity to outlets and lighting, HVAC services for heating and air conditioning, elevator service, and lab ventilation during the outage.",
+      "title": "Tawes Hall",
+      "area": "Entire Building",
+      "start": "10-23-2026 6:00 am",
+      "finish": "10-23-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "Fire alarm/suppression system inspections are scheduled to occur at Tawes Hall to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
-      "contact": "Antonio Sanchez",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/University-of-Maryland%2C-College-Park-Mail---Animal-Sciences-_-Agricultural-Engineering-Building%2C-Electrical-Outage%2C-October-13-%28Outage-Notice-Email%29.pdf"
-      ]
+      "contact": "Clarence Brown",
+      "phone": "301-405-0134",
+      "attachments": []
     },
-    "v-williams-2": {
+    "health-center": {
       "section": "outages",
-      "title": "A.V. Williams Building",
-      "area": "Wing 1 and Wing 2",
-      "start": "10-13-2026 3:00 am",
-      "finish": "10-13-2026 6:30 am",
-      "repairType": "Electrical Outage",
-      "description": "There will be a planned electrical outage at the A.V. Williams Building that will impact normal electrical power to lighting and outlets, building accessibility, and air conditioning in Wings 1 and 2 of the building.",
+      "title": "Health Center",
+      "area": "Entire Building",
+      "start": "10-21-2026 6:00 am",
+      "finish": "10-21-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
-      "contact": "Tim Zhao",
-      "phone": "301-405-2222",
+      "contact": "Leroy Houston",
+      "phone": "301-405-0134",
+      "attachments": []
+    },
+    "chesapeake": {
+      "section": "outages",
+      "title": "Chesapeake Building",
+      "area": "Entire Building",
+      "start": "10-20-2026 6:00 am",
+      "finish": "10-20-2026 3:00 pm",
+      "repairType": "Chesapeake Building, Fire Alarm System and Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Leroy Houston",
+      "phone": "301-405-0134",
+      "attachments": []
+    },
+    "j-m-patterson": {
+      "section": "outages",
+      "title": "J.M. Patterson Building",
+      "area": "Entire Building",
+      "start": "10-19-2026 6:00 am",
+      "finish": "10-19-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Leroy Houston",
+      "phone": "301-405-0134",
+      "attachments": []
+    },
+    "symons-hall": {
+      "section": "outages",
+      "title": "Symons Hall",
+      "area": "Entire Building",
+      "start": "10-16-2026 6:00 am",
+      "finish": "10-16-2026 4:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Leroy Houston",
+      "phone": "301-405-0134",
+      "attachments": []
+    },
+    "taliaferro-hall-francis-scott-key-hall": {
+      "section": "outages",
+      "title": "Taliaferro Hall and Francis Scott Key Hall",
+      "area": "Entire Building",
+      "start": "10-15-2026 6:00 am",
+      "finish": "10-16-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Leroy Houston",
+      "phone": "301-405-0134",
       "attachments": []
     }
   }
