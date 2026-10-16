@@ -1,7 +1,33 @@
 {
-  "pageHash": "bff51c918dd53673",
-  "changedAt": "2026-10-15T06:46:00-04:00",
+  "pageHash": "7362dc8b2e487529",
+  "changedAt": "2026-10-16T06:47:00-04:00",
   "rows": {
+    "tawes-hall": {
+      "section": "outages",
+      "title": "Tawes Hall",
+      "area": "Entire Building",
+      "start": "10-23-2026 6:00 am",
+      "finish": "10-23-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "Fire alarm/suppression system inspections are scheduled to occur at Tawes Hall to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
+      "phone": "301-405-0134",
+      "attachments": []
+    },
+    "cambridge-community-center": {
+      "section": "outages",
+      "title": "Cambridge Community Center",
+      "area": "Entire Building",
+      "start": "10-23-2026 6:00 am",
+      "finish": "10-23-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "Fire alarm/suppression system inspections are scheduled to occur at Cambridge Community Center to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
+      "phone": "301-405-0134",
+      "attachments": []
+    },
     "cambridge-community-quad": {
       "section": "outages",
       "title": "Cambridge Community Quad",
@@ -17,6 +43,32 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Cambridge-Community-Quad-%281%29.pdf"
       ]
     },
+    "health-center": {
+      "section": "outages",
+      "title": "Health Center",
+      "area": "Entire Building",
+      "start": "10-21-2026 6:00 am",
+      "finish": "10-21-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Leroy Houston",
+      "phone": "301-405-0134",
+      "attachments": []
+    },
+    "chesapeake": {
+      "section": "outages",
+      "title": "Chesapeake Building",
+      "area": "Entire Building",
+      "start": "10-20-2026 6:00 am",
+      "finish": "10-20-2026 3:00 pm",
+      "repairType": "Chesapeake Building, Fire Alarm System and Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Leroy Houston",
+      "phone": "301-405-0134",
+      "attachments": []
+    },
     "avrum-gudelsky-veterinary-center": {
       "section": "outages",
       "title": "Avrum Gudelsky Veterinary Center",
@@ -28,6 +80,19 @@
       "impactType": "Planned",
       "contact": "John Cole",
       "phone": "301-405-2222",
+      "attachments": []
+    },
+    "j-m-patterson": {
+      "section": "outages",
+      "title": "J.M. Patterson Building",
+      "area": "Entire Building",
+      "start": "10-19-2026 6:00 am",
+      "finish": "10-19-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Leroy Houston",
+      "phone": "301-405-0134",
       "attachments": []
     },
     "regents-drive-parking-garage": {
@@ -71,6 +136,19 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Riggs-Alumni-Sidewalk-Closure.pdf"
       ]
     },
+    "symons-hall": {
+      "section": "outages",
+      "title": "Symons Hall",
+      "area": "Entire Building",
+      "start": "10-16-2026 6:00 am",
+      "finish": "10-16-2026 4:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Leroy Houston",
+      "phone": "301-405-0134",
+      "attachments": []
+    },
     "shoemaker": {
       "section": "outages",
       "title": "Shoemaker Building",
@@ -97,43 +175,17 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "h-j-patterson-hall": {
+    "taliaferro-hall-francis-scott-key-hall": {
       "section": "outages",
-      "title": "H. J. Patterson Hall",
-      "area": "Seed Dryer in the Building Only",
-      "start": "10-13-2026 3:00 pm",
-      "finish": "10-14-2026 3:00 pm",
-      "repairType": "Seed Dryer Outage, Steam Outage",
-      "description": "There will be a steam outage at H.J. Patterson Hall to seal a steam pipe that is no longer in use, resulting in the seed dryer in the building being unavailable for the duration of the outage.",
-      "impactType": "Planned",
-      "contact": "Elber Coreas",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "xfinity-center": {
-      "section": "outages",
-      "title": "Xfinity Center",
-      "area": "Entire Building.",
-      "start": "10-13-2026 6:00 am",
-      "finish": "10-14-2026 3:00 pm",
+      "title": "Taliaferro Hall and Francis Scott Key Hall",
+      "area": "Entire Building",
+      "start": "10-15-2026 6:00 am",
+      "finish": "10-16-2026 3:00 pm",
       "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "Fire alarm/suppression system inspections are scheduled at the Xfinity Center to test the building's fire alarm, sprinkler, and suppression systems.",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "v-williams-computer-sciences-instructional-center": {
-      "section": "outages",
-      "title": "A.V. Williams Building, Computer Sciences Instructional Center",
-      "area": "Entire Building(s)",
-      "start": "10-09-2026 5:00 pm",
-      "finish": "10-14-2026 4:00 am",
-      "repairType": "HVAC Chilled Water Outage, Air Conditioning Outage",
-      "description": "There will be a planned chilled water and air conditioning outage that will impact the A.V. Williams Building and the Computer Science Instructional Center to accommodate the removal and replacement of HVAC equipment at the A.V. Williams Building.",
-      "impactType": "Planned",
-      "contact": "Randall Phillips",
-      "phone": "301-405-2222",
+      "contact": "Leroy Houston",
+      "phone": "301-405-0134",
       "attachments": []
     },
     "biopsych-wing-2-heating": {
@@ -323,96 +375,35 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "cambridge-community-center": {
+    "northgate-pedestrian-bridge": {
       "section": "outages",
-      "title": "Cambridge Community Center",
-      "area": "Entire Building",
-      "start": "10-23-2026 6:00 am",
-      "finish": "10-23-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "Fire alarm/suppression system inspections are scheduled to occur at Cambridge Community Center to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-0134",
-      "attachments": []
+      "title": "Northgate Pedestrian Bridge",
+      "area": "Crossing Paint Branch stream near The Varsity **See map attached**",
+      "start": "10-15-2026 11:00 am",
+      "finish": "",
+      "repairType": "Pedestrian Bridge Closure",
+      "description": "During annual structural inspection, it was found that increased deterioration had occurred due to micromobility vehicle use. The bridge was designed for pedestrian traffic only.",
+      "impactType": "Unplanned",
+      "contact": "Aynsley Toews",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Closure-of-Northgate-Pedestrian-Bridge%2C-crossing-Paint-Branch-stream-near-The-Varsity-%28Map%29.png"
+      ]
     },
-    "tawes-hall": {
-      "section": "outages",
-      "title": "Tawes Hall",
-      "area": "Entire Building",
-      "start": "10-23-2026 6:00 am",
-      "finish": "10-23-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "Fire alarm/suppression system inspections are scheduled to occur at Tawes Hall to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-0134",
-      "attachments": []
-    },
-    "health-center": {
-      "section": "outages",
-      "title": "Health Center",
-      "area": "Entire Building",
-      "start": "10-21-2026 6:00 am",
-      "finish": "10-21-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Leroy Houston",
-      "phone": "301-405-0134",
-      "attachments": []
-    },
-    "chesapeake": {
-      "section": "outages",
-      "title": "Chesapeake Building",
-      "area": "Entire Building",
-      "start": "10-20-2026 6:00 am",
-      "finish": "10-20-2026 3:00 pm",
-      "repairType": "Chesapeake Building, Fire Alarm System and Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Leroy Houston",
-      "phone": "301-405-0134",
-      "attachments": []
-    },
-    "j-m-patterson": {
-      "section": "outages",
-      "title": "J.M. Patterson Building",
-      "area": "Entire Building",
-      "start": "10-19-2026 6:00 am",
-      "finish": "10-19-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Leroy Houston",
-      "phone": "301-405-0134",
-      "attachments": []
-    },
-    "symons-hall": {
-      "section": "outages",
-      "title": "Symons Hall",
-      "area": "Entire Building",
-      "start": "10-16-2026 6:00 am",
-      "finish": "10-16-2026 4:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Leroy Houston",
-      "phone": "301-405-0134",
-      "attachments": []
-    },
-    "taliaferro-hall-francis-scott-key-hall": {
-      "section": "outages",
-      "title": "Taliaferro Hall and Francis Scott Key Hall",
-      "area": "Entire Building",
-      "start": "10-15-2026 6:00 am",
-      "finish": "10-16-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Leroy Houston",
-      "phone": "301-405-0134",
-      "attachments": []
+    "fieldhouse-drive": {
+      "section": "roads",
+      "title": "Fieldhouse Drive",
+      "area": "North of the Jones Hill House at the Cole Student Activities Building, facing the Tyser Tower at SECU Stadium **See map attached**",
+      "start": "10-15-2026 12:00 pm",
+      "finish": "10-15-2026 1:30 pm",
+      "repairType": "Roadway Closure, Sidewalk Closure",
+      "description": "To accommodate cleanup of glass from a broken window.",
+      "impactType": "Emergency",
+      "contact": "Colin Davis",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Urgent-Closure-Notification---Section-of-Fieldhouse-Drive-North-of-Jones-Hill-House%2C-Roadway-Closure-%28Map%29.png"
+      ]
     }
   }
 }

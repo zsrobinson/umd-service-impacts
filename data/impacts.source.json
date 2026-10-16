@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-15T06:46:00-04:00",
+  "fetchedAt": "2026-10-16T06:47:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -432,33 +432,6 @@
       ]
     },
     {
-      "id": "v-williams-computer-sciences-instructional-center",
-      "title": "Chilled water and air conditioning outage",
-      "sourceTitle": "A.V. Williams Building, Computer Sciences Instructional Center",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-09T17:00:00-04:00",
-      "end": "2026-10-14T04:00:00-04:00",
-      "area": "Entire Building(s)",
-      "repairType": "HVAC Chilled Water Outage, Air Conditioning Outage",
-      "description": "There will be a planned chilled water and air conditioning outage that will impact the A.V. Williams Building and the Computer Science Instructional Center to accommodate the removal and replacement of HVAC equipment at the A.V. Williams Building.",
-      "contacts": [
-        "Randall Phillips"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "hvac",
-      "services": [
-        "Air conditioning"
-      ],
-      "precision": "building",
-      "places": [
-        "building-a-v-williams-building",
-        "building-computer-science-instructional-center"
-      ]
-    },
-    {
       "id": "yale-avenue",
       "title": "Yale Avenue partly closed for road and curb repairs",
       "sourceTitle": "Yale Avenue",
@@ -673,59 +646,6 @@
       ]
     },
     {
-      "id": "h-j-patterson-hall",
-      "title": "Seed dryer unavailable during a steam outage",
-      "sourceTitle": "H. J. Patterson Hall",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-13T15:00:00-04:00",
-      "end": "2026-10-14T15:00:00-04:00",
-      "area": "Seed Dryer in the Building Only",
-      "repairType": "Seed Dryer Outage, Steam Outage",
-      "description": "There will be a steam outage at H.J. Patterson Hall to seal a steam pipe that is no longer in use, resulting in the seed dryer in the building being unavailable for the duration of the outage.",
-      "contacts": [
-        "Elber Coreas"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "steam",
-      "services": [
-        "Seed dryer"
-      ],
-      "precision": "building",
-      "places": [
-        "building-h-j-patterson-hall"
-      ]
-    },
-    {
-      "id": "xfinity-center",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "Xfinity Center",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-13T06:00:00-04:00",
-      "end": "2026-10-14T15:00:00-04:00",
-      "area": "Entire Building.",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "Fire alarm/suppression system inspections are scheduled at the Xfinity Center to test the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-xfinity-center"
-      ]
-    },
-    {
       "id": "cambridge-community-center",
       "title": "Fire alarm and sprinkler testing",
       "sourceTitle": "Cambridge Community Center",
@@ -914,6 +834,66 @@
         "building-francis-scott-key-hall",
         "building-taliaferro-hall"
       ]
+    },
+    {
+      "id": "northgate-pedestrian-bridge",
+      "title": "Northgate pedestrian bridge over Paint Branch closed",
+      "sourceTitle": "Northgate Pedestrian Bridge",
+      "section": "outages",
+      "notice": "unplanned",
+      "resolved": false,
+      "start": "2026-10-15T11:00:00-04:00",
+      "end": null,
+      "area": "Crossing Paint Branch stream near The Varsity",
+      "repairType": "Pedestrian Bridge Closure",
+      "description": "During annual structural inspection, it was found that increased deterioration had occurred due to micromobility vehicle use. The bridge was designed for pedestrian traffic only.",
+      "contacts": [
+        "Aynsley Toews"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Closure-of-Northgate-Pedestrian-Bridge%2C-crossing-Paint-Branch-stream-near-The-Varsity-%28Map%29.png"
+      ],
+      "category": "sidewalk",
+      "services": [
+        "Pedestrian bridge"
+      ],
+      "precision": "approximate",
+      "places": [
+        "building-the-varsity"
+      ],
+      "locationNote": "The bridge crosses Paint Branch near The Varsity; shown at The Varsity."
+    },
+    {
+      "id": "fieldhouse-drive",
+      "title": "Part of Fieldhouse Drive closed for broken glass cleanup",
+      "sourceTitle": "Fieldhouse Drive",
+      "section": "roads",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-10-15T12:00:00-04:00",
+      "end": "2026-10-15T13:30:00-04:00",
+      "area": "North of the Jones Hill House at the Cole Student Activities Building, facing the Tyser Tower at SECU Stadium",
+      "repairType": "Roadway Closure, Sidewalk Closure",
+      "description": "To accommodate cleanup of glass from a broken window.",
+      "contacts": [
+        "Colin Davis"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Urgent-Closure-Notification---Section-of-Fieldhouse-Drive-North-of-Jones-Hill-House%2C-Roadway-Closure-%28Map%29.png"
+      ],
+      "category": "road",
+      "services": [
+        "Road",
+        "Sidewalk"
+      ],
+      "precision": "approximate",
+      "places": [
+        "road-fieldhouse-drive",
+        "building-jones-hill-house"
+      ],
+      "locationNote": "Only the section north of Jones Hill House, facing Tyser Tower, is closed; the whole road is shown."
     }
   ]
 }
