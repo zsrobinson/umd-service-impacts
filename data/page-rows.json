@@ -1,7 +1,82 @@
 {
-  "pageHash": "7362dc8b2e487529",
-  "changedAt": "2026-10-16T06:47:00-04:00",
+  "pageHash": "21a18730fdcc7d06",
+  "changedAt": "2026-10-17T06:47:00-04:00",
   "rows": {
+    "stadium-drive": {
+      "section": "roads",
+      "title": "Stadium Drive",
+      "area": "South of the E.A. Fernandez IDEA Factory Building, between the Chemistry Lane and Engineering Drive Intersection to the Stanley Zupnik Hall loading dock.",
+      "start": "10-21-2026 6:00 am",
+      "finish": "04-30-2027 4:00 pm",
+      "repairType": "Sidewalk Closures, Roadway Closure",
+      "description": "Closure is occurring for the staging of crane equipment to support construction activities occurring in this area of campus.",
+      "impactType": "Planned",
+      "contact": "Randall Phillips",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Dr-Closure%2C-Crane-Setup%2C-Detours-%28Map%29.pdf"
+      ]
+    },
+    "yale-avenue": {
+      "section": "roads",
+      "title": "Yale Avenue",
+      "area": "South of Fraternity Houses 9 through 11, between the Hillel Building and Princeton Avenue",
+      "start": "10-09-2026 9:00 am",
+      "finish": "10-16-2026 5:00 pm",
+      "repairType": "Parking Space Closures and Partial Road Closure",
+      "description": "A partial roadway closure of Yale Ave south of Fraternity Houses 9 thru 11, between the Hillel Building and Princeton Ave, to accommodate roadway and curb repairs. Parking spaces within the designated work site will be closed and unavailable for use.",
+      "impactType": "Planned",
+      "contact": "Kendra Howard",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Yale-Ave---Fall-Break-Work-Area-%282%29.pdf"
+      ]
+    },
+    "purple-line-sign-installation": {
+      "section": "roads",
+      "title": "Purple Line, Campus-wide",
+      "area": "**See attached map for impacts**",
+      "start": "08-29-2026 10:00 pm",
+      "finish": "01-26-2027 6:00 am",
+      "repairType": "Purple Line Construction",
+      "description": "Campus-wide overnight testing.",
+      "impactType": "Planned",
+      "contact": "Casey Ferraro",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---LRV-Testing-Vehicle%2C-Pedestrian-Impacts---Notification-Map.pdf"
+      ]
+    },
+    "purple-line-overnight-testing": {
+      "section": "roads",
+      "title": "Purple Line, Campus-wide",
+      "area": "**See attached map for impacted roadways and sidewalks**",
+      "start": "08-29-2026 12:00 am",
+      "finish": "01-26-2027 11:00 pm",
+      "repairType": "Purple Line Construction",
+      "description": "Periodic lane and sidewalk closures.",
+      "impactType": "Planned",
+      "contact": "Casey Ferraro",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---Periodic-Lane-%26-Sidewalk-Closures---Fall-2026---Notification-Map.pdf"
+      ]
+    },
+    "lot-z-partial-closure": {
+      "section": "roads",
+      "title": "Parking Lot Z",
+      "area": "Southeast corner of the parking lot.",
+      "start": "12-22-2025 7:00 am",
+      "finish": "09-01-2028 4:00 pm",
+      "repairType": "Partial Parking Lot Closure",
+      "description": "To facilitate the construction laydown area for the Health and Human Sciences Complex project.",
+      "impactType": "Planned",
+      "contact": "Randall Phillips",
+      "phone": "443-500-2356",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
+      ]
+    },
     "tawes-hall": {
       "section": "outages",
       "title": "Tawes Hall",
@@ -52,7 +127,7 @@
       "repairType": "Fire Alarm/Suppression Testing and Inspection",
       "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
-      "contact": "Leroy Houston",
+      "contact": "Clarence Brown",
       "phone": "301-405-0134",
       "attachments": []
     },
@@ -65,7 +140,7 @@
       "repairType": "Chesapeake Building, Fire Alarm System and Suppression Testing and Inspection",
       "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
-      "contact": "Leroy Houston",
+      "contact": "Clarence Brown",
       "phone": "301-405-0134",
       "attachments": []
     },
@@ -91,7 +166,7 @@
       "repairType": "Fire Alarm/Suppression Testing and Inspection",
       "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
-      "contact": "Leroy Houston",
+      "contact": "Clarence Brown",
       "phone": "301-405-0134",
       "attachments": []
     },
@@ -145,9 +220,24 @@
       "repairType": "Fire Alarm/Suppression Testing and Inspection",
       "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
-      "contact": "Leroy Houston",
+      "contact": "Clarence Brown",
       "phone": "301-405-0134",
       "attachments": []
+    },
+    "northgate-pedestrian-bridge": {
+      "section": "outages",
+      "title": "Northgate Pedestrian Bridge",
+      "area": "Crossing Paint Branch stream near The Varsity **See map attached**",
+      "start": "10-15-2026 11:00 am",
+      "finish": "",
+      "repairType": "Pedestrian Bridge Closure",
+      "description": "During annual structural inspection, it was found that increased deterioration had occurred due to micromobility vehicle use. The bridge was designed for pedestrian traffic only.",
+      "impactType": "Unplanned",
+      "contact": "Aynsley Toews",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Closure-of-Northgate-Pedestrian-Bridge%2C-crossing-Paint-Branch-stream-near-The-Varsity-%28Map%29.png"
+      ]
     },
     "shoemaker": {
       "section": "outages",
@@ -184,7 +274,7 @@
       "repairType": "Fire Alarm/Suppression Testing and Inspection",
       "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
-      "contact": "Leroy Houston",
+      "contact": "Clarence Brown",
       "phone": "301-405-0134",
       "attachments": []
     },
@@ -203,7 +293,7 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Biology-Psychology---Exterior-Rooftop-Area%2C-Painting-Work%2C-October-7---October-21-%28Visual%29.png"
       ]
     },
-    "purple-line-sign-installation": {
+    "purple-line-lane-sidewalk-closures": {
       "section": "outages",
       "title": "Purple Line, Campus-wide",
       "area": "Along the Purple Line",
@@ -274,81 +364,6 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/148---Urgent-Outage-Notice-HVAC-Cooling.png"
       ]
     },
-    "stadium-drive": {
-      "section": "roads",
-      "title": "Stadium Drive",
-      "area": "South of the E.A. Fernandez IDEA Factory Building, between the Chemistry Lane and Engineering Drive Intersection to the Stanley Zupnik Hall loading dock.",
-      "start": "10-21-2026 6:00 am",
-      "finish": "04-30-2027 4:00 pm",
-      "repairType": "Sidewalk Closures, Roadway Closure",
-      "description": "Closure is occurring for the staging of crane equipment to support construction activities occurring in this area of campus.",
-      "impactType": "Planned",
-      "contact": "Randall Phillips",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Dr-Closure%2C-Crane-Setup%2C-Detours-%28Map%29.pdf"
-      ]
-    },
-    "yale-avenue": {
-      "section": "roads",
-      "title": "Yale Avenue",
-      "area": "South of Fraternity Houses 9 through 11, between the Hillel Building and Princeton Avenue",
-      "start": "10-09-2026 9:00 am",
-      "finish": "10-16-2026 5:00 pm",
-      "repairType": "Parking Space Closures and Partial Road Closure",
-      "description": "A partial roadway closure of Yale Ave south of Fraternity Houses 9 thru 11, between the Hillel Building and Princeton Ave, to accommodate roadway and curb repairs. Parking spaces within the designated work site will be closed and unavailable for use.",
-      "impactType": "Planned",
-      "contact": "Kendra Howard",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Yale-Ave---Fall-Break-Work-Area-%282%29.pdf"
-      ]
-    },
-    "purple-line-overnight-testing": {
-      "section": "roads",
-      "title": "Purple Line, Campus-wide",
-      "area": "**See attached map for impacts**",
-      "start": "08-29-2026 10:00 pm",
-      "finish": "01-26-2027 6:00 am",
-      "repairType": "Purple Line Construction",
-      "description": "Campus-wide overnight testing.",
-      "impactType": "Planned",
-      "contact": "Casey Ferraro",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---LRV-Testing-Vehicle%2C-Pedestrian-Impacts---Notification-Map.pdf"
-      ]
-    },
-    "purple-line-lane-sidewalk-closures": {
-      "section": "roads",
-      "title": "Purple Line, Campus-wide",
-      "area": "**See attached map for impacted roadways and sidewalks**",
-      "start": "08-29-2026 12:00 am",
-      "finish": "01-26-2027 11:00 pm",
-      "repairType": "Purple Line Construction",
-      "description": "Periodic lane and sidewalk closures.",
-      "impactType": "Planned",
-      "contact": "Casey Ferraro",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---Periodic-Lane-%26-Sidewalk-Closures---Fall-2026---Notification-Map.pdf"
-      ]
-    },
-    "lot-z-partial-closure": {
-      "section": "roads",
-      "title": "Parking Lot Z",
-      "area": "Southeast corner of the parking lot.",
-      "start": "12-22-2025 7:00 am",
-      "finish": "09-01-2028 4:00 pm",
-      "repairType": "Partial Parking Lot Closure",
-      "description": "To facilitate the construction laydown area for the Health and Human Sciences Complex project.",
-      "impactType": "Planned",
-      "contact": "Randall Phillips",
-      "phone": "443-500-2356",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
-      ]
-    },
     "cumberland-hall": {
       "section": "elevators",
       "title": "Cumberland Hall",
@@ -375,35 +390,59 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "northgate-pedestrian-bridge": {
-      "section": "outages",
-      "title": "Northgate Pedestrian Bridge",
-      "area": "Crossing Paint Branch stream near The Varsity **See map attached**",
-      "start": "10-15-2026 11:00 am",
-      "finish": "",
-      "repairType": "Pedestrian Bridge Closure",
-      "description": "During annual structural inspection, it was found that increased deterioration had occurred due to micromobility vehicle use. The bridge was designed for pedestrian traffic only.",
-      "impactType": "Unplanned",
-      "contact": "Aynsley Toews",
+    "chapel-lane": {
+      "section": "roads",
+      "title": "Chapel Lane",
+      "area": "From Regents Drive to Parking Lot W1.",
+      "start": "10-24-2026 7:00 am",
+      "finish": "10-26-2026 5:00 pm",
+      "repairType": "Parking Space Closures and Partial Road Closure",
+      "description": "Chapel Lane will have intermittent closures to accommodate roadway repairs involving milling asphalt, repaving, and restriping. All ADA parking spaces and service spaces will be unavailable throughout the day on Sat. 10/24.",
+      "impactType": "Planned",
+      "contact": "Charles Patterson",
       "phone": "301-405-2222",
       "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Closure-of-Northgate-Pedestrian-Bridge%2C-crossing-Paint-Branch-stream-near-The-Varsity-%28Map%29.png"
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Chapel-Lane-Repave-1-%281%29.png"
       ]
     },
-    "fieldhouse-drive": {
-      "section": "roads",
-      "title": "Fieldhouse Drive",
-      "area": "North of the Jones Hill House at the Cole Student Activities Building, facing the Tyser Tower at SECU Stadium **See map attached**",
-      "start": "10-15-2026 12:00 pm",
-      "finish": "10-15-2026 1:30 pm",
-      "repairType": "Roadway Closure, Sidewalk Closure",
-      "description": "To accommodate cleanup of glass from a broken window.",
-      "impactType": "Emergency",
-      "contact": "Colin Davis",
+    "plant-sciences": {
+      "section": "outages",
+      "title": "Plant Sciences Building",
+      "area": "Entire Building",
+      "start": "10-19-2026 6:00 am",
+      "finish": "10-19-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
+      "phone": "301-405-0134",
+      "attachments": []
+    },
+    "chemistry": {
+      "section": "outages",
+      "title": "Chemistry Building",
+      "area": "Lab Room 2221",
+      "start": "10-17-2026 6:00 am",
+      "finish": "10-17-2026 8:00 am",
+      "repairType": "Flooring Work",
+      "description": "Flooring work will occur in Lab Room 2221 of the Chemistry Building. The flooring materials used will produce an odor; however, active ventilation measures will be taken to minimize any impact on surrounding areas.",
+      "impactType": "Planned",
+      "contact": "Cornell Jones",
       "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Urgent-Closure-Notification---Section-of-Fieldhouse-Drive-North-of-Jones-Hill-House%2C-Roadway-Closure-%28Map%29.png"
-      ]
+      "attachments": []
+    },
+    "south-campus-dining-hall": {
+      "section": "elevators",
+      "title": "South Campus Dining Hall",
+      "area": "Freight elevator Car 3",
+      "start": "10-16-2026 11:59 pm",
+      "finish": "",
+      "repairType": "elevator",
+      "description": "freight elevator car 3 is down for repairs",
+      "impactType": "Emergency",
+      "contact": "Leroy Houston",
+      "phone": "",
+      "attachments": []
     }
   }
 }

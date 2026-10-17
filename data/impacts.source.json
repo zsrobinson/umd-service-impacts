@@ -1,32 +1,35 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-16T06:47:00-04:00",
+  "fetchedAt": "2026-10-17T06:47:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
-      "title": "Sign installation noise along the Purple Line",
+      "title": "Overnight Purple Line testing",
       "sourceTitle": "Purple Line, Campus-wide",
-      "section": "outages",
+      "section": "roads",
       "category": "construction",
       "services": [
-        "Noise"
+        "Road",
+        "Sidewalk"
       ],
       "notice": "planned",
-      "start": "2026-09-28T08:00:00-04:00",
-      "end": "2026-10-18T17:00:00-04:00",
-      "area": "Along the Purple Line",
-      "repairType": "Sign Installation",
-      "description": "The Purple Line project plans to install signs on the overhead catenary poles along the alignment from Adelphi Road (near UMCG) through the UMD campus to the College Park Metro Station.",
+      "start": "2026-08-29T22:00:00-04:00",
+      "end": "2027-01-26T06:00:00-05:00",
+      "area": "See the attached map",
+      "repairType": "Purple Line Construction",
+      "description": "Campus-wide overnight testing.",
       "contacts": [
         "Casey Ferraro"
       ],
       "precision": "campus-wide",
-      "locationNote": "Covers the whole Purple Line alignment from Adelphi Road to the College Park Metro Station.",
+      "locationNote": "The notice only points to its attached map; drawn here along the whole Purple Line.",
       "places": [
         "line-purple-line"
       ],
       "phone": "301-405-2222",
-      "attachments": [],
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---LRV-Testing-Vehicle%2C-Pedestrian-Impacts---Notification-Map.pdf"
+      ],
       "resolved": false
     },
     {
@@ -114,36 +117,6 @@
     },
     {
       "id": "purple-line-overnight-testing",
-      "title": "Overnight Purple Line testing",
-      "sourceTitle": "Purple Line, Campus-wide",
-      "section": "roads",
-      "category": "construction",
-      "services": [
-        "Road",
-        "Sidewalk"
-      ],
-      "notice": "planned",
-      "start": "2026-08-29T22:00:00-04:00",
-      "end": "2027-01-26T06:00:00-05:00",
-      "area": "See the attached map",
-      "repairType": "Purple Line Construction",
-      "description": "Campus-wide overnight testing.",
-      "contacts": [
-        "Casey Ferraro"
-      ],
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---LRV-Testing-Vehicle%2C-Pedestrian-Impacts---Notification-Map.pdf"
-      ],
-      "precision": "campus-wide",
-      "locationNote": "The notice only points to its attached map; drawn here along the whole Purple Line.",
-      "places": [
-        "line-purple-line"
-      ],
-      "phone": "301-405-2222",
-      "resolved": false
-    },
-    {
-      "id": "purple-line-lane-sidewalk-closures",
       "title": "Periodic lane and sidewalk closures along the Purple Line",
       "sourceTitle": "Purple Line, Campus-wide",
       "section": "roads",
@@ -166,6 +139,33 @@
       ],
       "precision": "campus-wide",
       "locationNote": "The notice only points to its attached map; drawn here along the whole Purple Line.",
+      "places": [
+        "line-purple-line"
+      ],
+      "phone": "301-405-2222",
+      "resolved": false
+    },
+    {
+      "id": "purple-line-lane-sidewalk-closures",
+      "title": "Sign installation noise along the Purple Line",
+      "sourceTitle": "Purple Line, Campus-wide",
+      "section": "outages",
+      "category": "construction",
+      "services": [
+        "Noise"
+      ],
+      "notice": "planned",
+      "start": "2026-09-28T08:00:00-04:00",
+      "end": "2026-10-18T17:00:00-04:00",
+      "area": "Along the Purple Line",
+      "repairType": "Sign Installation",
+      "description": "The Purple Line project plans to install signs on the overhead catenary poles along the alignment from Adelphi Road (near UMCG) through the UMD campus to the College Park Metro Station.",
+      "contacts": [
+        "Casey Ferraro"
+      ],
+      "attachments": [],
+      "precision": "campus-wide",
+      "locationNote": "Covers the whole Purple Line alignment from Adelphi Road to the College Park Metro Station.",
       "places": [
         "line-purple-line"
       ],
@@ -712,7 +712,7 @@
       "repairType": "Fire Alarm/Suppression Testing and Inspection",
       "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "contacts": [
-        "Leroy Houston"
+        "Clarence Brown"
       ],
       "phone": "301-405-0134",
       "attachments": [],
@@ -739,7 +739,7 @@
       "repairType": "Chesapeake Building, Fire Alarm System and Suppression Testing and Inspection",
       "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "contacts": [
-        "Leroy Houston"
+        "Clarence Brown"
       ],
       "phone": "301-405-0134",
       "attachments": [],
@@ -766,7 +766,7 @@
       "repairType": "Fire Alarm/Suppression Testing and Inspection",
       "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "contacts": [
-        "Leroy Houston"
+        "Clarence Brown"
       ],
       "phone": "301-405-0134",
       "attachments": [],
@@ -793,7 +793,7 @@
       "repairType": "Fire Alarm/Suppression Testing and Inspection",
       "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "contacts": [
-        "Leroy Houston"
+        "Clarence Brown"
       ],
       "phone": "301-405-0134",
       "attachments": [],
@@ -820,7 +820,7 @@
       "repairType": "Fire Alarm/Suppression Testing and Inspection",
       "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "contacts": [
-        "Leroy Houston"
+        "Clarence Brown"
       ],
       "phone": "301-405-0134",
       "attachments": [],
@@ -865,35 +865,114 @@
       "locationNote": "The bridge crosses Paint Branch near The Varsity; shown at The Varsity."
     },
     {
-      "id": "fieldhouse-drive",
-      "title": "Part of Fieldhouse Drive closed for broken glass cleanup",
-      "sourceTitle": "Fieldhouse Drive",
+      "id": "chapel-lane",
+      "title": "Chapel Lane repaving with intermittent closures",
+      "sourceTitle": "Chapel Lane",
       "section": "roads",
-      "notice": "emergency",
+      "notice": "planned",
       "resolved": false,
-      "start": "2026-10-15T12:00:00-04:00",
-      "end": "2026-10-15T13:30:00-04:00",
-      "area": "North of the Jones Hill House at the Cole Student Activities Building, facing the Tyser Tower at SECU Stadium",
-      "repairType": "Roadway Closure, Sidewalk Closure",
-      "description": "To accommodate cleanup of glass from a broken window.",
+      "start": "2026-10-24T07:00:00-04:00",
+      "end": "2026-10-26T17:00:00-04:00",
+      "area": "From Regents Drive to Parking Lot W1.",
+      "repairType": "Parking Space Closures and Partial Road Closure",
+      "description": "Chapel Lane will have intermittent closures to accommodate roadway repairs involving milling asphalt, repaving, and restriping. All ADA parking spaces and service spaces will be unavailable throughout the day on Sat. 10/24.",
       "contacts": [
-        "Colin Davis"
+        "Charles Patterson"
       ],
       "phone": "301-405-2222",
       "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Urgent-Closure-Notification---Section-of-Fieldhouse-Drive-North-of-Jones-Hill-House%2C-Roadway-Closure-%28Map%29.png"
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Chapel-Lane-Repave-1-%281%29.png"
       ],
       "category": "road",
       "services": [
         "Road",
-        "Sidewalk"
+        "Parking"
       ],
       "precision": "approximate",
       "places": [
-        "road-fieldhouse-drive",
-        "building-jones-hill-house"
+        "parking-lot-w1",
+        "road-regents-drive"
       ],
-      "locationNote": "Only the section north of Jones Hill House, facing Tyser Tower, is closed; the whole road is shown."
+      "locationNote": "Work runs along Chapel Lane from Regents Drive to Lot W1; shown at the lot and Regents Drive."
+    },
+    {
+      "id": "plant-sciences",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "Plant Sciences Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-19T06:00:00-04:00",
+      "end": "2026-10-19T15:00:00-04:00",
+      "area": "Entire Building",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "contacts": [
+        "Clarence Brown"
+      ],
+      "phone": "301-405-0134",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm",
+        "Sprinklers"
+      ],
+      "precision": "building",
+      "places": [
+        "building-plant-science-building"
+      ]
+    },
+    {
+      "id": "chemistry",
+      "title": "Lab 2221 flooring work, with some odor",
+      "sourceTitle": "Chemistry Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-17T06:00:00-04:00",
+      "end": "2026-10-17T08:00:00-04:00",
+      "area": "Lab Room 2221",
+      "repairType": "Flooring Work",
+      "description": "Flooring work will occur in Lab Room 2221 of the Chemistry Building. The flooring materials used will produce an odor; however, active ventilation measures will be taken to minimize any impact on surrounding areas.",
+      "contacts": [
+        "Cornell Jones"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "construction",
+      "services": [
+        "Lab access"
+      ],
+      "precision": "building",
+      "places": [
+        "building-chemistry-building"
+      ]
+    },
+    {
+      "id": "south-campus-dining-hall",
+      "title": "Freight elevator car 3 out of service",
+      "sourceTitle": "South Campus Dining Hall",
+      "section": "elevators",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-10-16T23:59:00-04:00",
+      "end": null,
+      "area": "Freight elevator Car 3",
+      "repairType": "elevator",
+      "description": "freight elevator car 3 is down for repairs",
+      "contacts": [
+        "Leroy Houston"
+      ],
+      "phone": null,
+      "attachments": [],
+      "category": "elevator",
+      "services": [
+        "Freight elevator"
+      ],
+      "precision": "building",
+      "places": [
+        "building-south-campus-dining-hall"
+      ]
     }
   ]
 }
