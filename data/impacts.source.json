@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-17T06:47:00-04:00",
+  "fetchedAt": "2026-10-19T06:47:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -622,13 +622,13 @@
       "title": "Electrical outage affecting elevators and office heating and cooling",
       "sourceTitle": "Regents Drive Parking Garage",
       "section": "outages",
-      "notice": "planned",
+      "notice": "emergency",
       "resolved": false,
-      "start": "2026-10-18T06:00:00-04:00",
-      "end": "2026-10-18T11:00:00-04:00",
+      "start": "2026-10-18T19:08:00-04:00",
+      "end": null,
       "area": "Entire Building.",
       "repairType": "Electrical Outage",
-      "description": "There will be a planned electrical outage resulting in a loss of normal power to the Regents Drive Parking Garage. This will impact elevator service in the parking garage and air conditioning and heating in the office areas and basement gym area.",
+      "description": "FM crews are responding to an electrical outage occurring at the Regents Drive Parking Garage, resulting in normal electrical power to outlets and lighting, air conditioning, and elevator service being unavailable.",
       "contacts": [
         "Randall Phillips"
       ],
@@ -972,6 +972,60 @@
       "precision": "building",
       "places": [
         "building-south-campus-dining-hall"
+      ]
+    },
+    {
+      "id": "regents-drive-parking-garage-2",
+      "title": "Electrical outage affecting elevators and office heating and cooling",
+      "sourceTitle": "Regents Drive Parking Garage",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-18T06:00:00-04:00",
+      "end": "2026-10-18T11:00:00-04:00",
+      "area": "Entire Building.",
+      "repairType": "Electrical Outage",
+      "description": "There will be a planned electrical outage resulting in a loss of normal power to the Regents Drive Parking Garage. This will impact elevator service in the parking garage and air conditioning and heating in the office areas and basement gym area.",
+      "contacts": [
+        "Randall Phillips"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "electrical",
+      "services": [
+        "Power",
+        "Elevator",
+        "HVAC"
+      ],
+      "precision": "building",
+      "places": [
+        "building-regents-drive-parking-garage"
+      ]
+    },
+    {
+      "id": "easton-hall",
+      "title": "Elevator car 2 out of service",
+      "sourceTitle": "Easton Hall",
+      "section": "elevators",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-10-18T10:00:00-04:00",
+      "end": null,
+      "area": "CAR #2",
+      "repairType": "Elevator Outage",
+      "description": "currently out of service for emergency maintenance repairs",
+      "contacts": [
+        "Getachew \"G\" Bayeleyegn"
+      ],
+      "phone": "240-478-0208",
+      "attachments": [],
+      "category": "elevator",
+      "services": [
+        "Elevator"
+      ],
+      "precision": "building",
+      "places": [
+        "building-easton-hall"
       ]
     }
   ]

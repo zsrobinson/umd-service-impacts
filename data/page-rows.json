@@ -1,7 +1,22 @@
 {
-  "pageHash": "21a18730fdcc7d06",
-  "changedAt": "2026-10-17T06:47:00-04:00",
+  "pageHash": "980f266739de9e33",
+  "changedAt": "2026-10-19T06:47:00-04:00",
   "rows": {
+    "chapel-lane": {
+      "section": "roads",
+      "title": "Chapel Lane",
+      "area": "From Regents Drive to Parking Lot W1.",
+      "start": "10-24-2026 7:00 am",
+      "finish": "10-26-2026 5:00 pm",
+      "repairType": "Parking Space Closures and Partial Road Closure",
+      "description": "Chapel Lane will have intermittent closures to accommodate roadway repairs involving milling asphalt, repaving, and restriping. All ADA parking spaces and service spaces will be unavailable throughout the day on Sat. 10/24.",
+      "impactType": "Planned",
+      "contact": "Charles Patterson",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Chapel-Lane-Repave-1-%281%29.png"
+      ]
+    },
     "stadium-drive": {
       "section": "roads",
       "title": "Stadium Drive",
@@ -170,15 +185,28 @@
       "phone": "301-405-0134",
       "attachments": []
     },
+    "plant-sciences": {
+      "section": "outages",
+      "title": "Plant Sciences Building",
+      "area": "Entire Building",
+      "start": "10-19-2026 6:00 am",
+      "finish": "10-19-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
+      "phone": "301-405-0134",
+      "attachments": []
+    },
     "regents-drive-parking-garage": {
       "section": "outages",
       "title": "Regents Drive Parking Garage",
       "area": "Entire Building.",
-      "start": "10-18-2026 6:00 am",
-      "finish": "10-18-2026 11:00 am",
+      "start": "10-18-2026 7:08 pm",
+      "finish": "",
       "repairType": "Electrical Outage",
-      "description": "There will be a planned electrical outage resulting in a loss of normal power to the Regents Drive Parking Garage. This will impact elevator service in the parking garage and air conditioning and heating in the office areas and basement gym area.",
-      "impactType": "Planned",
+      "description": "FM crews are responding to an electrical outage occurring at the Regents Drive Parking Garage, resulting in normal electrical power to outlets and lighting, air conditioning, and elevator service being unavailable.",
+      "impactType": "Emergency",
       "contact": "Randall Phillips",
       "phone": "301-405-2222",
       "attachments": []
@@ -193,6 +221,19 @@
       "description": "There will be a planned domestic hot and cold water outage that will impact sinks, drinking water, toilets, and showers at the A.V. Williams Building to replace the building's faulty water meter.",
       "impactType": "Planned",
       "contact": "Jason Reardon",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "chemistry": {
+      "section": "outages",
+      "title": "Chemistry Building",
+      "area": "Lab Room 2221",
+      "start": "10-17-2026 6:00 am",
+      "finish": "10-17-2026 8:00 am",
+      "repairType": "Flooring Work",
+      "description": "Flooring work will occur in Lab Room 2221 of the Chemistry Building. The flooring materials used will produce an odor; however, active ventilation measures will be taken to minimize any impact on surrounding areas.",
+      "impactType": "Planned",
+      "contact": "Cornell Jones",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -364,6 +405,19 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/148---Urgent-Outage-Notice-HVAC-Cooling.png"
       ]
     },
+    "south-campus-dining-hall": {
+      "section": "elevators",
+      "title": "South Campus Dining Hall",
+      "area": "Freight elevator Car 3",
+      "start": "10-16-2026 11:59 pm",
+      "finish": "",
+      "repairType": "elevator",
+      "description": "freight elevator car 3 is down for repairs",
+      "impactType": "Emergency",
+      "contact": "Leroy Houston",
+      "phone": "",
+      "attachments": []
+    },
     "cumberland-hall": {
       "section": "elevators",
       "title": "Cumberland Hall",
@@ -390,58 +444,30 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "chapel-lane": {
-      "section": "roads",
-      "title": "Chapel Lane",
-      "area": "From Regents Drive to Parking Lot W1.",
-      "start": "10-24-2026 7:00 am",
-      "finish": "10-26-2026 5:00 pm",
-      "repairType": "Parking Space Closures and Partial Road Closure",
-      "description": "Chapel Lane will have intermittent closures to accommodate roadway repairs involving milling asphalt, repaving, and restriping. All ADA parking spaces and service spaces will be unavailable throughout the day on Sat. 10/24.",
-      "impactType": "Planned",
-      "contact": "Charles Patterson",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Chapel-Lane-Repave-1-%281%29.png"
-      ]
-    },
-    "plant-sciences": {
+    "regents-drive-parking-garage-2": {
       "section": "outages",
-      "title": "Plant Sciences Building",
-      "area": "Entire Building",
-      "start": "10-19-2026 6:00 am",
-      "finish": "10-19-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "title": "Regents Drive Parking Garage",
+      "area": "Entire Building.",
+      "start": "10-18-2026 6:00 am",
+      "finish": "10-18-2026 11:00 am",
+      "repairType": "Electrical Outage",
+      "description": "There will be a planned electrical outage resulting in a loss of normal power to the Regents Drive Parking Garage. This will impact elevator service in the parking garage and air conditioning and heating in the office areas and basement gym area.",
       "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-0134",
-      "attachments": []
-    },
-    "chemistry": {
-      "section": "outages",
-      "title": "Chemistry Building",
-      "area": "Lab Room 2221",
-      "start": "10-17-2026 6:00 am",
-      "finish": "10-17-2026 8:00 am",
-      "repairType": "Flooring Work",
-      "description": "Flooring work will occur in Lab Room 2221 of the Chemistry Building. The flooring materials used will produce an odor; however, active ventilation measures will be taken to minimize any impact on surrounding areas.",
-      "impactType": "Planned",
-      "contact": "Cornell Jones",
+      "contact": "Randall Phillips",
       "phone": "301-405-2222",
       "attachments": []
     },
-    "south-campus-dining-hall": {
+    "easton-hall": {
       "section": "elevators",
-      "title": "South Campus Dining Hall",
-      "area": "Freight elevator Car 3",
-      "start": "10-16-2026 11:59 pm",
+      "title": "Easton Hall",
+      "area": "CAR #2",
+      "start": "10-18-2026 10:00 am",
       "finish": "",
-      "repairType": "elevator",
-      "description": "freight elevator car 3 is down for repairs",
+      "repairType": "Elevator Outage",
+      "description": "currently out of service for emergency maintenance repairs",
       "impactType": "Emergency",
-      "contact": "Leroy Houston",
-      "phone": "",
+      "contact": "Getachew \"G\" Bayeleyegn",
+      "phone": "240-478-0208",
       "attachments": []
     }
   }
