@@ -1,6 +1,6 @@
 {
-  "pageHash": "980f266739de9e33",
-  "changedAt": "2026-10-19T06:47:00-04:00",
+  "pageHash": "68274aa8bf539946",
+  "changedAt": "2026-10-20T06:47:00-04:00",
   "rows": {
     "chapel-lane": {
       "section": "roads",
@@ -30,21 +30,6 @@
       "phone": "301-405-2222",
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Dr-Closure%2C-Crane-Setup%2C-Detours-%28Map%29.pdf"
-      ]
-    },
-    "yale-avenue": {
-      "section": "roads",
-      "title": "Yale Avenue",
-      "area": "South of Fraternity Houses 9 through 11, between the Hillel Building and Princeton Avenue",
-      "start": "10-09-2026 9:00 am",
-      "finish": "10-16-2026 5:00 pm",
-      "repairType": "Parking Space Closures and Partial Road Closure",
-      "description": "A partial roadway closure of Yale Ave south of Fraternity Houses 9 thru 11, between the Hillel Building and Princeton Ave, to accommodate roadway and curb repairs. Parking spaces within the designated work site will be closed and unavailable for use.",
-      "impactType": "Planned",
-      "contact": "Kendra Howard",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Yale-Ave---Fall-Break-Work-Area-%282%29.pdf"
       ]
     },
     "purple-line-sign-installation": {
@@ -159,6 +144,19 @@
       "phone": "301-405-0134",
       "attachments": []
     },
+    "regents-drive-parking-garage": {
+      "section": "outages",
+      "title": "Regents Drive Parking Garage",
+      "area": "Entire Building.",
+      "start": "10-19-2026 10:00 pm",
+      "finish": "10-20-2026 12:00 am",
+      "repairType": "Electrical Outage",
+      "description": "Urgent electrical outage resulting in a loss of normal electrical power to the Regents Drive Parking Garage to replace a faulty generator in the building. This will also affect elevator service in the parking garage and air conditioning and heating.",
+      "impactType": "Emergency",
+      "contact": "Randall Phillips",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "avrum-gudelsky-veterinary-center": {
       "section": "outages",
       "title": "Avrum Gudelsky Veterinary Center",
@@ -170,19 +168,6 @@
       "impactType": "Planned",
       "contact": "John Cole",
       "phone": "301-405-2222",
-      "attachments": []
-    },
-    "j-m-patterson": {
-      "section": "outages",
-      "title": "J.M. Patterson Building",
-      "area": "Entire Building",
-      "start": "10-19-2026 6:00 am",
-      "finish": "10-19-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-0134",
       "attachments": []
     },
     "plant-sciences": {
@@ -198,71 +183,30 @@
       "phone": "301-405-0134",
       "attachments": []
     },
-    "regents-drive-parking-garage": {
+    "j-m-patterson": {
       "section": "outages",
-      "title": "Regents Drive Parking Garage",
-      "area": "Entire Building.",
-      "start": "10-18-2026 7:08 pm",
-      "finish": "",
-      "repairType": "Electrical Outage",
-      "description": "FM crews are responding to an electrical outage occurring at the Regents Drive Parking Garage, resulting in normal electrical power to outlets and lighting, air conditioning, and elevator service being unavailable.",
-      "impactType": "Emergency",
-      "contact": "Randall Phillips",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "v-williams": {
-      "section": "outages",
-      "title": "A.V. Williams Building",
+      "title": "J.M. Patterson Building",
       "area": "Entire Building",
-      "start": "10-17-2026 7:00 am",
-      "finish": "10-17-2026 12:00 pm",
-      "repairType": "Domestic Hot and Cold Water Outage",
-      "description": "There will be a planned domestic hot and cold water outage that will impact sinks, drinking water, toilets, and showers at the A.V. Williams Building to replace the building's faulty water meter.",
-      "impactType": "Planned",
-      "contact": "Jason Reardon",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "chemistry": {
-      "section": "outages",
-      "title": "Chemistry Building",
-      "area": "Lab Room 2221",
-      "start": "10-17-2026 6:00 am",
-      "finish": "10-17-2026 8:00 am",
-      "repairType": "Flooring Work",
-      "description": "Flooring work will occur in Lab Room 2221 of the Chemistry Building. The flooring materials used will produce an odor; however, active ventilation measures will be taken to minimize any impact on surrounding areas.",
-      "impactType": "Planned",
-      "contact": "Cornell Jones",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "riggs-alumni-center": {
-      "section": "outages",
-      "title": "Riggs Alumni Center",
-      "area": "Sidewalk parallel to Alumni Drive on the west side of Riggs Alumni Center",
-      "start": "10-16-2026 7:00 am",
-      "finish": "10-18-2026 11:00 am",
-      "repairType": "Sidewalk Closure",
-      "description": "To accommodate Homecoming events.",
-      "impactType": "Planned",
-      "contact": "Sharon Furguson",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Riggs-Alumni-Sidewalk-Closure.pdf"
-      ]
-    },
-    "symons-hall": {
-      "section": "outages",
-      "title": "Symons Hall",
-      "area": "Entire Building",
-      "start": "10-16-2026 6:00 am",
-      "finish": "10-16-2026 4:00 pm",
+      "start": "10-19-2026 6:00 am",
+      "finish": "10-19-2026 3:00 pm",
       "repairType": "Fire Alarm/Suppression Testing and Inspection",
       "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
       "contact": "Clarence Brown",
       "phone": "301-405-0134",
+      "attachments": []
+    },
+    "regents-drive-parking-garage-2": {
+      "section": "outages",
+      "title": "Regents Drive Parking Garage",
+      "area": "Entire Building.",
+      "start": "10-18-2026 7:08 pm",
+      "finish": "10-19-2026 3:00 am",
+      "repairType": "Electrical Outage",
+      "description": "FM crews are responding to an electrical outage occurring at the Regents Drive Parking Garage, resulting in normal electrical power to outlets and lighting, air conditioning, and elevator service being unavailable.",
+      "impactType": "Emergency",
+      "contact": "Randall Phillips",
+      "phone": "301-405-2222",
       "attachments": []
     },
     "northgate-pedestrian-bridge": {
@@ -306,19 +250,6 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "taliaferro-hall-francis-scott-key-hall": {
-      "section": "outages",
-      "title": "Taliaferro Hall and Francis Scott Key Hall",
-      "area": "Entire Building",
-      "start": "10-15-2026 6:00 am",
-      "finish": "10-16-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-0134",
-      "attachments": []
-    },
     "biopsych-wing-2-heating": {
       "section": "outages",
       "title": "Biology-Psychology Building",
@@ -333,19 +264,6 @@
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Biology-Psychology---Exterior-Rooftop-Area%2C-Painting-Work%2C-October-7---October-21-%28Visual%29.png"
       ]
-    },
-    "purple-line-lane-sidewalk-closures": {
-      "section": "outages",
-      "title": "Purple Line, Campus-wide",
-      "area": "Along the Purple Line",
-      "start": "09-28-2026 8:00 am",
-      "finish": "10-18-2026 5:00 pm",
-      "repairType": "Sign Installation",
-      "description": "The Purple Line project plans to install signs on the overhead catenary poles along the alignment from Adelphi Road (near UMCG) through the UMD campus to the College Park Metro Station.",
-      "impactType": "Planned",
-      "contact": "Casey Ferraro",
-      "phone": "301-405-2222",
-      "attachments": []
     },
     "plaza-between-wind-tunnel-computer-science": {
       "section": "outages",
@@ -405,12 +323,25 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/148---Urgent-Outage-Notice-HVAC-Cooling.png"
       ]
     },
+    "easton-hall": {
+      "section": "elevators",
+      "title": "Easton Hall",
+      "area": "Elevator Car 2",
+      "start": "10-18-2026 10:00 am",
+      "finish": "10-19-2026 12:00 pm",
+      "repairType": "Elevator Outage",
+      "description": "currently out of service for emergency maintenance repairs",
+      "impactType": "Emergency",
+      "contact": "Getachew \"G\" Bayeleyegn",
+      "phone": "240-478-0208",
+      "attachments": []
+    },
     "south-campus-dining-hall": {
       "section": "elevators",
       "title": "South Campus Dining Hall",
       "area": "Freight elevator Car 3",
       "start": "10-16-2026 11:59 pm",
-      "finish": "",
+      "finish": "10-19-2026 12:00 pm",
       "repairType": "elevator",
       "description": "freight elevator car 3 is down for repairs",
       "impactType": "Emergency",
@@ -442,32 +373,6 @@
       "impactType": "Planned",
       "contact": "Chris O'Dea",
       "phone": "301-405-2222",
-      "attachments": []
-    },
-    "regents-drive-parking-garage-2": {
-      "section": "outages",
-      "title": "Regents Drive Parking Garage",
-      "area": "Entire Building.",
-      "start": "10-18-2026 6:00 am",
-      "finish": "10-18-2026 11:00 am",
-      "repairType": "Electrical Outage",
-      "description": "There will be a planned electrical outage resulting in a loss of normal power to the Regents Drive Parking Garage. This will impact elevator service in the parking garage and air conditioning and heating in the office areas and basement gym area.",
-      "impactType": "Planned",
-      "contact": "Randall Phillips",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "easton-hall": {
-      "section": "elevators",
-      "title": "Easton Hall",
-      "area": "CAR #2",
-      "start": "10-18-2026 10:00 am",
-      "finish": "",
-      "repairType": "Elevator Outage",
-      "description": "currently out of service for emergency maintenance repairs",
-      "impactType": "Emergency",
-      "contact": "Getachew \"G\" Bayeleyegn",
-      "phone": "240-478-0208",
       "attachments": []
     }
   }
