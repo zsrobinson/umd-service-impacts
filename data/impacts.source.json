@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-20T06:47:00-04:00",
+  "fetchedAt": "2026-10-21T06:47:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -472,39 +472,6 @@
       "locationNote": "Closures are on the sidewalks beside Bel Air, Centreville, Cambridge and Cumberland halls around the quad; shown at those buildings."
     },
     {
-      "id": "avrum-gudelsky-veterinary-center",
-      "title": "Heating outage to replace HVAC valves",
-      "sourceTitle": "Avrum Gudelsky Veterinary Center",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-19T07:00:00-04:00",
-      "end": "2026-10-19T15:30:00-04:00",
-      "area": "Entire Building.",
-      "repairType": "Heating Outage",
-      "description": "There will be a planned heating outage at the Avrum Gudelsky Veterinary Center in order to replace several HVAC heating valves in the building.",
-      "contacts": [
-        "John Cole"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "hvac",
-      "services": [
-        "Heating"
-      ],
-      "precision": "approximate",
-      "places": [
-        {
-          "label": "Avrum Gudelsky Veterinary Center (location not given)",
-          "point": [
-            -76.9426,
-            38.9861
-          ]
-        }
-      ],
-      "locationNote": "The notice doesn't say where the Avrum Gudelsky Veterinary Center is and it isn't in the map data, so it is pinned at the centre of campus."
-    },
-    {
       "id": "regents-drive-parking-garage",
       "title": "Electrical outage affecting elevators and office heating and cooling",
       "sourceTitle": "Regents Drive Parking Garage",
@@ -641,33 +608,6 @@
       ]
     },
     {
-      "id": "j-m-patterson",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "J.M. Patterson Building",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-19T06:00:00-04:00",
-      "end": "2026-10-19T15:00:00-04:00",
-      "area": "Entire Building",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-0134",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-j-m-patterson-building"
-      ]
-    },
-    {
       "id": "northgate-pedestrian-bridge",
       "title": "Northgate pedestrian bridge over Paint Branch closed",
       "sourceTitle": "Northgate Pedestrian Bridge",
@@ -728,110 +668,59 @@
       "locationNote": "Work runs along Chapel Lane from Regents Drive to Lot W1; shown at the lot and Regents Drive."
     },
     {
-      "id": "plant-sciences",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "Plant Sciences Building",
+      "id": "reckord-armory",
+      "title": "Lift work at the corners to replace roof snow guards",
+      "sourceTitle": "Reckord Armory",
       "section": "outages",
       "notice": "planned",
       "resolved": false,
-      "start": "2026-10-19T06:00:00-04:00",
-      "end": "2026-10-19T15:00:00-04:00",
-      "area": "Entire Building",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "start": "2026-10-26T07:00:00-04:00",
+      "end": "2026-10-30T16:00:00-04:00",
+      "area": "Northwest, northeast, southeast, and southwest exterior corners of the building.",
+      "repairType": "Lift Work, Roof Repair",
+      "description": "Lift work will be performed at the northwest, northeast, southeast, and southwest exterior corners of the Reckord Armory to replace damaged snow guards on the roof of the building.",
       "contacts": [
-        "Clarence Brown"
+        "Colin Davis"
       ],
-      "phone": "301-405-0134",
-      "attachments": [],
-      "category": "fire-safety",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Reckord-Armory%2C-Lift-and-Roofing-Repair-Work%2C-October-26---October-30-%28Map%2C-Work-Sites%29.png"
+      ],
+      "category": "construction",
       "services": [
-        "Fire alarm",
-        "Sprinklers"
+        "Roof work",
+        "Sidewalk"
       ],
       "precision": "building",
       "places": [
-        "building-plant-science-building"
+        "building-reckord-armory"
       ]
     },
     {
-      "id": "south-campus-dining-hall",
-      "title": "Freight elevator car 3 out of service",
-      "sourceTitle": "South Campus Dining Hall",
-      "section": "elevators",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-10-16T23:59:00-04:00",
-      "end": "2026-10-19T12:00:00-04:00",
-      "area": "Freight elevator Car 3",
-      "repairType": "elevator",
-      "description": "freight elevator car 3 is down for repairs",
-      "contacts": [
-        "Leroy Houston"
-      ],
-      "phone": null,
-      "attachments": [],
-      "category": "elevator",
-      "services": [
-        "Freight elevator"
-      ],
-      "precision": "building",
-      "places": [
-        "building-south-campus-dining-hall"
-      ]
-    },
-    {
-      "id": "regents-drive-parking-garage-2",
-      "title": "Electrical outage affecting elevators and office heating and cooling",
-      "sourceTitle": "Regents Drive Parking Garage",
+      "id": "geology",
+      "title": "Hot and cold water outage for emergency repairs",
+      "sourceTitle": "Geology Building",
       "section": "outages",
       "notice": "emergency",
       "resolved": false,
-      "start": "2026-10-18T19:08:00-04:00",
-      "end": "2026-10-19T03:00:00-04:00",
+      "start": "2026-10-20T12:00:00-04:00",
+      "end": "2026-10-20T15:00:00-04:00",
       "area": "Entire Building.",
-      "repairType": "Electrical Outage",
-      "description": "FM crews are responding to an electrical outage occurring at the Regents Drive Parking Garage, resulting in normal electrical power to outlets and lighting, air conditioning, and elevator service being unavailable.",
+      "repairType": "Domestic Hot and Cold Water Outage",
+      "description": "There will be a domestic hot and cold water outage at the Geology Building that will impact sinks, showers, and toilets (plumbing fixtures) while Facilities Management crews perform emergency repairs on the domestic water system.",
       "contacts": [
-        "Randall Phillips"
+        "Daniel Narh"
       ],
       "phone": "301-405-2222",
       "attachments": [],
-      "category": "electrical",
+      "category": "water",
       "services": [
-        "Power",
-        "Elevator",
-        "HVAC"
+        "Hot water",
+        "Cold water"
       ],
       "precision": "building",
       "places": [
-        "building-regents-drive-parking-garage"
-      ]
-    },
-    {
-      "id": "easton-hall",
-      "title": "Elevator car 2 out of service",
-      "sourceTitle": "Easton Hall",
-      "section": "elevators",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-10-18T10:00:00-04:00",
-      "end": "2026-10-19T12:00:00-04:00",
-      "area": "Elevator Car 2",
-      "repairType": "Elevator Outage",
-      "description": "currently out of service for emergency maintenance repairs",
-      "contacts": [
-        "Getachew \"G\" Bayeleyegn"
-      ],
-      "phone": "240-478-0208",
-      "attachments": [],
-      "category": "elevator",
-      "services": [
-        "Elevator"
-      ],
-      "precision": "building",
-      "places": [
-        "building-easton-hall"
+        "building-geology-building"
       ]
     }
   ]

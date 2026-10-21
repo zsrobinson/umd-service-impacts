@@ -1,82 +1,7 @@
 {
-  "pageHash": "68274aa8bf539946",
-  "changedAt": "2026-10-20T06:47:00-04:00",
+  "pageHash": "5f557b4e3f98efb6",
+  "changedAt": "2026-10-21T06:47:00-04:00",
   "rows": {
-    "chapel-lane": {
-      "section": "roads",
-      "title": "Chapel Lane",
-      "area": "From Regents Drive to Parking Lot W1.",
-      "start": "10-24-2026 7:00 am",
-      "finish": "10-26-2026 5:00 pm",
-      "repairType": "Parking Space Closures and Partial Road Closure",
-      "description": "Chapel Lane will have intermittent closures to accommodate roadway repairs involving milling asphalt, repaving, and restriping. All ADA parking spaces and service spaces will be unavailable throughout the day on Sat. 10/24.",
-      "impactType": "Planned",
-      "contact": "Charles Patterson",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Chapel-Lane-Repave-1-%281%29.png"
-      ]
-    },
-    "stadium-drive": {
-      "section": "roads",
-      "title": "Stadium Drive",
-      "area": "South of the E.A. Fernandez IDEA Factory Building, between the Chemistry Lane and Engineering Drive Intersection to the Stanley Zupnik Hall loading dock.",
-      "start": "10-21-2026 6:00 am",
-      "finish": "04-30-2027 4:00 pm",
-      "repairType": "Sidewalk Closures, Roadway Closure",
-      "description": "Closure is occurring for the staging of crane equipment to support construction activities occurring in this area of campus.",
-      "impactType": "Planned",
-      "contact": "Randall Phillips",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Dr-Closure%2C-Crane-Setup%2C-Detours-%28Map%29.pdf"
-      ]
-    },
-    "purple-line-sign-installation": {
-      "section": "roads",
-      "title": "Purple Line, Campus-wide",
-      "area": "**See attached map for impacts**",
-      "start": "08-29-2026 10:00 pm",
-      "finish": "01-26-2027 6:00 am",
-      "repairType": "Purple Line Construction",
-      "description": "Campus-wide overnight testing.",
-      "impactType": "Planned",
-      "contact": "Casey Ferraro",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---LRV-Testing-Vehicle%2C-Pedestrian-Impacts---Notification-Map.pdf"
-      ]
-    },
-    "purple-line-overnight-testing": {
-      "section": "roads",
-      "title": "Purple Line, Campus-wide",
-      "area": "**See attached map for impacted roadways and sidewalks**",
-      "start": "08-29-2026 12:00 am",
-      "finish": "01-26-2027 11:00 pm",
-      "repairType": "Purple Line Construction",
-      "description": "Periodic lane and sidewalk closures.",
-      "impactType": "Planned",
-      "contact": "Casey Ferraro",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---Periodic-Lane-%26-Sidewalk-Closures---Fall-2026---Notification-Map.pdf"
-      ]
-    },
-    "lot-z-partial-closure": {
-      "section": "roads",
-      "title": "Parking Lot Z",
-      "area": "Southeast corner of the parking lot.",
-      "start": "12-22-2025 7:00 am",
-      "finish": "09-01-2028 4:00 pm",
-      "repairType": "Partial Parking Lot Closure",
-      "description": "To facilitate the construction laydown area for the Health and Human Sciences Complex project.",
-      "impactType": "Planned",
-      "contact": "Randall Phillips",
-      "phone": "443-500-2356",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
-      ]
-    },
     "tawes-hall": {
       "section": "outages",
       "title": "Tawes Hall",
@@ -152,58 +77,6 @@
       "finish": "10-20-2026 12:00 am",
       "repairType": "Electrical Outage",
       "description": "Urgent electrical outage resulting in a loss of normal electrical power to the Regents Drive Parking Garage to replace a faulty generator in the building. This will also affect elevator service in the parking garage and air conditioning and heating.",
-      "impactType": "Emergency",
-      "contact": "Randall Phillips",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "avrum-gudelsky-veterinary-center": {
-      "section": "outages",
-      "title": "Avrum Gudelsky Veterinary Center",
-      "area": "Entire Building.",
-      "start": "10-19-2026 7:00 am",
-      "finish": "10-19-2026 3:30 pm",
-      "repairType": "Heating Outage",
-      "description": "There will be a planned heating outage at the Avrum Gudelsky Veterinary Center in order to replace several HVAC heating valves in the building.",
-      "impactType": "Planned",
-      "contact": "John Cole",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "plant-sciences": {
-      "section": "outages",
-      "title": "Plant Sciences Building",
-      "area": "Entire Building",
-      "start": "10-19-2026 6:00 am",
-      "finish": "10-19-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-0134",
-      "attachments": []
-    },
-    "j-m-patterson": {
-      "section": "outages",
-      "title": "J.M. Patterson Building",
-      "area": "Entire Building",
-      "start": "10-19-2026 6:00 am",
-      "finish": "10-19-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-0134",
-      "attachments": []
-    },
-    "regents-drive-parking-garage-2": {
-      "section": "outages",
-      "title": "Regents Drive Parking Garage",
-      "area": "Entire Building.",
-      "start": "10-18-2026 7:08 pm",
-      "finish": "10-19-2026 3:00 am",
-      "repairType": "Electrical Outage",
-      "description": "FM crews are responding to an electrical outage occurring at the Regents Drive Parking Garage, resulting in normal electrical power to outlets and lighting, air conditioning, and elevator service being unavailable.",
       "impactType": "Emergency",
       "contact": "Randall Phillips",
       "phone": "301-405-2222",
@@ -323,31 +196,80 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/148---Urgent-Outage-Notice-HVAC-Cooling.png"
       ]
     },
-    "easton-hall": {
-      "section": "elevators",
-      "title": "Easton Hall",
-      "area": "Elevator Car 2",
-      "start": "10-18-2026 10:00 am",
-      "finish": "10-19-2026 12:00 pm",
-      "repairType": "Elevator Outage",
-      "description": "currently out of service for emergency maintenance repairs",
-      "impactType": "Emergency",
-      "contact": "Getachew \"G\" Bayeleyegn",
-      "phone": "240-478-0208",
-      "attachments": []
+    "chapel-lane": {
+      "section": "roads",
+      "title": "Chapel Lane",
+      "area": "From Regents Drive to Parking Lot W1.",
+      "start": "10-24-2026 7:00 am",
+      "finish": "10-26-2026 5:00 pm",
+      "repairType": "Parking Space Closures and Partial Road Closure",
+      "description": "Chapel Lane will have intermittent closures to accommodate roadway repairs involving milling asphalt, repaving, and restriping. All ADA parking spaces and service spaces will be unavailable throughout the day on Sat. 10/24.",
+      "impactType": "Planned",
+      "contact": "Charles Patterson",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Chapel-Lane-Repave-1-%281%29.png"
+      ]
     },
-    "south-campus-dining-hall": {
-      "section": "elevators",
-      "title": "South Campus Dining Hall",
-      "area": "Freight elevator Car 3",
-      "start": "10-16-2026 11:59 pm",
-      "finish": "10-19-2026 12:00 pm",
-      "repairType": "elevator",
-      "description": "freight elevator car 3 is down for repairs",
-      "impactType": "Emergency",
-      "contact": "Leroy Houston",
-      "phone": "",
-      "attachments": []
+    "stadium-drive": {
+      "section": "roads",
+      "title": "Stadium Drive",
+      "area": "South of the E.A. Fernandez IDEA Factory Building, between the Chemistry Lane and Engineering Drive Intersection to the Stanley Zupnik Hall loading dock.",
+      "start": "10-21-2026 6:00 am",
+      "finish": "04-30-2027 4:00 pm",
+      "repairType": "Sidewalk Closures, Roadway Closure",
+      "description": "Closure is occurring for the staging of crane equipment to support construction activities occurring in this area of campus.",
+      "impactType": "Planned",
+      "contact": "Randall Phillips",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Dr-Closure%2C-Crane-Setup%2C-Detours-%28Map%29.pdf"
+      ]
+    },
+    "purple-line-sign-installation": {
+      "section": "roads",
+      "title": "Purple Line, Campus-wide",
+      "area": "**See attached map for impacts**",
+      "start": "08-29-2026 10:00 pm",
+      "finish": "01-26-2027 6:00 am",
+      "repairType": "Purple Line Construction",
+      "description": "Campus-wide overnight testing.",
+      "impactType": "Planned",
+      "contact": "Casey Ferraro",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---LRV-Testing-Vehicle%2C-Pedestrian-Impacts---Notification-Map.pdf"
+      ]
+    },
+    "purple-line-overnight-testing": {
+      "section": "roads",
+      "title": "Purple Line, Campus-wide",
+      "area": "**See attached map for impacted roadways and sidewalks**",
+      "start": "08-29-2026 12:00 am",
+      "finish": "01-26-2027 11:00 pm",
+      "repairType": "Purple Line Construction",
+      "description": "Periodic lane and sidewalk closures.",
+      "impactType": "Planned",
+      "contact": "Casey Ferraro",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---Periodic-Lane-%26-Sidewalk-Closures---Fall-2026---Notification-Map.pdf"
+      ]
+    },
+    "lot-z-partial-closure": {
+      "section": "roads",
+      "title": "Parking Lot Z",
+      "area": "Southeast corner of the parking lot.",
+      "start": "12-22-2025 7:00 am",
+      "finish": "09-01-2028 4:00 pm",
+      "repairType": "Partial Parking Lot Closure",
+      "description": "To facilitate the construction laydown area for the Health and Human Sciences Complex project.",
+      "impactType": "Planned",
+      "contact": "Randall Phillips",
+      "phone": "443-500-2356",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
+      ]
     },
     "cumberland-hall": {
       "section": "elevators",
@@ -372,6 +294,34 @@
       "description": "Modernization of Elevator #3",
       "impactType": "Planned",
       "contact": "Chris O'Dea",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "reckord-armory": {
+      "section": "outages",
+      "title": "Reckord Armory",
+      "area": "Northwest, northeast, southeast, and southwest exterior corners of the building.",
+      "start": "10-26-2026 7:00 am",
+      "finish": "10-30-2026 4:00 pm",
+      "repairType": "Lift Work, Roof Repair",
+      "description": "Lift work will be performed at the northwest, northeast, southeast, and southwest exterior corners of the Reckord Armory to replace damaged snow guards on the roof of the building.",
+      "impactType": "Planned",
+      "contact": "Colin Davis",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Reckord-Armory%2C-Lift-and-Roofing-Repair-Work%2C-October-26---October-30-%28Map%2C-Work-Sites%29.png"
+      ]
+    },
+    "geology": {
+      "section": "outages",
+      "title": "Geology Building",
+      "area": "Entire Building.",
+      "start": "10-20-2026 12:00 pm",
+      "finish": "10-20-2026 3:00 pm",
+      "repairType": "Domestic Hot and Cold Water Outage",
+      "description": "There will be a domestic hot and cold water outage at the Geology Building that will impact sinks, showers, and toilets (plumbing fixtures) while Facilities Management crews perform emergency repairs on the domestic water system.",
+      "impactType": "Emergency",
+      "contact": "Daniel Narh",
       "phone": "301-405-2222",
       "attachments": []
     }
