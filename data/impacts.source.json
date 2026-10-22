@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-21T06:47:00-04:00",
+  "fetchedAt": "2026-10-22T06:47:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -472,34 +472,6 @@
       "locationNote": "Closures are on the sidewalks beside Bel Air, Centreville, Cambridge and Cumberland halls around the quad; shown at those buildings."
     },
     {
-      "id": "regents-drive-parking-garage",
-      "title": "Electrical outage affecting elevators and office heating and cooling",
-      "sourceTitle": "Regents Drive Parking Garage",
-      "section": "outages",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-10-19T22:00:00-04:00",
-      "end": "2026-10-20T00:00:00-04:00",
-      "area": "Entire Building.",
-      "repairType": "Electrical Outage",
-      "description": "Urgent electrical outage resulting in a loss of normal electrical power to the Regents Drive Parking Garage to replace a faulty generator in the building. This will also affect elevator service in the parking garage and air conditioning and heating.",
-      "contacts": [
-        "Randall Phillips"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "electrical",
-      "services": [
-        "Power",
-        "Elevator",
-        "HVAC"
-      ],
-      "precision": "building",
-      "places": [
-        "building-regents-drive-parking-garage"
-      ]
-    },
-    {
       "id": "cambridge-community-center",
       "title": "Fire alarm and sprinkler testing",
       "sourceTitle": "Cambridge Community Center",
@@ -578,33 +550,6 @@
       "precision": "building",
       "places": [
         "building-umd-health-center"
-      ]
-    },
-    {
-      "id": "chesapeake",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "Chesapeake Building",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-20T06:00:00-04:00",
-      "end": "2026-10-20T15:00:00-04:00",
-      "area": "Entire Building",
-      "repairType": "Chesapeake Building, Fire Alarm System and Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-0134",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-chesapeake"
       ]
     },
     {
@@ -697,31 +642,37 @@
       ]
     },
     {
-      "id": "geology",
-      "title": "Hot and cold water outage for emergency repairs",
-      "sourceTitle": "Geology Building",
+      "id": "avrum-gudelsky-veterinary-center-fire-alarm",
+      "title": "Fire alarm testing in the lab areas",
+      "sourceTitle": "Avrum Gudelsky Veterinary Center, Fire Alarm System Testing and Inspection",
       "section": "outages",
-      "notice": "emergency",
+      "notice": "planned",
       "resolved": false,
-      "start": "2026-10-20T12:00:00-04:00",
-      "end": "2026-10-20T15:00:00-04:00",
-      "area": "Entire Building.",
-      "repairType": "Domestic Hot and Cold Water Outage",
-      "description": "There will be a domestic hot and cold water outage at the Geology Building that will impact sinks, showers, and toilets (plumbing fixtures) while Facilities Management crews perform emergency repairs on the domestic water system.",
+      "start": "2026-11-03T09:00:00-05:00",
+      "end": "2026-11-03T10:00:00-05:00",
+      "area": "Entire Building",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "Fire alarm system testing and inspection work is scheduled to occur at the Avrum Gudelsky Veterinary Center to test fire alarm devices in the laboratory areas of the building.",
       "contacts": [
-        "Daniel Narh"
+        "John Scali"
       ],
-      "phone": "301-405-2222",
+      "phone": "301-4314-1195",
       "attachments": [],
-      "category": "water",
+      "category": "fire-safety",
       "services": [
-        "Hot water",
-        "Cold water"
+        "Fire alarm"
       ],
-      "precision": "building",
+      "precision": "approximate",
       "places": [
-        "building-geology-building"
-      ]
+        {
+          "label": "Avrum Gudelsky Veterinary Center (location not given)",
+          "point": [
+            -76.9426,
+            38.9861
+          ]
+        }
+      ],
+      "locationNote": "The notice doesn't say where the Avrum Gudelsky Veterinary Center is and it isn't in the map data, so it is pinned at the centre of campus."
     }
   ]
 }

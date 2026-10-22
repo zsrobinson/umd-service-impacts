@@ -1,19 +1,21 @@
 {
-  "pageHash": "5f557b4e3f98efb6",
-  "changedAt": "2026-10-21T06:47:00-04:00",
+  "pageHash": "f0be71c39ac1ab51",
+  "changedAt": "2026-10-22T06:47:00-04:00",
   "rows": {
-    "tawes-hall": {
+    "reckord-armory": {
       "section": "outages",
-      "title": "Tawes Hall",
-      "area": "Entire Building",
-      "start": "10-23-2026 6:00 am",
-      "finish": "10-23-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "Fire alarm/suppression system inspections are scheduled to occur at Tawes Hall to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "title": "Reckord Armory",
+      "area": "Northwest, northeast, southeast, and southwest exterior corners of the building.",
+      "start": "10-26-2026 7:00 am",
+      "finish": "10-30-2026 4:00 pm",
+      "repairType": "Lift Work, Roof Repair",
+      "description": "Lift work will be performed at the northwest, northeast, southeast, and southwest exterior corners of the Reckord Armory to replace damaged snow guards on the roof of the building.",
       "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-0134",
-      "attachments": []
+      "contact": "Colin Davis",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Reckord-Armory%2C-Lift-and-Roofing-Repair-Work%2C-October-26---October-30-%28Map%2C-Work-Sites%29.png"
+      ]
     },
     "cambridge-community-center": {
       "section": "outages",
@@ -23,6 +25,19 @@
       "finish": "10-23-2026 3:00 pm",
       "repairType": "Fire Alarm/Suppression Testing and Inspection",
       "description": "Fire alarm/suppression system inspections are scheduled to occur at Cambridge Community Center to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
+      "phone": "301-405-0134",
+      "attachments": []
+    },
+    "tawes-hall": {
+      "section": "outages",
+      "title": "Tawes Hall",
+      "area": "Entire Building",
+      "start": "10-23-2026 6:00 am",
+      "finish": "10-23-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "Fire alarm/suppression system inspections are scheduled to occur at Tawes Hall to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
       "contact": "Clarence Brown",
       "phone": "301-405-0134",
@@ -54,32 +69,6 @@
       "impactType": "Planned",
       "contact": "Clarence Brown",
       "phone": "301-405-0134",
-      "attachments": []
-    },
-    "chesapeake": {
-      "section": "outages",
-      "title": "Chesapeake Building",
-      "area": "Entire Building",
-      "start": "10-20-2026 6:00 am",
-      "finish": "10-20-2026 3:00 pm",
-      "repairType": "Chesapeake Building, Fire Alarm System and Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-0134",
-      "attachments": []
-    },
-    "regents-drive-parking-garage": {
-      "section": "outages",
-      "title": "Regents Drive Parking Garage",
-      "area": "Entire Building.",
-      "start": "10-19-2026 10:00 pm",
-      "finish": "10-20-2026 12:00 am",
-      "repairType": "Electrical Outage",
-      "description": "Urgent electrical outage resulting in a loss of normal electrical power to the Regents Drive Parking Garage to replace a faulty generator in the building. This will also affect elevator service in the parking garage and air conditioning and heating.",
-      "impactType": "Emergency",
-      "contact": "Randall Phillips",
-      "phone": "301-405-2222",
       "attachments": []
     },
     "northgate-pedestrian-bridge": {
@@ -297,32 +286,17 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "reckord-armory": {
+    "avrum-gudelsky-veterinary-center-fire-alarm": {
       "section": "outages",
-      "title": "Reckord Armory",
-      "area": "Northwest, northeast, southeast, and southwest exterior corners of the building.",
-      "start": "10-26-2026 7:00 am",
-      "finish": "10-30-2026 4:00 pm",
-      "repairType": "Lift Work, Roof Repair",
-      "description": "Lift work will be performed at the northwest, northeast, southeast, and southwest exterior corners of the Reckord Armory to replace damaged snow guards on the roof of the building.",
+      "title": "Avrum Gudelsky Veterinary Center, Fire Alarm System Testing and Inspection",
+      "area": "Entire Building",
+      "start": "11-03-2026 9:00 am",
+      "finish": "11-03-2026 10:00 am",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "Fire alarm system testing and inspection work is scheduled to occur at the Avrum Gudelsky Veterinary Center to test fire alarm devices in the laboratory areas of the building.",
       "impactType": "Planned",
-      "contact": "Colin Davis",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Reckord-Armory%2C-Lift-and-Roofing-Repair-Work%2C-October-26---October-30-%28Map%2C-Work-Sites%29.png"
-      ]
-    },
-    "geology": {
-      "section": "outages",
-      "title": "Geology Building",
-      "area": "Entire Building.",
-      "start": "10-20-2026 12:00 pm",
-      "finish": "10-20-2026 3:00 pm",
-      "repairType": "Domestic Hot and Cold Water Outage",
-      "description": "There will be a domestic hot and cold water outage at the Geology Building that will impact sinks, showers, and toilets (plumbing fixtures) while Facilities Management crews perform emergency repairs on the domestic water system.",
-      "impactType": "Emergency",
-      "contact": "Daniel Narh",
-      "phone": "301-405-2222",
+      "contact": "John Scali",
+      "phone": "301-4314-1195",
       "attachments": []
     }
   }
