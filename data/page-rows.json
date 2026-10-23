@@ -1,7 +1,20 @@
 {
-  "pageHash": "f0be71c39ac1ab51",
-  "changedAt": "2026-10-22T06:47:00-04:00",
+  "pageHash": "e5e5aa8588a7841b",
+  "changedAt": "2026-10-23T06:47:00-04:00",
   "rows": {
+    "avrum-gudelsky-veterinary-center-fire-alarm": {
+      "section": "outages",
+      "title": "Avrum Gudelsky Veterinary Center, Fire Alarm System Testing and Inspection",
+      "area": "Entire Building",
+      "start": "11-03-2026 9:00 am",
+      "finish": "11-03-2026 10:00 am",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "Fire alarm system testing and inspection work is scheduled to occur at the Avrum Gudelsky Veterinary Center to test fire alarm devices in the laboratory areas of the building.",
+      "impactType": "Planned",
+      "contact": "John Scali",
+      "phone": "301-4314-1195",
+      "attachments": []
+    },
     "reckord-armory": {
       "section": "outages",
       "title": "Reckord Armory",
@@ -58,19 +71,6 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Cambridge-Community-Quad-%281%29.pdf"
       ]
     },
-    "health-center": {
-      "section": "outages",
-      "title": "Health Center",
-      "area": "Entire Building",
-      "start": "10-21-2026 6:00 am",
-      "finish": "10-21-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-0134",
-      "attachments": []
-    },
     "northgate-pedestrian-bridge": {
       "section": "outages",
       "title": "Northgate Pedestrian Bridge",
@@ -111,21 +111,6 @@
       "contact": "William Schmelyun",
       "phone": "301-405-2222",
       "attachments": []
-    },
-    "biopsych-wing-2-heating": {
-      "section": "outages",
-      "title": "Biology-Psychology Building",
-      "area": "Exterior Rooftop Area",
-      "start": "10-07-2026 8:00 am",
-      "finish": "10-21-2026 3:00 pm",
-      "repairType": "Exterior painting",
-      "description": "A contractor will be scraping, priming, and applying a finish coat of paint on ductwork located on the roof of the Biology-Psychology Building.",
-      "impactType": "Planned",
-      "contact": "Rolando Mendez",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Biology-Psychology---Exterior-Rooftop-Area%2C-Painting-Work%2C-October-7---October-21-%28Visual%29.png"
-      ]
     },
     "plaza-between-wind-tunnel-computer-science": {
       "section": "outages",
@@ -286,18 +271,33 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "avrum-gudelsky-veterinary-center-fire-alarm": {
+    "regents-drive-parking-garage-electrical": {
       "section": "outages",
-      "title": "Avrum Gudelsky Veterinary Center, Fire Alarm System Testing and Inspection",
+      "title": "Regents Drive Parking Garage, Electrical Outage",
       "area": "Entire Building",
-      "start": "11-03-2026 9:00 am",
-      "finish": "11-03-2026 10:00 am",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "Fire alarm system testing and inspection work is scheduled to occur at the Avrum Gudelsky Veterinary Center to test fire alarm devices in the laboratory areas of the building.",
-      "impactType": "Planned",
-      "contact": "John Scali",
-      "phone": "301-4314-1195",
+      "start": "10-22-2026 10:00 pm",
+      "finish": "10-22-2026 12:59 pm",
+      "repairType": "Electric Outage",
+      "description": "to replace a faulty generator in the building",
+      "impactType": "Emergency",
+      "contact": "Randall Phillips",
+      "phone": "443 500 2356",
       "attachments": []
+    },
+    "campus-drive": {
+      "section": "roads",
+      "title": "Campus Drive",
+      "area": "east of Paint Branch Drive and west of Regents Drive",
+      "start": "10-23-2026 7:00 pm",
+      "finish": "10-24-2026 5:00 pm",
+      "repairType": "Partial Road Closure",
+      "description": "to accommodate the relocate existing roadway markings.",
+      "impactType": "Planned",
+      "contact": "Charles Patterson",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Campus-Drive-Markings-1-%281%29.png"
+      ]
     }
   }
 }

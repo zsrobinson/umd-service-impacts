@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-22T06:47:00-04:00",
+  "fetchedAt": "2026-10-23T06:47:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -29,34 +29,6 @@
       "phone": "301-405-2222",
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---LRV-Testing-Vehicle%2C-Pedestrian-Impacts---Notification-Map.pdf"
-      ],
-      "resolved": false
-    },
-    {
-      "id": "biopsych-wing-2-heating",
-      "title": "Rooftop ductwork painting",
-      "sourceTitle": "Biology-Psychology Building",
-      "section": "outages",
-      "category": "construction",
-      "services": [
-        "Rooftop work"
-      ],
-      "notice": "planned",
-      "start": "2026-10-07T08:00:00-04:00",
-      "end": "2026-10-21T15:00:00-04:00",
-      "area": "Exterior Rooftop Area",
-      "repairType": "Exterior painting",
-      "description": "A contractor will be scraping, priming, and applying a finish coat of paint on ductwork located on the roof of the Biology-Psychology Building.",
-      "contacts": [
-        "Rolando Mendez"
-      ],
-      "precision": "building",
-      "places": [
-        "building-biology-psychology-building"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Biology-Psychology---Exterior-Rooftop-Area%2C-Painting-Work%2C-October-7---October-21-%28Visual%29.png"
       ],
       "resolved": false
     },
@@ -526,33 +498,6 @@
       ]
     },
     {
-      "id": "health-center",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "Health Center",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-21T06:00:00-04:00",
-      "end": "2026-10-21T15:00:00-04:00",
-      "area": "Entire Building",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-0134",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-umd-health-center"
-      ]
-    },
-    {
       "id": "northgate-pedestrian-bridge",
       "title": "Northgate pedestrian bridge over Paint Branch closed",
       "sourceTitle": "Northgate Pedestrian Bridge",
@@ -673,6 +618,61 @@
         }
       ],
       "locationNote": "The notice doesn't say where the Avrum Gudelsky Veterinary Center is and it isn't in the map data, so it is pinned at the centre of campus."
+    },
+    {
+      "id": "regents-drive-parking-garage-electrical",
+      "title": "Electrical outage to replace a faulty generator",
+      "sourceTitle": "Regents Drive Parking Garage, Electrical Outage",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-10-22T22:00:00-04:00",
+      "end": null,
+      "area": "Entire Building",
+      "repairType": "Electric Outage",
+      "description": "to replace a faulty generator in the building",
+      "contacts": [
+        "Randall Phillips"
+      ],
+      "phone": "443 500 2356",
+      "attachments": [],
+      "category": "electrical",
+      "services": [
+        "Power"
+      ],
+      "precision": "building",
+      "places": [
+        "building-regents-drive-parking-garage"
+      ]
+    },
+    {
+      "id": "campus-drive",
+      "title": "Campus Drive partly closed to relocate road markings",
+      "sourceTitle": "Campus Drive",
+      "section": "roads",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-23T19:00:00-04:00",
+      "end": "2026-10-24T17:00:00-04:00",
+      "area": "east of Paint Branch Drive and west of Regents Drive",
+      "repairType": "Partial Road Closure",
+      "description": "to accommodate the relocate existing roadway markings.",
+      "contacts": [
+        "Charles Patterson"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Campus-Drive-Markings-1-%281%29.png"
+      ],
+      "category": "road",
+      "services": [
+        "Road"
+      ],
+      "precision": "approximate",
+      "places": [
+        "road-campus-drive"
+      ],
+      "locationNote": "Only the stretch between Paint Branch Drive and Regents Drive is affected; the whole road is shown."
     }
   ]
 }
