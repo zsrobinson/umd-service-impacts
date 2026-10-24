@@ -1,10 +1,10 @@
 {
-  "pageHash": "e5e5aa8588a7841b",
-  "changedAt": "2026-10-23T06:47:00-04:00",
+  "pageHash": "8a1cdeafd764941d",
+  "changedAt": "2026-10-24T06:46:00-04:00",
   "rows": {
     "avrum-gudelsky-veterinary-center-fire-alarm": {
       "section": "outages",
-      "title": "Avrum Gudelsky Veterinary Center, Fire Alarm System Testing and Inspection",
+      "title": "Avrum Gudelsky Veterinary Center",
       "area": "Entire Building",
       "start": "11-03-2026 9:00 am",
       "finish": "11-03-2026 10:00 am",
@@ -12,7 +12,7 @@
       "description": "Fire alarm system testing and inspection work is scheduled to occur at the Avrum Gudelsky Veterinary Center to test fire alarm devices in the laboratory areas of the building.",
       "impactType": "Planned",
       "contact": "John Scali",
-      "phone": "301-4314-1195",
+      "phone": "301-405-2222",
       "attachments": []
     },
     "reckord-armory": {
@@ -30,17 +30,17 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Reckord-Armory%2C-Lift-and-Roofing-Repair-Work%2C-October-26---October-30-%28Map%2C-Work-Sites%29.png"
       ]
     },
-    "cambridge-community-center": {
+    "severn": {
       "section": "outages",
-      "title": "Cambridge Community Center",
-      "area": "Entire Building",
-      "start": "10-23-2026 6:00 am",
-      "finish": "10-23-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "Fire alarm/suppression system inspections are scheduled to occur at Cambridge Community Center to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "title": "Severn Building",
+      "area": "Entire Building.",
+      "start": "10-24-2026 7:30 am",
+      "finish": "10-24-2026 12:00 pm",
+      "repairType": "Domestic Hot and Cold Water Outage",
+      "description": "There will be a planned domestic hot and cold water outage that will impact sinks, drinking water, toilets, and showers at the Severn Building in order to replace a WSSC water meter.",
       "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-0134",
+      "contact": "Daniel Narh",
+      "phone": "301-405-2222",
       "attachments": []
     },
     "tawes-hall": {
@@ -51,6 +51,19 @@
       "finish": "10-23-2026 3:00 pm",
       "repairType": "Fire Alarm/Suppression Testing and Inspection",
       "description": "Fire alarm/suppression system inspections are scheduled to occur at Tawes Hall to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "cambridge-community-center": {
+      "section": "outages",
+      "title": "Cambridge Community Center",
+      "area": "Entire Building",
+      "start": "10-23-2026 6:00 am",
+      "finish": "10-23-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "Fire alarm/suppression system inspections are scheduled to occur at Cambridge Community Center to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
       "contact": "Clarence Brown",
       "phone": "301-405-0134",
@@ -96,19 +109,6 @@
       "description": "To accommodate exterior painting work and lift equipment activities to complete portico painting repairs.",
       "impactType": "Planned",
       "contact": "Rolando Mendez",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "severn": {
-      "section": "outages",
-      "title": "Severn Building",
-      "area": "Entire Building.",
-      "start": "10-15-2026 6:00 am",
-      "finish": "11-15-2026 5:00 pm",
-      "repairType": "Domestic Hot Water Outage",
-      "description": "There will be a planned domestic hot water outage for the Severn Building to replace domestic hot water equipment and components in the building.",
-      "impactType": "Planned",
-      "contact": "William Schmelyun",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -183,6 +183,21 @@
       "phone": "301-405-2222",
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Chapel-Lane-Repave-1-%281%29.png"
+      ]
+    },
+    "campus-drive": {
+      "section": "roads",
+      "title": "Campus Drive",
+      "area": "east of Paint Branch Drive and west of Regents Drive",
+      "start": "10-23-2026 7:00 pm",
+      "finish": "10-24-2026 5:00 pm",
+      "repairType": "Partial Road Closure",
+      "description": "to accommodate the relocate existing roadway markings.",
+      "impactType": "Planned",
+      "contact": "Charles Patterson",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Campus-Drive-Markings-1-%281%29.png"
       ]
     },
     "stadium-drive": {
@@ -271,33 +286,57 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "regents-drive-parking-garage-electrical": {
+    "benjamin": {
       "section": "outages",
-      "title": "Regents Drive Parking Garage, Electrical Outage",
+      "title": "Benjamin Building",
       "area": "Entire Building",
-      "start": "10-22-2026 10:00 pm",
-      "finish": "10-22-2026 12:59 pm",
-      "repairType": "Electric Outage",
-      "description": "to replace a faulty generator in the building",
-      "impactType": "Emergency",
-      "contact": "Randall Phillips",
-      "phone": "443 500 2356",
+      "start": "10-29-2026 6:00 pm",
+      "finish": "10-29-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
+      "phone": "301-405-2222",
       "attachments": []
     },
-    "campus-drive": {
-      "section": "roads",
-      "title": "Campus Drive",
-      "area": "east of Paint Branch Drive and west of Regents Drive",
-      "start": "10-23-2026 7:00 pm",
-      "finish": "10-24-2026 5:00 pm",
-      "repairType": "Partial Road Closure",
-      "description": "to accommodate the relocate existing roadway markings.",
+    "avrum-gudelsky-veterinary-center": {
+      "section": "outages",
+      "title": "Avrum Gudelsky Veterinary Center",
+      "area": "Entire Building",
+      "start": "10-24-2026 5:00 pm",
+      "finish": "10-24-2026 10:00 pm",
+      "repairType": "Domestic Hot and Cold Water Outage",
+      "description": "There will be a planned domestic hot and cold water outage that will impact sinks, drinking water, toilets, showers, and lab equipment at the Avrum Gudelsky Veterinary Center in order to replace a WSSC water meter.",
       "impactType": "Planned",
-      "contact": "Charles Patterson",
+      "contact": "Daniel Narh",
       "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Campus-Drive-Markings-1-%281%29.png"
-      ]
+      "attachments": []
+    },
+    "biology-psychology": {
+      "section": "outages",
+      "title": "Biology-Psychology Building",
+      "area": "Entire Building.",
+      "start": "10-23-2026 10:45 am",
+      "finish": "",
+      "repairType": "RODI Water Outage",
+      "description": "There is currently an RO/DI water outage in the Biology-Psychology Building in order to perform emergency repairs to the system.",
+      "impactType": "Emergency",
+      "contact": "Jason Lurie",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "severn-2": {
+      "section": "outages",
+      "title": "Severn Building",
+      "area": "Entire Building.",
+      "start": "10-15-2026 6:00 am",
+      "finish": "11-15-2026 5:00 pm",
+      "repairType": "Domestic Hot Water Outage",
+      "description": "There will be a planned domestic hot water outage for the Severn Building to replace domestic hot water equipment and components in the building.",
+      "impactType": "Planned",
+      "contact": "William Schmelyun",
+      "phone": "301-405-2222",
+      "attachments": []
     }
   }
 }
