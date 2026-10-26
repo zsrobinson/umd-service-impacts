@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-24T06:46:00-04:00",
+  "fetchedAt": "2026-10-26T06:47:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -767,6 +767,58 @@
         }
       ],
       "locationNote": "The notice doesn't say where the Severn Building is and it isn't in the map data, so it is pinned at the centre of campus."
+    },
+    {
+      "id": "chemistry",
+      "title": "Labs 2219 and 2221 flooring work, with some odor",
+      "sourceTitle": "Chemistry Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-07T06:00:00-05:00",
+      "end": "2026-11-07T14:00:00-05:00",
+      "area": "Lab Rooms 2221 and 2219",
+      "repairType": "Flooring Work",
+      "description": "Flooring work will occur in lab rooms 2219 and 2221 of the Chemistry Building. The flooring materials used will produce an odor; however, active ventilation measures will be taken to minimize any impact on surrounding areas.",
+      "contacts": [
+        "Cornell Jones"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "construction",
+      "services": [
+        "Lab access"
+      ],
+      "precision": "building",
+      "places": [
+        "building-chemistry-building"
+      ]
+    },
+    {
+      "id": "stamp-student-union",
+      "title": "Freight elevator car 3 out of service",
+      "sourceTitle": "Stamp Student Union",
+      "section": "elevators",
+      "notice": "unplanned",
+      "resolved": false,
+      "start": "2026-10-25T22:00:00-04:00",
+      "end": null,
+      "area": "Elevator Car 3 (freight elevator)",
+      "repairType": "Elevator Outage",
+      "description": "Elevator car 3 at Stamp Student Union is currently out of service and is awaiting further repairs by Facilities Management responders.",
+      "contacts": [
+        "Shane Kogok"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "elevator",
+      "services": [
+        "Freight elevator"
+      ],
+      "precision": "building",
+      "places": [
+        "building-adele-h-stamp-student-union"
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "pageHash": "8a1cdeafd764941d",
-  "changedAt": "2026-10-24T06:46:00-04:00",
+  "pageHash": "6d6a69b26d15634e",
+  "changedAt": "2026-10-26T06:47:00-04:00",
   "rows": {
     "avrum-gudelsky-veterinary-center-fire-alarm": {
       "section": "outages",
@@ -12,6 +12,19 @@
       "description": "Fire alarm system testing and inspection work is scheduled to occur at the Avrum Gudelsky Veterinary Center to test fire alarm devices in the laboratory areas of the building.",
       "impactType": "Planned",
       "contact": "John Scali",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "benjamin": {
+      "section": "outages",
+      "title": "Benjamin Building",
+      "area": "Entire Building",
+      "start": "10-29-2026 6:00 pm",
+      "finish": "10-29-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -30,6 +43,19 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Reckord-Armory%2C-Lift-and-Roofing-Repair-Work%2C-October-26---October-30-%28Map%2C-Work-Sites%29.png"
       ]
     },
+    "avrum-gudelsky-veterinary-center": {
+      "section": "outages",
+      "title": "Avrum Gudelsky Veterinary Center",
+      "area": "Entire Building",
+      "start": "10-24-2026 5:00 pm",
+      "finish": "10-24-2026 10:00 pm",
+      "repairType": "Domestic Hot and Cold Water Outage",
+      "description": "There will be a planned domestic hot and cold water outage that will impact sinks, drinking water, toilets, showers, and lab equipment at the Avrum Gudelsky Veterinary Center in order to replace a WSSC water meter.",
+      "impactType": "Planned",
+      "contact": "Daniel Narh",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "severn": {
       "section": "outages",
       "title": "Severn Building",
@@ -40,6 +66,19 @@
       "description": "There will be a planned domestic hot and cold water outage that will impact sinks, drinking water, toilets, and showers at the Severn Building in order to replace a WSSC water meter.",
       "impactType": "Planned",
       "contact": "Daniel Narh",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "biology-psychology": {
+      "section": "outages",
+      "title": "Biology-Psychology Building",
+      "area": "Entire Building.",
+      "start": "10-23-2026 10:45 am",
+      "finish": "",
+      "repairType": "RODI Water Outage",
+      "description": "There is currently an RO/DI water outage in the Biology-Psychology Building in order to perform emergency repairs to the system.",
+      "impactType": "Emergency",
+      "contact": "Jason Lurie",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -112,6 +151,19 @@
       "phone": "301-405-2222",
       "attachments": []
     },
+    "severn-2": {
+      "section": "outages",
+      "title": "Severn Building",
+      "area": "Entire Building.",
+      "start": "10-15-2026 6:00 am",
+      "finish": "11-15-2026 5:00 pm",
+      "repairType": "Domestic Hot Water Outage",
+      "description": "There will be a planned domestic hot water outage for the Severn Building to replace domestic hot water equipment and components in the building.",
+      "impactType": "Planned",
+      "contact": "William Schmelyun",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "plaza-between-wind-tunnel-computer-science": {
       "section": "outages",
       "title": "Plaza between the Wind Tunnel Building and the Computer Science Instructional Center",
@@ -169,6 +221,32 @@
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/148---Urgent-Outage-Notice-HVAC-Cooling.png"
       ]
+    },
+    "cumberland-hall": {
+      "section": "elevators",
+      "title": "Cumberland Hall",
+      "area": "Elevator Car 1",
+      "start": "07-27-2026 1:00 pm",
+      "finish": "",
+      "repairType": "Elevator modernization",
+      "description": "Elevator car 1 has been taken out of service at Cumberland Hall for a planned modernization upgrade of the elevator car.",
+      "impactType": "Planned",
+      "contact": "Chris O'Dea",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "ellicott-elevator-3-modernization": {
+      "section": "elevators",
+      "title": "Ellicott Hall",
+      "area": "Elevator Car 3",
+      "start": "04-09-2026 6:00 am",
+      "finish": "",
+      "repairType": "Elevator modernization",
+      "description": "Modernization of Elevator #3",
+      "impactType": "Planned",
+      "contact": "Chris O'Dea",
+      "phone": "301-405-2222",
+      "attachments": []
     },
     "chapel-lane": {
       "section": "roads",
@@ -260,81 +338,29 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
       ]
     },
-    "cumberland-hall": {
+    "chemistry": {
+      "section": "outages",
+      "title": "Chemistry Building",
+      "area": "Lab Rooms 2221 and 2219",
+      "start": "11-07-2026 6:00 am",
+      "finish": "11-07-2026 2:00 pm",
+      "repairType": "Flooring Work",
+      "description": "Flooring work will occur in lab rooms 2219 and 2221 of the Chemistry Building. The flooring materials used will produce an odor; however, active ventilation measures will be taken to minimize any impact on surrounding areas.",
+      "impactType": "Planned",
+      "contact": "Cornell Jones",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "stamp-student-union": {
       "section": "elevators",
-      "title": "Cumberland Hall",
-      "area": "Elevator Car 1",
-      "start": "07-27-2026 1:00 pm",
+      "title": "Stamp Student Union",
+      "area": "Elevator Car 3 (freight elevator)",
+      "start": "10-25-2026 10:00 pm",
       "finish": "",
-      "repairType": "Elevator modernization",
-      "description": "Elevator car 1 has been taken out of service at Cumberland Hall for a planned modernization upgrade of the elevator car.",
-      "impactType": "Planned",
-      "contact": "Chris O'Dea",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "ellicott-elevator-3-modernization": {
-      "section": "elevators",
-      "title": "Ellicott Hall",
-      "area": "Elevator Car 3",
-      "start": "04-09-2026 6:00 am",
-      "finish": "",
-      "repairType": "Elevator modernization",
-      "description": "Modernization of Elevator #3",
-      "impactType": "Planned",
-      "contact": "Chris O'Dea",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "benjamin": {
-      "section": "outages",
-      "title": "Benjamin Building",
-      "area": "Entire Building",
-      "start": "10-29-2026 6:00 pm",
-      "finish": "10-29-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "avrum-gudelsky-veterinary-center": {
-      "section": "outages",
-      "title": "Avrum Gudelsky Veterinary Center",
-      "area": "Entire Building",
-      "start": "10-24-2026 5:00 pm",
-      "finish": "10-24-2026 10:00 pm",
-      "repairType": "Domestic Hot and Cold Water Outage",
-      "description": "There will be a planned domestic hot and cold water outage that will impact sinks, drinking water, toilets, showers, and lab equipment at the Avrum Gudelsky Veterinary Center in order to replace a WSSC water meter.",
-      "impactType": "Planned",
-      "contact": "Daniel Narh",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "biology-psychology": {
-      "section": "outages",
-      "title": "Biology-Psychology Building",
-      "area": "Entire Building.",
-      "start": "10-23-2026 10:45 am",
-      "finish": "",
-      "repairType": "RODI Water Outage",
-      "description": "There is currently an RO/DI water outage in the Biology-Psychology Building in order to perform emergency repairs to the system.",
-      "impactType": "Emergency",
-      "contact": "Jason Lurie",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "severn-2": {
-      "section": "outages",
-      "title": "Severn Building",
-      "area": "Entire Building.",
-      "start": "10-15-2026 6:00 am",
-      "finish": "11-15-2026 5:00 pm",
-      "repairType": "Domestic Hot Water Outage",
-      "description": "There will be a planned domestic hot water outage for the Severn Building to replace domestic hot water equipment and components in the building.",
-      "impactType": "Planned",
-      "contact": "William Schmelyun",
+      "repairType": "Elevator Outage",
+      "description": "Elevator car 3 at Stamp Student Union is currently out of service and is awaiting further repairs by Facilities Management responders.",
+      "impactType": "Unplanned",
+      "contact": "Shane Kogok",
       "phone": "301-405-2222",
       "attachments": []
     }
