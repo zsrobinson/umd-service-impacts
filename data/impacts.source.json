@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-27T06:48:00-04:00",
+  "fetchedAt": "2026-10-28T06:48:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -444,37 +444,6 @@
       "locationNote": "The bridge crosses Paint Branch near The Varsity; shown at The Varsity."
     },
     {
-      "id": "chapel-lane",
-      "title": "Chapel Lane repaving with intermittent closures",
-      "sourceTitle": "Chapel Lane",
-      "section": "roads",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-24T07:00:00-04:00",
-      "end": "2026-10-26T17:00:00-04:00",
-      "area": "From Regents Drive to Parking Lot W1.",
-      "repairType": "Parking Space Closures and Partial Road Closure",
-      "description": "Chapel Lane will have intermittent closures to accommodate roadway repairs involving milling asphalt, repaving, and restriping. All ADA parking spaces and service spaces will be unavailable throughout the day on Sat. 10/24.",
-      "contacts": [
-        "Charles Patterson"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Chapel-Lane-Repave-1-%281%29.png"
-      ],
-      "category": "road",
-      "services": [
-        "Road",
-        "Parking"
-      ],
-      "precision": "approximate",
-      "places": [
-        "parking-lot-w1",
-        "road-regents-drive"
-      ],
-      "locationNote": "Work runs along Chapel Lane from Regents Drive to Lot W1; shown at the lot and Regents Drive."
-    },
-    {
       "id": "reckord-armory",
       "title": "Lift work at the corners to replace roof snow guards",
       "sourceTitle": "Reckord Armory",
@@ -616,32 +585,6 @@
       ]
     },
     {
-      "id": "stamp-student-union",
-      "title": "Freight elevator car 3 out of service",
-      "sourceTitle": "Stamp Student Union",
-      "section": "elevators",
-      "notice": "unplanned",
-      "resolved": false,
-      "start": "2026-10-25T22:00:00-04:00",
-      "end": "2026-10-26T08:41:00-04:00",
-      "area": "Elevator Car 3 (freight elevator)",
-      "repairType": "Elevator Outage",
-      "description": "Elevator car 3 at Stamp Student Union is currently out of service and is awaiting further repairs by Facilities Management responders.",
-      "contacts": [
-        "Shane Kogok"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "elevator",
-      "services": [
-        "Freight elevator"
-      ],
-      "precision": "building",
-      "places": [
-        "building-adele-h-stamp-student-union"
-      ]
-    },
-    {
       "id": "eppley-recreation-center",
       "title": "Fire alarm and sprinkler testing",
       "sourceTitle": "Eppley Recreation Center",
@@ -779,29 +722,32 @@
     },
     {
       "id": "brendan-iribe-center",
-      "title": "Air conditioning outage during work at Zupnik Hall",
+      "title": "Partial sidewalk closure on the south side for window repairs",
       "sourceTitle": "Brendan Iribe Center",
       "section": "outages",
-      "notice": "planned",
+      "notice": "emergency",
       "resolved": false,
-      "start": "2026-10-28T05:00:00-04:00",
-      "end": "2026-10-28T07:00:00-04:00",
-      "area": "Entire Building.",
-      "repairType": "Air Conditioning Outage",
-      "description": "Air conditioning outage at the Brendan Iribe Center due to electrical work and construction activities at the Stanley R. Zupnik Hall. The Brendan Iribe Center cooling towers, responsible for chilled water/air conditioning, are on the roof of Zupnik Hall.",
+      "start": "2026-10-28T07:00:00-04:00",
+      "end": "2026-10-29T15:30:00-04:00",
+      "area": "South Exterior Side of the Building",
+      "repairType": "Lift Work and Window Repairs",
+      "description": "There will be lift work performed on the south exterior side of the Brendan Iribe Center for window repairs that will result in a partial sidewalk closure. Impacts to pedestrian traffic are expected to be minimal, no building entrances will be impacted.",
       "contacts": [
-        "Teon Saunders"
+        "Andrew Pucci"
       ],
       "phone": "301-405-2222",
-      "attachments": [],
-      "category": "hvac",
-      "services": [
-        "Air conditioning"
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Brendan-Iribe-Center---Exterior-South-Side%2C-Lift-Work-and-Window-Replacement%2C-October-28---October-29-%28Map%29.png"
       ],
-      "precision": "building",
+      "category": "sidewalk",
+      "services": [
+        "Sidewalk"
+      ],
+      "precision": "approximate",
       "places": [
         "building-brendan-iribe-center-for-computer-science-and-engineering"
-      ]
+      ],
+      "locationNote": "Only the sidewalk on the south exterior side is affected; shown at the building."
     },
     {
       "id": "harford-hall-baltimore-hall-cecil-hall",
@@ -867,57 +813,114 @@
       "locationNote": "The dig is in the Washington Quad south of Prince George's Hall and northeast of Baltimore Hall; shown at those two buildings."
     },
     {
-      "id": "oakland-hall",
-      "title": "Steam outage for an emergency leak repair",
-      "sourceTitle": "Oakland Hall",
+      "id": "kim-engineering",
+      "title": "Brief electrical outage on the second floor of Wing 1",
+      "sourceTitle": "Kim Engineering Building",
       "section": "outages",
-      "notice": "emergency",
+      "notice": "planned",
       "resolved": false,
-      "start": "2026-10-26T08:30:00-04:00",
-      "end": "2026-10-26T19:45:00-04:00",
-      "area": "Entire Building",
-      "repairType": "Steam/Utility Outage",
-      "description": "emergency repairs on steam leak inside steam manhole 600",
+      "start": "2026-11-04T03:00:00-05:00",
+      "end": "2026-11-04T06:00:00-05:00",
+      "area": "Areas of the Second Floor of Wing 1: 2107, 2107A, 2107B, 2111, 2133, 2135, 2141, 2143, 2145, Faculty Offices, Graduate Offices, IDF Closet, Copy Room, Lounge, Corridors, Restrooms and Water Fountains.",
+      "repairType": "Electrical Outage",
+      "description": "There will be a brief electrical outage that will impact normal electrical power to outlets and lighting on the second floor in the east wing of the Kim Engineering Building.",
       "contacts": [
-        "Horacio Torres"
+        "Joe Kselman"
       ],
       "phone": "301-405-2222",
       "attachments": [],
-      "category": "steam",
+      "category": "electrical",
       "services": [
-        "Heating",
-        "Hot water"
+        "Power"
       ],
       "precision": "building",
       "places": [
-        "building-oakland-hall"
+        "building-jeong-h-kim-engineering-building"
       ]
     },
     {
-      "id": "biology-psychology-2",
-      "title": "RO/DI water outage for emergency repairs",
-      "sourceTitle": "Biology-Psychology Building",
+      "id": "chemistry-2",
+      "title": "Fire alarm testing in Wing 2",
+      "sourceTitle": "Chemistry Building",
       "section": "outages",
-      "notice": "emergency",
+      "notice": "planned",
       "resolved": false,
-      "start": "2026-10-23T10:45:00-04:00",
-      "end": "2026-10-26T15:45:00-04:00",
-      "area": "Entire Building.",
-      "repairType": "RODI Water Outage",
-      "description": "There is currently an RO/DI water outage in the Biology-Psychology Building in order to perform emergency repairs to the system.",
+      "start": "2026-10-30T07:00:00-04:00",
+      "end": "2026-10-30T10:00:00-04:00",
+      "area": "Wing 2, Lab Rooms 2221 and 2219",
+      "repairType": "Fire Alarm Testing and Installation Work",
+      "description": "The fire alarm system will be activated in Wing 2 of the Chemistry Building to test fire alarm devices following installation work in lab rooms 2219 and 2221.",
       "contacts": [
-        "Jason Lurie"
+        "Cornell Jones"
       ],
       "phone": "301-405-2222",
       "attachments": [],
-      "category": "water",
+      "category": "fire-safety",
       "services": [
-        "RO/DI water"
+        "Fire alarm"
       ],
       "precision": "building",
       "places": [
-        "building-biology-psychology-building"
+        "building-chemistry-building"
       ]
+    },
+    {
+      "id": "brendan-iribe-center-2",
+      "title": "Air conditioning outage during work at Zupnik Hall",
+      "sourceTitle": "Brendan Iribe Center",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-28T05:00:00-04:00",
+      "end": "2026-10-28T07:00:00-04:00",
+      "area": "Entire Building.",
+      "repairType": "Air Conditioning Outage",
+      "description": "Air conditioning outage at the Brendan Iribe Center due to electrical work and construction activities at the Stanley R. Zupnik Hall. The Brendan Iribe Center cooling towers, responsible for chilled water/air conditioning, are on the roof of Zupnik Hall.",
+      "contacts": [
+        "Teon Saunders"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Air conditioning"
+      ],
+      "precision": "building",
+      "places": [
+        "building-brendan-iribe-center-for-computer-science-and-engineering"
+      ]
+    },
+    {
+      "id": "campus-drive",
+      "title": "Campus Drive repaving and restriping, with parking closed",
+      "sourceTitle": "Campus Drive",
+      "section": "roads",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-07T07:00:00-05:00",
+      "end": "2026-11-09T17:00:00-05:00",
+      "area": "From Benjamin Building to Parren J. Mitchell Art-Sociology Building. Repaving the roadway 11/7; restriping the roadway 11/9",
+      "repairType": "Parking Space Closures and Partial Road Closure",
+      "description": "There will be a planned partial roadway closure and parking space closures along a section of Campus Drive from the northeast corner of the Benjamin Building to the southeast corner of the Art-Sociology Building.",
+      "contacts": [
+        "Charles Patterson"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Campus-Drive-Paving_0.png"
+      ],
+      "category": "road",
+      "services": [
+        "Road",
+        "Parking"
+      ],
+      "precision": "approximate",
+      "places": [
+        "building-parren-mitchell-art-sociology-building",
+        "building-benjamin-building",
+        "road-campus-drive"
+      ],
+      "locationNote": "The work covers Campus Drive from the Benjamin Building to the Art-Sociology Building; shown at those buildings."
     }
   ]
 }
