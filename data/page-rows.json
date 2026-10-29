@@ -1,6 +1,6 @@
 {
-  "pageHash": "873e4786180335db",
-  "changedAt": "2026-10-28T06:48:00-04:00",
+  "pageHash": "9b3316b66766573a",
+  "changedAt": "2026-10-29T06:47:00-04:00",
   "rows": {
     "eppley-recreation-center": {
       "section": "outages",
@@ -54,6 +54,19 @@
       "phone": "301-405-2222",
       "attachments": []
     },
+    "kim-engineering": {
+      "section": "outages",
+      "title": "Kim Engineering Building",
+      "area": "Areas of the Second Floor of Wing 1: 2107, 2107A, 2107B, 2111, 2133, 2135, 2141, 2143, 2145, Faculty Offices, Graduate Offices, IDF Closet, Copy Room, Lounge, Corridors, Restrooms and Water Fountains.",
+      "start": "11-04-2026 3:00 am",
+      "finish": "11-04-2026 6:00 am",
+      "repairType": "Electrical Outage",
+      "description": "There will be a brief electrical outage that will impact normal electrical power to outlets and lighting on the second floor in the east wing of the Kim Engineering Building.",
+      "impactType": "Planned",
+      "contact": "Joe Kselman",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "avrum-gudelsky-veterinary-center-fire-alarm": {
       "section": "outages",
       "title": "Avrum Gudelsky Veterinary Center",
@@ -93,6 +106,19 @@
       "phone": "301-405-2222",
       "attachments": []
     },
+    "chemistry-2": {
+      "section": "outages",
+      "title": "Chemistry Building",
+      "area": "Wing 2, Lab Rooms 2221 and 2219",
+      "start": "10-30-2026 5:00 am",
+      "finish": "11-02-2026 7:45 am",
+      "repairType": "Fire Alarm Testing and Installation Work",
+      "description": "The fire alarm system will be activated in Wing 2 to test fire alarm devices following installation work in lab rooms 2219 and 2221; will occur on 10/30 and 11/2, 5AM - 7:45AM",
+      "impactType": "Planned",
+      "contact": "Cornell Jones",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "benjamin": {
       "section": "outages",
       "title": "Benjamin Building",
@@ -103,6 +129,32 @@
       "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
       "contact": "Clarence Brown",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "biology-psychology": {
+      "section": "outages",
+      "title": "Biology-Psychology Building",
+      "area": "Biology Side of Building, All Floors",
+      "start": "10-28-2026 2:30 pm",
+      "finish": "",
+      "repairType": "Heating Outage",
+      "description": "Repairs are ongoing to HVAC pipework that provides heating to the biology side on the fourth floor of the Biology-Psychology Building. Due to additional repairs needed, the heating outage is extended to all floors on the biology side of the building.",
+      "impactType": "Unplanned",
+      "contact": "William Schmelyun",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "harford-hall-baltimore-hall-cecil-hall": {
+      "section": "outages",
+      "title": "Harford Hall, Baltimore Hall, Cecil Hall, Prince George's Hall, Calvert Hall, Kent Hall, Talbot Hall, Garrett Hall",
+      "area": "Entire Building(s)",
+      "start": "10-28-2026 8:30 am",
+      "finish": "10-28-2026 1:30 pm",
+      "repairType": "Domestic Hot Water Outage",
+      "description": "An underground leak on a domestic hot water line was discovered during the excavation work occurring in the Washington Quad. As a result, there will be an emergency domestic hot water outage (sinks, showers); domestic cold water will not be impacted.",
+      "impactType": "Emergency",
+      "contact": "Horacio Torres",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -121,16 +173,16 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Brendan-Iribe-Center---Exterior-South-Side%2C-Lift-Work-and-Window-Replacement%2C-October-28---October-29-%28Map%29.png"
       ]
     },
-    "harford-hall-baltimore-hall-cecil-hall": {
+    "brendan-iribe-center-2": {
       "section": "outages",
-      "title": "Harford Hall, Baltimore Hall, Cecil Hall, Prince George's Hall, Calvert Hall, Kent Hall, Talbot Hall, Garrett Hall",
+      "title": "Brendan Iribe Center",
       "area": "Entire Building.",
-      "start": "10-26-2026 6:30 pm",
-      "finish": "10-26-2026 10:00 pm",
-      "repairType": "Heating Outage",
-      "description": "The underground leak occurring in the Washington Quad has been identified and isolated for repairs. As a result, there is currently an emergency heating outage that will impact the South Hill Resident Halls noted.",
-      "impactType": "Emergency",
-      "contact": "Horacio Torres",
+      "start": "10-28-2026 5:00 am",
+      "finish": "10-28-2026 7:00 am",
+      "repairType": "Air Conditioning Outage",
+      "description": "Air conditioning outage at the Brendan Iribe Center due to electrical work and construction activities at the Stanley R. Zupnik Hall. The Brendan Iribe Center cooling towers, responsible for chilled water/air conditioning, are on the roof of Zupnik Hall.",
+      "impactType": "Planned",
+      "contact": "Teon Saunders",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -148,19 +200,6 @@
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Urgent-Outage-Notification---Washington-Quad---South-of-Prince-George%27s-Hall%2C-Emergency-Excavation-Work-%28Map%29.png"
       ]
-    },
-    "biology-psychology": {
-      "section": "outages",
-      "title": "Biology-Psychology Building",
-      "area": "4th floor Biology Side",
-      "start": "10-26-2026 10:00 am",
-      "finish": "",
-      "repairType": "Heating Hot Water Outage",
-      "description": "to repair multiple leaks on the 4th floor",
-      "impactType": "Emergency",
-      "contact": "Michael Dickman",
-      "phone": "301-405-2222",
-      "attachments": []
     },
     "reckord-armory": {
       "section": "outages",
@@ -206,19 +245,6 @@
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Closure-of-Northgate-Pedestrian-Bridge%2C-crossing-Paint-Branch-stream-near-The-Varsity-%28Map%29.png"
       ]
-    },
-    "shoemaker": {
-      "section": "outages",
-      "title": "Shoemaker Building",
-      "area": "The east side entrance and the surrounding sidewalk.",
-      "start": "10-15-2026 8:00 am",
-      "finish": "10-27-2026 4:00 pm",
-      "repairType": "Exterior Painting, Entrance Closure, Sidewalk Closure",
-      "description": "To accommodate exterior painting work and lift equipment activities to complete portico painting repairs.",
-      "impactType": "Planned",
-      "contact": "Rolando Mendez",
-      "phone": "301-405-2222",
-      "attachments": []
     },
     "severn": {
       "section": "outages",
@@ -274,6 +300,21 @@
       "phone": "301-405-2222",
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/148---Urgent-Outage-Notice-HVAC-Cooling.png"
+      ]
+    },
+    "campus-drive": {
+      "section": "roads",
+      "title": "Campus Drive",
+      "area": "From Benjamin Building to Parren J. Mitchell Art-Sociology Building. Repaving the roadway 11/7; restriping the roadway 11/9",
+      "start": "11-07-2026 7:00 am",
+      "finish": "11-09-2026 5:00 pm",
+      "repairType": "Parking Space Closures and Partial Road Closure",
+      "description": "There will be a planned partial roadway closure and parking space closures along a section of Campus Drive from the northeast corner of the Benjamin Building to the southeast corner of the Art-Sociology Building.",
+      "impactType": "Planned",
+      "contact": "Charles Patterson",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Campus-Drive-Paving_0.png"
       ]
     },
     "stadium-drive": {
@@ -362,59 +403,57 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "kim-engineering": {
+    "architecture": {
       "section": "outages",
-      "title": "Kim Engineering Building",
-      "area": "Areas of the Second Floor of Wing 1: 2107, 2107A, 2107B, 2111, 2133, 2135, 2141, 2143, 2145, Faculty Offices, Graduate Offices, IDF Closet, Copy Room, Lounge, Corridors, Restrooms and Water Fountains.",
-      "start": "11-04-2026 3:00 am",
-      "finish": "11-04-2026 6:00 am",
-      "repairType": "Electrical Outage",
-      "description": "There will be a brief electrical outage that will impact normal electrical power to outlets and lighting on the second floor in the east wing of the Kim Engineering Building.",
-      "impactType": "Planned",
-      "contact": "Joe Kselman",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "chemistry-2": {
-      "section": "outages",
-      "title": "Chemistry Building",
-      "area": "Wing 2, Lab Rooms 2221 and 2219",
-      "start": "10-30-2026 7:00 am",
-      "finish": "10-30-2026 10:00 am",
-      "repairType": "Fire Alarm Testing and Installation Work",
-      "description": "The fire alarm system will be activated in Wing 2 of the Chemistry Building to test fire alarm devices following installation work in lab rooms 2219 and 2221.",
-      "impactType": "Planned",
-      "contact": "Cornell Jones",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "brendan-iribe-center-2": {
-      "section": "outages",
-      "title": "Brendan Iribe Center",
+      "title": "Architecture Building",
       "area": "Entire Building.",
-      "start": "10-28-2026 5:00 am",
-      "finish": "10-28-2026 7:00 am",
-      "repairType": "Air Conditioning Outage",
-      "description": "Air conditioning outage at the Brendan Iribe Center due to electrical work and construction activities at the Stanley R. Zupnik Hall. The Brendan Iribe Center cooling towers, responsible for chilled water/air conditioning, are on the roof of Zupnik Hall.",
+      "start": "10-30-2026 6:00 am",
+      "finish": "10-30-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "Fire alarm and suppression system inspections are scheduled to occur at the Architecture Building to test the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
-      "contact": "Teon Saunders",
+      "contact": "Clarence Brown",
       "phone": "301-405-2222",
       "attachments": []
     },
-    "campus-drive": {
-      "section": "roads",
-      "title": "Campus Drive",
-      "area": "From Benjamin Building to Parren J. Mitchell Art-Sociology Building. Repaving the roadway 11/7; restriping the roadway 11/9",
-      "start": "11-07-2026 7:00 am",
-      "finish": "11-09-2026 5:00 pm",
-      "repairType": "Parking Space Closures and Partial Road Closure",
-      "description": "There will be a planned partial roadway closure and parking space closures along a section of Campus Drive from the northeast corner of the Benjamin Building to the southeast corner of the Art-Sociology Building.",
-      "impactType": "Planned",
-      "contact": "Charles Patterson",
+    "animal-sciences-agricultural-engineering": {
+      "section": "outages",
+      "title": "Animal Sciences / Agricultural Engineering Building",
+      "area": "Wing 1 - Perimeter Office Areas, All Floors.",
+      "start": "10-28-2026 10:00 am",
+      "finish": "",
+      "repairType": "Heating Outage",
+      "description": "HVAC heating outage is impacting the outside perimeter office areas on all floors of Wing 1 at the Animal Sciences / Agricultural Engineering Building due to emergency repairs needed on HVAC-related pipework.",
+      "impactType": "Unplanned",
+      "contact": "Charles Ivey",
       "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Campus-Drive-Paving_0.png"
-      ]
+      "attachments": []
+    },
+    "biology-psychology-2": {
+      "section": "outages",
+      "title": "Biology-Psychology Building",
+      "area": "4th floor Biology Side",
+      "start": "10-26-2026 10:00 am",
+      "finish": "",
+      "repairType": "Heating Outage",
+      "description": "to repair multiple leaks on the 4th floor",
+      "impactType": "Emergency",
+      "contact": "Michael Dickman",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "hagerstown-hall": {
+      "section": "elevators",
+      "title": "Hagerstown Hall",
+      "area": "Elevator Car 2",
+      "start": "10-27-2026 6:45 pm",
+      "finish": "10-28-2026 1:30 pm",
+      "repairType": "Elevator Outage",
+      "description": "There is currently an elevator outage impacting elevator car 2 at Hagerstown Hall, and the car has been taken out of service until further repairs can be made by Facilities Management responders.",
+      "impactType": "Unplanned",
+      "contact": "Shane Kogok",
+      "phone": "301-405-2222",
+      "attachments": []
     }
   }
 }

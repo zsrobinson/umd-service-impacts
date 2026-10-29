@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-28T06:48:00-04:00",
+  "fetchedAt": "2026-10-29T06:47:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -355,34 +355,6 @@
       "locationNote": "The notice doesn't say where the Severn Building is and it isn't in the map data, so it is pinned at the centre of campus."
     },
     {
-      "id": "shoemaker",
-      "title": "East entrance and sidewalk closed for portico painting",
-      "sourceTitle": "Shoemaker Building",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-15T08:00:00-04:00",
-      "end": "2026-10-27T16:00:00-04:00",
-      "area": "The east side entrance and the surrounding sidewalk.",
-      "repairType": "Exterior Painting, Entrance Closure, Sidewalk Closure",
-      "description": "To accommodate exterior painting work and lift equipment activities to complete portico painting repairs.",
-      "contacts": [
-        "Rolando Mendez"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "sidewalk",
-      "services": [
-        "Entrance",
-        "Sidewalk"
-      ],
-      "precision": "approximate",
-      "places": [
-        "building-shoemaker-building"
-      ],
-      "locationNote": "Only the east side entrance and the sidewalk around it are closed; shown at the building."
-    },
-    {
       "id": "cambridge-community-quad",
       "title": "Sidewalk closures for concrete repairs around Cambridge Community",
       "sourceTitle": "Cambridge Community Quad",
@@ -534,18 +506,18 @@
     },
     {
       "id": "biology-psychology",
-      "title": "Heating hot water outage on the 4th floor, biology side",
+      "title": "Heating outage on all floors of the biology side",
       "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
-      "notice": "emergency",
+      "notice": "unplanned",
       "resolved": false,
-      "start": "2026-10-26T10:00:00-04:00",
+      "start": "2026-10-28T14:30:00-04:00",
       "end": null,
-      "area": "4th floor Biology Side",
-      "repairType": "Heating Hot Water Outage",
-      "description": "to repair multiple leaks on the 4th floor",
+      "area": "Biology Side of Building, All Floors",
+      "repairType": "Heating Outage",
+      "description": "Repairs are ongoing to HVAC pipework that provides heating to the biology side on the fourth floor of the Biology-Psychology Building. Due to additional repairs needed, the heating outage is extended to all floors on the biology side of the building.",
       "contacts": [
-        "Michael Dickman"
+        "William Schmelyun"
       ],
       "phone": "301-405-2222",
       "attachments": [],
@@ -751,24 +723,24 @@
     },
     {
       "id": "harford-hall-baltimore-hall-cecil-hall",
-      "title": "Emergency heating outage from an underground leak",
+      "title": "Emergency hot water outage from an underground leak",
       "sourceTitle": "Harford Hall, Baltimore Hall, Cecil Hall, Prince George's Hall, Calvert Hall, Kent Hall, Talbot Hall, Garrett Hall",
       "section": "outages",
       "notice": "emergency",
       "resolved": false,
-      "start": "2026-10-26T18:30:00-04:00",
-      "end": "2026-10-26T22:00:00-04:00",
-      "area": "Entire Building.",
-      "repairType": "Heating Outage",
-      "description": "The underground leak occurring in the Washington Quad has been identified and isolated for repairs. As a result, there is currently an emergency heating outage that will impact the South Hill Resident Halls noted.",
+      "start": "2026-10-28T08:30:00-04:00",
+      "end": "2026-10-28T13:30:00-04:00",
+      "area": "Entire Building(s)",
+      "repairType": "Domestic Hot Water Outage",
+      "description": "An underground leak on a domestic hot water line was discovered during the excavation work occurring in the Washington Quad. As a result, there will be an emergency domestic hot water outage (sinks, showers); domestic cold water will not be impacted.",
       "contacts": [
         "Horacio Torres"
       ],
       "phone": "301-405-2222",
       "attachments": [],
-      "category": "hvac",
+      "category": "water",
       "services": [
-        "Heating"
+        "Hot water"
       ],
       "precision": "building",
       "places": [
@@ -845,11 +817,11 @@
       "section": "outages",
       "notice": "planned",
       "resolved": false,
-      "start": "2026-10-30T07:00:00-04:00",
-      "end": "2026-10-30T10:00:00-04:00",
+      "start": "2026-10-30T05:00:00-04:00",
+      "end": "2026-11-02T07:45:00-05:00",
       "area": "Wing 2, Lab Rooms 2221 and 2219",
       "repairType": "Fire Alarm Testing and Installation Work",
-      "description": "The fire alarm system will be activated in Wing 2 of the Chemistry Building to test fire alarm devices following installation work in lab rooms 2219 and 2221.",
+      "description": "The fire alarm system will be activated in Wing 2 to test fire alarm devices following installation work in lab rooms 2219 and 2221; will occur on 10/30 and 11/2, 5AM - 7:45AM",
       "contacts": [
         "Cornell Jones"
       ],
@@ -921,6 +893,118 @@
         "road-campus-drive"
       ],
       "locationNote": "The work covers Campus Drive from the Benjamin Building to the Art-Sociology Building; shown at those buildings."
+    },
+    {
+      "id": "architecture",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "Architecture Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-10-30T06:00:00-04:00",
+      "end": "2026-10-30T15:00:00-04:00",
+      "area": "Entire Building.",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "Fire alarm and suppression system inspections are scheduled to occur at the Architecture Building to test the building's fire alarm, sprinkler, and suppression systems.",
+      "contacts": [
+        "Clarence Brown"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm",
+        "Sprinklers"
+      ],
+      "precision": "building",
+      "places": [
+        "building-architecture-building"
+      ]
+    },
+    {
+      "id": "animal-sciences-agricultural-engineering",
+      "title": "Heating outage in Wing 1 perimeter offices",
+      "sourceTitle": "Animal Sciences / Agricultural Engineering Building",
+      "section": "outages",
+      "notice": "unplanned",
+      "resolved": false,
+      "start": "2026-10-28T10:00:00-04:00",
+      "end": null,
+      "area": "Wing 1 - Perimeter Office Areas, All Floors.",
+      "repairType": "Heating Outage",
+      "description": "HVAC heating outage is impacting the outside perimeter office areas on all floors of Wing 1 at the Animal Sciences / Agricultural Engineering Building due to emergency repairs needed on HVAC-related pipework.",
+      "contacts": [
+        "Charles Ivey"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating"
+      ],
+      "precision": "approximate",
+      "places": [
+        {
+          "label": "Animal Sciences / Agricultural Engineering Building (location not given)",
+          "point": [
+            -76.9426,
+            38.9861
+          ]
+        }
+      ],
+      "locationNote": "The notice doesn't say where the Animal Sciences / Agricultural Engineering Building is and it isn't in the map data, so it is pinned at the centre of campus."
+    },
+    {
+      "id": "biology-psychology-2",
+      "title": "Heating hot water outage on the 4th floor, biology side",
+      "sourceTitle": "Biology-Psychology Building",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-10-26T10:00:00-04:00",
+      "end": null,
+      "area": "4th floor Biology Side",
+      "repairType": "Heating Outage",
+      "description": "to repair multiple leaks on the 4th floor",
+      "contacts": [
+        "Michael Dickman"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating"
+      ],
+      "precision": "building",
+      "places": [
+        "building-biology-psychology-building"
+      ]
+    },
+    {
+      "id": "hagerstown-hall",
+      "title": "Elevator car 2 out of service",
+      "sourceTitle": "Hagerstown Hall",
+      "section": "elevators",
+      "notice": "unplanned",
+      "resolved": false,
+      "start": "2026-10-27T18:45:00-04:00",
+      "end": "2026-10-28T13:30:00-04:00",
+      "area": "Elevator Car 2",
+      "repairType": "Elevator Outage",
+      "description": "There is currently an elevator outage impacting elevator car 2 at Hagerstown Hall, and the car has been taken out of service until further repairs can be made by Facilities Management responders.",
+      "contacts": [
+        "Shane Kogok"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "elevator",
+      "services": [
+        "Elevator"
+      ],
+      "precision": "building",
+      "places": [
+        "building-hagerstown-hall"
+      ]
     }
   ]
 }
