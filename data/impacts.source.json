@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-29T06:47:00-04:00",
+  "fetchedAt": "2026-10-30T06:47:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -512,7 +512,7 @@
       "notice": "unplanned",
       "resolved": false,
       "start": "2026-10-28T14:30:00-04:00",
-      "end": null,
+      "end": "2026-10-29T12:00:00-04:00",
       "area": "Biology Side of Building, All Floors",
       "repairType": "Heating Outage",
       "description": "Repairs are ongoing to HVAC pipework that provides heating to the biology side on the fourth floor of the Biology-Psychology Building. Due to additional repairs needed, the heating outage is extended to all floors on the biology side of the building.",
@@ -722,39 +722,6 @@
       "locationNote": "Only the sidewalk on the south exterior side is affected; shown at the building."
     },
     {
-      "id": "harford-hall-baltimore-hall-cecil-hall",
-      "title": "Emergency hot water outage from an underground leak",
-      "sourceTitle": "Harford Hall, Baltimore Hall, Cecil Hall, Prince George's Hall, Calvert Hall, Kent Hall, Talbot Hall, Garrett Hall",
-      "section": "outages",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-10-28T08:30:00-04:00",
-      "end": "2026-10-28T13:30:00-04:00",
-      "area": "Entire Building(s)",
-      "repairType": "Domestic Hot Water Outage",
-      "description": "An underground leak on a domestic hot water line was discovered during the excavation work occurring in the Washington Quad. As a result, there will be an emergency domestic hot water outage (sinks, showers); domestic cold water will not be impacted.",
-      "contacts": [
-        "Horacio Torres"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "water",
-      "services": [
-        "Hot water"
-      ],
-      "precision": "building",
-      "places": [
-        "building-prince-georges-hall",
-        "building-baltimore-hall",
-        "building-calvert-hall",
-        "building-garrett-hall",
-        "building-harford-hall",
-        "building-talbot-hall",
-        "building-cecil-hall",
-        "building-kent-hall"
-      ]
-    },
-    {
       "id": "washington-quad",
       "title": "Partial sidewalk closure for emergency excavation",
       "sourceTitle": "Washington Quad",
@@ -834,32 +801,6 @@
       "precision": "building",
       "places": [
         "building-chemistry-building"
-      ]
-    },
-    {
-      "id": "brendan-iribe-center-2",
-      "title": "Air conditioning outage during work at Zupnik Hall",
-      "sourceTitle": "Brendan Iribe Center",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-28T05:00:00-04:00",
-      "end": "2026-10-28T07:00:00-04:00",
-      "area": "Entire Building.",
-      "repairType": "Air Conditioning Outage",
-      "description": "Air conditioning outage at the Brendan Iribe Center due to electrical work and construction activities at the Stanley R. Zupnik Hall. The Brendan Iribe Center cooling towers, responsible for chilled water/air conditioning, are on the roof of Zupnik Hall.",
-      "contacts": [
-        "Teon Saunders"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "hvac",
-      "services": [
-        "Air conditioning"
-      ],
-      "precision": "building",
-      "places": [
-        "building-brendan-iribe-center-for-computer-science-and-engineering"
       ]
     },
     {
@@ -981,17 +922,69 @@
       ]
     },
     {
-      "id": "hagerstown-hall",
-      "title": "Elevator car 2 out of service",
-      "sourceTitle": "Hagerstown Hall",
-      "section": "elevators",
+      "id": "atlantic",
+      "title": "Air conditioning outage in Wing 3 perimeter offices",
+      "sourceTitle": "Atlantic Building",
+      "section": "outages",
       "notice": "unplanned",
       "resolved": false,
-      "start": "2026-10-27T18:45:00-04:00",
-      "end": "2026-10-28T13:30:00-04:00",
-      "area": "Elevator Car 2",
+      "start": "2026-10-29T14:00:00-04:00",
+      "end": null,
+      "area": "Wing 3 Perimeter Office Area Fan Coil Units",
+      "repairType": "Air Conditioning Outage",
+      "description": "There is currently an air conditioning issue affecting the fan coil units in the perimeter office areas in Wing 3 of the Atlantic Building while emergency repairs to the system are made.",
+      "contacts": [
+        "Gerald Young"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Air conditioning"
+      ],
+      "precision": "building",
+      "places": [
+        "building-atlantic"
+      ]
+    },
+    {
+      "id": "edward-st-john-learning-teaching-center",
+      "title": "RO/DI water outage for emergency repairs",
+      "sourceTitle": "Edward St. John Learning and Teaching Center",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-10-29T13:45:00-04:00",
+      "end": null,
+      "area": "Entire Building.",
+      "repairType": "RODI Water Outage",
+      "description": "There is currently an RO/DI water outage in the Edward St. John Learning and Teaching Center in order to perform emergency repairs to the system.",
+      "contacts": [
+        "Daniel Narh"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "water",
+      "services": [
+        "RO/DI water"
+      ],
+      "precision": "building",
+      "places": [
+        "building-edward-st-john-learning-and-teaching-center"
+      ]
+    },
+    {
+      "id": "stamp-student-union",
+      "title": "Freight elevator car 3 out of service",
+      "sourceTitle": "Stamp Student Union",
+      "section": "elevators",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-10-29T13:45:00-04:00",
+      "end": null,
+      "area": "Elevator Car 3 (freight elevator)",
       "repairType": "Elevator Outage",
-      "description": "There is currently an elevator outage impacting elevator car 2 at Hagerstown Hall, and the car has been taken out of service until further repairs can be made by Facilities Management responders.",
+      "description": "Elevator car 3 at Stamp Student Union is currently out of service and is awaiting further repairs by Facilities Management responders.",
       "contacts": [
         "Shane Kogok"
       ],
@@ -999,11 +992,11 @@
       "attachments": [],
       "category": "elevator",
       "services": [
-        "Elevator"
+        "Freight elevator"
       ],
       "precision": "building",
       "places": [
-        "building-hagerstown-hall"
+        "building-adele-h-stamp-student-union"
       ]
     }
   ]

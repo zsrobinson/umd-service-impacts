@@ -1,6 +1,6 @@
 {
-  "pageHash": "9b3316b66766573a",
-  "changedAt": "2026-10-29T06:47:00-04:00",
+  "pageHash": "f84ed6d9dc51a0d5",
+  "changedAt": "2026-10-30T06:47:00-04:00",
   "rows": {
     "eppley-recreation-center": {
       "section": "outages",
@@ -106,6 +106,19 @@
       "phone": "301-405-2222",
       "attachments": []
     },
+    "architecture": {
+      "section": "outages",
+      "title": "Architecture Building",
+      "area": "Entire Building.",
+      "start": "10-30-2026 6:00 am",
+      "finish": "10-30-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "Fire alarm and suppression system inspections are scheduled to occur at the Architecture Building to test the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "chemistry-2": {
       "section": "outages",
       "title": "Chemistry Building",
@@ -137,7 +150,7 @@
       "title": "Biology-Psychology Building",
       "area": "Biology Side of Building, All Floors",
       "start": "10-28-2026 2:30 pm",
-      "finish": "",
+      "finish": "10-29-2026 12:00 pm",
       "repairType": "Heating Outage",
       "description": "Repairs are ongoing to HVAC pipework that provides heating to the biology side on the fourth floor of the Biology-Psychology Building. Due to additional repairs needed, the heating outage is extended to all floors on the biology side of the building.",
       "impactType": "Unplanned",
@@ -145,16 +158,16 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "harford-hall-baltimore-hall-cecil-hall": {
+    "animal-sciences-agricultural-engineering": {
       "section": "outages",
-      "title": "Harford Hall, Baltimore Hall, Cecil Hall, Prince George's Hall, Calvert Hall, Kent Hall, Talbot Hall, Garrett Hall",
-      "area": "Entire Building(s)",
-      "start": "10-28-2026 8:30 am",
-      "finish": "10-28-2026 1:30 pm",
-      "repairType": "Domestic Hot Water Outage",
-      "description": "An underground leak on a domestic hot water line was discovered during the excavation work occurring in the Washington Quad. As a result, there will be an emergency domestic hot water outage (sinks, showers); domestic cold water will not be impacted.",
-      "impactType": "Emergency",
-      "contact": "Horacio Torres",
+      "title": "Animal Sciences / Agricultural Engineering Building",
+      "area": "Wing 1 - Perimeter Office Areas, All Floors.",
+      "start": "10-28-2026 10:00 am",
+      "finish": "",
+      "repairType": "Heating Outage",
+      "description": "HVAC heating outage is impacting the outside perimeter office areas on all floors of Wing 1 at the Animal Sciences / Agricultural Engineering Building due to emergency repairs needed on HVAC-related pipework.",
+      "impactType": "Unplanned",
+      "contact": "Charles Ivey",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -173,19 +186,6 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Brendan-Iribe-Center---Exterior-South-Side%2C-Lift-Work-and-Window-Replacement%2C-October-28---October-29-%28Map%29.png"
       ]
     },
-    "brendan-iribe-center-2": {
-      "section": "outages",
-      "title": "Brendan Iribe Center",
-      "area": "Entire Building.",
-      "start": "10-28-2026 5:00 am",
-      "finish": "10-28-2026 7:00 am",
-      "repairType": "Air Conditioning Outage",
-      "description": "Air conditioning outage at the Brendan Iribe Center due to electrical work and construction activities at the Stanley R. Zupnik Hall. The Brendan Iribe Center cooling towers, responsible for chilled water/air conditioning, are on the roof of Zupnik Hall.",
-      "impactType": "Planned",
-      "contact": "Teon Saunders",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "washington-quad": {
       "section": "outages",
       "title": "Washington Quad",
@@ -200,6 +200,19 @@
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Urgent-Outage-Notification---Washington-Quad---South-of-Prince-George%27s-Hall%2C-Emergency-Excavation-Work-%28Map%29.png"
       ]
+    },
+    "biology-psychology-2": {
+      "section": "outages",
+      "title": "Biology-Psychology Building",
+      "area": "4th floor Biology Side",
+      "start": "10-26-2026 10:00 am",
+      "finish": "",
+      "repairType": "Heating Outage",
+      "description": "to repair multiple leaks on the 4th floor",
+      "impactType": "Emergency",
+      "contact": "Michael Dickman",
+      "phone": "301-405-2222",
+      "attachments": []
     },
     "reckord-armory": {
       "section": "outages",
@@ -403,54 +416,41 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "architecture": {
+    "atlantic": {
       "section": "outages",
-      "title": "Architecture Building",
+      "title": "Atlantic Building",
+      "area": "Wing 3 Perimeter Office Area Fan Coil Units",
+      "start": "10-29-2026 2:00 pm",
+      "finish": "",
+      "repairType": "Air Conditioning Outage",
+      "description": "There is currently an air conditioning issue affecting the fan coil units in the perimeter office areas in Wing 3 of the Atlantic Building while emergency repairs to the system are made.",
+      "impactType": "Unplanned",
+      "contact": "Gerald Young",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "edward-st-john-learning-teaching-center": {
+      "section": "outages",
+      "title": "Edward St. John Learning and Teaching Center",
       "area": "Entire Building.",
-      "start": "10-30-2026 6:00 am",
-      "finish": "10-30-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "Fire alarm and suppression system inspections are scheduled to occur at the Architecture Building to test the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "animal-sciences-agricultural-engineering": {
-      "section": "outages",
-      "title": "Animal Sciences / Agricultural Engineering Building",
-      "area": "Wing 1 - Perimeter Office Areas, All Floors.",
-      "start": "10-28-2026 10:00 am",
+      "start": "10-29-2026 1:45 pm",
       "finish": "",
-      "repairType": "Heating Outage",
-      "description": "HVAC heating outage is impacting the outside perimeter office areas on all floors of Wing 1 at the Animal Sciences / Agricultural Engineering Building due to emergency repairs needed on HVAC-related pipework.",
-      "impactType": "Unplanned",
-      "contact": "Charles Ivey",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "biology-psychology-2": {
-      "section": "outages",
-      "title": "Biology-Psychology Building",
-      "area": "4th floor Biology Side",
-      "start": "10-26-2026 10:00 am",
-      "finish": "",
-      "repairType": "Heating Outage",
-      "description": "to repair multiple leaks on the 4th floor",
+      "repairType": "RODI Water Outage",
+      "description": "There is currently an RO/DI water outage in the Edward St. John Learning and Teaching Center in order to perform emergency repairs to the system.",
       "impactType": "Emergency",
-      "contact": "Michael Dickman",
+      "contact": "Daniel Narh",
       "phone": "301-405-2222",
       "attachments": []
     },
-    "hagerstown-hall": {
+    "stamp-student-union": {
       "section": "elevators",
-      "title": "Hagerstown Hall",
-      "area": "Elevator Car 2",
-      "start": "10-27-2026 6:45 pm",
-      "finish": "10-28-2026 1:30 pm",
+      "title": "Stamp Student Union",
+      "area": "Elevator Car 3 (freight elevator)",
+      "start": "10-29-2026 1:45 pm",
+      "finish": "",
       "repairType": "Elevator Outage",
-      "description": "There is currently an elevator outage impacting elevator car 2 at Hagerstown Hall, and the car has been taken out of service until further repairs can be made by Facilities Management responders.",
-      "impactType": "Unplanned",
+      "description": "Elevator car 3 at Stamp Student Union is currently out of service and is awaiting further repairs by Facilities Management responders.",
+      "impactType": "Emergency",
       "contact": "Shane Kogok",
       "phone": "301-405-2222",
       "attachments": []
