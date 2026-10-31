@@ -1,6 +1,6 @@
 {
-  "pageHash": "f84ed6d9dc51a0d5",
-  "changedAt": "2026-10-30T06:47:00-04:00",
+  "pageHash": "8e203c71ee888af7",
+  "changedAt": "2026-10-31T06:46:00-04:00",
   "rows": {
     "eppley-recreation-center": {
       "section": "outages",
@@ -132,29 +132,29 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "benjamin": {
+    "atlantic": {
       "section": "outages",
-      "title": "Benjamin Building",
-      "area": "Entire Building",
-      "start": "10-29-2026 6:00 pm",
-      "finish": "10-29-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
+      "title": "Atlantic Building",
+      "area": "Wing 3 Perimeter Office Area Fan Coil Units",
+      "start": "10-29-2026 2:00 pm",
+      "finish": "",
+      "repairType": "Air Conditioning Outage",
+      "description": "There is currently an air conditioning issue affecting the fan coil units in the perimeter office areas in Wing 3 of the Atlantic Building while emergency repairs to the system are made.",
+      "impactType": "Unplanned",
+      "contact": "Gerald Young",
       "phone": "301-405-2222",
       "attachments": []
     },
-    "biology-psychology": {
+    "edward-st-john-learning-teaching-center": {
       "section": "outages",
-      "title": "Biology-Psychology Building",
-      "area": "Biology Side of Building, All Floors",
-      "start": "10-28-2026 2:30 pm",
-      "finish": "10-29-2026 12:00 pm",
-      "repairType": "Heating Outage",
-      "description": "Repairs are ongoing to HVAC pipework that provides heating to the biology side on the fourth floor of the Biology-Psychology Building. Due to additional repairs needed, the heating outage is extended to all floors on the biology side of the building.",
-      "impactType": "Unplanned",
-      "contact": "William Schmelyun",
+      "title": "Edward St. John Learning and Teaching Center",
+      "area": "Entire Building.",
+      "start": "10-29-2026 1:45 pm",
+      "finish": "",
+      "repairType": "RODI Water Outage",
+      "description": "There is currently an RO/DI water outage in the Edward St. John Learning and Teaching Center in order to perform emergency repairs to the system.",
+      "impactType": "Emergency",
+      "contact": "Daniel Narh",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -171,21 +171,6 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "brendan-iribe-center": {
-      "section": "outages",
-      "title": "Brendan Iribe Center",
-      "area": "South Exterior Side of the Building **See map attached**",
-      "start": "10-28-2026 7:00 am",
-      "finish": "10-29-2026 3:30 pm",
-      "repairType": "Lift Work and Window Repairs",
-      "description": "There will be lift work performed on the south exterior side of the Brendan Iribe Center for window repairs that will result in a partial sidewalk closure. Impacts to pedestrian traffic are expected to be minimal, no building entrances will be impacted.",
-      "impactType": "Emergency",
-      "contact": "Andrew Pucci",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Brendan-Iribe-Center---Exterior-South-Side%2C-Lift-Work-and-Window-Replacement%2C-October-28---October-29-%28Map%29.png"
-      ]
-    },
     "washington-quad": {
       "section": "outages",
       "title": "Washington Quad",
@@ -201,7 +186,7 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Urgent-Outage-Notification---Washington-Quad---South-of-Prince-George%27s-Hall%2C-Emergency-Excavation-Work-%28Map%29.png"
       ]
     },
-    "biology-psychology-2": {
+    "biology-psychology": {
       "section": "outages",
       "title": "Biology-Psychology Building",
       "area": "4th floor Biology Side",
@@ -390,6 +375,19 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
       ]
     },
+    "stamp-student-union": {
+      "section": "elevators",
+      "title": "Stamp Student Union",
+      "area": "Elevator Car 3 (freight elevator)",
+      "start": "10-29-2026 1:45 pm",
+      "finish": "10-30-2026 9:45 am",
+      "repairType": "Elevator Outage",
+      "description": "Elevator car 3 at Stamp Student Union is currently out of service and is awaiting further repairs by Facilities Management responders.",
+      "impactType": "Emergency",
+      "contact": "Shane Kogok",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "cumberland-hall": {
       "section": "elevators",
       "title": "Cumberland Hall",
@@ -416,44 +414,61 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "atlantic": {
+    "denton-hall": {
       "section": "outages",
-      "title": "Atlantic Building",
-      "area": "Wing 3 Perimeter Office Area Fan Coil Units",
-      "start": "10-29-2026 2:00 pm",
-      "finish": "",
-      "repairType": "Air Conditioning Outage",
-      "description": "There is currently an air conditioning issue affecting the fan coil units in the perimeter office areas in Wing 3 of the Atlantic Building while emergency repairs to the system are made.",
-      "impactType": "Unplanned",
-      "contact": "Gerald Young",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "edward-st-john-learning-teaching-center": {
-      "section": "outages",
-      "title": "Edward St. John Learning and Teaching Center",
+      "title": "Denton Hall",
       "area": "Entire Building.",
-      "start": "10-29-2026 1:45 pm",
-      "finish": "",
-      "repairType": "RODI Water Outage",
-      "description": "There is currently an RO/DI water outage in the Edward St. John Learning and Teaching Center in order to perform emergency repairs to the system.",
-      "impactType": "Emergency",
-      "contact": "Daniel Narh",
+      "start": "11-04-2026 9:00 am",
+      "finish": "11-04-2026 3:00 pm",
+      "repairType": "Heating Outage, Domestic Hot Water Outage",
+      "description": "Planned domestic hot water outage and heating outage at Denton Hall that will impact heating service and hot water to building plumbing fixtures (sinks, showers) in order to make modifications to building utility equipment.",
+      "impactType": "Planned",
+      "contact": "Horacio Torres",
       "phone": "301-405-2222",
       "attachments": []
     },
-    "stamp-student-union": {
-      "section": "elevators",
-      "title": "Stamp Student Union",
-      "area": "Elevator Car 3 (freight elevator)",
-      "start": "10-29-2026 1:45 pm",
-      "finish": "",
-      "repairType": "Elevator Outage",
-      "description": "Elevator car 3 at Stamp Student Union is currently out of service and is awaiting further repairs by Facilities Management responders.",
-      "impactType": "Emergency",
-      "contact": "Shane Kogok",
+    "gossett-football-team-house": {
+      "section": "outages",
+      "title": "Gossett Football Team House",
+      "area": "Entire Building.",
+      "start": "11-03-2026 5:00 am",
+      "finish": "11-03-2026 6:00 am",
+      "repairType": "Electrical Outage",
+      "description": "There will be a brief planned electrical outage at the Gossett Football Team House to install new circuits into the building's main electrical switchboard.",
+      "impactType": "Planned",
+      "contact": "James Andrews",
       "phone": "301-405-2222",
       "attachments": []
+    },
+    "charles-hall": {
+      "section": "outages",
+      "title": "Charles Hall",
+      "area": "Southeast Exterior Area",
+      "start": "10-31-2026 9:00 am",
+      "finish": "",
+      "repairType": "Sidewalk Closure, Entrance Closure, Excavation Work",
+      "description": "Emergency excavation work will occur in the southeast exterior area of Charles Hall and will result in a sidewalk and southeast entrance closure. This is to locate and perform emergency repairs to an underground leak occurring in this area.",
+      "impactType": "Emergency",
+      "contact": "Donald Hill",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Emergency-Excavation-Work%2C-Southeast-Corner-of-Charles-Hall.png"
+      ]
+    },
+    "parking-lot-ss1": {
+      "section": "roads",
+      "title": "Parking Lot SS1",
+      "area": "Parking lot between Eppley Recreation Center and School of Public Health",
+      "start": "11-09-2026 6:00 am",
+      "finish": "11-17-2026 2:00 pm",
+      "repairType": "Excavation Work, Parking Space Closures",
+      "description": "Excavation work will occur in parking lot SS1, adjacent to Eppley Recreation Center and the School of Public Health Building, resulting in several parking spaces being closed. The excavation work is required to locate and repair an underground leak.",
+      "impactType": "Planned",
+      "contact": "Horacio Torres",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Parking-Lot-SS1%2C-Excavation-Work-and-Parking-Space-Closures%2C-November-9---November-17-%28Map%2C-Work-Site%29.png"
+      ]
     }
   }
 }

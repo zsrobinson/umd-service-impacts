@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-30T06:47:00-04:00",
+  "fetchedAt": "2026-10-31T06:46:00-04:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -478,46 +478,19 @@
       "locationNote": "The notice doesn't say where the Avrum Gudelsky Veterinary Center is and it isn't in the map data, so it is pinned at the centre of campus."
     },
     {
-      "id": "benjamin",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "Benjamin Building",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-29T18:00:00-04:00",
-      "end": null,
-      "area": "Entire Building",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-benjamin-building"
-      ]
-    },
-    {
       "id": "biology-psychology",
-      "title": "Heating outage on all floors of the biology side",
+      "title": "Heating hot water outage on the 4th floor, biology side",
       "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
-      "notice": "unplanned",
+      "notice": "emergency",
       "resolved": false,
-      "start": "2026-10-28T14:30:00-04:00",
-      "end": "2026-10-29T12:00:00-04:00",
-      "area": "Biology Side of Building, All Floors",
+      "start": "2026-10-26T10:00:00-04:00",
+      "end": null,
+      "area": "4th floor Biology Side",
       "repairType": "Heating Outage",
-      "description": "Repairs are ongoing to HVAC pipework that provides heating to the biology side on the fourth floor of the Biology-Psychology Building. Due to additional repairs needed, the heating outage is extended to all floors on the biology side of the building.",
+      "description": "to repair multiple leaks on the 4th floor",
       "contacts": [
-        "William Schmelyun"
+        "Michael Dickman"
       ],
       "phone": "301-405-2222",
       "attachments": [],
@@ -691,35 +664,6 @@
         "building-gossett-football-team-house"
       ],
       "locationNote": "The notice says Gossett Hall; the map data only has the Gossett Football Team House, so it is shown there."
-    },
-    {
-      "id": "brendan-iribe-center",
-      "title": "Partial sidewalk closure on the south side for window repairs",
-      "sourceTitle": "Brendan Iribe Center",
-      "section": "outages",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-10-28T07:00:00-04:00",
-      "end": "2026-10-29T15:30:00-04:00",
-      "area": "South Exterior Side of the Building",
-      "repairType": "Lift Work and Window Repairs",
-      "description": "There will be lift work performed on the south exterior side of the Brendan Iribe Center for window repairs that will result in a partial sidewalk closure. Impacts to pedestrian traffic are expected to be minimal, no building entrances will be impacted.",
-      "contacts": [
-        "Andrew Pucci"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Brendan-Iribe-Center---Exterior-South-Side%2C-Lift-Work-and-Window-Replacement%2C-October-28---October-29-%28Map%29.png"
-      ],
-      "category": "sidewalk",
-      "services": [
-        "Sidewalk"
-      ],
-      "precision": "approximate",
-      "places": [
-        "building-brendan-iribe-center-for-computer-science-and-engineering"
-      ],
-      "locationNote": "Only the sidewalk on the south exterior side is affected; shown at the building."
     },
     {
       "id": "washington-quad",
@@ -896,32 +840,6 @@
       "locationNote": "The notice doesn't say where the Animal Sciences / Agricultural Engineering Building is and it isn't in the map data, so it is pinned at the centre of campus."
     },
     {
-      "id": "biology-psychology-2",
-      "title": "Heating hot water outage on the 4th floor, biology side",
-      "sourceTitle": "Biology-Psychology Building",
-      "section": "outages",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-10-26T10:00:00-04:00",
-      "end": null,
-      "area": "4th floor Biology Side",
-      "repairType": "Heating Outage",
-      "description": "to repair multiple leaks on the 4th floor",
-      "contacts": [
-        "Michael Dickman"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "hvac",
-      "services": [
-        "Heating"
-      ],
-      "precision": "building",
-      "places": [
-        "building-biology-psychology-building"
-      ]
-    },
-    {
       "id": "atlantic",
       "title": "Air conditioning outage in Wing 3 perimeter offices",
       "sourceTitle": "Atlantic Building",
@@ -981,7 +899,7 @@
       "notice": "emergency",
       "resolved": false,
       "start": "2026-10-29T13:45:00-04:00",
-      "end": null,
+      "end": "2026-10-30T09:45:00-04:00",
       "area": "Elevator Car 3 (freight elevator)",
       "repairType": "Elevator Outage",
       "description": "Elevator car 3 at Stamp Student Union is currently out of service and is awaiting further repairs by Facilities Management responders.",
@@ -998,6 +916,118 @@
       "places": [
         "building-adele-h-stamp-student-union"
       ]
+    },
+    {
+      "id": "denton-hall",
+      "title": "Heating and hot water outage for utility work",
+      "sourceTitle": "Denton Hall",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-04T09:00:00-05:00",
+      "end": "2026-11-04T15:00:00-05:00",
+      "area": "Entire Building.",
+      "repairType": "Heating Outage, Domestic Hot Water Outage",
+      "description": "Planned domestic hot water outage and heating outage at Denton Hall that will impact heating service and hot water to building plumbing fixtures (sinks, showers) in order to make modifications to building utility equipment.",
+      "contacts": [
+        "Horacio Torres"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating",
+        "Hot water"
+      ],
+      "precision": "building",
+      "places": [
+        "building-denton-hall"
+      ]
+    },
+    {
+      "id": "gossett-football-team-house",
+      "title": "Brief electrical outage to install new circuits",
+      "sourceTitle": "Gossett Football Team House",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-03T05:00:00-05:00",
+      "end": "2026-11-03T06:00:00-05:00",
+      "area": "Entire Building.",
+      "repairType": "Electrical Outage",
+      "description": "There will be a brief planned electrical outage at the Gossett Football Team House to install new circuits into the building's main electrical switchboard.",
+      "contacts": [
+        "James Andrews"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "electrical",
+      "services": [
+        "Power"
+      ],
+      "precision": "building",
+      "places": [
+        "building-gossett-football-team-house"
+      ]
+    },
+    {
+      "id": "charles-hall",
+      "title": "Southeast entrance and sidewalk closed for emergency excavation",
+      "sourceTitle": "Charles Hall",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-10-31T09:00:00-04:00",
+      "end": null,
+      "area": "Southeast Exterior Area",
+      "repairType": "Sidewalk Closure, Entrance Closure, Excavation Work",
+      "description": "Emergency excavation work will occur in the southeast exterior area of Charles Hall and will result in a sidewalk and southeast entrance closure. This is to locate and perform emergency repairs to an underground leak occurring in this area.",
+      "contacts": [
+        "Donald Hill"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Emergency-Excavation-Work%2C-Southeast-Corner-of-Charles-Hall.png"
+      ],
+      "category": "sidewalk",
+      "services": [
+        "Entrance",
+        "Sidewalk"
+      ],
+      "precision": "approximate",
+      "places": [
+        "building-charles-hall"
+      ],
+      "locationNote": "Only the southeast exterior area is affected; shown at the building."
+    },
+    {
+      "id": "parking-lot-ss1",
+      "title": "Some Lot SS1 spaces closed for leak excavation",
+      "sourceTitle": "Parking Lot SS1",
+      "section": "roads",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-09T06:00:00-05:00",
+      "end": "2026-11-17T14:00:00-05:00",
+      "area": "Parking lot between Eppley Recreation Center and School of Public Health",
+      "repairType": "Excavation Work, Parking Space Closures",
+      "description": "Excavation work will occur in parking lot SS1, adjacent to Eppley Recreation Center and the School of Public Health Building, resulting in several parking spaces being closed. The excavation work is required to locate and repair an underground leak.",
+      "contacts": [
+        "Horacio Torres"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Parking-Lot-SS1%2C-Excavation-Work-and-Parking-Space-Closures%2C-November-9---November-17-%28Map%2C-Work-Site%29.png"
+      ],
+      "category": "parking",
+      "services": [
+        "Parking"
+      ],
+      "precision": "approximate",
+      "places": [
+        "parking-lot-ss1"
+      ],
+      "locationNote": "Only several spaces in Lot SS1 are closed; the whole lot is shown."
     }
   ]
 }
