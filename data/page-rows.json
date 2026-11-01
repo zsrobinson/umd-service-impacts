@@ -1,6 +1,6 @@
 {
-  "pageHash": "8e203c71ee888af7",
-  "changedAt": "2026-10-31T06:46:00-04:00",
+  "pageHash": "791248e7b157716b",
+  "changedAt": "2026-11-01T06:47:00-05:00",
   "rows": {
     "eppley-recreation-center": {
       "section": "outages",
@@ -54,6 +54,19 @@
       "phone": "301-405-2222",
       "attachments": []
     },
+    "denton-hall": {
+      "section": "outages",
+      "title": "Denton Hall",
+      "area": "Entire Building.",
+      "start": "11-04-2026 9:00 am",
+      "finish": "11-04-2026 3:00 pm",
+      "repairType": "Heating Outage, Domestic Hot Water Outage",
+      "description": "Planned domestic hot water outage and heating outage at Denton Hall that will impact heating service and hot water to building plumbing fixtures (sinks, showers) in order to make modifications to building utility equipment.",
+      "impactType": "Planned",
+      "contact": "Horacio Torres",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "kim-engineering": {
       "section": "outages",
       "title": "Kim Engineering Building",
@@ -93,6 +106,19 @@
       "phone": "301-405-2222",
       "attachments": []
     },
+    "gossett-football-team-house": {
+      "section": "outages",
+      "title": "Gossett Football Team House",
+      "area": "Entire Building.",
+      "start": "11-03-2026 5:00 am",
+      "finish": "11-03-2026 6:00 am",
+      "repairType": "Electrical Outage",
+      "description": "There will be a brief planned electrical outage at the Gossett Football Team House to install new circuits into the building's main electrical switchboard.",
+      "impactType": "Planned",
+      "contact": "James Andrews",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "gossett-hall": {
       "section": "outages",
       "title": "Gossett Hall",
@@ -105,6 +131,21 @@
       "contact": "Clarence Brown",
       "phone": "301-405-2222",
       "attachments": []
+    },
+    "charles-hall": {
+      "section": "outages",
+      "title": "Charles Hall",
+      "area": "Southeast Exterior Area",
+      "start": "10-31-2026 9:00 am",
+      "finish": "",
+      "repairType": "Sidewalk Closure, Entrance Closure, Excavation Work",
+      "description": "Emergency excavation work will occur in the southeast exterior area of Charles Hall and will result in a sidewalk and southeast entrance closure. This is to locate and perform emergency repairs to an underground leak occurring in this area.",
+      "impactType": "Emergency",
+      "contact": "Donald Hill",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Emergency-Excavation-Work%2C-Southeast-Corner-of-Charles-Hall.png"
+      ]
     },
     "architecture": {
       "section": "outages",
@@ -300,6 +341,21 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/148---Urgent-Outage-Notice-HVAC-Cooling.png"
       ]
     },
+    "parking-lot-ss1": {
+      "section": "roads",
+      "title": "Parking Lot SS1",
+      "area": "Parking lot between Eppley Recreation Center and School of Public Health",
+      "start": "11-09-2026 6:00 am",
+      "finish": "11-17-2026 2:00 pm",
+      "repairType": "Excavation Work, Parking Space Closures",
+      "description": "Excavation work will occur in parking lot SS1, adjacent to Eppley Recreation Center and the School of Public Health Building, resulting in several parking spaces being closed. The excavation work is required to locate and repair an underground leak.",
+      "impactType": "Planned",
+      "contact": "Horacio Torres",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Parking-Lot-SS1%2C-Excavation-Work-and-Parking-Space-Closures%2C-November-9---November-17-%28Map%2C-Work-Site%29.png"
+      ]
+    },
     "campus-drive": {
       "section": "roads",
       "title": "Campus Drive",
@@ -414,61 +470,44 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "denton-hall": {
+    "charles-hall-annapolis-hall-montgomery-hall": {
       "section": "outages",
-      "title": "Denton Hall",
-      "area": "Entire Building.",
-      "start": "11-04-2026 9:00 am",
-      "finish": "11-04-2026 3:00 pm",
-      "repairType": "Heating Outage, Domestic Hot Water Outage",
-      "description": "Planned domestic hot water outage and heating outage at Denton Hall that will impact heating service and hot water to building plumbing fixtures (sinks, showers) in order to make modifications to building utility equipment.",
-      "impactType": "Planned",
-      "contact": "Horacio Torres",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "gossett-football-team-house": {
-      "section": "outages",
-      "title": "Gossett Football Team House",
-      "area": "Entire Building.",
-      "start": "11-03-2026 5:00 am",
-      "finish": "11-03-2026 6:00 am",
-      "repairType": "Electrical Outage",
-      "description": "There will be a brief planned electrical outage at the Gossett Football Team House to install new circuits into the building's main electrical switchboard.",
-      "impactType": "Planned",
-      "contact": "James Andrews",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "charles-hall": {
-      "section": "outages",
-      "title": "Charles Hall",
-      "area": "Southeast Exterior Area",
-      "start": "10-31-2026 9:00 am",
+      "title": "Charles Hall, Annapolis Hall, Montgomery Hall, Frederick Hall",
+      "area": "Entire Building(s)",
+      "start": "10-31-2026 11:00 am",
       "finish": "",
-      "repairType": "Sidewalk Closure, Entrance Closure, Excavation Work",
-      "description": "Emergency excavation work will occur in the southeast exterior area of Charles Hall and will result in a sidewalk and southeast entrance closure. This is to locate and perform emergency repairs to an underground leak occurring in this area.",
+      "repairType": "Heating Outage",
+      "description": "The underground leak has been located. To perform the necessary repairs, there will be an emergency heating outage starting today, October 31, at 11:00 a.m. that will impact Charles Hall, Annapolis Hall, Montgomery Hall, and Frederick Hall.",
       "impactType": "Emergency",
       "contact": "Donald Hill",
       "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Emergency-Excavation-Work%2C-Southeast-Corner-of-Charles-Hall.png"
-      ]
+      "attachments": []
     },
-    "parking-lot-ss1": {
-      "section": "roads",
-      "title": "Parking Lot SS1",
-      "area": "Parking lot between Eppley Recreation Center and School of Public Health",
-      "start": "11-09-2026 6:00 am",
-      "finish": "11-17-2026 2:00 pm",
-      "repairType": "Excavation Work, Parking Space Closures",
-      "description": "Excavation work will occur in parking lot SS1, adjacent to Eppley Recreation Center and the School of Public Health Building, resulting in several parking spaces being closed. The excavation work is required to locate and repair an underground leak.",
-      "impactType": "Planned",
-      "contact": "Horacio Torres",
+    "taliaferro-hall": {
+      "section": "outages",
+      "title": "Taliaferro Hall",
+      "area": "Entire Building.",
+      "start": "10-31-2026 7:30 am",
+      "finish": "",
+      "repairType": "Heating Outage",
+      "description": "There is currently a heating outage occurring at Taliaferro Hall due to emergency repairs needed for HVAC-related pipework in the building.",
+      "impactType": "Emergency",
+      "contact": "Gerald Young",
       "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Parking-Lot-SS1%2C-Excavation-Work-and-Parking-Space-Closures%2C-November-9---November-17-%28Map%2C-Work-Site%29.png"
-      ]
+      "attachments": []
+    },
+    "elkton-hall": {
+      "section": "elevators",
+      "title": "Elkton Hall",
+      "area": "Elevator Car 3",
+      "start": "11-01-2026 5:30 am",
+      "finish": "",
+      "repairType": "Elevator Outage",
+      "description": "Elevator car 3 at Elkton Hall is currently out of service and awaiting maintenance repairs.",
+      "impactType": "Unplanned",
+      "contact": "Shane Kogok",
+      "phone": "301-405-2222",
+      "attachments": []
     }
   }
 }

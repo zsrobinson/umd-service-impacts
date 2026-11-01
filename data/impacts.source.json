@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-10-31T06:46:00-04:00",
+  "fetchedAt": "2026-11-01T06:47:00-05:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -1028,6 +1028,87 @@
         "parking-lot-ss1"
       ],
       "locationNote": "Only several spaces in Lot SS1 are closed; the whole lot is shown."
+    },
+    {
+      "id": "charles-hall-annapolis-hall-montgomery-hall",
+      "title": "Emergency heating outage to repair an underground leak",
+      "sourceTitle": "Charles Hall, Annapolis Hall, Montgomery Hall, Frederick Hall",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-10-31T11:00:00-04:00",
+      "end": null,
+      "area": "Entire Building(s)",
+      "repairType": "Heating Outage",
+      "description": "The underground leak has been located. To perform the necessary repairs, there will be an emergency heating outage starting today, October 31, at 11:00 a.m. that will impact Charles Hall, Annapolis Hall, Montgomery Hall, and Frederick Hall.",
+      "contacts": [
+        "Donald Hill"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating"
+      ],
+      "precision": "building",
+      "places": [
+        "building-montgomery-hall",
+        "building-annapolis-hall",
+        "building-frederick-hall",
+        "building-charles-hall"
+      ]
+    },
+    {
+      "id": "taliaferro-hall",
+      "title": "Heating outage for emergency pipework repairs",
+      "sourceTitle": "Taliaferro Hall",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-10-31T07:30:00-04:00",
+      "end": null,
+      "area": "Entire Building.",
+      "repairType": "Heating Outage",
+      "description": "There is currently a heating outage occurring at Taliaferro Hall due to emergency repairs needed for HVAC-related pipework in the building.",
+      "contacts": [
+        "Gerald Young"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating"
+      ],
+      "precision": "building",
+      "places": [
+        "building-taliaferro-hall"
+      ]
+    },
+    {
+      "id": "elkton-hall",
+      "title": "Elevator car 3 out of service",
+      "sourceTitle": "Elkton Hall",
+      "section": "elevators",
+      "notice": "unplanned",
+      "resolved": false,
+      "start": "2026-11-01T05:30:00-05:00",
+      "end": null,
+      "area": "Elevator Car 3",
+      "repairType": "Elevator Outage",
+      "description": "Elevator car 3 at Elkton Hall is currently out of service and awaiting maintenance repairs.",
+      "contacts": [
+        "Shane Kogok"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "elevator",
+      "services": [
+        "Elevator"
+      ],
+      "precision": "building",
+      "places": [
+        "building-elkton-hall"
+      ]
     }
   ]
 }
