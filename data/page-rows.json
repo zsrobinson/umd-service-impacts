@@ -1,6 +1,6 @@
 {
-  "pageHash": "791248e7b157716b",
-  "changedAt": "2026-11-01T06:47:00-05:00",
+  "pageHash": "390cef4a5294dd97",
+  "changedAt": "2026-11-02T06:48:00-05:00",
   "rows": {
     "eppley-recreation-center": {
       "section": "outages",
@@ -132,6 +132,19 @@
       "phone": "301-405-2222",
       "attachments": []
     },
+    "charles-hall-annapolis-hall-montgomery-hall": {
+      "section": "outages",
+      "title": "Charles Hall, Annapolis Hall, Montgomery Hall, Frederick Hall",
+      "area": "Entire Building(s)",
+      "start": "10-31-2026 11:00 am",
+      "finish": "10-31-2026 8:00 pm",
+      "repairType": "Heating Outage",
+      "description": "The underground leak has been located. To perform the necessary repairs, there will be an emergency heating outage starting today, October 31, at 11:00 a.m. that will impact Charles Hall, Annapolis Hall, Montgomery Hall, and Frederick Hall.",
+      "impactType": "Emergency",
+      "contact": "Donald Hill",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "charles-hall": {
       "section": "outages",
       "title": "Charles Hall",
@@ -146,6 +159,19 @@
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Emergency-Excavation-Work%2C-Southeast-Corner-of-Charles-Hall.png"
       ]
+    },
+    "taliaferro-hall": {
+      "section": "outages",
+      "title": "Taliaferro Hall",
+      "area": "Entire Building.",
+      "start": "10-31-2026 7:30 am",
+      "finish": "",
+      "repairType": "Heating Outage",
+      "description": "There is currently a heating outage occurring at Taliaferro Hall due to emergency repairs needed for HVAC-related pipework in the building.",
+      "impactType": "Emergency",
+      "contact": "Gerald Young",
+      "phone": "301-405-2222",
+      "attachments": []
     },
     "architecture": {
       "section": "outages",
@@ -431,6 +457,19 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
       ]
     },
+    "elkton-hall": {
+      "section": "elevators",
+      "title": "Elkton Hall",
+      "area": "Elevator Car 3",
+      "start": "11-01-2026 5:30 am",
+      "finish": "",
+      "repairType": "Elevator Outage",
+      "description": "Elevator car 3 at Elkton Hall is currently out of service and awaiting maintenance repairs.",
+      "impactType": "Unplanned",
+      "contact": "Shane Kogok",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "stamp-student-union": {
       "section": "elevators",
       "title": "Stamp Student Union",
@@ -470,41 +509,15 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "charles-hall-annapolis-hall-montgomery-hall": {
-      "section": "outages",
-      "title": "Charles Hall, Annapolis Hall, Montgomery Hall, Frederick Hall",
-      "area": "Entire Building(s)",
-      "start": "10-31-2026 11:00 am",
-      "finish": "",
-      "repairType": "Heating Outage",
-      "description": "The underground leak has been located. To perform the necessary repairs, there will be an emergency heating outage starting today, October 31, at 11:00 a.m. that will impact Charles Hall, Annapolis Hall, Montgomery Hall, and Frederick Hall.",
-      "impactType": "Emergency",
-      "contact": "Donald Hill",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "taliaferro-hall": {
-      "section": "outages",
-      "title": "Taliaferro Hall",
-      "area": "Entire Building.",
-      "start": "10-31-2026 7:30 am",
-      "finish": "",
-      "repairType": "Heating Outage",
-      "description": "There is currently a heating outage occurring at Taliaferro Hall due to emergency repairs needed for HVAC-related pipework in the building.",
-      "impactType": "Emergency",
-      "contact": "Gerald Young",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "elkton-hall": {
+    "mfri-office-classroom": {
       "section": "elevators",
-      "title": "Elkton Hall",
-      "area": "Elevator Car 3",
-      "start": "11-01-2026 5:30 am",
+      "title": "MFRI Office/Classroom Building",
+      "area": "Elevator Car 1",
+      "start": "11-01-2026 1:30 pm",
       "finish": "",
       "repairType": "Elevator Outage",
-      "description": "Elevator car 3 at Elkton Hall is currently out of service and awaiting maintenance repairs.",
-      "impactType": "Unplanned",
+      "description": "Elevator car 1 at the MFRI Office/Classroom Building has been taken out of service for maintenance repairs.",
+      "impactType": "Emergency",
       "contact": "Shane Kogok",
       "phone": "301-405-2222",
       "attachments": []
