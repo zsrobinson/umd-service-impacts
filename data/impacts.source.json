@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-11-03T06:47:00-05:00",
+  "fetchedAt": "2026-11-04T06:47:00-05:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -450,16 +450,16 @@
     },
     {
       "id": "biology-psychology",
-      "title": "Heating hot water outage on the 4th floor, biology side",
+      "title": "Emergency heating outage on all floors of the biology side",
       "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
       "notice": "emergency",
       "resolved": false,
-      "start": "2026-10-26T10:00:00-04:00",
-      "end": null,
-      "area": "4th floor Biology Side",
+      "start": "2026-11-04T06:00:00-05:00",
+      "end": "2026-11-04T14:00:00-05:00",
+      "area": "All floors of the biology-side of the building.",
       "repairType": "Heating Outage",
-      "description": "to repair multiple leaks on the 4th floor",
+      "description": "There will be an emergency heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
       "contacts": [
         "Michael Dickman"
       ],
@@ -609,34 +609,6 @@
       ]
     },
     {
-      "id": "gossett-hall",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "Gossett Hall",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-02T06:00:00-05:00",
-      "end": "2026-11-02T15:00:00-05:00",
-      "area": "Entire Building",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "approximate",
-      "places": [
-        "building-gossett-football-team-house"
-      ],
-      "locationNote": "The notice says Gossett Hall; the map data only has the Gossett Football Team House, so it is shown there."
-    },
-    {
       "id": "washington-quad",
       "title": "Partial sidewalk closure for emergency excavation",
       "sourceTitle": "Washington Quad",
@@ -690,32 +662,6 @@
       "precision": "building",
       "places": [
         "building-jeong-h-kim-engineering-building"
-      ]
-    },
-    {
-      "id": "chemistry-2",
-      "title": "Fire alarm testing in Wing 2",
-      "sourceTitle": "Chemistry Building",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-30T05:00:00-04:00",
-      "end": "2026-11-02T07:45:00-05:00",
-      "area": "Wing 2, Lab Rooms 2221 and 2219",
-      "repairType": "Fire Alarm Testing and Installation Work",
-      "description": "The fire alarm system will be activated in Wing 2 to test fire alarm devices following installation work in lab rooms 2219 and 2221; will occur on 10/30 and 11/2, 5AM - 7:45AM",
-      "contacts": [
-        "Cornell Jones"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm"
-      ],
-      "precision": "building",
-      "places": [
-        "building-chemistry-building"
       ]
     },
     {
@@ -791,7 +737,7 @@
       "notice": "unplanned",
       "resolved": false,
       "start": "2026-10-29T14:00:00-04:00",
-      "end": null,
+      "end": "2026-11-03T14:15:00-05:00",
       "area": "Wing 3 Perimeter Office Area Fan Coil Units",
       "repairType": "Air Conditioning Outage",
       "description": "There is currently an air conditioning issue affecting the fan coil units in the perimeter office areas in Wing 3 of the Atlantic Building while emergency repairs to the system are made.",
@@ -860,32 +806,6 @@
       "precision": "building",
       "places": [
         "building-denton-hall"
-      ]
-    },
-    {
-      "id": "gossett-football-team-house",
-      "title": "Brief electrical outage to install new circuits",
-      "sourceTitle": "Gossett Football Team House",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-03T05:00:00-05:00",
-      "end": "2026-11-03T06:00:00-05:00",
-      "area": "Entire Building.",
-      "repairType": "Electrical Outage",
-      "description": "There will be a brief planned electrical outage at the Gossett Football Team House to install new circuits into the building's main electrical switchboard.",
-      "contacts": [
-        "James Andrews"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "electrical",
-      "services": [
-        "Power"
-      ],
-      "precision": "building",
-      "places": [
-        "building-gossett-football-team-house"
       ]
     },
     {
@@ -974,55 +894,355 @@
       ]
     },
     {
-      "id": "elkton-hall",
-      "title": "Elevator car 3 out of service",
-      "sourceTitle": "Elkton Hall",
-      "section": "elevators",
-      "notice": "unplanned",
+      "id": "mckeldin-library",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "McKeldin Library",
+      "section": "outages",
+      "notice": "planned",
       "resolved": false,
-      "start": "2026-11-01T05:30:00-05:00",
-      "end": null,
-      "area": "Elevator Car 3",
-      "repairType": "Elevator Outage",
-      "description": "Elevator car 3 at Elkton Hall is currently out of service and awaiting maintenance repairs.",
+      "start": "2026-11-23T18:00:00-05:00",
+      "end": "2026-11-25T15:00:00-05:00",
+      "area": "Entire Building",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "contacts": [
-        "Shane Kogok"
+        "Clarence Brown"
       ],
       "phone": "301-405-2222",
       "attachments": [],
-      "category": "elevator",
+      "category": "fire-safety",
       "services": [
-        "Elevator"
+        "Fire alarm",
+        "Sprinklers"
       ],
       "precision": "building",
       "places": [
-        "building-elkton-hall"
+        "building-theodore-r-mckeldin-library"
       ]
     },
     {
-      "id": "mfri-office-classroom",
-      "title": "Elevator car 1 out of service",
-      "sourceTitle": "MFRI Office/Classroom Building",
-      "section": "elevators",
-      "notice": "emergency",
+      "id": "knight-hall",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "Knight Hall",
+      "section": "outages",
+      "notice": "planned",
       "resolved": false,
-      "start": "2026-11-01T13:30:00-05:00",
-      "end": "2026-11-02T09:00:00-05:00",
-      "area": "Elevator Car 1",
-      "repairType": "Elevator Outage",
-      "description": "Elevator car 1 at the MFRI Office/Classroom Building has been taken out of service for maintenance repairs.",
+      "start": "2026-11-20T18:00:00-05:00",
+      "end": null,
+      "area": "Entire Building",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "contacts": [
-        "Shane Kogok"
+        "Clarence Brown"
       ],
       "phone": "301-405-2222",
       "attachments": [],
-      "category": "elevator",
+      "category": "fire-safety",
       "services": [
-        "Elevator"
+        "Fire alarm",
+        "Sprinklers"
       ],
       "precision": "building",
       "places": [
-        "building-mfri-office-classroom-building"
+        "building-knight-hall"
+      ]
+    },
+    {
+      "id": "nyumburu-cultural-center",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "Nyumburu Cultural Center",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-19T06:00:00-05:00",
+      "end": "2026-11-19T15:00:00-05:00",
+      "area": "Entire Building",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "contacts": [
+        "Clarence Brown"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm",
+        "Sprinklers"
+      ],
+      "precision": "building",
+      "places": [
+        "building-nyumburu-cultural-center"
+      ]
+    },
+    {
+      "id": "e-fernandez-idea-factory",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "E. A. Fernandez IDEA Factory",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-18T18:00:00-05:00",
+      "end": null,
+      "area": "Entire Building",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "contacts": [
+        "Clarence Brown"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm",
+        "Sprinklers"
+      ],
+      "precision": "building",
+      "places": [
+        "building-e-a-fernandez-idea-factory"
+      ]
+    },
+    {
+      "id": "william-e-kirwan-hall",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "William E. Kirwan Hall",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-17T06:00:00-05:00",
+      "end": "2026-11-17T16:00:00-05:00",
+      "area": "Entire Building",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "contacts": [
+        "Clarence Brown"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm",
+        "Sprinklers"
+      ],
+      "precision": "building",
+      "places": [
+        "building-william-e-kirwan-hall"
+      ]
+    },
+    {
+      "id": "susquehanna-hall",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "Susquehanna Hall",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-16T06:00:00-05:00",
+      "end": "2026-11-16T15:00:00-05:00",
+      "area": "Entire Building",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "contacts": [
+        "Clarence Brown"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm",
+        "Sprinklers"
+      ],
+      "precision": "building",
+      "places": [
+        "building-susquehanna-hall"
+      ]
+    },
+    {
+      "id": "herbert-rabin-technology-advancement",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "Herbert Rabin Technology Advancement Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-13T06:00:00-05:00",
+      "end": "2026-11-13T15:00:00-05:00",
+      "area": "Entire Building",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "contacts": [
+        "Clarence Brown"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm",
+        "Sprinklers"
+      ],
+      "precision": "building",
+      "places": [
+        "building-technology-advancement-building"
+      ]
+    },
+    {
+      "id": "skinner-woods-hall",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "Skinner Building and Woods Hall",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-12T18:00:00-05:00",
+      "end": null,
+      "area": "Entire Building",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "contacts": [
+        "Clarence Brown"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm",
+        "Sprinklers"
+      ],
+      "precision": "building",
+      "places": [
+        "building-skinner-building",
+        "building-woods-hall"
+      ]
+    },
+    {
+      "id": "canceled-symons-hall",
+      "title": "Canceled: fire alarm and sprinkler testing",
+      "sourceTitle": "**Canceled** Symons Hall",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-09T06:00:00-05:00",
+      "end": "2026-11-09T15:00:00-05:00",
+      "area": "Entire Building.",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "**Canceled** Fire alarm and suppression system inspections are scheduled to occur at Symons Hall to test the building's fire alarm, sprinkler, and suppression systems.",
+      "contacts": [
+        "Clarence Brown"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm",
+        "Sprinklers"
+      ],
+      "precision": "building",
+      "places": [
+        "building-symons-hall"
+      ]
+    },
+    {
+      "id": "brendan-iribe-center",
+      "title": "Minor concrete repairs at the north roof deck entrance",
+      "sourceTitle": "Brendan Iribe Center",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-06T08:00:00-05:00",
+      "end": "2026-11-06T15:00:00-05:00",
+      "area": "North Side Roof Deck Entrance 1299",
+      "repairType": "Concrete Work",
+      "description": "Minimal concrete repairs will be performed near the north side, upper-level rooftop deck entrance 1299 of the Brendan Iribe Center. No impacts are expected to entrance accessibility or pedestrian traffic as a result of the work performed.",
+      "contacts": [
+        "William Butler"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Brendan-Iribe-Center---North-Side-Roof-Deck-Entrance%2C-Concrete-Work%2C-November-6-%28Map%29.png"
+      ],
+      "category": "construction",
+      "services": [
+        "Roof deck"
+      ],
+      "precision": "building",
+      "places": [
+        "building-brendan-iribe-center-for-computer-science-and-engineering"
+      ]
+    },
+    {
+      "id": "thurgood-marshall-hall",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "Thurgood Marshall Hall",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-06T06:00:00-05:00",
+      "end": "2026-11-06T15:00:00-05:00",
+      "area": "Entire Building.",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "Fire alarm and suppression system inspections are scheduled to occur at the Thurgood Marshall Hall to test the building's fire alarm, sprinkler, and suppression systems.",
+      "contacts": [
+        "Clarence Brown"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm",
+        "Sprinklers"
+      ],
+      "precision": "building",
+      "places": [
+        "building-thurgood-marshall-hall"
+      ]
+    },
+    {
+      "id": "morrill-hall",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "Morrill Hall",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-04T06:00:00-05:00",
+      "end": "2026-11-04T15:00:00-05:00",
+      "area": "Entire Building",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "contacts": [
+        "Clarence Brown"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm",
+        "Sprinklers"
+      ],
+      "precision": "building",
+      "places": [
+        "building-morrill-hall"
+      ]
+    },
+    {
+      "id": "biology-psychology-2",
+      "title": "Heating hot water outage on the 4th floor, biology side",
+      "sourceTitle": "Biology-Psychology Building",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-10-26T10:00:00-04:00",
+      "end": null,
+      "area": "4th floor Biology Side",
+      "repairType": "Heating Outage",
+      "description": "to repair multiple leaks on the 4th floor",
+      "contacts": [
+        "Michael Dickman"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating"
+      ],
+      "precision": "building",
+      "places": [
+        "building-biology-psychology-building"
       ]
     }
   ]
