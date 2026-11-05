@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-11-04T06:47:00-05:00",
+  "fetchedAt": "2026-11-05T06:48:00-05:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -416,39 +416,6 @@
       "locationNote": "The bridge crosses Paint Branch near The Varsity; shown at The Varsity."
     },
     {
-      "id": "avrum-gudelsky-veterinary-center-fire-alarm",
-      "title": "Fire alarm testing in the lab areas",
-      "sourceTitle": "Avrum Gudelsky Veterinary Center",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-03T09:00:00-05:00",
-      "end": "2026-11-03T10:00:00-05:00",
-      "area": "Entire Building",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "Fire alarm system testing and inspection work is scheduled to occur at the Avrum Gudelsky Veterinary Center to test fire alarm devices in the laboratory areas of the building.",
-      "contacts": [
-        "John Scali"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm"
-      ],
-      "precision": "approximate",
-      "places": [
-        {
-          "label": "Avrum Gudelsky Veterinary Center (location not given)",
-          "point": [
-            -76.9426,
-            38.9861
-          ]
-        }
-      ],
-      "locationNote": "The notice doesn't say where the Avrum Gudelsky Veterinary Center is and it isn't in the map data, so it is pinned at the centre of campus."
-    },
-    {
       "id": "biology-psychology",
       "title": "Emergency heating outage on all floors of the biology side",
       "sourceTitle": "Biology-Psychology Building",
@@ -582,33 +549,6 @@
       ]
     },
     {
-      "id": "tydings-hall",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "Tydings Hall",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-03T06:00:00-05:00",
-      "end": "2026-11-03T15:00:00-05:00",
-      "area": "Entire Building",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-tydings-hall"
-      ]
-    },
-    {
       "id": "washington-quad",
       "title": "Partial sidewalk closure for emergency excavation",
       "sourceTitle": "Washington Quad",
@@ -728,32 +668,6 @@
         }
       ],
       "locationNote": "The notice doesn't say where the Animal Sciences / Agricultural Engineering Building is and it isn't in the map data, so it is pinned at the centre of campus."
-    },
-    {
-      "id": "atlantic",
-      "title": "Air conditioning outage in Wing 3 perimeter offices",
-      "sourceTitle": "Atlantic Building",
-      "section": "outages",
-      "notice": "unplanned",
-      "resolved": false,
-      "start": "2026-10-29T14:00:00-04:00",
-      "end": "2026-11-03T14:15:00-05:00",
-      "area": "Wing 3 Perimeter Office Area Fan Coil Units",
-      "repairType": "Air Conditioning Outage",
-      "description": "There is currently an air conditioning issue affecting the fan coil units in the perimeter office areas in Wing 3 of the Atlantic Building while emergency repairs to the system are made.",
-      "contacts": [
-        "Gerald Young"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "hvac",
-      "services": [
-        "Air conditioning"
-      ],
-      "precision": "building",
-      "places": [
-        "building-atlantic"
-      ]
     },
     {
       "id": "edward-st-john-learning-teaching-center",
@@ -1111,33 +1025,6 @@
       ]
     },
     {
-      "id": "canceled-symons-hall",
-      "title": "Canceled: fire alarm and sprinkler testing",
-      "sourceTitle": "**Canceled** Symons Hall",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-09T06:00:00-05:00",
-      "end": "2026-11-09T15:00:00-05:00",
-      "area": "Entire Building.",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "**Canceled** Fire alarm and suppression system inspections are scheduled to occur at Symons Hall to test the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-symons-hall"
-      ]
-    },
-    {
       "id": "brendan-iribe-center",
       "title": "Minor concrete repairs at the north roof deck entrance",
       "sourceTitle": "Brendan Iribe Center",
@@ -1244,6 +1131,36 @@
       "places": [
         "building-biology-psychology-building"
       ]
+    },
+    {
+      "id": "regents-drive",
+      "title": "Overnight lane and sidewalk closures on Regents Drive",
+      "sourceTitle": "Regents Drive",
+      "section": "roads",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-09T21:00:00-05:00",
+      "end": "2026-11-20T05:00:00-05:00",
+      "area": "South of Stadium Drive Intersection",
+      "repairType": "Overnight Lane Closures and Sidewalk Closures",
+      "description": "Overnight single-lane closures of the southbound and northbound lanes and the surrounding sidewalks in an area of Regents Drive south of the Stadium Drive intersection to accommodate excavation work.",
+      "contacts": [
+        "Randall Phillips"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Regents-Drive-Lane-Closures%2C-Sidewalk-Closures.pdf"
+      ],
+      "category": "road",
+      "services": [
+        "Road",
+        "Sidewalk"
+      ],
+      "precision": "approximate",
+      "places": [
+        "road-regents-drive"
+      ],
+      "locationNote": "Closures are on Regents Drive just south of the Stadium Drive intersection; the whole road is shown."
     }
   ]
 }
