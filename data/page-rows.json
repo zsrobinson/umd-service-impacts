@@ -1,6 +1,6 @@
 {
-  "pageHash": "e5b9fde438de5ced",
-  "changedAt": "2026-11-05T06:48:00-05:00",
+  "pageHash": "0a40390d956adf08",
+  "changedAt": "2026-11-06T06:46:00-05:00",
   "rows": {
     "mckeldin-library": {
       "section": "outages",
@@ -77,6 +77,19 @@
       "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
       "contact": "Clarence Brown",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "biology-psychology": {
+      "section": "outages",
+      "title": "Biology-Psychology Building",
+      "area": "Entire Building",
+      "start": "11-13-2026 6:00 pm",
+      "finish": "11-15-2026 6:00 pm",
+      "repairType": "Chilled Water Outage Air Conditioning Outage",
+      "description": "to reconfigure the building's chilled water pumps and equipment.",
+      "impactType": "Planned",
+      "contact": "Antonio Sanchez",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -186,58 +199,6 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "denton-hall": {
-      "section": "outages",
-      "title": "Denton Hall",
-      "area": "Entire Building.",
-      "start": "11-04-2026 9:00 am",
-      "finish": "11-04-2026 3:00 pm",
-      "repairType": "Heating Outage, Domestic Hot Water Outage",
-      "description": "Planned domestic hot water outage and heating outage at Denton Hall that will impact heating service and hot water to building plumbing fixtures (sinks, showers) in order to make modifications to building utility equipment.",
-      "impactType": "Planned",
-      "contact": "Horacio Torres",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "biology-psychology": {
-      "section": "outages",
-      "title": "Biology-Psychology Building",
-      "area": "All floors of the biology-side of the building.",
-      "start": "11-04-2026 6:00 am",
-      "finish": "11-04-2026 2:00 pm",
-      "repairType": "Heating Outage",
-      "description": "There will be an emergency heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
-      "impactType": "Emergency",
-      "contact": "Michael Dickman",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "morrill-hall": {
-      "section": "outages",
-      "title": "Morrill Hall",
-      "area": "Entire Building",
-      "start": "11-04-2026 6:00 am",
-      "finish": "11-04-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "kim-engineering": {
-      "section": "outages",
-      "title": "Kim Engineering Building",
-      "area": "Areas of the Second Floor of Wing 1: 2107, 2107A, 2107B, 2111, 2133, 2135, 2141, 2143, 2145, Faculty Offices, Graduate Offices, IDF Closet, Copy Room, Lounge, Corridors, Restrooms and Water Fountains.",
-      "start": "11-04-2026 3:00 am",
-      "finish": "11-04-2026 6:00 am",
-      "repairType": "Electrical Outage",
-      "description": "There will be a brief electrical outage that will impact normal electrical power to outlets and lighting on the second floor in the east wing of the Kim Engineering Building.",
-      "impactType": "Planned",
-      "contact": "Joe Kselman",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "charles-hall": {
       "section": "outages",
       "title": "Charles Hall",
@@ -252,19 +213,6 @@
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Emergency-Excavation-Work%2C-Southeast-Corner-of-Charles-Hall.png"
       ]
-    },
-    "taliaferro-hall": {
-      "section": "outages",
-      "title": "Taliaferro Hall",
-      "area": "Entire Building.",
-      "start": "10-31-2026 7:30 am",
-      "finish": "",
-      "repairType": "Heating Outage",
-      "description": "There is currently a heating outage occurring at Taliaferro Hall due to emergency repairs needed for HVAC-related pipework in the building.",
-      "impactType": "Emergency",
-      "contact": "Gerald Young",
-      "phone": "301-405-2222",
-      "attachments": []
     },
     "edward-st-john-learning-teaching-center": {
       "section": "outages",
@@ -322,12 +270,12 @@
     },
     "cambridge-community-quad": {
       "section": "outages",
-      "title": "Cambridge Community Quad",
+      "title": "**Completed** Cambridge Community Quad",
       "area": "Bel Air Hall, south side of the building; Centreville Hall, west side of the building; Cambridge Hall, north side of the building; Cumberland Hall, east side of the building.",
       "start": "10-21-2026 8:00 am",
       "finish": "11-20-2026 4:30 pm",
       "repairType": "Concrete Work and Sidewalk Closures",
-      "description": "Planned concrete repair work will be performed on damaged areas of sidewalk throughout the Cambridge Community Quad to address trip hazards and improve structural integrity.",
+      "description": "**Completed** Planned concrete repair work will be performed on damaged areas of sidewalk throughout the Cambridge Community Quad to address trip hazards and improve structural integrity.",
       "impactType": "Planned",
       "contact": "Frank Dudley",
       "phone": "301-405-2222",
@@ -404,6 +352,21 @@
       "phone": "301-405-2222",
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/148---Urgent-Outage-Notice-HVAC-Cooling.png"
+      ]
+    },
+    "regents-drive": {
+      "section": "roads",
+      "title": "Regents Drive",
+      "area": "South of Stadium Drive Intersection",
+      "start": "11-09-2026 9:00 pm",
+      "finish": "11-20-2026 5:00 am",
+      "repairType": "Overnight Lane Closures and Sidewalk Closures",
+      "description": "Overnight single-lane closures of the southbound and northbound lanes and the surrounding sidewalks in an area of Regents Drive south of the Stadium Drive intersection to accommodate excavation work.",
+      "impactType": "Planned",
+      "contact": "Randall Phillips",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Regents-Drive-Lane-Closures%2C-Sidewalk-Closures.pdf"
       ]
     },
     "parking-lot-ss1": {
@@ -501,7 +464,7 @@
       "title": "Cumberland Hall",
       "area": "Elevator Car 1",
       "start": "07-27-2026 1:00 pm",
-      "finish": "",
+      "finish": "11-05-2026 9:30 am",
       "repairType": "Elevator modernization",
       "description": "Elevator car 1 has been taken out of service at Cumberland Hall for a planned modernization upgrade of the elevator car.",
       "impactType": "Planned",
@@ -522,20 +485,18 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "regents-drive": {
-      "section": "roads",
-      "title": "Regents Drive",
-      "area": "South of Stadium Drive Intersection",
-      "start": "11-09-2026 9:00 pm",
-      "finish": "11-20-2026 5:00 am",
-      "repairType": "Overnight Lane Closures and Sidewalk Closures",
-      "description": "Overnight single-lane closures of the southbound and northbound lanes and the surrounding sidewalks in an area of Regents Drive south of the Stadium Drive intersection to accommodate excavation work.",
+    "gossett-football-team-house": {
+      "section": "outages",
+      "title": "Gossett Football Team House",
+      "area": "Entire Building.",
+      "start": "11-10-2026 6:00 am",
+      "finish": "11-10-2026 7:00 am",
+      "repairType": "Heating Outage, Domestic Hot Water Outage",
+      "description": "There will be a planned heating outage and domestic hot water outage (sinks, showers, laundry facilities) at the Gossett Football Team House in order to make modifications to the building's natural gas lines.",
       "impactType": "Planned",
-      "contact": "Randall Phillips",
+      "contact": "James Andrews",
       "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Regents-Drive-Lane-Closures%2C-Sidewalk-Closures.pdf"
-      ]
+      "attachments": []
     }
   }
 }

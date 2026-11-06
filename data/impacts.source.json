@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-11-05T06:48:00-05:00",
+  "fetchedAt": "2026-11-06T06:46:00-05:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -273,7 +273,7 @@
       "notice": "planned",
       "resolved": false,
       "start": "2026-07-27T13:00:00-04:00",
-      "end": null,
+      "end": "2026-11-05T09:30:00-05:00",
       "area": "Elevator Car 1",
       "repairType": "Elevator modernization",
       "description": "Elevator car 1 has been taken out of service at Cumberland Hall for a planned modernization upgrade of the elevator car.",
@@ -356,16 +356,16 @@
     },
     {
       "id": "cambridge-community-quad",
-      "title": "Sidewalk closures for concrete repairs around Cambridge Community",
-      "sourceTitle": "Cambridge Community Quad",
+      "title": "Completed: sidewalk closures for concrete repairs around Cambridge Community",
+      "sourceTitle": "**Completed** Cambridge Community Quad",
       "section": "outages",
       "notice": "planned",
-      "resolved": false,
+      "resolved": true,
       "start": "2026-10-21T08:00:00-04:00",
       "end": "2026-11-20T16:30:00-05:00",
       "area": "Bel Air Hall, south side of the building; Centreville Hall, west side of the building; Cambridge Hall, north side of the building; Cumberland Hall, east side of the building.",
       "repairType": "Concrete Work and Sidewalk Closures",
-      "description": "Planned concrete repair work will be performed on damaged areas of sidewalk throughout the Cambridge Community Quad to address trip hazards and improve structural integrity.",
+      "description": "**Completed** Planned concrete repair work will be performed on damaged areas of sidewalk throughout the Cambridge Community Quad to address trip hazards and improve structural integrity.",
       "contacts": [
         "Frank Dudley"
       ],
@@ -417,24 +417,24 @@
     },
     {
       "id": "biology-psychology",
-      "title": "Emergency heating outage on all floors of the biology side",
+      "title": "Chilled water and air conditioning outage for pump work",
       "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
-      "notice": "emergency",
+      "notice": "planned",
       "resolved": false,
-      "start": "2026-11-04T06:00:00-05:00",
-      "end": "2026-11-04T14:00:00-05:00",
-      "area": "All floors of the biology-side of the building.",
-      "repairType": "Heating Outage",
-      "description": "There will be an emergency heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
+      "start": "2026-11-13T18:00:00-05:00",
+      "end": "2026-11-15T18:00:00-05:00",
+      "area": "Entire Building",
+      "repairType": "Chilled Water Outage Air Conditioning Outage",
+      "description": "to reconfigure the building's chilled water pumps and equipment.",
       "contacts": [
-        "Michael Dickman"
+        "Antonio Sanchez"
       ],
       "phone": "301-405-2222",
       "attachments": [],
       "category": "hvac",
       "services": [
-        "Heating"
+        "Air conditioning"
       ],
       "precision": "building",
       "places": [
@@ -579,32 +579,6 @@
       "locationNote": "The dig is in the Washington Quad south of Prince George's Hall and northeast of Baltimore Hall; shown at those two buildings."
     },
     {
-      "id": "kim-engineering",
-      "title": "Brief electrical outage on the second floor of Wing 1",
-      "sourceTitle": "Kim Engineering Building",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-04T03:00:00-05:00",
-      "end": "2026-11-04T06:00:00-05:00",
-      "area": "Areas of the Second Floor of Wing 1: 2107, 2107A, 2107B, 2111, 2133, 2135, 2141, 2143, 2145, Faculty Offices, Graduate Offices, IDF Closet, Copy Room, Lounge, Corridors, Restrooms and Water Fountains.",
-      "repairType": "Electrical Outage",
-      "description": "There will be a brief electrical outage that will impact normal electrical power to outlets and lighting on the second floor in the east wing of the Kim Engineering Building.",
-      "contacts": [
-        "Joe Kselman"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "electrical",
-      "services": [
-        "Power"
-      ],
-      "precision": "building",
-      "places": [
-        "building-jeong-h-kim-engineering-building"
-      ]
-    },
-    {
       "id": "campus-drive",
       "title": "Campus Drive repaving and restriping, with parking closed",
       "sourceTitle": "Campus Drive",
@@ -696,33 +670,6 @@
       ]
     },
     {
-      "id": "denton-hall",
-      "title": "Heating and hot water outage for utility work",
-      "sourceTitle": "Denton Hall",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-04T09:00:00-05:00",
-      "end": "2026-11-04T15:00:00-05:00",
-      "area": "Entire Building.",
-      "repairType": "Heating Outage, Domestic Hot Water Outage",
-      "description": "Planned domestic hot water outage and heating outage at Denton Hall that will impact heating service and hot water to building plumbing fixtures (sinks, showers) in order to make modifications to building utility equipment.",
-      "contacts": [
-        "Horacio Torres"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "hvac",
-      "services": [
-        "Heating",
-        "Hot water"
-      ],
-      "precision": "building",
-      "places": [
-        "building-denton-hall"
-      ]
-    },
-    {
       "id": "charles-hall",
       "title": "Southeast entrance and sidewalk closed for emergency excavation",
       "sourceTitle": "Charles Hall",
@@ -780,32 +727,6 @@
         "parking-lot-ss1"
       ],
       "locationNote": "Only several spaces in Lot SS1 are closed; the whole lot is shown."
-    },
-    {
-      "id": "taliaferro-hall",
-      "title": "Heating outage for emergency pipework repairs",
-      "sourceTitle": "Taliaferro Hall",
-      "section": "outages",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-10-31T07:30:00-04:00",
-      "end": null,
-      "area": "Entire Building.",
-      "repairType": "Heating Outage",
-      "description": "There is currently a heating outage occurring at Taliaferro Hall due to emergency repairs needed for HVAC-related pipework in the building.",
-      "contacts": [
-        "Gerald Young"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "hvac",
-      "services": [
-        "Heating"
-      ],
-      "precision": "building",
-      "places": [
-        "building-taliaferro-hall"
-      ]
     },
     {
       "id": "mckeldin-library",
@@ -1080,33 +1001,6 @@
       ]
     },
     {
-      "id": "morrill-hall",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "Morrill Hall",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-04T06:00:00-05:00",
-      "end": "2026-11-04T15:00:00-05:00",
-      "area": "Entire Building",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-morrill-hall"
-      ]
-    },
-    {
       "id": "biology-psychology-2",
       "title": "Heating hot water outage on the 4th floor, biology side",
       "sourceTitle": "Biology-Psychology Building",
@@ -1161,6 +1055,33 @@
         "road-regents-drive"
       ],
       "locationNote": "Closures are on Regents Drive just south of the Stadium Drive intersection; the whole road is shown."
+    },
+    {
+      "id": "gossett-football-team-house",
+      "title": "Heating and hot water outage for gas line work",
+      "sourceTitle": "Gossett Football Team House",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-10T06:00:00-05:00",
+      "end": "2026-11-10T07:00:00-05:00",
+      "area": "Entire Building.",
+      "repairType": "Heating Outage, Domestic Hot Water Outage",
+      "description": "There will be a planned heating outage and domestic hot water outage (sinks, showers, laundry facilities) at the Gossett Football Team House in order to make modifications to the building's natural gas lines.",
+      "contacts": [
+        "James Andrews"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating",
+        "Hot water"
+      ],
+      "precision": "building",
+      "places": [
+        "building-gossett-football-team-house"
+      ]
     }
   ]
 }
