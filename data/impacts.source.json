@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-11-06T06:46:00-05:00",
+  "fetchedAt": "2026-11-07T06:46:00-05:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -266,32 +266,6 @@
       "locationNote": "Fenced area traced from the attached map. A 10-foot pedestrian path along the west side of the Computer Science Instructional Center stays open."
     },
     {
-      "id": "cumberland-hall",
-      "title": "Elevator car 1 modernization",
-      "sourceTitle": "Cumberland Hall",
-      "section": "elevators",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-07-27T13:00:00-04:00",
-      "end": "2026-11-05T09:30:00-05:00",
-      "area": "Elevator Car 1",
-      "repairType": "Elevator modernization",
-      "description": "Elevator car 1 has been taken out of service at Cumberland Hall for a planned modernization upgrade of the elevator car.",
-      "contacts": [
-        "Chris O'Dea"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "elevator",
-      "services": [
-        "Elevator"
-      ],
-      "precision": "building",
-      "places": [
-        "building-cumberland-hall"
-      ]
-    },
-    {
       "id": "stadium-drive",
       "title": "Stadium Drive and sidewalks closed for crane staging",
       "sourceTitle": "Stadium Drive",
@@ -519,33 +493,6 @@
       "precision": "building",
       "places": [
         "building-h-j-patterson-hall"
-      ]
-    },
-    {
-      "id": "marie-mount-hall",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "Marie Mount Hall",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-05T06:00:00-05:00",
-      "end": "2026-11-05T15:00:00-05:00",
-      "area": "Entire Building",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-marie-mount-hall"
       ]
     },
     {
@@ -1002,18 +949,18 @@
     },
     {
       "id": "biology-psychology-2",
-      "title": "Heating hot water outage on the 4th floor, biology side",
+      "title": "Emergency heating outage on all floors of the biology side",
       "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
-      "notice": "emergency",
+      "notice": "planned",
       "resolved": false,
-      "start": "2026-10-26T10:00:00-04:00",
-      "end": null,
-      "area": "4th floor Biology Side",
+      "start": "2026-11-09T06:00:00-05:00",
+      "end": "2026-11-09T14:00:00-05:00",
+      "area": "Biology Side of Building, All Floors",
       "repairType": "Heating Outage",
-      "description": "to repair multiple leaks on the 4th floor",
+      "description": "There will be an emergency heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
       "contacts": [
-        "Michael Dickman"
+        "William Schmelyun"
       ],
       "phone": "301-405-2222",
       "attachments": [],
@@ -1081,6 +1028,88 @@
       "precision": "building",
       "places": [
         "building-gossett-football-team-house"
+      ]
+    },
+    {
+      "id": "edward-st-john-learning-teaching-center-2",
+      "title": "Partial sidewalk closures for emergency utility work",
+      "sourceTitle": "Edward St. John Learning and Teaching Center, Hornbake Library",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-09T06:00:00-05:00",
+      "end": "2026-11-13T16:00:00-05:00",
+      "area": "Areas Southwest of the Hornbake Library and Northeast of Edward St. John",
+      "repairType": "Partial Sidewalk Closures",
+      "description": "Partial sidewalk closures will occur near the northeast corner of the Edward St. John Learning and Teaching Center and near the southwest corner of Hornbake Library to accommodate emergency underground utility work.",
+      "contacts": [
+        "Joyce Blom"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Southwest-of-the-Hornbake-Library-and-Northeast-of-Edward-St.-John%2C-Partial-Sidewalk-Closures%2C-November-9---November-13-%28Map%29.png"
+      ],
+      "category": "sidewalk",
+      "services": [
+        "Sidewalk"
+      ],
+      "precision": "approximate",
+      "places": [
+        "building-edward-st-john-learning-and-teaching-center",
+        "building-hornbake-library"
+      ],
+      "locationNote": "Closures are between the northeast corner of Edward St. John and the southwest corner of Hornbake Library; shown at both buildings."
+    },
+    {
+      "id": "institute-physical-science-technology",
+      "title": "Heating outage in the lab areas",
+      "sourceTitle": "Institute for Physical Science and Technology Building",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-11-06T12:00:00-05:00",
+      "end": null,
+      "area": "Lab room areas of the building.",
+      "repairType": "Heating Outage",
+      "description": "There is currently a heating outage impacting the lab room areas of the Institute for Physical Science and Technology Building due to emergency repairs needed on the building's HVAC equipment.",
+      "contacts": [
+        "Alonzo Banks"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating"
+      ],
+      "precision": "building",
+      "places": [
+        "building-institute-for-physical-science-and-technology"
+      ]
+    },
+    {
+      "id": "biology-psychology-3",
+      "title": "Heating hot water outage on the 4th floor, biology side",
+      "sourceTitle": "Biology-Psychology Building",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-10-26T10:00:00-04:00",
+      "end": null,
+      "area": "4th floor Biology Side",
+      "repairType": "Heating Outage",
+      "description": "to repair multiple leaks on the 4th floor",
+      "contacts": [
+        "Michael Dickman"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating"
+      ],
+      "precision": "building",
+      "places": [
+        "building-biology-psychology-building"
       ]
     }
   ]

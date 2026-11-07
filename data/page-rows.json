@@ -1,6 +1,6 @@
 {
-  "pageHash": "0a40390d956adf08",
-  "changedAt": "2026-11-06T06:46:00-05:00",
+  "pageHash": "c315e65ccc0d7808",
+  "changedAt": "2026-11-07T06:46:00-05:00",
   "rows": {
     "mckeldin-library": {
       "section": "outages",
@@ -119,6 +119,19 @@
       "phone": "301-405-2222",
       "attachments": []
     },
+    "gossett-football-team-house": {
+      "section": "outages",
+      "title": "Gossett Football Team House",
+      "area": "Entire Building.",
+      "start": "11-10-2026 6:00 am",
+      "finish": "11-10-2026 7:00 am",
+      "repairType": "Heating Outage, Domestic Hot Water Outage",
+      "description": "There will be a planned heating outage and domestic hot water outage (sinks, showers, laundry facilities) at the Gossett Football Team House in order to make modifications to the building's natural gas lines.",
+      "impactType": "Planned",
+      "contact": "James Andrews",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "eppley-recreation-center": {
       "section": "outages",
       "title": "Eppley Recreation Center",
@@ -129,6 +142,19 @@
       "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
       "contact": "Clarence Brown",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "biology-psychology-2": {
+      "section": "outages",
+      "title": "Biology-Psychology Building",
+      "area": "Biology Side of Building, All Floors",
+      "start": "11-09-2026 6:00 am",
+      "finish": "11-09-2026 2:00 pm",
+      "repairType": "Heating Outage",
+      "description": "There will be an emergency heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
+      "impactType": "Planned",
+      "contact": "William Schmelyun",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -181,19 +207,6 @@
       "finish": "11-06-2026 3:00 pm",
       "repairType": "Fire Alarm/Suppression Testing and Inspection",
       "description": "Fire alarm and suppression system inspections are scheduled to occur at the Thurgood Marshall Hall to test the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "marie-mount-hall": {
-      "section": "outages",
-      "title": "Marie Mount Hall",
-      "area": "Entire Building",
-      "start": "11-05-2026 6:00 am",
-      "finish": "11-05-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
       "contact": "Clarence Brown",
       "phone": "301-405-2222",
@@ -254,19 +267,6 @@
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Urgent-Outage-Notification---Washington-Quad---South-of-Prince-George%27s-Hall%2C-Emergency-Excavation-Work-%28Map%29.png"
       ]
-    },
-    "biology-psychology-2": {
-      "section": "outages",
-      "title": "Biology-Psychology Building",
-      "area": "4th floor Biology Side",
-      "start": "10-26-2026 10:00 am",
-      "finish": "",
-      "repairType": "Heating Outage",
-      "description": "to repair multiple leaks on the 4th floor",
-      "impactType": "Emergency",
-      "contact": "Michael Dickman",
-      "phone": "301-405-2222",
-      "attachments": []
     },
     "cambridge-community-quad": {
       "section": "outages",
@@ -459,19 +459,6 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
       ]
     },
-    "cumberland-hall": {
-      "section": "elevators",
-      "title": "Cumberland Hall",
-      "area": "Elevator Car 1",
-      "start": "07-27-2026 1:00 pm",
-      "finish": "11-05-2026 9:30 am",
-      "repairType": "Elevator modernization",
-      "description": "Elevator car 1 has been taken out of service at Cumberland Hall for a planned modernization upgrade of the elevator car.",
-      "impactType": "Planned",
-      "contact": "Chris O'Dea",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "ellicott-elevator-3-modernization": {
       "section": "elevators",
       "title": "Ellicott Hall",
@@ -485,16 +472,44 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "gossett-football-team-house": {
+    "edward-st-john-learning-teaching-center-2": {
       "section": "outages",
-      "title": "Gossett Football Team House",
-      "area": "Entire Building.",
-      "start": "11-10-2026 6:00 am",
-      "finish": "11-10-2026 7:00 am",
-      "repairType": "Heating Outage, Domestic Hot Water Outage",
-      "description": "There will be a planned heating outage and domestic hot water outage (sinks, showers, laundry facilities) at the Gossett Football Team House in order to make modifications to the building's natural gas lines.",
+      "title": "Edward St. John Learning and Teaching Center, Hornbake Library",
+      "area": "Areas Southwest of the Hornbake Library and Northeast of Edward St. John",
+      "start": "11-09-2026 6:00 am",
+      "finish": "11-13-2026 4:00 pm",
+      "repairType": "Partial Sidewalk Closures",
+      "description": "Partial sidewalk closures will occur near the northeast corner of the Edward St. John Learning and Teaching Center and near the southwest corner of Hornbake Library to accommodate emergency underground utility work.",
       "impactType": "Planned",
-      "contact": "James Andrews",
+      "contact": "Joyce Blom",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Southwest-of-the-Hornbake-Library-and-Northeast-of-Edward-St.-John%2C-Partial-Sidewalk-Closures%2C-November-9---November-13-%28Map%29.png"
+      ]
+    },
+    "institute-physical-science-technology": {
+      "section": "outages",
+      "title": "Institute for Physical Science and Technology Building",
+      "area": "Lab room areas of the building.",
+      "start": "11-06-2026 12:00 pm",
+      "finish": "",
+      "repairType": "Heating Outage",
+      "description": "There is currently a heating outage impacting the lab room areas of the Institute for Physical Science and Technology Building due to emergency repairs needed on the building's HVAC equipment.",
+      "impactType": "Emergency",
+      "contact": "Alonzo Banks",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "biology-psychology-3": {
+      "section": "outages",
+      "title": "Biology-Psychology Building",
+      "area": "4th floor Biology Side",
+      "start": "10-26-2026 10:00 am",
+      "finish": "",
+      "repairType": "Heating Outage",
+      "description": "to repair multiple leaks on the 4th floor",
+      "impactType": "Emergency",
+      "contact": "Michael Dickman",
       "phone": "301-405-2222",
       "attachments": []
     }
