@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-11-08T06:46:00-05:00",
+  "fetchedAt": "2026-11-10T06:47:00-05:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -413,32 +413,6 @@
       "precision": "building",
       "places": [
         "building-biology-psychology-building"
-      ]
-    },
-    {
-      "id": "chemistry",
-      "title": "Labs 2219 and 2221 flooring work, with some odor",
-      "sourceTitle": "Chemistry Building",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-07T06:00:00-05:00",
-      "end": "2026-11-07T14:00:00-05:00",
-      "area": "Lab Rooms 2221 and 2219",
-      "repairType": "Flooring Work",
-      "description": "Flooring work will occur in lab rooms 2219 and 2221 of the Chemistry Building. The flooring materials used will produce an odor; however, active ventilation measures will be taken to minimize any impact on surrounding areas.",
-      "contacts": [
-        "Cornell Jones"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "construction",
-      "services": [
-        "Lab access"
-      ],
-      "precision": "building",
-      "places": [
-        "building-chemistry-building"
       ]
     },
     {
@@ -893,61 +867,6 @@
       ]
     },
     {
-      "id": "brendan-iribe-center",
-      "title": "Minor concrete repairs at the north roof deck entrance",
-      "sourceTitle": "Brendan Iribe Center",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-06T08:00:00-05:00",
-      "end": "2026-11-06T15:00:00-05:00",
-      "area": "North Side Roof Deck Entrance 1299",
-      "repairType": "Concrete Work",
-      "description": "Minimal concrete repairs will be performed near the north side, upper-level rooftop deck entrance 1299 of the Brendan Iribe Center. No impacts are expected to entrance accessibility or pedestrian traffic as a result of the work performed.",
-      "contacts": [
-        "William Butler"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Brendan-Iribe-Center---North-Side-Roof-Deck-Entrance%2C-Concrete-Work%2C-November-6-%28Map%29.png"
-      ],
-      "category": "construction",
-      "services": [
-        "Roof deck"
-      ],
-      "precision": "building",
-      "places": [
-        "building-brendan-iribe-center-for-computer-science-and-engineering"
-      ]
-    },
-    {
-      "id": "thurgood-marshall-hall",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "Thurgood Marshall Hall",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-06T06:00:00-05:00",
-      "end": "2026-11-06T15:00:00-05:00",
-      "area": "Entire Building.",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "Fire alarm and suppression system inspections are scheduled to occur at the Thurgood Marshall Hall to test the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-thurgood-marshall-hall"
-      ]
-    },
-    {
       "id": "biology-psychology-2",
       "title": "Emergency heating outage on all floors of the biology side",
       "sourceTitle": "Biology-Psychology Building",
@@ -1094,7 +1013,7 @@
       "notice": "emergency",
       "resolved": false,
       "start": "2026-10-26T10:00:00-04:00",
-      "end": null,
+      "end": "2026-11-09T10:00:00-05:00",
       "area": "4th floor Biology Side",
       "repairType": "Heating Outage",
       "description": "to repair multiple leaks on the 4th floor",

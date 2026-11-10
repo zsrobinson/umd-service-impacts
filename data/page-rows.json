@@ -1,6 +1,6 @@
 {
-  "pageHash": "382cd876aa9b7e33",
-  "changedAt": "2026-11-08T06:46:00-05:00",
+  "pageHash": "7211896a97268e9b",
+  "changedAt": "2026-11-10T06:47:00-05:00",
   "rows": {
     "mckeldin-library": {
       "section": "outages",
@@ -119,19 +119,6 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "gossett-football-team-house": {
-      "section": "outages",
-      "title": "Gossett Football Team House",
-      "area": "Entire Building.",
-      "start": "11-10-2026 6:00 am",
-      "finish": "11-10-2026 7:00 am",
-      "repairType": "Heating Outage, Domestic Hot Water Outage",
-      "description": "There will be a planned heating outage and domestic hot water outage (sinks, showers, laundry facilities) at the Gossett Football Team House in order to make modifications to the building's natural gas lines.",
-      "impactType": "Planned",
-      "contact": "James Andrews",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "eppley-recreation-center": {
       "section": "outages",
       "title": "Eppley Recreation Center",
@@ -142,6 +129,19 @@
       "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
       "contact": "Clarence Brown",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "gossett-football-team-house": {
+      "section": "outages",
+      "title": "Gossett Football Team House",
+      "area": "Entire Building.",
+      "start": "11-10-2026 6:00 am",
+      "finish": "11-10-2026 7:00 am",
+      "repairType": "Heating Outage, Domestic Hot Water Outage",
+      "description": "There will be a planned heating outage and domestic hot water outage (sinks, showers, laundry facilities) at the Gossett Football Team House in order to make modifications to the building's natural gas lines.",
+      "impactType": "Planned",
+      "contact": "James Andrews",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -160,19 +160,6 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Southwest-of-the-Hornbake-Library-and-Northeast-of-Edward-St.-John%2C-Partial-Sidewalk-Closures%2C-November-9---November-13-%28Map%29.png"
       ]
     },
-    "h-j-patterson-hall": {
-      "section": "outages",
-      "title": "H. J. Patterson Hall",
-      "area": "Entire Building",
-      "start": "11-09-2026 6:00 am",
-      "finish": "11-09-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "biology-psychology-2": {
       "section": "outages",
       "title": "Biology-Psychology Building",
@@ -186,16 +173,16 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "chemistry": {
+    "h-j-patterson-hall": {
       "section": "outages",
-      "title": "Chemistry Building",
-      "area": "Lab Rooms 2221 and 2219",
-      "start": "11-07-2026 6:00 am",
-      "finish": "11-07-2026 2:00 pm",
-      "repairType": "Flooring Work",
-      "description": "Flooring work will occur in lab rooms 2219 and 2221 of the Chemistry Building. The flooring materials used will produce an odor; however, active ventilation measures will be taken to minimize any impact on surrounding areas.",
+      "title": "H. J. Patterson Hall",
+      "area": "Entire Building",
+      "start": "11-09-2026 6:00 am",
+      "finish": "11-09-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
-      "contact": "Cornell Jones",
+      "contact": "Clarence Brown",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -209,34 +196,6 @@
       "description": "There is currently a heating outage impacting the lab room areas of the Institute for Physical Science and Technology Building due to emergency repairs needed on the building's HVAC equipment.",
       "impactType": "Emergency",
       "contact": "Alonzo Banks",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "brendan-iribe-center": {
-      "section": "outages",
-      "title": "Brendan Iribe Center",
-      "area": "North Side Roof Deck Entrance 1299",
-      "start": "11-06-2026 8:00 am",
-      "finish": "11-06-2026 3:00 pm",
-      "repairType": "Concrete Work",
-      "description": "Minimal concrete repairs will be performed near the north side, upper-level rooftop deck entrance 1299 of the Brendan Iribe Center. No impacts are expected to entrance accessibility or pedestrian traffic as a result of the work performed.",
-      "impactType": "Planned",
-      "contact": "William Butler",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Brendan-Iribe-Center---North-Side-Roof-Deck-Entrance%2C-Concrete-Work%2C-November-6-%28Map%29.png"
-      ]
-    },
-    "thurgood-marshall-hall": {
-      "section": "outages",
-      "title": "Thurgood Marshall Hall",
-      "area": "Entire Building.",
-      "start": "11-06-2026 6:00 am",
-      "finish": "11-06-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "Fire alarm and suppression system inspections are scheduled to occur at the Thurgood Marshall Hall to test the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -301,7 +260,7 @@
       "title": "Biology-Psychology Building",
       "area": "4th floor Biology Side",
       "start": "10-26-2026 10:00 am",
-      "finish": "",
+      "finish": "11-09-2026 10:00 am",
       "repairType": "Heating Outage",
       "description": "to repair multiple leaks on the 4th floor",
       "impactType": "Emergency",
