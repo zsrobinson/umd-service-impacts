@@ -1,6 +1,6 @@
 {
-  "pageHash": "7211896a97268e9b",
-  "changedAt": "2026-11-10T06:47:00-05:00",
+  "pageHash": "c3a4fd43c4cb51a9",
+  "changedAt": "2026-11-11T06:47:00-05:00",
   "rows": {
     "mckeldin-library": {
       "section": "outages",
@@ -160,32 +160,6 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Southwest-of-the-Hornbake-Library-and-Northeast-of-Edward-St.-John%2C-Partial-Sidewalk-Closures%2C-November-9---November-13-%28Map%29.png"
       ]
     },
-    "biology-psychology-2": {
-      "section": "outages",
-      "title": "Biology-Psychology Building",
-      "area": "Biology Side of Building, All Floors",
-      "start": "11-09-2026 6:00 am",
-      "finish": "11-09-2026 2:00 pm",
-      "repairType": "Heating Outage",
-      "description": "There will be an emergency heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
-      "impactType": "Planned",
-      "contact": "William Schmelyun",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "h-j-patterson-hall": {
-      "section": "outages",
-      "title": "H. J. Patterson Hall",
-      "area": "Entire Building",
-      "start": "11-09-2026 6:00 am",
-      "finish": "11-09-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "institute-physical-science-technology": {
       "section": "outages",
       "title": "Institute for Physical Science and Technology Building",
@@ -219,7 +193,7 @@
       "title": "Edward St. John Learning and Teaching Center",
       "area": "Entire Building.",
       "start": "10-29-2026 1:45 pm",
-      "finish": "",
+      "finish": "11-10-2026 3:15 pm",
       "repairType": "RODI Water Outage",
       "description": "There is currently an RO/DI water outage in the Edward St. John Learning and Teaching Center in order to perform emergency repairs to the system.",
       "impactType": "Emergency",
@@ -254,19 +228,6 @@
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Urgent-Outage-Notification---Washington-Quad---South-of-Prince-George%27s-Hall%2C-Emergency-Excavation-Work-%28Map%29.png"
       ]
-    },
-    "biology-psychology-3": {
-      "section": "outages",
-      "title": "Biology-Psychology Building",
-      "area": "4th floor Biology Side",
-      "start": "10-26-2026 10:00 am",
-      "finish": "11-09-2026 10:00 am",
-      "repairType": "Heating Outage",
-      "description": "to repair multiple leaks on the 4th floor",
-      "impactType": "Emergency",
-      "contact": "Michael Dickman",
-      "phone": "301-405-2222",
-      "attachments": []
     },
     "cambridge-community-quad": {
       "section": "outages",
@@ -384,21 +345,6 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Parking-Lot-SS1%2C-Excavation-Work-and-Parking-Space-Closures%2C-November-9---November-17-%28Map%2C-Work-Site%29.png"
       ]
     },
-    "campus-drive": {
-      "section": "roads",
-      "title": "Campus Drive",
-      "area": "From Benjamin Building to Parren J. Mitchell Art-Sociology Building. Repaving the roadway 11/7; restriping the roadway 11/9",
-      "start": "11-07-2026 7:00 am",
-      "finish": "11-09-2026 5:00 pm",
-      "repairType": "Parking Space Closures and Partial Road Closure",
-      "description": "There will be a planned partial roadway closure and parking space closures along a section of Campus Drive from the northeast corner of the Benjamin Building to the southeast corner of the Art-Sociology Building.",
-      "impactType": "Planned",
-      "contact": "Charles Patterson",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Campus-Drive-Paving_0.png"
-      ]
-    },
     "stadium-drive": {
       "section": "roads",
       "title": "Stadium Drive",
@@ -471,6 +417,36 @@
       "contact": "Chris O'Dea",
       "phone": "301-405-2222",
       "attachments": []
+    },
+    "geology-plant-sciences-hornbake-library": {
+      "section": "outages",
+      "title": "Geology Building, Plant Sciences, Hornbake Library",
+      "area": "Exterior West Side Parking Lot Area of the Geology Building",
+      "start": "11-17-2026 6:00 am",
+      "finish": "11-20-2026 4:00 pm",
+      "repairType": "Excavation Work",
+      "description": "Excavation work will be performed to locate an underground leak in an area of the parking lot west of the Geology Building. Once the leak is located, an air conditioning outage will be needed to accommodate repairs that will impact Hornbake Library.",
+      "impactType": "Planned",
+      "contact": "Horacio Torres",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Exterior-West-Side-of-the-Geology-Building%2C-Excavation-Work%2C-November-17---November-20-%28Map%29.png"
+      ]
+    },
+    "microbiology": {
+      "section": "outages",
+      "title": "Microbiology Building",
+      "area": "Exterior south side of the building.",
+      "start": "11-12-2026 8:00 am",
+      "finish": "11-18-2026 4:00 pm",
+      "repairType": "Exterior painting",
+      "description": "Exterior painting work will be performed to repair, prime, and paint exterior surfaces on the south side, second floor of the Microbiology Building.",
+      "impactType": "Planned",
+      "contact": "Rolando Mendez",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Exterior-South-Side-of-Microbiology-Building%2C-Exterior-Painting%2C-November-12---November-18-%28Map%29.png"
+      ]
     }
   }
 }

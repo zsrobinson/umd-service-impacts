@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-11-10T06:47:00-05:00",
+  "fetchedAt": "2026-11-11T06:47:00-05:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -443,33 +443,6 @@
       ]
     },
     {
-      "id": "h-j-patterson-hall",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "H. J. Patterson Hall",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-09T06:00:00-05:00",
-      "end": "2026-11-09T15:00:00-05:00",
-      "area": "Entire Building",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-h-j-patterson-hall"
-      ]
-    },
-    {
       "id": "washington-quad",
       "title": "Partial sidewalk closure for emergency excavation",
       "sourceTitle": "Washington Quad",
@@ -498,38 +471,6 @@
         "building-baltimore-hall"
       ],
       "locationNote": "The dig is in the Washington Quad south of Prince George's Hall and northeast of Baltimore Hall; shown at those two buildings."
-    },
-    {
-      "id": "campus-drive",
-      "title": "Campus Drive repaving and restriping, with parking closed",
-      "sourceTitle": "Campus Drive",
-      "section": "roads",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-07T07:00:00-05:00",
-      "end": "2026-11-09T17:00:00-05:00",
-      "area": "From Benjamin Building to Parren J. Mitchell Art-Sociology Building. Repaving the roadway 11/7; restriping the roadway 11/9",
-      "repairType": "Parking Space Closures and Partial Road Closure",
-      "description": "There will be a planned partial roadway closure and parking space closures along a section of Campus Drive from the northeast corner of the Benjamin Building to the southeast corner of the Art-Sociology Building.",
-      "contacts": [
-        "Charles Patterson"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Campus-Drive-Paving_0.png"
-      ],
-      "category": "road",
-      "services": [
-        "Road",
-        "Parking"
-      ],
-      "precision": "approximate",
-      "places": [
-        "building-parren-mitchell-art-sociology-building",
-        "building-benjamin-building",
-        "road-campus-drive"
-      ],
-      "locationNote": "The work covers Campus Drive from the Benjamin Building to the Art-Sociology Building; shown at those buildings."
     },
     {
       "id": "animal-sciences-agricultural-engineering",
@@ -572,7 +513,7 @@
       "notice": "emergency",
       "resolved": false,
       "start": "2026-10-29T13:45:00-04:00",
-      "end": null,
+      "end": "2026-11-10T15:15:00-05:00",
       "area": "Entire Building.",
       "repairType": "RODI Water Outage",
       "description": "There is currently an RO/DI water outage in the Edward St. John Learning and Teaching Center in order to perform emergency repairs to the system.",
@@ -867,32 +808,6 @@
       ]
     },
     {
-      "id": "biology-psychology-2",
-      "title": "Emergency heating outage on all floors of the biology side",
-      "sourceTitle": "Biology-Psychology Building",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-09T06:00:00-05:00",
-      "end": "2026-11-09T14:00:00-05:00",
-      "area": "Biology Side of Building, All Floors",
-      "repairType": "Heating Outage",
-      "description": "There will be an emergency heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
-      "contacts": [
-        "William Schmelyun"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "hvac",
-      "services": [
-        "Heating"
-      ],
-      "precision": "building",
-      "places": [
-        "building-biology-psychology-building"
-      ]
-    },
-    {
       "id": "regents-drive",
       "title": "Overnight lane and sidewalk closures on Regents Drive",
       "sourceTitle": "Regents Drive",
@@ -1006,29 +921,62 @@
       ]
     },
     {
-      "id": "biology-psychology-3",
-      "title": "Heating hot water outage on the 4th floor, biology side",
-      "sourceTitle": "Biology-Psychology Building",
+      "id": "geology-plant-sciences-hornbake-library",
+      "title": "Excavation to find an underground leak, then air conditioning outage",
+      "sourceTitle": "Geology Building, Plant Sciences, Hornbake Library",
       "section": "outages",
-      "notice": "emergency",
+      "notice": "planned",
       "resolved": false,
-      "start": "2026-10-26T10:00:00-04:00",
-      "end": "2026-11-09T10:00:00-05:00",
-      "area": "4th floor Biology Side",
-      "repairType": "Heating Outage",
-      "description": "to repair multiple leaks on the 4th floor",
+      "start": "2026-11-17T06:00:00-05:00",
+      "end": "2026-11-20T16:00:00-05:00",
+      "area": "Exterior West Side Parking Lot Area of the Geology Building",
+      "repairType": "Excavation Work",
+      "description": "Excavation work will be performed to locate an underground leak in an area of the parking lot west of the Geology Building. Once the leak is located, an air conditioning outage will be needed to accommodate repairs that will impact Hornbake Library.",
       "contacts": [
-        "Michael Dickman"
+        "Horacio Torres"
       ],
       "phone": "301-405-2222",
-      "attachments": [],
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Exterior-West-Side-of-the-Geology-Building%2C-Excavation-Work%2C-November-17---November-20-%28Map%29.png"
+      ],
       "category": "hvac",
       "services": [
-        "Heating"
+        "Parking",
+        "Air conditioning"
+      ],
+      "precision": "approximate",
+      "places": [
+        "building-geology-building",
+        "building-hornbake-library"
+      ],
+      "locationNote": "The dig is in the parking lot west of the Geology Building; the later air conditioning outage affects Hornbake Library."
+    },
+    {
+      "id": "microbiology",
+      "title": "Exterior painting on the south side",
+      "sourceTitle": "Microbiology Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-12T08:00:00-05:00",
+      "end": "2026-11-18T16:00:00-05:00",
+      "area": "Exterior south side of the building.",
+      "repairType": "Exterior painting",
+      "description": "Exterior painting work will be performed to repair, prime, and paint exterior surfaces on the south side, second floor of the Microbiology Building.",
+      "contacts": [
+        "Rolando Mendez"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Exterior-South-Side-of-Microbiology-Building%2C-Exterior-Painting%2C-November-12---November-18-%28Map%29.png"
+      ],
+      "category": "construction",
+      "services": [
+        "Exterior work"
       ],
       "precision": "building",
       "places": [
-        "building-biology-psychology-building"
+        "building-microbiology-building"
       ]
     }
   ]
