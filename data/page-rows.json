@@ -1,6 +1,6 @@
 {
-  "pageHash": "c3a4fd43c4cb51a9",
-  "changedAt": "2026-11-11T06:47:00-05:00",
+  "pageHash": "7f5fed50bb8126fb",
+  "changedAt": "2026-11-12T06:47:00-05:00",
   "rows": {
     "mckeldin-library": {
       "section": "outages",
@@ -67,6 +67,21 @@
       "phone": "301-405-2222",
       "attachments": []
     },
+    "geology-plant-sciences-hornbake-library": {
+      "section": "outages",
+      "title": "Geology Building, Plant Sciences, Hornbake Library",
+      "area": "Exterior West Side Parking Lot Area of the Geology Building",
+      "start": "11-17-2026 6:00 am",
+      "finish": "11-20-2026 4:00 pm",
+      "repairType": "Excavation Work",
+      "description": "Excavation work will be performed to locate an underground leak in an area of the parking lot west of the Geology Building. Once the leak is located, an air conditioning outage will be needed to accommodate repairs that will impact Hornbake Library.",
+      "impactType": "Planned",
+      "contact": "Horacio Torres",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Exterior-West-Side-of-the-Geology-Building%2C-Excavation-Work%2C-November-17---November-20-%28Map%29.png"
+      ]
+    },
     "susquehanna-hall": {
       "section": "outages",
       "title": "Susquehanna Hall",
@@ -119,31 +134,20 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "eppley-recreation-center": {
+    "microbiology": {
       "section": "outages",
-      "title": "Eppley Recreation Center",
-      "area": "Entire Building",
-      "start": "11-10-2026 6:00 am",
-      "finish": "11-10-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "title": "Microbiology Building",
+      "area": "Exterior south side of the building.",
+      "start": "11-12-2026 8:00 am",
+      "finish": "11-18-2026 4:00 pm",
+      "repairType": "Exterior painting",
+      "description": "Exterior painting work will be performed to repair, prime, and paint exterior surfaces on the south side, second floor of the Microbiology Building.",
       "impactType": "Planned",
-      "contact": "Clarence Brown",
+      "contact": "Rolando Mendez",
       "phone": "301-405-2222",
-      "attachments": []
-    },
-    "gossett-football-team-house": {
-      "section": "outages",
-      "title": "Gossett Football Team House",
-      "area": "Entire Building.",
-      "start": "11-10-2026 6:00 am",
-      "finish": "11-10-2026 7:00 am",
-      "repairType": "Heating Outage, Domestic Hot Water Outage",
-      "description": "There will be a planned heating outage and domestic hot water outage (sinks, showers, laundry facilities) at the Gossett Football Team House in order to make modifications to the building's natural gas lines.",
-      "impactType": "Planned",
-      "contact": "James Andrews",
-      "phone": "301-405-2222",
-      "attachments": []
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Exterior-South-Side-of-Microbiology-Building%2C-Exterior-Painting%2C-November-12---November-18-%28Map%29.png"
+      ]
     },
     "edward-st-john-learning-teaching-center-2": {
       "section": "outages",
@@ -187,19 +191,6 @@
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Emergency-Excavation-Work%2C-Southeast-Corner-of-Charles-Hall.png"
       ]
-    },
-    "edward-st-john-learning-teaching-center": {
-      "section": "outages",
-      "title": "Edward St. John Learning and Teaching Center",
-      "area": "Entire Building.",
-      "start": "10-29-2026 1:45 pm",
-      "finish": "11-10-2026 3:15 pm",
-      "repairType": "RODI Water Outage",
-      "description": "There is currently an RO/DI water outage in the Edward St. John Learning and Teaching Center in order to perform emergency repairs to the system.",
-      "impactType": "Emergency",
-      "contact": "Daniel Narh",
-      "phone": "301-405-2222",
-      "attachments": []
     },
     "animal-sciences-agricultural-engineering": {
       "section": "outages",
@@ -315,6 +306,19 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/148---Urgent-Outage-Notice-HVAC-Cooling.png"
       ]
     },
+    "ellicott-elevator-3-modernization": {
+      "section": "elevators",
+      "title": "Ellicott Hall",
+      "area": "Elevator Car 3",
+      "start": "04-09-2026 6:00 am",
+      "finish": "",
+      "repairType": "Elevator modernization",
+      "description": "Modernization of Elevator #3",
+      "impactType": "Planned",
+      "contact": "Chris O'Dea",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "regents-drive": {
       "section": "roads",
       "title": "Regents Drive",
@@ -405,48 +409,18 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
       ]
     },
-    "ellicott-elevator-3-modernization": {
+    "cumberland-hall": {
       "section": "elevators",
-      "title": "Ellicott Hall",
-      "area": "Elevator Car 3",
-      "start": "04-09-2026 6:00 am",
+      "title": "Cumberland Hall",
+      "area": "Elevator Car 4",
+      "start": "11-11-2026 12:15 pm",
       "finish": "",
-      "repairType": "Elevator modernization",
-      "description": "Modernization of Elevator #3",
-      "impactType": "Planned",
-      "contact": "Chris O'Dea",
+      "repairType": "Elevator Outage",
+      "description": "Elevator Car 4 at Cumberland Hall has been taken out of service for emergency repairs and is currently unavailable.",
+      "impactType": "Emergency",
+      "contact": "Shane Kogok",
       "phone": "301-405-2222",
       "attachments": []
-    },
-    "geology-plant-sciences-hornbake-library": {
-      "section": "outages",
-      "title": "Geology Building, Plant Sciences, Hornbake Library",
-      "area": "Exterior West Side Parking Lot Area of the Geology Building",
-      "start": "11-17-2026 6:00 am",
-      "finish": "11-20-2026 4:00 pm",
-      "repairType": "Excavation Work",
-      "description": "Excavation work will be performed to locate an underground leak in an area of the parking lot west of the Geology Building. Once the leak is located, an air conditioning outage will be needed to accommodate repairs that will impact Hornbake Library.",
-      "impactType": "Planned",
-      "contact": "Horacio Torres",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Exterior-West-Side-of-the-Geology-Building%2C-Excavation-Work%2C-November-17---November-20-%28Map%29.png"
-      ]
-    },
-    "microbiology": {
-      "section": "outages",
-      "title": "Microbiology Building",
-      "area": "Exterior south side of the building.",
-      "start": "11-12-2026 8:00 am",
-      "finish": "11-18-2026 4:00 pm",
-      "repairType": "Exterior painting",
-      "description": "Exterior painting work will be performed to repair, prime, and paint exterior surfaces on the south side, second floor of the Microbiology Building.",
-      "impactType": "Planned",
-      "contact": "Rolando Mendez",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Exterior-South-Side-of-Microbiology-Building%2C-Exterior-Painting%2C-November-12---November-18-%28Map%29.png"
-      ]
     }
   }
 }
