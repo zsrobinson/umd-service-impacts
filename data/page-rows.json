@@ -1,6 +1,6 @@
 {
-  "pageHash": "7f5fed50bb8126fb",
-  "changedAt": "2026-11-12T06:47:00-05:00",
+  "pageHash": "48dd1e4c98453839",
+  "changedAt": "2026-11-13T06:47:00-05:00",
   "rows": {
     "mckeldin-library": {
       "section": "outages",
@@ -306,16 +306,16 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/148---Urgent-Outage-Notice-HVAC-Cooling.png"
       ]
     },
-    "ellicott-elevator-3-modernization": {
+    "cumberland-hall": {
       "section": "elevators",
-      "title": "Ellicott Hall",
-      "area": "Elevator Car 3",
-      "start": "04-09-2026 6:00 am",
-      "finish": "",
-      "repairType": "Elevator modernization",
-      "description": "Modernization of Elevator #3",
-      "impactType": "Planned",
-      "contact": "Chris O'Dea",
+      "title": "Cumberland Hall",
+      "area": "Elevator Car 4",
+      "start": "11-11-2026 12:15 pm",
+      "finish": "11-12-2026 7:45 am",
+      "repairType": "Elevator Outage",
+      "description": "Elevator Car 4 at Cumberland Hall has been taken out of service for emergency repairs and is currently unavailable.",
+      "impactType": "Emergency",
+      "contact": "Shane Kogok",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -409,16 +409,42 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
       ]
     },
-    "cumberland-hall": {
-      "section": "elevators",
-      "title": "Cumberland Hall",
-      "area": "Elevator Car 4",
-      "start": "11-11-2026 12:15 pm",
+    "school-public-health": {
+      "section": "outages",
+      "title": "School of Public Health Building",
+      "area": "Entire Building.",
+      "start": "11-12-2026 8:00 am",
       "finish": "",
-      "repairType": "Elevator Outage",
-      "description": "Elevator Car 4 at Cumberland Hall has been taken out of service for emergency repairs and is currently unavailable.",
+      "repairType": "Heating Outage",
+      "description": "There will be an emergency heating outage that will impact the School of Public Health Building while an underground leak located in the exterior Parking Lot SS1 is repaired.",
       "impactType": "Emergency",
-      "contact": "Shane Kogok",
+      "contact": "Horacio Torres",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "glenn-l-martin-hall": {
+      "section": "outages",
+      "title": "Glenn L. Martin Hall",
+      "area": "Entire Building.",
+      "start": "11-11-2026 4:45 pm",
+      "finish": "",
+      "repairType": "Heating Reduction",
+      "description": "Heating at Glenn L. Martin Hall is currently available but at reduced capacity while Facilities Management responders make emergency repairs to HVAC pipework that supports building heating.",
+      "impactType": "Emergency",
+      "contact": "John Cole",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "mckeldin-library-2": {
+      "section": "elevators",
+      "title": "McKeldin Library",
+      "area": "Elevator Car 3",
+      "start": "11-18-2026 6:00 am",
+      "finish": "03-31-2027 4:00 pm",
+      "repairType": "Elevator modernization",
+      "description": "Elevator Car 3 will be taken out of service at McKeldin Library for a planned modernization upgrade of the elevator car.",
+      "impactType": "Planned",
+      "contact": "Chris O'Dea",
       "phone": "301-405-2222",
       "attachments": []
     }

@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-11-12T06:47:00-05:00",
+  "fetchedAt": "2026-11-13T06:47:00-05:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -174,32 +174,6 @@
           }
         }
       ],
-      "resolved": false
-    },
-    {
-      "id": "ellicott-elevator-3-modernization",
-      "title": "Elevator car 3 modernization",
-      "sourceTitle": "Ellicott Hall",
-      "section": "elevators",
-      "category": "elevator",
-      "services": [
-        "Elevator"
-      ],
-      "notice": "planned",
-      "start": "2026-04-09T06:00:00-04:00",
-      "end": null,
-      "area": "Elevator car 3",
-      "repairType": "Elevator Modernization",
-      "description": "Modernization of elevator #3.",
-      "contacts": [
-        "Chris O'Dea"
-      ],
-      "precision": "building",
-      "places": [
-        "building-ellicott-hall"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
       "resolved": false
     },
     {
@@ -907,7 +881,7 @@
       "notice": "emergency",
       "resolved": false,
       "start": "2026-11-11T12:15:00-05:00",
-      "end": null,
+      "end": "2026-11-12T07:45:00-05:00",
       "area": "Elevator Car 4",
       "repairType": "Elevator Outage",
       "description": "Elevator Car 4 at Cumberland Hall has been taken out of service for emergency repairs and is currently unavailable.",
@@ -923,6 +897,84 @@
       "precision": "building",
       "places": [
         "building-cumberland-hall"
+      ]
+    },
+    {
+      "id": "school-public-health",
+      "title": "Emergency heating outage while an underground leak is repaired",
+      "sourceTitle": "School of Public Health Building",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-11-12T08:00:00-05:00",
+      "end": null,
+      "area": "Entire Building.",
+      "repairType": "Heating Outage",
+      "description": "There will be an emergency heating outage that will impact the School of Public Health Building while an underground leak located in the exterior Parking Lot SS1 is repaired.",
+      "contacts": [
+        "Horacio Torres"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating"
+      ],
+      "precision": "building",
+      "places": [
+        "building-school-of-public-health"
+      ]
+    },
+    {
+      "id": "glenn-l-martin-hall",
+      "title": "Reduced heating during emergency pipework repairs",
+      "sourceTitle": "Glenn L. Martin Hall",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-11-11T16:45:00-05:00",
+      "end": null,
+      "area": "Entire Building.",
+      "repairType": "Heating Reduction",
+      "description": "Heating at Glenn L. Martin Hall is currently available but at reduced capacity while Facilities Management responders make emergency repairs to HVAC pipework that supports building heating.",
+      "contacts": [
+        "John Cole"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating"
+      ],
+      "precision": "building",
+      "places": [
+        "building-glenn-l-martin-hall"
+      ]
+    },
+    {
+      "id": "mckeldin-library-2",
+      "title": "Elevator car 3 modernization",
+      "sourceTitle": "McKeldin Library",
+      "section": "elevators",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-18T06:00:00-05:00",
+      "end": "2027-03-31T16:00:00-04:00",
+      "area": "Elevator Car 3",
+      "repairType": "Elevator modernization",
+      "description": "Elevator Car 3 will be taken out of service at McKeldin Library for a planned modernization upgrade of the elevator car.",
+      "contacts": [
+        "Chris O'Dea"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "elevator",
+      "services": [
+        "Elevator"
+      ],
+      "precision": "building",
+      "places": [
+        "building-theodore-r-mckeldin-library"
       ]
     }
   ]
