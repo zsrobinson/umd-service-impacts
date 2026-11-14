@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-11-13T06:47:00-05:00",
+  "fetchedAt": "2026-11-14T06:46:00-05:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -365,24 +365,24 @@
     },
     {
       "id": "biology-psychology",
-      "title": "Chilled water and air conditioning outage for pump work",
+      "title": "Heating outage on all floors of the biology side",
       "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
       "notice": "planned",
       "resolved": false,
-      "start": "2026-11-13T18:00:00-05:00",
-      "end": "2026-11-15T18:00:00-05:00",
-      "area": "Entire Building",
-      "repairType": "Chilled Water Outage Air Conditioning Outage",
-      "description": "to reconfigure the building's chilled water pumps and equipment.",
+      "start": "2026-11-19T06:00:00-05:00",
+      "end": "2026-11-19T14:00:00-05:00",
+      "area": "Biology Side of Building, All Floors",
+      "repairType": "Heating Outage",
+      "description": "There will be a planned heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
       "contacts": [
-        "Antonio Sanchez"
+        "William Schmelyun"
       ],
       "phone": "301-405-2222",
       "attachments": [],
       "category": "hvac",
       "services": [
-        "Air conditioning"
+        "Heating"
       ],
       "precision": "building",
       "places": [
@@ -701,34 +701,6 @@
       ]
     },
     {
-      "id": "skinner-woods-hall",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "Skinner Building and Woods Hall",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-12T18:00:00-05:00",
-      "end": null,
-      "area": "Entire Building",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-skinner-building",
-        "building-woods-hall"
-      ]
-    },
-    {
       "id": "regents-drive",
       "title": "Overnight lane and sidewalk closures on Regents Drive",
       "sourceTitle": "Regents Drive",
@@ -787,32 +759,6 @@
         "building-hornbake-library"
       ],
       "locationNote": "Closures are between the northeast corner of Edward St. John and the southwest corner of Hornbake Library; shown at both buildings."
-    },
-    {
-      "id": "institute-physical-science-technology",
-      "title": "Heating outage in the lab areas",
-      "sourceTitle": "Institute for Physical Science and Technology Building",
-      "section": "outages",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-11-06T12:00:00-05:00",
-      "end": null,
-      "area": "Lab room areas of the building.",
-      "repairType": "Heating Outage",
-      "description": "There is currently a heating outage impacting the lab room areas of the Institute for Physical Science and Technology Building due to emergency repairs needed on the building's HVAC equipment.",
-      "contacts": [
-        "Alonzo Banks"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "hvac",
-      "services": [
-        "Heating"
-      ],
-      "precision": "building",
-      "places": [
-        "building-institute-for-physical-science-and-technology"
-      ]
     },
     {
       "id": "geology-plant-sciences-hornbake-library",
@@ -878,15 +824,15 @@
       "title": "Elevator car 4 out of service",
       "sourceTitle": "Cumberland Hall",
       "section": "elevators",
-      "notice": "emergency",
+      "notice": "unplanned",
       "resolved": false,
-      "start": "2026-11-11T12:15:00-05:00",
-      "end": "2026-11-12T07:45:00-05:00",
+      "start": "2026-11-12T15:00:00-05:00",
+      "end": null,
       "area": "Elevator Car 4",
       "repairType": "Elevator Outage",
       "description": "Elevator Car 4 at Cumberland Hall has been taken out of service for emergency repairs and is currently unavailable.",
       "contacts": [
-        "Shane Kogok"
+        "Mark Loriso"
       ],
       "phone": "301-405-2222",
       "attachments": [],
@@ -900,32 +846,6 @@
       ]
     },
     {
-      "id": "school-public-health",
-      "title": "Emergency heating outage while an underground leak is repaired",
-      "sourceTitle": "School of Public Health Building",
-      "section": "outages",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-11-12T08:00:00-05:00",
-      "end": null,
-      "area": "Entire Building.",
-      "repairType": "Heating Outage",
-      "description": "There will be an emergency heating outage that will impact the School of Public Health Building while an underground leak located in the exterior Parking Lot SS1 is repaired.",
-      "contacts": [
-        "Horacio Torres"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "hvac",
-      "services": [
-        "Heating"
-      ],
-      "precision": "building",
-      "places": [
-        "building-school-of-public-health"
-      ]
-    },
-    {
       "id": "glenn-l-martin-hall",
       "title": "Reduced heating during emergency pipework repairs",
       "sourceTitle": "Glenn L. Martin Hall",
@@ -935,10 +855,12 @@
       "start": "2026-11-11T16:45:00-05:00",
       "end": null,
       "area": "Entire Building.",
-      "repairType": "Heating Reduction",
-      "description": "Heating at Glenn L. Martin Hall is currently available but at reduced capacity while Facilities Management responders make emergency repairs to HVAC pipework that supports building heating.",
+      "repairType": "Heating Outage",
+      "description": "Update: Steam to the building is still off to accommodate further repairs to the impacted HVAC pipework, resulting in building heating still being unavailable.",
       "contacts": [
-        "John Cole"
+        "John Cole",
+        "Francis Ayensu",
+        "Alonzo Banks"
       ],
       "phone": "301-405-2222",
       "attachments": [],
@@ -975,6 +897,58 @@
       "precision": "building",
       "places": [
         "building-theodore-r-mckeldin-library"
+      ]
+    },
+    {
+      "id": "biology-psychology-2",
+      "title": "Chilled water and air conditioning outage for pump work",
+      "sourceTitle": "Biology-Psychology Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-13T18:00:00-05:00",
+      "end": "2026-11-16T08:00:00-05:00",
+      "area": "Entire Building",
+      "repairType": "Chilled Water Outage Air Conditioning Outage",
+      "description": "to reconfigure the building's chilled water pumps and equipment.",
+      "contacts": [
+        "Antonio Sanchez"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Air conditioning"
+      ],
+      "precision": "building",
+      "places": [
+        "building-biology-psychology-building"
+      ]
+    },
+    {
+      "id": "biology-psychology-3",
+      "title": "Heating outage in some south-side offices",
+      "sourceTitle": "Biology-Psychology Building",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-11-13T15:15:00-05:00",
+      "end": null,
+      "area": "Some office areas on the south side of the building.",
+      "repairType": "Heating Outage",
+      "description": "There is currently a heating outage affecting some office areas on the south side of the Biology-Psychology Building while emergency repairs are made to the heating system that supports this area of the building.",
+      "contacts": [
+        "Michael Dickman"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating"
+      ],
+      "precision": "building",
+      "places": [
+        "building-biology-psychology-building"
       ]
     }
   ]

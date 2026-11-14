@@ -1,6 +1,6 @@
 {
-  "pageHash": "48dd1e4c98453839",
-  "changedAt": "2026-11-13T06:47:00-05:00",
+  "pageHash": "9d5cb512ee519acb",
+  "changedAt": "2026-11-14T06:46:00-05:00",
   "rows": {
     "mckeldin-library": {
       "section": "outages",
@@ -41,25 +41,25 @@
       "phone": "301-405-2222",
       "attachments": []
     },
+    "biology-psychology": {
+      "section": "outages",
+      "title": "Biology-Psychology Building",
+      "area": "Biology Side of Building, All Floors",
+      "start": "11-19-2026 6:00 am",
+      "finish": "11-19-2026 2:00 pm",
+      "repairType": "Heating Outage",
+      "description": "There will be a planned heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
+      "impactType": "Planned",
+      "contact": "William Schmelyun",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "e-fernandez-idea-factory": {
       "section": "outages",
       "title": "E. A. Fernandez IDEA Factory",
       "area": "Entire Building",
       "start": "11-18-2026 6:00 pm",
       "finish": "11-18-2026 4:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "william-e-kirwan-hall": {
-      "section": "outages",
-      "title": "William E. Kirwan Hall",
-      "area": "Entire Building",
-      "start": "11-17-2026 6:00 am",
-      "finish": "11-17-2026 4:00 pm",
       "repairType": "Fire Alarm/Suppression Testing and Inspection",
       "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
@@ -82,6 +82,19 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Exterior-West-Side-of-the-Geology-Building%2C-Excavation-Work%2C-November-17---November-20-%28Map%29.png"
       ]
     },
+    "william-e-kirwan-hall": {
+      "section": "outages",
+      "title": "William E. Kirwan Hall",
+      "area": "Entire Building",
+      "start": "11-17-2026 6:00 am",
+      "finish": "11-17-2026 4:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "susquehanna-hall": {
       "section": "outages",
       "title": "Susquehanna Hall",
@@ -95,38 +108,12 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "biology-psychology": {
-      "section": "outages",
-      "title": "Biology-Psychology Building",
-      "area": "Entire Building",
-      "start": "11-13-2026 6:00 pm",
-      "finish": "11-15-2026 6:00 pm",
-      "repairType": "Chilled Water Outage Air Conditioning Outage",
-      "description": "to reconfigure the building's chilled water pumps and equipment.",
-      "impactType": "Planned",
-      "contact": "Antonio Sanchez",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "herbert-rabin-technology-advancement": {
       "section": "outages",
       "title": "Herbert Rabin Technology Advancement Building",
       "area": "Entire Building",
       "start": "11-13-2026 6:00 am",
       "finish": "11-13-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "skinner-woods-hall": {
-      "section": "outages",
-      "title": "Skinner Building and Woods Hall",
-      "area": "Entire Building",
-      "start": "11-12-2026 6:00 pm",
-      "finish": "11-12-2026 4:00 pm",
       "repairType": "Fire Alarm/Suppression Testing and Inspection",
       "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
@@ -149,6 +136,19 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Exterior-South-Side-of-Microbiology-Building%2C-Exterior-Painting%2C-November-12---November-18-%28Map%29.png"
       ]
     },
+    "glenn-l-martin-hall": {
+      "section": "outages",
+      "title": "Glenn L. Martin Hall",
+      "area": "Entire Building.",
+      "start": "11-11-2026 4:45 pm",
+      "finish": "",
+      "repairType": "Heating Outage",
+      "description": "Update: Steam to the building is still off to accommodate further repairs to the impacted HVAC pipework, resulting in building heating still being unavailable.",
+      "impactType": "Emergency",
+      "contact": "John Cole, Francis Ayensu, Alonzo Banks",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "edward-st-john-learning-teaching-center-2": {
       "section": "outages",
       "title": "Edward St. John Learning and Teaching Center, Hornbake Library",
@@ -163,19 +163,6 @@
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Southwest-of-the-Hornbake-Library-and-Northeast-of-Edward-St.-John%2C-Partial-Sidewalk-Closures%2C-November-9---November-13-%28Map%29.png"
       ]
-    },
-    "institute-physical-science-technology": {
-      "section": "outages",
-      "title": "Institute for Physical Science and Technology Building",
-      "area": "Lab room areas of the building.",
-      "start": "11-06-2026 12:00 pm",
-      "finish": "",
-      "repairType": "Heating Outage",
-      "description": "There is currently a heating outage impacting the lab room areas of the Institute for Physical Science and Technology Building due to emergency repairs needed on the building's HVAC equipment.",
-      "impactType": "Emergency",
-      "contact": "Alonzo Banks",
-      "phone": "301-405-2222",
-      "attachments": []
     },
     "charles-hall": {
       "section": "outages",
@@ -306,16 +293,29 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/148---Urgent-Outage-Notice-HVAC-Cooling.png"
       ]
     },
+    "mckeldin-library-2": {
+      "section": "elevators",
+      "title": "McKeldin Library",
+      "area": "Elevator Car 3",
+      "start": "11-18-2026 6:00 am",
+      "finish": "03-31-2027 4:00 pm",
+      "repairType": "Elevator modernization",
+      "description": "Elevator Car 3 will be taken out of service at McKeldin Library for a planned modernization upgrade of the elevator car.",
+      "impactType": "Planned",
+      "contact": "Chris O'Dea",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "cumberland-hall": {
       "section": "elevators",
       "title": "Cumberland Hall",
       "area": "Elevator Car 4",
-      "start": "11-11-2026 12:15 pm",
-      "finish": "11-12-2026 7:45 am",
+      "start": "11-12-2026 3:00 pm",
+      "finish": "",
       "repairType": "Elevator Outage",
       "description": "Elevator Car 4 at Cumberland Hall has been taken out of service for emergency repairs and is currently unavailable.",
-      "impactType": "Emergency",
-      "contact": "Shane Kogok",
+      "impactType": "Unplanned",
+      "contact": "Mark Loriso",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -409,42 +409,29 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
       ]
     },
-    "school-public-health": {
+    "biology-psychology-2": {
       "section": "outages",
-      "title": "School of Public Health Building",
-      "area": "Entire Building.",
-      "start": "11-12-2026 8:00 am",
+      "title": "Biology-Psychology Building",
+      "area": "Entire Building",
+      "start": "11-13-2026 6:00 pm",
+      "finish": "11-16-2026 8:00 am",
+      "repairType": "Chilled Water Outage Air Conditioning Outage",
+      "description": "to reconfigure the building's chilled water pumps and equipment.",
+      "impactType": "Planned",
+      "contact": "Antonio Sanchez",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "biology-psychology-3": {
+      "section": "outages",
+      "title": "Biology-Psychology Building",
+      "area": "Some office areas on the south side of the building.",
+      "start": "11-13-2026 3:15 pm",
       "finish": "",
       "repairType": "Heating Outage",
-      "description": "There will be an emergency heating outage that will impact the School of Public Health Building while an underground leak located in the exterior Parking Lot SS1 is repaired.",
+      "description": "There is currently a heating outage affecting some office areas on the south side of the Biology-Psychology Building while emergency repairs are made to the heating system that supports this area of the building.",
       "impactType": "Emergency",
-      "contact": "Horacio Torres",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "glenn-l-martin-hall": {
-      "section": "outages",
-      "title": "Glenn L. Martin Hall",
-      "area": "Entire Building.",
-      "start": "11-11-2026 4:45 pm",
-      "finish": "",
-      "repairType": "Heating Reduction",
-      "description": "Heating at Glenn L. Martin Hall is currently available but at reduced capacity while Facilities Management responders make emergency repairs to HVAC pipework that supports building heating.",
-      "impactType": "Emergency",
-      "contact": "John Cole",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "mckeldin-library-2": {
-      "section": "elevators",
-      "title": "McKeldin Library",
-      "area": "Elevator Car 3",
-      "start": "11-18-2026 6:00 am",
-      "finish": "03-31-2027 4:00 pm",
-      "repairType": "Elevator modernization",
-      "description": "Elevator Car 3 will be taken out of service at McKeldin Library for a planned modernization upgrade of the elevator car.",
-      "impactType": "Planned",
-      "contact": "Chris O'Dea",
+      "contact": "Michael Dickman",
       "phone": "301-405-2222",
       "attachments": []
     }
