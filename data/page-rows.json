@@ -1,6 +1,6 @@
 {
-  "pageHash": "9d5cb512ee519acb",
-  "changedAt": "2026-11-14T06:46:00-05:00",
+  "pageHash": "e52b6842460ec26c",
+  "changedAt": "2026-11-15T06:46:00-05:00",
   "rows": {
     "mckeldin-library": {
       "section": "outages",
@@ -28,19 +28,6 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "nyumburu-cultural-center": {
-      "section": "outages",
-      "title": "Nyumburu Cultural Center",
-      "area": "Entire Building",
-      "start": "11-19-2026 6:00 am",
-      "finish": "11-19-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "biology-psychology": {
       "section": "outages",
       "title": "Biology-Psychology Building",
@@ -51,6 +38,19 @@
       "description": "There will be a planned heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
       "impactType": "Planned",
       "contact": "William Schmelyun",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "nyumburu-cultural-center": {
+      "section": "outages",
+      "title": "Nyumburu Cultural Center",
+      "area": "Entire Building",
+      "start": "11-19-2026 6:00 am",
+      "finish": "11-19-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -105,6 +105,32 @@
       "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
       "impactType": "Planned",
       "contact": "Clarence Brown",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "biology-psychology-2": {
+      "section": "outages",
+      "title": "Biology-Psychology Building",
+      "area": "Entire Building",
+      "start": "11-13-2026 6:00 pm",
+      "finish": "11-16-2026 8:00 am",
+      "repairType": "Chilled Water Outage Air Conditioning Outage",
+      "description": "to reconfigure the building's chilled water pumps and equipment.",
+      "impactType": "Planned",
+      "contact": "Antonio Sanchez",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "biology-psychology-3": {
+      "section": "outages",
+      "title": "Biology-Psychology Building",
+      "area": "Some office areas on the south side of the building.",
+      "start": "11-13-2026 3:15 pm",
+      "finish": "",
+      "repairType": "Heating Outage",
+      "description": "There is currently a heating outage affecting some office areas on the south side of the Biology-Psychology Building while emergency repairs are made to the heating system that supports this area of the building.",
+      "impactType": "Emergency",
+      "contact": "Michael Dickman",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -408,32 +434,6 @@
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
       ]
-    },
-    "biology-psychology-2": {
-      "section": "outages",
-      "title": "Biology-Psychology Building",
-      "area": "Entire Building",
-      "start": "11-13-2026 6:00 pm",
-      "finish": "11-16-2026 8:00 am",
-      "repairType": "Chilled Water Outage Air Conditioning Outage",
-      "description": "to reconfigure the building's chilled water pumps and equipment.",
-      "impactType": "Planned",
-      "contact": "Antonio Sanchez",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "biology-psychology-3": {
-      "section": "outages",
-      "title": "Biology-Psychology Building",
-      "area": "Some office areas on the south side of the building.",
-      "start": "11-13-2026 3:15 pm",
-      "finish": "",
-      "repairType": "Heating Outage",
-      "description": "There is currently a heating outage affecting some office areas on the south side of the Biology-Psychology Building while emergency repairs are made to the heating system that supports this area of the building.",
-      "impactType": "Emergency",
-      "contact": "Michael Dickman",
-      "phone": "301-405-2222",
-      "attachments": []
     }
   }
 }
