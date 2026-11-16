@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-11-15T06:46:00-05:00",
+  "fetchedAt": "2026-11-16T06:47:00-05:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -949,6 +949,34 @@
       "precision": "building",
       "places": [
         "building-biology-psychology-building"
+      ]
+    },
+    {
+      "id": "mckeldin-library-elevator-3",
+      "title": "Elevator 3 out of service for repairs",
+      "sourceTitle": "McKeldin Library Elevator 3",
+      "section": "elevators",
+      "notice": "unplanned",
+      "resolved": false,
+      "start": "2026-11-15T22:05:00-05:00",
+      "end": null,
+      "area": "Elevator 3",
+      "repairType": "Elevator",
+      "description": "Elevator repair",
+      "contacts": [
+        "Shane Kogok"
+      ],
+      "phone": "443-758-7260",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/documents/service-impact/McKeldin-3.pdf"
+      ],
+      "category": "elevator",
+      "services": [
+        "Elevator"
+      ],
+      "precision": "building",
+      "places": [
+        "building-theodore-r-mckeldin-library"
       ]
     }
   ]

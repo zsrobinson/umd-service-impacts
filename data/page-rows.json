@@ -1,6 +1,6 @@
 {
-  "pageHash": "e52b6842460ec26c",
-  "changedAt": "2026-11-15T06:46:00-05:00",
+  "pageHash": "c9892979ceaa95d0",
+  "changedAt": "2026-11-16T06:47:00-05:00",
   "rows": {
     "mckeldin-library": {
       "section": "outages",
@@ -433,6 +433,21 @@
       "phone": "443-500-2356",
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
+      ]
+    },
+    "mckeldin-library-elevator-3": {
+      "section": "elevators",
+      "title": "McKeldin Library Elevator 3",
+      "area": "Elevator 3",
+      "start": "11-15-2026 10:05 pm",
+      "finish": "",
+      "repairType": "Elevator",
+      "description": "Elevator repair",
+      "impactType": "Unplanned",
+      "contact": "Shane Kogok",
+      "phone": "443-758-7260",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/documents/service-impact/McKeldin-3.pdf"
       ]
     }
   }
