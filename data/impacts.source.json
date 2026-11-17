@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-11-16T06:47:00-05:00",
+  "fetchedAt": "2026-11-17T06:47:00-05:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -365,24 +365,24 @@
     },
     {
       "id": "biology-psychology",
-      "title": "Heating outage on all floors of the biology side",
+      "title": "Demolition for renovations in rooms 4213 and 4219",
       "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
       "notice": "planned",
       "resolved": false,
-      "start": "2026-11-19T06:00:00-05:00",
-      "end": "2026-11-19T14:00:00-05:00",
-      "area": "Biology Side of Building, All Floors",
-      "repairType": "Heating Outage",
-      "description": "There will be a planned heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
+      "start": "2026-11-20T06:00:00-05:00",
+      "end": "2026-12-04T17:00:00-05:00",
+      "area": "Rooms 4213, 4219, 4219C, and 4219D.",
+      "repairType": "Renovation Work",
+      "description": "The demolition work related to renovations will occur in rooms 4213, 4219, 4219C, and 4219D of the Biology-Psychology Building.",
       "contacts": [
-        "William Schmelyun"
+        "Adesanmi Fajemisin"
       ],
       "phone": "301-405-2222",
       "attachments": [],
-      "category": "hvac",
+      "category": "construction",
       "services": [
-        "Heating"
+        "Room access"
       ],
       "precision": "building",
       "places": [
@@ -460,7 +460,7 @@
       "notice": "emergency",
       "resolved": false,
       "start": "2026-10-31T09:00:00-04:00",
-      "end": null,
+      "end": "2026-11-16T09:15:00-05:00",
       "area": "Southeast Exterior Area",
       "repairType": "Sidewalk Closure, Entrance Closure, Excavation Work",
       "description": "Emergency excavation work will occur in the southeast exterior area of Charles Hall and will result in a sidewalk and southeast entrance closure. This is to locate and perform emergency repairs to an underground leak occurring in this area.",
@@ -674,33 +674,6 @@
       ]
     },
     {
-      "id": "herbert-rabin-technology-advancement",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "Herbert Rabin Technology Advancement Building",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-13T06:00:00-05:00",
-      "end": "2026-11-13T15:00:00-05:00",
-      "area": "Entire Building",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-technology-advancement-building"
-      ]
-    },
-    {
       "id": "regents-drive",
       "title": "Overnight lane and sidewalk closures on Regents Drive",
       "sourceTitle": "Regents Drive",
@@ -729,36 +702,6 @@
         "road-regents-drive"
       ],
       "locationNote": "Closures are on Regents Drive just south of the Stadium Drive intersection; the whole road is shown."
-    },
-    {
-      "id": "edward-st-john-learning-teaching-center-2",
-      "title": "Partial sidewalk closures for emergency utility work",
-      "sourceTitle": "Edward St. John Learning and Teaching Center, Hornbake Library",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-09T06:00:00-05:00",
-      "end": "2026-11-13T16:00:00-05:00",
-      "area": "Areas Southwest of the Hornbake Library and Northeast of Edward St. John",
-      "repairType": "Partial Sidewalk Closures",
-      "description": "Partial sidewalk closures will occur near the northeast corner of the Edward St. John Learning and Teaching Center and near the southwest corner of Hornbake Library to accommodate emergency underground utility work.",
-      "contacts": [
-        "Joyce Blom"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Southwest-of-the-Hornbake-Library-and-Northeast-of-Edward-St.-John%2C-Partial-Sidewalk-Closures%2C-November-9---November-13-%28Map%29.png"
-      ],
-      "category": "sidewalk",
-      "services": [
-        "Sidewalk"
-      ],
-      "precision": "approximate",
-      "places": [
-        "building-edward-st-john-learning-and-teaching-center",
-        "building-hornbake-library"
-      ],
-      "locationNote": "Closures are between the northeast corner of Edward St. John and the southwest corner of Hornbake Library; shown at both buildings."
     },
     {
       "id": "geology-plant-sciences-hornbake-library",
@@ -826,13 +769,13 @@
       "section": "elevators",
       "notice": "unplanned",
       "resolved": false,
-      "start": "2026-11-12T15:00:00-05:00",
+      "start": "2026-11-16T14:00:00-05:00",
       "end": null,
       "area": "Elevator Car 4",
       "repairType": "Elevator Outage",
       "description": "Elevator Car 4 at Cumberland Hall has been taken out of service for emergency repairs and is currently unavailable.",
       "contacts": [
-        "Mark Loriso"
+        "Shane Kogok"
       ],
       "phone": "301-405-2222",
       "attachments": [],
@@ -843,34 +786,6 @@
       "precision": "building",
       "places": [
         "building-cumberland-hall"
-      ]
-    },
-    {
-      "id": "glenn-l-martin-hall",
-      "title": "Reduced heating during emergency pipework repairs",
-      "sourceTitle": "Glenn L. Martin Hall",
-      "section": "outages",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-11-11T16:45:00-05:00",
-      "end": null,
-      "area": "Entire Building.",
-      "repairType": "Heating Outage",
-      "description": "Update: Steam to the building is still off to accommodate further repairs to the impacted HVAC pipework, resulting in building heating still being unavailable.",
-      "contacts": [
-        "John Cole",
-        "Francis Ayensu",
-        "Alonzo Banks"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "hvac",
-      "services": [
-        "Heating"
-      ],
-      "precision": "building",
-      "places": [
-        "building-glenn-l-martin-hall"
       ]
     },
     {
@@ -901,13 +816,39 @@
     },
     {
       "id": "biology-psychology-2",
+      "title": "Heating outage on all floors of the biology side",
+      "sourceTitle": "Biology-Psychology Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-19T06:00:00-05:00",
+      "end": "2026-11-19T14:00:00-05:00",
+      "area": "Biology Side of Building, All Floors",
+      "repairType": "Heating Outage",
+      "description": "There will be a planned heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
+      "contacts": [
+        "William Schmelyun"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating"
+      ],
+      "precision": "building",
+      "places": [
+        "building-biology-psychology-building"
+      ]
+    },
+    {
+      "id": "biology-psychology-3",
       "title": "Chilled water and air conditioning outage for pump work",
       "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
       "notice": "planned",
       "resolved": false,
       "start": "2026-11-13T18:00:00-05:00",
-      "end": "2026-11-16T08:00:00-05:00",
+      "end": "2026-11-18T18:00:00-05:00",
       "area": "Entire Building",
       "repairType": "Chilled Water Outage Air Conditioning Outage",
       "description": "to reconfigure the building's chilled water pumps and equipment.",
@@ -926,7 +867,145 @@
       ]
     },
     {
-      "id": "biology-psychology-3",
+      "id": "mckeldin-library-elevator-3",
+      "title": "Elevator 3 out of service for repairs",
+      "sourceTitle": "McKeldin Library Elevator 3",
+      "section": "elevators",
+      "notice": "unplanned",
+      "resolved": false,
+      "start": "2026-11-15T22:05:00-05:00",
+      "end": "2026-11-16T07:15:00-05:00",
+      "area": "Elevator 3",
+      "repairType": "Elevator",
+      "description": "Elevator repair",
+      "contacts": [
+        "Shane Kogok"
+      ],
+      "phone": "443-758-7260",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/documents/service-impact/McKeldin-3.pdf"
+      ],
+      "category": "elevator",
+      "services": [
+        "Elevator"
+      ],
+      "precision": "building",
+      "places": [
+        "building-theodore-r-mckeldin-library"
+      ]
+    },
+    {
+      "id": "c-daniel-mote-jr-engineering-laboratory",
+      "title": "North entrance and sidewalk closed for bike rack installation",
+      "sourceTitle": "C. Daniel Mote, Jr. Engineering Laboratory Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-23T06:00:00-05:00",
+      "end": "2026-12-04T15:00:00-05:00",
+      "area": "Exterior north of the building",
+      "repairType": "Entrance Closure, Sidewalk Closure",
+      "description": "Closures of the northwest ADA entrance, north side high bay roll-up door, and the surrounding sidewalk area north of the C. Daniel Mote, Jr. Engineering Laboratory Building to accommodate the installation of additional bike racks in this area.",
+      "contacts": [
+        "Teon Saunders"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Exterior-North-of-C.-Daniel-Mote%2C-Jr.-Engineering-Laboratory-Building%2C-Sidewalk-Closure-and-Entrance-Closure%2C-November-23---November-27-%28Map%29.pdf"
+      ],
+      "category": "sidewalk",
+      "services": [
+        "Entrance",
+        "Sidewalk"
+      ],
+      "precision": "approximate",
+      "places": [
+        "building-engineering-laboratory-building"
+      ],
+      "locationNote": "Only the area north of the building is closed; shown at the building."
+    },
+    {
+      "id": "ion-q-paint-branch",
+      "title": "Hot and cold water outage to replace the water meter",
+      "sourceTitle": "ION-Q Paint Branch Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-19T18:00:00-05:00",
+      "end": "2026-11-19T23:00:00-05:00",
+      "area": "Entire Building.",
+      "repairType": "Domestic Hot and Cold Water Outage",
+      "description": "There will be a planned domestic hot and cold water outage at the ION-Q Paint Branch Building to replace the building's domestic water meter.",
+      "contacts": [
+        "Jason Reardon"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "water",
+      "services": [
+        "Hot water",
+        "Cold water"
+      ],
+      "precision": "approximate",
+      "places": [
+        "building-paint-branch-building"
+      ],
+      "locationNote": "Shown at the Paint Branch Building, the closest match in the map data for the ION-Q Paint Branch Building."
+    },
+    {
+      "id": "preinkert-hall",
+      "title": "Brief electrical outage to install breakers",
+      "sourceTitle": "Preinkert Hall",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-18T06:00:00-05:00",
+      "end": "2026-11-18T07:00:00-05:00",
+      "area": "Entire Building.",
+      "repairType": "Electrical Outage",
+      "description": "There will be a brief planned electrical outage at Preinkert Hall to install electrical breakers in the building.",
+      "contacts": [
+        "Raymond Pessagno"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "electrical",
+      "services": [
+        "Power"
+      ],
+      "precision": "approximate",
+      "places": [
+        "building-preinkert-field-house"
+      ],
+      "locationNote": "Shown at Preinkert Field House, the closest match in the map data for Preinkert Hall."
+    },
+    {
+      "id": "university-house-golf-course-clubhouse-elkins",
+      "title": "Electrical outage at four buildings",
+      "sourceTitle": "University House, Golf Course Clubhouse, Elkins Building, and Astronomy Lecture Building",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-11-16T18:14:00-05:00",
+      "end": null,
+      "area": "Entire Building",
+      "repairType": "Electric Outage",
+      "description": "Electrical outage",
+      "contacts": [],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "electrical",
+      "services": [
+        "Power"
+      ],
+      "precision": "approximate",
+      "places": [
+        "building-umd-golf-course-clubhouse"
+      ],
+      "locationNote": "University House, the Elkins Building and the Astronomy Lecture Building are not in the map data; only the Golf Course Clubhouse is shown."
+    },
+    {
+      "id": "biology-psychology-4",
       "title": "Heating outage in some south-side offices",
       "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
@@ -949,34 +1028,6 @@
       "precision": "building",
       "places": [
         "building-biology-psychology-building"
-      ]
-    },
-    {
-      "id": "mckeldin-library-elevator-3",
-      "title": "Elevator 3 out of service for repairs",
-      "sourceTitle": "McKeldin Library Elevator 3",
-      "section": "elevators",
-      "notice": "unplanned",
-      "resolved": false,
-      "start": "2026-11-15T22:05:00-05:00",
-      "end": null,
-      "area": "Elevator 3",
-      "repairType": "Elevator",
-      "description": "Elevator repair",
-      "contacts": [
-        "Shane Kogok"
-      ],
-      "phone": "443-758-7260",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/documents/service-impact/McKeldin-3.pdf"
-      ],
-      "category": "elevator",
-      "services": [
-        "Elevator"
-      ],
-      "precision": "building",
-      "places": [
-        "building-theodore-r-mckeldin-library"
       ]
     }
   ]
