@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-11-17T06:47:00-05:00",
+  "fetchedAt": "2026-11-18T06:47:00-05:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -270,39 +270,6 @@
       "locationNote": "The closure is on Stadium Drive south of the IDEA Factory, from the Chemistry Lane and Engineering Drive intersection to the Zupnik Hall loading dock; shown at the IDEA Factory."
     },
     {
-      "id": "severn",
-      "title": "Hot water outage to replace equipment",
-      "sourceTitle": "Severn Building",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-10-15T06:00:00-04:00",
-      "end": "2026-11-15T17:00:00-05:00",
-      "area": "Entire Building.",
-      "repairType": "Domestic Hot Water Outage",
-      "description": "There will be a planned domestic hot water outage for the Severn Building to replace domestic hot water equipment and components in the building.",
-      "contacts": [
-        "William Schmelyun"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "water",
-      "services": [
-        "Hot water"
-      ],
-      "precision": "approximate",
-      "places": [
-        {
-          "label": "Severn Building (location not given)",
-          "point": [
-            -76.9426,
-            38.9861
-          ]
-        }
-      ],
-      "locationNote": "The notice doesn't say where the Severn Building is and it isn't in the map data, so it is pinned at the centre of campus."
-    },
-    {
       "id": "cambridge-community-quad",
       "title": "Completed: sidewalk closures for concrete repairs around Cambridge Community",
       "sourceTitle": "**Completed** Cambridge Community Quad",
@@ -451,36 +418,6 @@
         }
       ],
       "locationNote": "The notice doesn't say where the Animal Sciences / Agricultural Engineering Building is and it isn't in the map data, so it is pinned at the centre of campus."
-    },
-    {
-      "id": "charles-hall",
-      "title": "Southeast entrance and sidewalk closed for emergency excavation",
-      "sourceTitle": "Charles Hall",
-      "section": "outages",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-10-31T09:00:00-04:00",
-      "end": "2026-11-16T09:15:00-05:00",
-      "area": "Southeast Exterior Area",
-      "repairType": "Sidewalk Closure, Entrance Closure, Excavation Work",
-      "description": "Emergency excavation work will occur in the southeast exterior area of Charles Hall and will result in a sidewalk and southeast entrance closure. This is to locate and perform emergency repairs to an underground leak occurring in this area.",
-      "contacts": [
-        "Donald Hill"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Emergency-Excavation-Work%2C-Southeast-Corner-of-Charles-Hall.png"
-      ],
-      "category": "sidewalk",
-      "services": [
-        "Entrance",
-        "Sidewalk"
-      ],
-      "precision": "approximate",
-      "places": [
-        "building-charles-hall"
-      ],
-      "locationNote": "Only the southeast exterior area is affected; shown at the building."
     },
     {
       "id": "parking-lot-ss1",
@@ -644,33 +581,6 @@
       "precision": "building",
       "places": [
         "building-william-e-kirwan-hall"
-      ]
-    },
-    {
-      "id": "susquehanna-hall",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "Susquehanna Hall",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-16T06:00:00-05:00",
-      "end": "2026-11-16T15:00:00-05:00",
-      "area": "Entire Building",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-susquehanna-hall"
       ]
     },
     {
@@ -848,10 +758,10 @@
       "notice": "planned",
       "resolved": false,
       "start": "2026-11-13T18:00:00-05:00",
-      "end": "2026-11-18T18:00:00-05:00",
+      "end": "2026-11-17T10:05:00-05:00",
       "area": "Entire Building",
       "repairType": "Chilled Water Outage Air Conditioning Outage",
-      "description": "to reconfigure the building's chilled water pumps and equipment.",
+      "description": "To reconfigure the building's chilled water pumps and equipment.",
       "contacts": [
         "Antonio Sanchez"
       ],
@@ -864,34 +774,6 @@
       "precision": "building",
       "places": [
         "building-biology-psychology-building"
-      ]
-    },
-    {
-      "id": "mckeldin-library-elevator-3",
-      "title": "Elevator 3 out of service for repairs",
-      "sourceTitle": "McKeldin Library Elevator 3",
-      "section": "elevators",
-      "notice": "unplanned",
-      "resolved": false,
-      "start": "2026-11-15T22:05:00-05:00",
-      "end": "2026-11-16T07:15:00-05:00",
-      "area": "Elevator 3",
-      "repairType": "Elevator",
-      "description": "Elevator repair",
-      "contacts": [
-        "Shane Kogok"
-      ],
-      "phone": "443-758-7260",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/documents/service-impact/McKeldin-3.pdf"
-      ],
-      "category": "elevator",
-      "services": [
-        "Elevator"
-      ],
-      "precision": "building",
-      "places": [
-        "building-theodore-r-mckeldin-library"
       ]
     },
     {
@@ -987,7 +869,7 @@
       "notice": "emergency",
       "resolved": false,
       "start": "2026-11-16T18:14:00-05:00",
-      "end": null,
+      "end": "2026-11-17T07:00:00-05:00",
       "area": "Entire Building",
       "repairType": "Electric Outage",
       "description": "Electrical outage",
@@ -1028,6 +910,115 @@
       "precision": "building",
       "places": [
         "building-biology-psychology-building"
+      ]
+    },
+    {
+      "id": "bioscience-research",
+      "title": "West door from lecture hall 1103 closed for drain work",
+      "sourceTitle": "Bioscience Research Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-23T07:00:00-05:00",
+      "end": "2026-11-27T17:00:00-05:00",
+      "area": "West Side Stairwell",
+      "repairType": "Exterior Door Closure, Concrete Work",
+      "description": "There will be a temporary closure of the west side exterior door leading from lecture hall 1103 at the Bioscience Research Building to perform concrete work for the installation of new drains.",
+      "contacts": [
+        "Richard Scott Rupert"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Bioscience-Research-Building---West-Side-Stairwell%2C-Exterior-Door-Closure-and-Concrete-Work%2C-November-23---November-27-%28Map%29.png"
+      ],
+      "category": "construction",
+      "services": [
+        "Entrance"
+      ],
+      "precision": "building",
+      "places": [
+        "building-biosciences-research-building"
+      ]
+    },
+    {
+      "id": "patuxent",
+      "title": "South door closed for drain installation",
+      "sourceTitle": "Patuxent Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-23T07:00:00-05:00",
+      "end": "2026-11-27T17:00:00-05:00",
+      "area": "South Side Entrance",
+      "repairType": "Exterior Door Closure, Concrete Work",
+      "description": "There will be a temporary closure of the south side exterior door 0197 at the Patuxent Building to perform the installation of new exterior drains.",
+      "contacts": [
+        "Richard Scott Rupert"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Patuxent-Building---South-Entrance%2C-Exterior-Door-Closure-and-Concrete-Work%2C-November-23---November-27-%28Map%29.png"
+      ],
+      "category": "construction",
+      "services": [
+        "Entrance"
+      ],
+      "precision": "building",
+      "places": [
+        "building-patuxent-building"
+      ]
+    },
+    {
+      "id": "cole-student-activities",
+      "title": "Heating outage during steam drain work",
+      "sourceTitle": "Cole Student Activities Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-20T06:00:00-05:00",
+      "end": "2026-11-20T14:00:00-05:00",
+      "area": "Entire Building.",
+      "repairType": "Steam Outage, Heating Outage",
+      "description": "A planned steam outage will impact heating at the Cole Student Activities Building to accommodate modifications to drain piping related to the steam system.",
+      "contacts": [
+        "Chrysanthe Broikos"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "steam",
+      "services": [
+        "Heating"
+      ],
+      "precision": "building",
+      "places": [
+        "building-jones-hill-house"
+      ]
+    },
+    {
+      "id": "brendan-iribe-center",
+      "title": "Emergency steam outage, no heat or hot water",
+      "sourceTitle": "Brendan Iribe Center",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-11-17T07:00:00-05:00",
+      "end": "2026-11-17T10:00:00-05:00",
+      "area": "Entire Building.",
+      "repairType": "Steam Outage, Domestic Hot Water Outage, Heating Outage",
+      "description": "There is currently an emergency steam outage at the Brendan Iribe Center to repair a steam leak, resulting in domestic hot water (sinks, showers) and building heating being unavailable.",
+      "contacts": [
+        "Alonzo Banks"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "steam",
+      "services": [
+        "Heating",
+        "Hot water"
+      ],
+      "precision": "building",
+      "places": [
+        "building-brendan-iribe-center-for-computer-science-and-engineering"
       ]
     }
   ]
