@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-11-18T06:47:00-05:00",
+  "fetchedAt": "2026-11-19T06:47:00-05:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -332,24 +332,24 @@
     },
     {
       "id": "biology-psychology",
-      "title": "Demolition for renovations in rooms 4213 and 4219",
+      "title": "Heating outage on all floors of the biology side",
       "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
       "notice": "planned",
       "resolved": false,
-      "start": "2026-11-20T06:00:00-05:00",
-      "end": "2026-12-04T17:00:00-05:00",
-      "area": "Rooms 4213, 4219, 4219C, and 4219D.",
-      "repairType": "Renovation Work",
-      "description": "The demolition work related to renovations will occur in rooms 4213, 4219, 4219C, and 4219D of the Biology-Psychology Building.",
+      "start": "2026-11-23T06:00:00-05:00",
+      "end": "2026-11-25T14:00:00-05:00",
+      "area": "Biology Side of Building, All Floors",
+      "repairType": "Heating Outage",
+      "description": "There will be a planned heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
       "contacts": [
-        "Adesanmi Fajemisin"
+        "William Schmelyun"
       ],
       "phone": "301-405-2222",
       "attachments": [],
-      "category": "construction",
+      "category": "hvac",
       "services": [
-        "Room access"
+        "Heating"
       ],
       "precision": "building",
       "places": [
@@ -418,35 +418,6 @@
         }
       ],
       "locationNote": "The notice doesn't say where the Animal Sciences / Agricultural Engineering Building is and it isn't in the map data, so it is pinned at the centre of campus."
-    },
-    {
-      "id": "parking-lot-ss1",
-      "title": "Some Lot SS1 spaces closed for leak excavation",
-      "sourceTitle": "Parking Lot SS1",
-      "section": "roads",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-09T06:00:00-05:00",
-      "end": "2026-11-17T14:00:00-05:00",
-      "area": "Parking lot between Eppley Recreation Center and School of Public Health",
-      "repairType": "Excavation Work, Parking Space Closures",
-      "description": "Excavation work will occur in parking lot SS1, adjacent to Eppley Recreation Center and the School of Public Health Building, resulting in several parking spaces being closed. The excavation work is required to locate and repair an underground leak.",
-      "contacts": [
-        "Horacio Torres"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Parking-Lot-SS1%2C-Excavation-Work-and-Parking-Space-Closures%2C-November-9---November-17-%28Map%2C-Work-Site%29.png"
-      ],
-      "category": "parking",
-      "services": [
-        "Parking"
-      ],
-      "precision": "approximate",
-      "places": [
-        "parking-lot-ss1"
-      ],
-      "locationNote": "Only several spaces in Lot SS1 are closed; the whole lot is shown."
     },
     {
       "id": "mckeldin-library",
@@ -557,33 +528,6 @@
       ]
     },
     {
-      "id": "william-e-kirwan-hall",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "William E. Kirwan Hall",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-17T06:00:00-05:00",
-      "end": "2026-11-17T16:00:00-05:00",
-      "area": "Entire Building",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-william-e-kirwan-hall"
-      ]
-    },
-    {
       "id": "regents-drive",
       "title": "Overnight lane and sidewalk closures on Regents Drive",
       "sourceTitle": "Regents Drive",
@@ -680,7 +624,7 @@
       "notice": "unplanned",
       "resolved": false,
       "start": "2026-11-16T14:00:00-05:00",
-      "end": null,
+      "end": "2026-11-18T10:00:00-05:00",
       "area": "Elevator Car 4",
       "repairType": "Elevator Outage",
       "description": "Elevator Car 4 at Cumberland Hall has been taken out of service for emergency repairs and is currently unavailable.",
@@ -726,24 +670,24 @@
     },
     {
       "id": "biology-psychology-2",
-      "title": "Heating outage on all floors of the biology side",
+      "title": "Demolition for renovations in rooms 4213 and 4219",
       "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
       "notice": "planned",
       "resolved": false,
-      "start": "2026-11-19T06:00:00-05:00",
-      "end": "2026-11-19T14:00:00-05:00",
-      "area": "Biology Side of Building, All Floors",
-      "repairType": "Heating Outage",
-      "description": "There will be a planned heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
+      "start": "2026-11-20T06:00:00-05:00",
+      "end": "2026-12-04T17:00:00-05:00",
+      "area": "Rooms 4213, 4219, 4219C, and 4219D.",
+      "repairType": "Renovation Work",
+      "description": "The demolition work related to renovations will occur in rooms 4213, 4219, 4219C, and 4219D of the Biology-Psychology Building.",
       "contacts": [
-        "William Schmelyun"
+        "Adesanmi Fajemisin"
       ],
       "phone": "301-405-2222",
       "attachments": [],
-      "category": "hvac",
+      "category": "construction",
       "services": [
-        "Heating"
+        "Room access"
       ],
       "precision": "building",
       "places": [
@@ -752,24 +696,24 @@
     },
     {
       "id": "biology-psychology-3",
-      "title": "Chilled water and air conditioning outage for pump work",
+      "title": "Heating outage in some south-side offices",
       "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
-      "notice": "planned",
+      "notice": "emergency",
       "resolved": false,
-      "start": "2026-11-13T18:00:00-05:00",
-      "end": "2026-11-17T10:05:00-05:00",
-      "area": "Entire Building",
-      "repairType": "Chilled Water Outage Air Conditioning Outage",
-      "description": "To reconfigure the building's chilled water pumps and equipment.",
+      "start": "2026-11-13T15:15:00-05:00",
+      "end": null,
+      "area": "Some office areas on the south side of the building.",
+      "repairType": "Heating Outage",
+      "description": "There is currently a heating outage affecting some office areas on the south side of the Biology-Psychology Building while emergency repairs are made to the heating system that supports this area of the building.",
       "contacts": [
-        "Antonio Sanchez"
+        "Michael Dickman"
       ],
       "phone": "301-405-2222",
       "attachments": [],
       "category": "hvac",
       "services": [
-        "Air conditioning"
+        "Heating"
       ],
       "precision": "building",
       "places": [
@@ -862,57 +806,6 @@
       "locationNote": "Shown at Preinkert Field House, the closest match in the map data for Preinkert Hall."
     },
     {
-      "id": "university-house-golf-course-clubhouse-elkins",
-      "title": "Electrical outage at four buildings",
-      "sourceTitle": "University House, Golf Course Clubhouse, Elkins Building, and Astronomy Lecture Building",
-      "section": "outages",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-11-16T18:14:00-05:00",
-      "end": "2026-11-17T07:00:00-05:00",
-      "area": "Entire Building",
-      "repairType": "Electric Outage",
-      "description": "Electrical outage",
-      "contacts": [],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "electrical",
-      "services": [
-        "Power"
-      ],
-      "precision": "approximate",
-      "places": [
-        "building-umd-golf-course-clubhouse"
-      ],
-      "locationNote": "University House, the Elkins Building and the Astronomy Lecture Building are not in the map data; only the Golf Course Clubhouse is shown."
-    },
-    {
-      "id": "biology-psychology-4",
-      "title": "Heating outage in some south-side offices",
-      "sourceTitle": "Biology-Psychology Building",
-      "section": "outages",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-11-13T15:15:00-05:00",
-      "end": null,
-      "area": "Some office areas on the south side of the building.",
-      "repairType": "Heating Outage",
-      "description": "There is currently a heating outage affecting some office areas on the south side of the Biology-Psychology Building while emergency repairs are made to the heating system that supports this area of the building.",
-      "contacts": [
-        "Michael Dickman"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "hvac",
-      "services": [
-        "Heating"
-      ],
-      "precision": "building",
-      "places": [
-        "building-biology-psychology-building"
-      ]
-    },
-    {
       "id": "bioscience-research",
       "title": "West door from lecture hall 1103 closed for drain work",
       "sourceTitle": "Bioscience Research Building",
@@ -995,31 +888,204 @@
       ]
     },
     {
-      "id": "brendan-iribe-center",
-      "title": "Emergency steam outage, no heat or hot water",
-      "sourceTitle": "Brendan Iribe Center",
+      "id": "atlantic",
+      "title": "Emergency power outage in data center rooms 0302 and 0312",
+      "sourceTitle": "Atlantic Building",
       "section": "outages",
-      "notice": "emergency",
+      "notice": "planned",
       "resolved": false,
-      "start": "2026-11-17T07:00:00-05:00",
-      "end": "2026-11-17T10:00:00-05:00",
-      "area": "Entire Building.",
-      "repairType": "Steam Outage, Domestic Hot Water Outage, Heating Outage",
-      "description": "There is currently an emergency steam outage at the Brendan Iribe Center to repair a steam leak, resulting in domestic hot water (sinks, showers) and building heating being unavailable.",
+      "start": "2026-11-25T06:00:00-05:00",
+      "end": "2026-11-25T10:00:00-05:00",
+      "area": "Data center rooms 0302 and 0312",
+      "repairType": "Electrical Outage",
+      "description": "There will be a planned electrical outage that will only impact emergency power to data center rooms 0302 and 0312 of the Atlantic Building. No other impacts are expected, and no other areas of the building will be impacted.",
       "contacts": [
-        "Alonzo Banks"
+        "James Andrews"
       ],
       "phone": "301-405-2222",
       "attachments": [],
-      "category": "steam",
+      "category": "electrical",
       "services": [
-        "Heating",
-        "Hot water"
+        "Emergency power"
       ],
       "precision": "building",
       "places": [
-        "building-brendan-iribe-center-for-computer-science-and-engineering"
+        "building-atlantic"
       ]
+    },
+    {
+      "id": "atlantic-institute-physical-science-technology",
+      "title": "Electrical outage affecting power, some ADA entrances and elevators",
+      "sourceTitle": "Atlantic Building, Institute for Physical Science and Technology Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-24T05:00:00-05:00",
+      "end": "2026-11-24T18:00:00-05:00",
+      "area": "Wings 1 and 3 of Atlantic Building.; Entire Building for the Institute for Physical Science and Technology Building",
+      "repairType": "Electrical & Elevator Outage",
+      "description": "A planned electrical outage at the Institute for Physical Science and Technology Building and in Wings 1 and 3 of the Atlantic Building that will impact normal electrical power to outlets and lighting, some ADA entrances, and elevators.",
+      "contacts": [
+        "James Andrews"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "electrical",
+      "services": [
+        "Power",
+        "Elevator",
+        "Building access"
+      ],
+      "precision": "building",
+      "places": [
+        "building-institute-for-physical-science-and-technology",
+        "building-atlantic"
+      ]
+    },
+    {
+      "id": "ellicott-hall-hagerstown-hall-stadium-drive",
+      "title": "Sidewalk closed along Stadium Drive for repairs",
+      "sourceTitle": "Ellicott Hall, Hagerstown Hall, Stadium Drive",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-23T08:00:00-05:00",
+      "end": "2026-11-27T16:30:00-05:00",
+      "area": "Exterior west of Ellicott Hall, South of Hagerstown Hall along Stadium Drive",
+      "repairType": "Exterior Sidewalk Closure",
+      "description": "There will be a closure of an area of sidewalk located west of Ellicott Hall and south of Hagerstown Hall along Stadium Drive to replace damaged sections of the sidewalk.",
+      "contacts": [
+        "Frank Dudley"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Ellicott-Hall.png"
+      ],
+      "category": "sidewalk",
+      "services": [
+        "Sidewalk"
+      ],
+      "precision": "approximate",
+      "places": [
+        "road-stadium-drive",
+        "building-ellicott-hall",
+        "building-hagerstown-hall"
+      ],
+      "locationNote": "Only the sidewalk west of Ellicott Hall and south of Hagerstown Hall along Stadium Drive is closed."
+    },
+    {
+      "id": "van-munching-hall",
+      "title": "West side of the courtyard sidewalk closed for repairs",
+      "sourceTitle": "Van Munching Hall",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-23T07:00:00-05:00",
+      "end": "2026-11-27T17:00:00-05:00",
+      "area": "West side of the exterior courtyard",
+      "repairType": "Exterior Sidewalk Closure",
+      "description": "There will be a closure of the sidewalk area on the west side of the Van Munching Hall Courtyard to replace damaged concrete panels on the sidewalk.",
+      "contacts": [
+        "Charles Patterson"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Van-Munching-Hall.png"
+      ],
+      "category": "sidewalk",
+      "services": [
+        "Sidewalk"
+      ],
+      "precision": "approximate",
+      "places": [
+        "building-van-munching-hall"
+      ],
+      "locationNote": "Only the west side of the courtyard is closed; shown at the building."
+    },
+    {
+      "id": "atlantic-2",
+      "title": "Electrical outage in Wings 1 and 3 for renovations",
+      "sourceTitle": "Atlantic Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-23T05:00:00-05:00",
+      "end": "2026-11-23T13:00:00-05:00",
+      "area": "Wings 1 and 3",
+      "repairType": "Electrical Outage",
+      "description": "There will be a planned electrical outage that will impact emergency power to outlets, domestic hot water service, and heating/air conditioning in Wings 1 and 3 of the Atlantic Building to accommodate renovation work.",
+      "contacts": [
+        "James Andrews"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "electrical",
+      "services": [
+        "Power",
+        "Hot water",
+        "HVAC"
+      ],
+      "precision": "building",
+      "places": [
+        "building-atlantic"
+      ]
+    },
+    {
+      "id": "geology",
+      "title": "Emergency heating outage while an underground leak is repaired",
+      "sourceTitle": "Geology Building",
+      "section": "outages",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-11-18T14:00:00-05:00",
+      "end": null,
+      "area": "Entire Building.",
+      "repairType": "Heating Outage",
+      "description": "There is currently an emergency heating outage impacting the Geology Building while an underground leak is repaired in the parking lot west of the building.",
+      "contacts": [
+        "Michael Dickman"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating"
+      ],
+      "precision": "building",
+      "places": [
+        "building-geology-building"
+      ]
+    },
+    {
+      "id": "farm-drive-parking-lot-n4",
+      "title": "Farm Drive partly closed and Lot N4 spaces closed for road repair",
+      "sourceTitle": "Farm Drive, Parking Lot N4",
+      "section": "roads",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-23T07:00:00-05:00",
+      "end": "2026-11-27T17:00:00-05:00",
+      "area": "West of Cumberland Hall",
+      "repairType": "Partial Roadway Closure, Partial Parking Lot Closure",
+      "description": "There will be a partial roadway closure of Farm Drive west of Cumberland Hall to repair a section of roadway in that area. The faculty and staff parking in Lot N4 parallel to the work site will be closed to accommodate vehicular traffic.",
+      "contacts": [
+        "Charles Patterson"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Farm-Drive.png"
+      ],
+      "category": "road",
+      "services": [
+        "Road",
+        "Parking"
+      ],
+      "precision": "approximate",
+      "places": [
+        "road-farm-drive",
+        "parking-lot-n4"
+      ],
+      "locationNote": "Only the stretch of Farm Drive west of Cumberland Hall and the parallel Lot N4 spaces are closed."
     }
   ]
 }

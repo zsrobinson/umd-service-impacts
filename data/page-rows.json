@@ -1,6 +1,6 @@
 {
-  "pageHash": "d6623dbaa8152007",
-  "changedAt": "2026-11-18T06:47:00-05:00",
+  "pageHash": "659e682eb4856c7f",
+  "changedAt": "2026-11-19T06:47:00-05:00",
   "rows": {
     "mckeldin-library": {
       "section": "outages",
@@ -14,6 +14,36 @@
       "contact": "Clarence Brown",
       "phone": "301-405-2222",
       "attachments": []
+    },
+    "bioscience-research": {
+      "section": "outages",
+      "title": "Bioscience Research Building",
+      "area": "West Side Stairwell **See map attached**",
+      "start": "11-23-2026 7:00 am",
+      "finish": "11-27-2026 5:00 pm",
+      "repairType": "Exterior Door Closure, Concrete Work",
+      "description": "There will be a temporary closure of the west side exterior door leading from lecture hall 1103 at the Bioscience Research Building to perform concrete work for the installation of new drains.",
+      "impactType": "Planned",
+      "contact": "Richard Scott Rupert",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Bioscience-Research-Building---West-Side-Stairwell%2C-Exterior-Door-Closure-and-Concrete-Work%2C-November-23---November-27-%28Map%29.png"
+      ]
+    },
+    "patuxent": {
+      "section": "outages",
+      "title": "Patuxent Building",
+      "area": "South Side Entrance **See map attached**",
+      "start": "11-23-2026 7:00 am",
+      "finish": "11-27-2026 5:00 pm",
+      "repairType": "Exterior Door Closure, Concrete Work",
+      "description": "There will be a temporary closure of the south side exterior door 0197 at the Patuxent Building to perform the installation of new exterior drains.",
+      "impactType": "Planned",
+      "contact": "Richard Scott Rupert",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Patuxent-Building---South-Entrance%2C-Exterior-Door-Closure-and-Concrete-Work%2C-November-23---November-27-%28Map%29.png"
+      ]
     },
     "c-daniel-mote-jr-engineering-laboratory": {
       "section": "outages",
@@ -30,6 +60,19 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Exterior-North-of-C.-Daniel-Mote%2C-Jr.-Engineering-Laboratory-Building%2C-Sidewalk-Closure-and-Entrance-Closure%2C-November-23---November-27-%28Map%29.pdf"
       ]
     },
+    "biology-psychology": {
+      "section": "outages",
+      "title": "Biology-Psychology Building",
+      "area": "Biology Side of Building, All Floors",
+      "start": "11-23-2026 6:00 am",
+      "finish": "11-25-2026 2:00 pm",
+      "repairType": "Heating Outage",
+      "description": "There will be a planned heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
+      "impactType": "Planned",
+      "contact": "William Schmelyun",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "knight-hall": {
       "section": "outages",
       "title": "Knight Hall",
@@ -43,7 +86,20 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "biology-psychology": {
+    "cole-student-activities": {
+      "section": "outages",
+      "title": "Cole Student Activities Building",
+      "area": "Entire Building.",
+      "start": "11-20-2026 6:00 am",
+      "finish": "11-20-2026 2:00 pm",
+      "repairType": "Steam Outage, Heating Outage",
+      "description": "A planned steam outage will impact heating at the Cole Student Activities Building to accommodate modifications to drain piping related to the steam system.",
+      "impactType": "Planned",
+      "contact": "Chrysanthe Broikos",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "biology-psychology-2": {
       "section": "outages",
       "title": "Biology-Psychology Building",
       "area": "Rooms 4213, 4219, 4219C, and 4219D.",
@@ -82,19 +138,6 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "biology-psychology-2": {
-      "section": "outages",
-      "title": "Biology-Psychology Building",
-      "area": "Biology Side of Building, All Floors",
-      "start": "11-19-2026 6:00 am",
-      "finish": "11-19-2026 2:00 pm",
-      "repairType": "Heating Outage",
-      "description": "There will be a planned heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
-      "impactType": "Planned",
-      "contact": "William Schmelyun",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "e-fernandez-idea-factory": {
       "section": "outages",
       "title": "E. A. Fernandez IDEA Factory",
@@ -121,19 +164,6 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "william-e-kirwan-hall": {
-      "section": "outages",
-      "title": "William E. Kirwan Hall",
-      "area": "Entire Building",
-      "start": "11-17-2026 6:00 am",
-      "finish": "11-17-2026 4:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "geology-plant-sciences-hornbake-library": {
       "section": "outages",
       "title": "Geology Building, Plant Sciences, Hornbake Library",
@@ -149,33 +179,7 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Exterior-West-Side-of-the-Geology-Building%2C-Excavation-Work%2C-November-17---November-20-%28Map%29.png"
       ]
     },
-    "university-house-golf-course-clubhouse-elkins": {
-      "section": "outages",
-      "title": "University House, Golf Course Clubhouse, Elkins Building, and Astronomy Lecture Building",
-      "area": "Entire Building",
-      "start": "11-16-2026 6:14 pm",
-      "finish": "11-17-2026 7:00 am",
-      "repairType": "Electric Outage",
-      "description": "Electrical outage",
-      "impactType": "Emergency",
-      "contact": "",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "biology-psychology-3": {
-      "section": "outages",
-      "title": "Biology-Psychology Building",
-      "area": "Entire Building",
-      "start": "11-13-2026 6:00 pm",
-      "finish": "11-17-2026 10:05 am",
-      "repairType": "Chilled Water Outage Air Conditioning Outage",
-      "description": "To reconfigure the building's chilled water pumps and equipment.",
-      "impactType": "Planned",
-      "contact": "Antonio Sanchez",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "biology-psychology-4": {
       "section": "outages",
       "title": "Biology-Psychology Building",
       "area": "Some office areas on the south side of the building.",
@@ -304,32 +308,6 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/148---Urgent-Outage-Notice-HVAC-Cooling.png"
       ]
     },
-    "mckeldin-library-2": {
-      "section": "elevators",
-      "title": "McKeldin Library",
-      "area": "Elevator Car 3",
-      "start": "11-18-2026 6:00 am",
-      "finish": "03-31-2027 4:00 pm",
-      "repairType": "Elevator modernization",
-      "description": "Elevator Car 3 will be taken out of service at McKeldin Library for a planned modernization upgrade of the elevator car.",
-      "impactType": "Planned",
-      "contact": "Chris O'Dea",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "cumberland-hall": {
-      "section": "elevators",
-      "title": "Cumberland Hall",
-      "area": "Elevator Car 4",
-      "start": "11-16-2026 2:00 pm",
-      "finish": "",
-      "repairType": "Elevator Outage",
-      "description": "Elevator Car 4 at Cumberland Hall has been taken out of service for emergency repairs and is currently unavailable.",
-      "impactType": "Unplanned",
-      "contact": "Shane Kogok",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "regents-drive": {
       "section": "roads",
       "title": "Regents Drive",
@@ -343,21 +321,6 @@
       "phone": "301-405-2222",
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Regents-Drive-Lane-Closures%2C-Sidewalk-Closures.pdf"
-      ]
-    },
-    "parking-lot-ss1": {
-      "section": "roads",
-      "title": "Parking Lot SS1",
-      "area": "Parking lot between Eppley Recreation Center and School of Public Health",
-      "start": "11-09-2026 6:00 am",
-      "finish": "11-17-2026 2:00 pm",
-      "repairType": "Excavation Work, Parking Space Closures",
-      "description": "Excavation work will occur in parking lot SS1, adjacent to Eppley Recreation Center and the School of Public Health Building, resulting in several parking spaces being closed. The excavation work is required to locate and repair an underground leak.",
-      "impactType": "Planned",
-      "contact": "Horacio Torres",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Parking-Lot-SS1%2C-Excavation-Work-and-Parking-Space-Closures%2C-November-9---November-17-%28Map%2C-Work-Site%29.png"
       ]
     },
     "stadium-drive": {
@@ -420,61 +383,128 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
       ]
     },
-    "bioscience-research": {
-      "section": "outages",
-      "title": "Bioscience Research Building",
-      "area": "West Side Stairwell **See map attached**",
-      "start": "11-23-2026 7:00 am",
-      "finish": "11-27-2026 5:00 pm",
-      "repairType": "Exterior Door Closure, Concrete Work",
-      "description": "There will be a temporary closure of the west side exterior door leading from lecture hall 1103 at the Bioscience Research Building to perform concrete work for the installation of new drains.",
+    "mckeldin-library-2": {
+      "section": "elevators",
+      "title": "McKeldin Library",
+      "area": "Elevator Car 3",
+      "start": "11-18-2026 6:00 am",
+      "finish": "03-31-2027 4:00 pm",
+      "repairType": "Elevator modernization",
+      "description": "Elevator Car 3 will be taken out of service at McKeldin Library for a planned modernization upgrade of the elevator car.",
       "impactType": "Planned",
-      "contact": "Richard Scott Rupert",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Bioscience-Research-Building---West-Side-Stairwell%2C-Exterior-Door-Closure-and-Concrete-Work%2C-November-23---November-27-%28Map%29.png"
-      ]
-    },
-    "patuxent": {
-      "section": "outages",
-      "title": "Patuxent Building",
-      "area": "South Side Entrance **See map attached**",
-      "start": "11-23-2026 7:00 am",
-      "finish": "11-27-2026 5:00 pm",
-      "repairType": "Exterior Door Closure, Concrete Work",
-      "description": "There will be a temporary closure of the south side exterior door 0197 at the Patuxent Building to perform the installation of new exterior drains.",
-      "impactType": "Planned",
-      "contact": "Richard Scott Rupert",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Patuxent-Building---South-Entrance%2C-Exterior-Door-Closure-and-Concrete-Work%2C-November-23---November-27-%28Map%29.png"
-      ]
-    },
-    "cole-student-activities": {
-      "section": "outages",
-      "title": "Cole Student Activities Building",
-      "area": "Entire Building.",
-      "start": "11-20-2026 6:00 am",
-      "finish": "11-20-2026 2:00 pm",
-      "repairType": "Steam Outage, Heating Outage",
-      "description": "A planned steam outage will impact heating at the Cole Student Activities Building to accommodate modifications to drain piping related to the steam system.",
-      "impactType": "Planned",
-      "contact": "Chrysanthe Broikos",
+      "contact": "Chris O'Dea",
       "phone": "301-405-2222",
       "attachments": []
     },
-    "brendan-iribe-center": {
+    "cumberland-hall": {
+      "section": "elevators",
+      "title": "Cumberland Hall",
+      "area": "Elevator Car 4",
+      "start": "11-16-2026 2:00 pm",
+      "finish": "11-18-2026 10:00 am",
+      "repairType": "Elevator Outage",
+      "description": "Elevator Car 4 at Cumberland Hall has been taken out of service for emergency repairs and is currently unavailable.",
+      "impactType": "Unplanned",
+      "contact": "Shane Kogok",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "atlantic": {
       "section": "outages",
-      "title": "Brendan Iribe Center",
+      "title": "Atlantic Building",
+      "area": "Data center rooms 0302 and 0312",
+      "start": "11-25-2026 6:00 am",
+      "finish": "11-25-2026 10:00 am",
+      "repairType": "Electrical Outage",
+      "description": "There will be a planned electrical outage that will only impact emergency power to data center rooms 0302 and 0312 of the Atlantic Building. No other impacts are expected, and no other areas of the building will be impacted.",
+      "impactType": "Planned",
+      "contact": "James Andrews",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "atlantic-institute-physical-science-technology": {
+      "section": "outages",
+      "title": "Atlantic Building, Institute for Physical Science and Technology Building",
+      "area": "Wings 1 and 3 of Atlantic Building.; Entire Building for the Institute for Physical Science and Technology Building",
+      "start": "11-24-2026 5:00 am",
+      "finish": "11-24-2026 6:00 pm",
+      "repairType": "Electrical & Elevator Outage",
+      "description": "A planned electrical outage at the Institute for Physical Science and Technology Building and in Wings 1 and 3 of the Atlantic Building that will impact normal electrical power to outlets and lighting, some ADA entrances, and elevators.",
+      "impactType": "Planned",
+      "contact": "James Andrews",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "ellicott-hall-hagerstown-hall-stadium-drive": {
+      "section": "outages",
+      "title": "Ellicott Hall, Hagerstown Hall, Stadium Drive",
+      "area": "Exterior west of Ellicott Hall, South of Hagerstown Hall along Stadium Drive **See map attached**",
+      "start": "11-23-2026 8:00 am",
+      "finish": "11-27-2026 4:30 pm",
+      "repairType": "Exterior Sidewalk Closure",
+      "description": "There will be a closure of an area of sidewalk located west of Ellicott Hall and south of Hagerstown Hall along Stadium Drive to replace damaged sections of the sidewalk.",
+      "impactType": "Planned",
+      "contact": "Frank Dudley",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Ellicott-Hall.png"
+      ]
+    },
+    "van-munching-hall": {
+      "section": "outages",
+      "title": "Van Munching Hall",
+      "area": "West side of the exterior courtyard **See map attached**",
+      "start": "11-23-2026 7:00 am",
+      "finish": "11-27-2026 5:00 pm",
+      "repairType": "Exterior Sidewalk Closure",
+      "description": "There will be a closure of the sidewalk area on the west side of the Van Munching Hall Courtyard to replace damaged concrete panels on the sidewalk.",
+      "impactType": "Planned",
+      "contact": "Charles Patterson",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Van-Munching-Hall.png"
+      ]
+    },
+    "atlantic-2": {
+      "section": "outages",
+      "title": "Atlantic Building",
+      "area": "Wings 1 and 3 **Wings 2 and 4 will not be impacted by this outage**",
+      "start": "11-23-2026 5:00 am",
+      "finish": "11-23-2026 1:00 pm",
+      "repairType": "Electrical Outage",
+      "description": "There will be a planned electrical outage that will impact emergency power to outlets, domestic hot water service, and heating/air conditioning in Wings 1 and 3 of the Atlantic Building to accommodate renovation work.",
+      "impactType": "Planned",
+      "contact": "James Andrews",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "geology": {
+      "section": "outages",
+      "title": "Geology Building",
       "area": "Entire Building.",
-      "start": "11-17-2026 7:00 am",
-      "finish": "11-17-2026 10:00 am",
-      "repairType": "Steam Outage, Domestic Hot Water Outage, Heating Outage",
-      "description": "There is currently an emergency steam outage at the Brendan Iribe Center to repair a steam leak, resulting in domestic hot water (sinks, showers) and building heating being unavailable.",
+      "start": "11-18-2026 2:00 pm",
+      "finish": "",
+      "repairType": "Heating Outage",
+      "description": "There is currently an emergency heating outage impacting the Geology Building while an underground leak is repaired in the parking lot west of the building.",
       "impactType": "Emergency",
-      "contact": "Alonzo Banks",
+      "contact": "Michael Dickman",
       "phone": "301-405-2222",
       "attachments": []
+    },
+    "farm-drive-parking-lot-n4": {
+      "section": "roads",
+      "title": "Farm Drive, Parking Lot N4",
+      "area": "West of Cumberland Hall **See map attached**",
+      "start": "11-23-2026 7:00 am",
+      "finish": "11-27-2026 5:00 pm",
+      "repairType": "Partial Roadway Closure, Partial Parking Lot Closure",
+      "description": "There will be a partial roadway closure of Farm Drive west of Cumberland Hall to repair a section of roadway in that area. The faculty and staff parking in Lot N4 parallel to the work site will be closed to accommodate vehicular traffic.",
+      "impactType": "Planned",
+      "contact": "Charles Patterson",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Farm-Drive.png"
+      ]
     }
   }
 }
