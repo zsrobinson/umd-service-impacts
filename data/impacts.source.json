@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-11-19T06:47:00-05:00",
+  "fetchedAt": "2026-11-20T06:47:00-05:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -501,33 +501,6 @@
       ]
     },
     {
-      "id": "e-fernandez-idea-factory",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "E. A. Fernandez IDEA Factory",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-18T18:00:00-05:00",
-      "end": null,
-      "area": "Entire Building",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-e-a-fernandez-idea-factory"
-      ]
-    },
-    {
       "id": "regents-drive",
       "title": "Overnight lane and sidewalk closures on Regents Drive",
       "sourceTitle": "Regents Drive",
@@ -587,60 +560,6 @@
         "building-hornbake-library"
       ],
       "locationNote": "The dig is in the parking lot west of the Geology Building; the later air conditioning outage affects Hornbake Library."
-    },
-    {
-      "id": "microbiology",
-      "title": "Exterior painting on the south side",
-      "sourceTitle": "Microbiology Building",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-12T08:00:00-05:00",
-      "end": "2026-11-18T16:00:00-05:00",
-      "area": "Exterior south side of the building.",
-      "repairType": "Exterior painting",
-      "description": "Exterior painting work will be performed to repair, prime, and paint exterior surfaces on the south side, second floor of the Microbiology Building.",
-      "contacts": [
-        "Rolando Mendez"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Exterior-South-Side-of-Microbiology-Building%2C-Exterior-Painting%2C-November-12---November-18-%28Map%29.png"
-      ],
-      "category": "construction",
-      "services": [
-        "Exterior work"
-      ],
-      "precision": "building",
-      "places": [
-        "building-microbiology-building"
-      ]
-    },
-    {
-      "id": "cumberland-hall",
-      "title": "Elevator car 4 out of service",
-      "sourceTitle": "Cumberland Hall",
-      "section": "elevators",
-      "notice": "unplanned",
-      "resolved": false,
-      "start": "2026-11-16T14:00:00-05:00",
-      "end": "2026-11-18T10:00:00-05:00",
-      "area": "Elevator Car 4",
-      "repairType": "Elevator Outage",
-      "description": "Elevator Car 4 at Cumberland Hall has been taken out of service for emergency repairs and is currently unavailable.",
-      "contacts": [
-        "Shane Kogok"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "elevator",
-      "services": [
-        "Elevator"
-      ],
-      "precision": "building",
-      "places": [
-        "building-cumberland-hall"
-      ]
     },
     {
       "id": "mckeldin-library-2",
@@ -777,33 +696,6 @@
         "building-paint-branch-building"
       ],
       "locationNote": "Shown at the Paint Branch Building, the closest match in the map data for the ION-Q Paint Branch Building."
-    },
-    {
-      "id": "preinkert-hall",
-      "title": "Brief electrical outage to install breakers",
-      "sourceTitle": "Preinkert Hall",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-18T06:00:00-05:00",
-      "end": "2026-11-18T07:00:00-05:00",
-      "area": "Entire Building.",
-      "repairType": "Electrical Outage",
-      "description": "There will be a brief planned electrical outage at Preinkert Hall to install electrical breakers in the building.",
-      "contacts": [
-        "Raymond Pessagno"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "electrical",
-      "services": [
-        "Power"
-      ],
-      "precision": "approximate",
-      "places": [
-        "building-preinkert-field-house"
-      ],
-      "locationNote": "Shown at Preinkert Field House, the closest match in the map data for Preinkert Hall."
     },
     {
       "id": "bioscience-research",
