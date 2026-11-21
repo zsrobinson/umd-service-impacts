@@ -1,6 +1,6 @@
 {
-  "pageHash": "abb78c8b884e7c64",
-  "changedAt": "2026-11-20T06:47:00-05:00",
+  "pageHash": "45fd8ed17c38513b",
+  "changedAt": "2026-11-21T06:46:00-05:00",
   "rows": {
     "atlantic": {
       "section": "outages",
@@ -181,38 +181,12 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "ion-q-paint-branch": {
-      "section": "outages",
-      "title": "ION-Q Paint Branch Building",
-      "area": "Entire Building.",
-      "start": "11-19-2026 6:00 pm",
-      "finish": "11-19-2026 11:00 pm",
-      "repairType": "Domestic Hot and Cold Water Outage",
-      "description": "There will be a planned domestic hot and cold water outage at the ION-Q Paint Branch Building to replace the building's domestic water meter.",
-      "impactType": "Planned",
-      "contact": "Jason Reardon",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "nyumburu-cultural-center": {
-      "section": "outages",
-      "title": "Nyumburu Cultural Center",
-      "area": "Entire Building",
-      "start": "11-19-2026 6:00 am",
-      "finish": "11-19-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "geology": {
       "section": "outages",
       "title": "Geology Building",
       "area": "Entire Building.",
       "start": "11-18-2026 2:00 pm",
-      "finish": "",
+      "finish": "11-20-2026 10:50 am",
       "repairType": "Heating Outage",
       "description": "There is currently an emergency heating outage impacting the Geology Building while an underground leak is repaired in the parking lot west of the building.",
       "impactType": "Emergency",
@@ -451,6 +425,34 @@
       "contact": "Chris O'Dea",
       "phone": "301-405-2222",
       "attachments": []
+    },
+    "campus-wide": {
+      "section": "outages",
+      "title": "Campus-Wide",
+      "area": "Entire Building(s)",
+      "start": "11-28-2026 7:00 pm",
+      "finish": "11-29-2026 10:00 am",
+      "repairType": "Steam Outage, Domestic Hot Water Outage, Heating Outage",
+      "description": "There will be a campus-wide steam outage in which domestic hot water temperatures, building heating service, and steam-fired equipment will be unavailable.",
+      "impactType": "Planned",
+      "contact": "Randolph Bayer",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "valley-drive": {
+      "section": "roads",
+      "title": "Valley Drive",
+      "area": "North of Chestertown Hall",
+      "start": "11-21-2026 7:00 am",
+      "finish": "11-27-2026 4:00 pm",
+      "repairType": "Partial Roadway Closure, Sidewalk Closure",
+      "description": "Partial roadway closure of the area of Valley Drive north of Chestertown Hall to accommodate a crane and dumpster for roofing repairs. This will result in a sidewalk closure north of the building while crane and roof work is occurring.",
+      "impactType": "Planned",
+      "contact": "Anthony Gourley",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/North-of-Chestertown-Hall---Partial-Roadway-Closure-of-Valley-Drive-and-Sidewalk-Closure%2C-November-21---November-27-%28Map%29.pdf"
+      ]
     }
   }
 }

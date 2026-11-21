@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-11-20T06:47:00-05:00",
+  "fetchedAt": "2026-11-21T06:46:00-05:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -474,33 +474,6 @@
       ]
     },
     {
-      "id": "nyumburu-cultural-center",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "Nyumburu Cultural Center",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-19T06:00:00-05:00",
-      "end": "2026-11-19T15:00:00-05:00",
-      "area": "Entire Building",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-nyumburu-cultural-center"
-      ]
-    },
-    {
       "id": "regents-drive",
       "title": "Overnight lane and sidewalk closures on Regents Drive",
       "sourceTitle": "Regents Drive",
@@ -668,34 +641,6 @@
         "building-engineering-laboratory-building"
       ],
       "locationNote": "Only the area north of the building is closed; shown at the building."
-    },
-    {
-      "id": "ion-q-paint-branch",
-      "title": "Hot and cold water outage to replace the water meter",
-      "sourceTitle": "ION-Q Paint Branch Building",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-19T18:00:00-05:00",
-      "end": "2026-11-19T23:00:00-05:00",
-      "area": "Entire Building.",
-      "repairType": "Domestic Hot and Cold Water Outage",
-      "description": "There will be a planned domestic hot and cold water outage at the ION-Q Paint Branch Building to replace the building's domestic water meter.",
-      "contacts": [
-        "Jason Reardon"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "water",
-      "services": [
-        "Hot water",
-        "Cold water"
-      ],
-      "precision": "approximate",
-      "places": [
-        "building-paint-branch-building"
-      ],
-      "locationNote": "Shown at the Paint Branch Building, the closest match in the map data for the ION-Q Paint Branch Building."
     },
     {
       "id": "bioscience-research",
@@ -930,7 +875,7 @@
       "notice": "emergency",
       "resolved": false,
       "start": "2026-11-18T14:00:00-05:00",
-      "end": null,
+      "end": "2026-11-20T10:50:00-05:00",
       "area": "Entire Building.",
       "repairType": "Heating Outage",
       "description": "There is currently an emergency heating outage impacting the Geology Building while an underground leak is repaired in the parking lot west of the building.",
@@ -978,6 +923,65 @@
         "parking-lot-n4"
       ],
       "locationNote": "Only the stretch of Farm Drive west of Cumberland Hall and the parallel Lot N4 spaces are closed."
+    },
+    {
+      "id": "campus-wide",
+      "title": "Campus-wide steam outage",
+      "sourceTitle": "Campus-Wide",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-28T19:00:00-05:00",
+      "end": "2026-11-29T10:00:00-05:00",
+      "area": "Entire Building(s)",
+      "repairType": "Steam Outage, Domestic Hot Water Outage, Heating Outage",
+      "description": "There will be a campus-wide steam outage in which domestic hot water temperatures, building heating service, and steam-fired equipment will be unavailable.",
+      "contacts": [
+        "Randolph Bayer"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "steam",
+      "services": [
+        "Heating",
+        "Hot water"
+      ],
+      "precision": "campus-wide",
+      "places": [
+        "building-umcp-chp-plant"
+      ],
+      "locationNote": "Affects the whole campus; shown at the energy plant."
+    },
+    {
+      "id": "valley-drive",
+      "title": "Valley Drive partly closed for crane and roof work",
+      "sourceTitle": "Valley Drive",
+      "section": "roads",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-21T07:00:00-05:00",
+      "end": "2026-11-27T16:00:00-05:00",
+      "area": "North of Chestertown Hall",
+      "repairType": "Partial Roadway Closure, Sidewalk Closure",
+      "description": "Partial roadway closure of the area of Valley Drive north of Chestertown Hall to accommodate a crane and dumpster for roofing repairs. This will result in a sidewalk closure north of the building while crane and roof work is occurring.",
+      "contacts": [
+        "Anthony Gourley"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/North-of-Chestertown-Hall---Partial-Roadway-Closure-of-Valley-Drive-and-Sidewalk-Closure%2C-November-21---November-27-%28Map%29.pdf"
+      ],
+      "category": "road",
+      "services": [
+        "Road",
+        "Sidewalk"
+      ],
+      "precision": "approximate",
+      "places": [
+        "building-chestertown-hall",
+        "road-valley-drive"
+      ],
+      "locationNote": "Only the stretch north of Chestertown Hall is affected; shown at the road and building."
     }
   ]
 }
