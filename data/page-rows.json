@@ -1,7 +1,20 @@
 {
-  "pageHash": "45fd8ed17c38513b",
-  "changedAt": "2026-11-21T06:46:00-05:00",
+  "pageHash": "91655349383f6477",
+  "changedAt": "2026-11-23T06:47:00-05:00",
   "rows": {
+    "campus-wide": {
+      "section": "outages",
+      "title": "Campus-Wide",
+      "area": "Entire Building(s)",
+      "start": "11-28-2026 7:00 pm",
+      "finish": "11-29-2026 10:00 am",
+      "repairType": "Steam Outage, Domestic Hot Water Outage, Heating Outage",
+      "description": "There will be a campus-wide steam outage in which domestic hot water temperatures, building heating service, and steam-fired equipment will be unavailable.",
+      "impactType": "Planned",
+      "contact": "Randolph Bayer",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "atlantic": {
       "section": "outages",
       "title": "Atlantic Building",
@@ -155,19 +168,6 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "biology-psychology-2": {
-      "section": "outages",
-      "title": "Biology-Psychology Building",
-      "area": "Rooms 4213, 4219, 4219C, and 4219D.",
-      "start": "11-20-2026 6:00 am",
-      "finish": "12-04-2026 5:00 pm",
-      "repairType": "Renovation Work",
-      "description": "The demolition work related to renovations will occur in rooms 4213, 4219, 4219C, and 4219D of the Biology-Psychology Building.",
-      "impactType": "Planned",
-      "contact": "Adesanmi Fajemisin",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "cole-student-activities": {
       "section": "outages",
       "title": "Cole Student Activities Building",
@@ -178,6 +178,19 @@
       "description": "A planned steam outage will impact heating at the Cole Student Activities Building to accommodate modifications to drain piping related to the steam system.",
       "impactType": "Planned",
       "contact": "Chrysanthe Broikos",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "biology-psychology-2": {
+      "section": "outages",
+      "title": "Biology-Psychology Building",
+      "area": "Rooms 4213, 4219, 4219C, and 4219D.",
+      "start": "11-20-2026 6:00 am",
+      "finish": "12-04-2026 5:00 pm",
+      "repairType": "Renovation Work",
+      "description": "The demolition work related to renovations will occur in rooms 4213, 4219, 4219C, and 4219D of the Biology-Psychology Building.",
+      "impactType": "Planned",
+      "contact": "Adesanmi Fajemisin",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -338,6 +351,21 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Farm-Drive.png"
       ]
     },
+    "valley-drive": {
+      "section": "roads",
+      "title": "Valley Drive",
+      "area": "North of Chestertown Hall",
+      "start": "11-21-2026 7:00 am",
+      "finish": "11-27-2026 4:00 pm",
+      "repairType": "Partial Roadway Closure, Sidewalk Closure",
+      "description": "Partial roadway closure of the area of Valley Drive north of Chestertown Hall to accommodate a crane and dumpster for roofing repairs. This will result in a sidewalk closure north of the building while crane and roof work is occurring.",
+      "impactType": "Planned",
+      "contact": "Anthony Gourley",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/North-of-Chestertown-Hall---Partial-Roadway-Closure-of-Valley-Drive-and-Sidewalk-Closure%2C-November-21---November-27-%28Map%29.pdf"
+      ]
+    },
     "regents-drive": {
       "section": "roads",
       "title": "Regents Drive",
@@ -425,34 +453,6 @@
       "contact": "Chris O'Dea",
       "phone": "301-405-2222",
       "attachments": []
-    },
-    "campus-wide": {
-      "section": "outages",
-      "title": "Campus-Wide",
-      "area": "Entire Building(s)",
-      "start": "11-28-2026 7:00 pm",
-      "finish": "11-29-2026 10:00 am",
-      "repairType": "Steam Outage, Domestic Hot Water Outage, Heating Outage",
-      "description": "There will be a campus-wide steam outage in which domestic hot water temperatures, building heating service, and steam-fired equipment will be unavailable.",
-      "impactType": "Planned",
-      "contact": "Randolph Bayer",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "valley-drive": {
-      "section": "roads",
-      "title": "Valley Drive",
-      "area": "North of Chestertown Hall",
-      "start": "11-21-2026 7:00 am",
-      "finish": "11-27-2026 4:00 pm",
-      "repairType": "Partial Roadway Closure, Sidewalk Closure",
-      "description": "Partial roadway closure of the area of Valley Drive north of Chestertown Hall to accommodate a crane and dumpster for roofing repairs. This will result in a sidewalk closure north of the building while crane and roof work is occurring.",
-      "impactType": "Planned",
-      "contact": "Anthony Gourley",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/North-of-Chestertown-Hall---Partial-Roadway-Closure-of-Valley-Drive-and-Sidewalk-Closure%2C-November-21---November-27-%28Map%29.pdf"
-      ]
     }
   }
 }
