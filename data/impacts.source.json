@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-11-23T06:47:00-05:00",
+  "fetchedAt": "2026-11-24T06:46:00-05:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -270,38 +270,6 @@
       "locationNote": "The closure is on Stadium Drive south of the IDEA Factory, from the Chemistry Lane and Engineering Drive intersection to the Zupnik Hall loading dock; shown at the IDEA Factory."
     },
     {
-      "id": "cambridge-community-quad",
-      "title": "Completed: sidewalk closures for concrete repairs around Cambridge Community",
-      "sourceTitle": "**Completed** Cambridge Community Quad",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": true,
-      "start": "2026-10-21T08:00:00-04:00",
-      "end": "2026-11-20T16:30:00-05:00",
-      "area": "Bel Air Hall, south side of the building; Centreville Hall, west side of the building; Cambridge Hall, north side of the building; Cumberland Hall, east side of the building.",
-      "repairType": "Concrete Work and Sidewalk Closures",
-      "description": "**Completed** Planned concrete repair work will be performed on damaged areas of sidewalk throughout the Cambridge Community Quad to address trip hazards and improve structural integrity.",
-      "contacts": [
-        "Frank Dudley"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Cambridge-Community-Quad-%281%29.pdf"
-      ],
-      "category": "sidewalk",
-      "services": [
-        "Sidewalk"
-      ],
-      "precision": "approximate",
-      "places": [
-        "building-centreville-hall",
-        "building-cumberland-hall",
-        "building-cambridge-hall",
-        "building-bel-air-hall"
-      ],
-      "locationNote": "Closures are on the sidewalks beside Bel Air, Centreville, Cambridge and Cumberland halls around the quad; shown at those buildings."
-    },
-    {
       "id": "northgate-pedestrian-bridge",
       "title": "Northgate pedestrian bridge over Paint Branch closed",
       "sourceTitle": "Northgate Pedestrian Bridge",
@@ -445,94 +413,6 @@
       "places": [
         "building-theodore-r-mckeldin-library"
       ]
-    },
-    {
-      "id": "knight-hall",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "Knight Hall",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-20T18:00:00-05:00",
-      "end": null,
-      "area": "Entire Building",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-knight-hall"
-      ]
-    },
-    {
-      "id": "regents-drive",
-      "title": "Overnight lane and sidewalk closures on Regents Drive",
-      "sourceTitle": "Regents Drive",
-      "section": "roads",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-09T21:00:00-05:00",
-      "end": "2026-11-20T05:00:00-05:00",
-      "area": "South of Stadium Drive Intersection",
-      "repairType": "Overnight Lane Closures and Sidewalk Closures",
-      "description": "Overnight single-lane closures of the southbound and northbound lanes and the surrounding sidewalks in an area of Regents Drive south of the Stadium Drive intersection to accommodate excavation work.",
-      "contacts": [
-        "Randall Phillips"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Regents-Drive-Lane-Closures%2C-Sidewalk-Closures.pdf"
-      ],
-      "category": "road",
-      "services": [
-        "Road",
-        "Sidewalk"
-      ],
-      "precision": "approximate",
-      "places": [
-        "road-regents-drive"
-      ],
-      "locationNote": "Closures are on Regents Drive just south of the Stadium Drive intersection; the whole road is shown."
-    },
-    {
-      "id": "geology-plant-sciences-hornbake-library",
-      "title": "Excavation to find an underground leak, then air conditioning outage",
-      "sourceTitle": "Geology Building, Plant Sciences, Hornbake Library",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-17T06:00:00-05:00",
-      "end": "2026-11-20T16:00:00-05:00",
-      "area": "Exterior West Side Parking Lot Area of the Geology Building",
-      "repairType": "Excavation Work",
-      "description": "Excavation work will be performed to locate an underground leak in an area of the parking lot west of the Geology Building. Once the leak is located, an air conditioning outage will be needed to accommodate repairs that will impact Hornbake Library.",
-      "contacts": [
-        "Horacio Torres"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Exterior-West-Side-of-the-Geology-Building%2C-Excavation-Work%2C-November-17---November-20-%28Map%29.png"
-      ],
-      "category": "hvac",
-      "services": [
-        "Parking",
-        "Air conditioning"
-      ],
-      "precision": "approximate",
-      "places": [
-        "building-geology-building",
-        "building-hornbake-library"
-      ],
-      "locationNote": "The dig is in the parking lot west of the Geology Building; the later air conditioning outage affects Hornbake Library."
     },
     {
       "id": "mckeldin-library-2",
@@ -699,51 +579,25 @@
       ]
     },
     {
-      "id": "cole-student-activities",
-      "title": "Heating outage during steam drain work",
-      "sourceTitle": "Cole Student Activities Building",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-20T06:00:00-05:00",
-      "end": "2026-11-20T14:00:00-05:00",
-      "area": "Entire Building.",
-      "repairType": "Steam Outage, Heating Outage",
-      "description": "A planned steam outage will impact heating at the Cole Student Activities Building to accommodate modifications to drain piping related to the steam system.",
-      "contacts": [
-        "Chrysanthe Broikos"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "steam",
-      "services": [
-        "Heating"
-      ],
-      "precision": "building",
-      "places": [
-        "building-jones-hill-house"
-      ]
-    },
-    {
       "id": "atlantic",
-      "title": "Emergency power outage in data center rooms 0302 and 0312",
+      "title": "Heating outage in Wing 3 for pipework repairs",
       "sourceTitle": "Atlantic Building",
       "section": "outages",
       "notice": "planned",
       "resolved": false,
-      "start": "2026-11-25T06:00:00-05:00",
-      "end": "2026-11-25T10:00:00-05:00",
-      "area": "Data center rooms 0302 and 0312",
-      "repairType": "Electrical Outage",
-      "description": "There will be a planned electrical outage that will only impact emergency power to data center rooms 0302 and 0312 of the Atlantic Building. No other impacts are expected, and no other areas of the building will be impacted.",
+      "start": "2026-11-30T06:00:00-05:00",
+      "end": "2026-12-08T16:00:00-05:00",
+      "area": "Wing 3",
+      "repairType": "Heating Outage",
+      "description": "A planned heating outage will occur in Wing 3 of the Atlantic Building to repair HVAC pipework that supports the fan coil units in this wing.",
       "contacts": [
-        "James Andrews"
+        "Elber Coreas"
       ],
       "phone": "301-405-2222",
       "attachments": [],
-      "category": "electrical",
+      "category": "hvac",
       "services": [
-        "Emergency power"
+        "Heating"
       ],
       "precision": "building",
       "places": [
@@ -841,16 +695,16 @@
     },
     {
       "id": "atlantic-2",
-      "title": "Electrical outage in Wings 1 and 3 for renovations",
+      "title": "Emergency power outage in data center rooms 0302 and 0312",
       "sourceTitle": "Atlantic Building",
       "section": "outages",
       "notice": "planned",
       "resolved": false,
-      "start": "2026-11-23T05:00:00-05:00",
-      "end": "2026-11-23T13:00:00-05:00",
-      "area": "Wings 1 and 3",
+      "start": "2026-11-25T06:00:00-05:00",
+      "end": "2026-11-25T10:00:00-05:00",
+      "area": "Data center rooms 0302 and 0312",
       "repairType": "Electrical Outage",
-      "description": "There will be a planned electrical outage that will impact emergency power to outlets, domestic hot water service, and heating/air conditioning in Wings 1 and 3 of the Atlantic Building to accommodate renovation work.",
+      "description": "There will be a planned electrical outage that will only impact emergency power to data center rooms 0302 and 0312 of the Atlantic Building. No other impacts are expected, and no other areas of the building will be impacted.",
       "contacts": [
         "James Andrews"
       ],
@@ -858,39 +712,11 @@
       "attachments": [],
       "category": "electrical",
       "services": [
-        "Power",
-        "Hot water",
-        "HVAC"
+        "Emergency power"
       ],
       "precision": "building",
       "places": [
         "building-atlantic"
-      ]
-    },
-    {
-      "id": "geology",
-      "title": "Emergency heating outage while an underground leak is repaired",
-      "sourceTitle": "Geology Building",
-      "section": "outages",
-      "notice": "emergency",
-      "resolved": false,
-      "start": "2026-11-18T14:00:00-05:00",
-      "end": "2026-11-20T10:50:00-05:00",
-      "area": "Entire Building.",
-      "repairType": "Heating Outage",
-      "description": "There is currently an emergency heating outage impacting the Geology Building while an underground leak is repaired in the parking lot west of the building.",
-      "contacts": [
-        "Michael Dickman"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "hvac",
-      "services": [
-        "Heating"
-      ],
-      "precision": "building",
-      "places": [
-        "building-geology-building"
       ]
     },
     {
@@ -982,6 +808,146 @@
         "road-valley-drive"
       ],
       "locationNote": "Only the stretch north of Chestertown Hall is affected; shown at the road and building."
+    },
+    {
+      "id": "paint-branch-drive",
+      "title": "Southbound lane and sidewalk closed for tree removal",
+      "sourceTitle": "Paint Branch Drive",
+      "section": "roads",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-12-01T07:30:00-05:00",
+      "end": "2026-12-01T12:00:00-05:00",
+      "area": "Southbound lane, east of Kim Engineering Building",
+      "repairType": "Lane Closure and Sidewalk Closure",
+      "description": "There will be a sidewalk closure and lane closure along the southbound lane on Paint Branch Drive located east of the Kim Engineering Building to remove two dying trees.",
+      "contacts": [
+        "Richard Jones"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Paint-branch-tree-removals.pdf"
+      ],
+      "category": "road",
+      "services": [
+        "Road",
+        "Sidewalk"
+      ],
+      "precision": "approximate",
+      "places": [
+        "road-paint-branch-drive"
+      ],
+      "locationNote": "Only the southbound lane and sidewalk east of the Kim Engineering Building are closed; the whole road is shown."
+    },
+    {
+      "id": "jimenez-hall",
+      "title": "Air conditioning outage in basement and first-floor classrooms",
+      "sourceTitle": "Jimenez Hall",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-12-01T06:00:00-05:00",
+      "end": "2026-12-11T15:00:00-05:00",
+      "area": "Basement and First Floor Classroom Areas.",
+      "repairType": "Air Conditioning Outage",
+      "description": "There will be a planned air conditioning outage of the basement and first-floor classroom areas of Jimenez Hall in preparation for the chiller renewal project in the building.",
+      "contacts": [
+        "James Trythall"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Air conditioning"
+      ],
+      "precision": "building",
+      "places": [
+        "building-jimenez-hall"
+      ]
+    },
+    {
+      "id": "ellicott-hall-hagerstown-hall-la-plata",
+      "title": "Hot and cold water outage across the Ellicott Community",
+      "sourceTitle": "Ellicott Hall, Hagerstown Hall, La Plata Hall, Ellicott Area Dining Hall",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-25T09:00:00-05:00",
+      "end": "2026-11-25T13:00:00-05:00",
+      "area": "Entire Building(s)",
+      "repairType": "Domestic Hot and Cold Water Outage",
+      "description": "There will be a domestic hot and cold water outage that will impact sinks, showers, toilets, and drinking water in all buildings within the Ellicott Community. This outage is to accommodate the replacement of the water main valve at Ellicott Hall.",
+      "contacts": [
+        "Sandra Williams"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "water",
+      "services": [
+        "Hot water",
+        "Cold water"
+      ],
+      "precision": "approximate",
+      "places": [
+        "building-ellicott-hall",
+        "building-hagerstown-hall",
+        "building-laplata-hall"
+      ],
+      "locationNote": "The Ellicott Area Dining Hall is not matched in the map data; the three residence halls are shown."
+    },
+    {
+      "id": "atlantic-3",
+      "title": "Electrical outage in Wings 1 and 3 for renovations",
+      "sourceTitle": "Atlantic Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-23T05:00:00-05:00",
+      "end": "2026-11-23T13:00:00-05:00",
+      "area": "Wings 1 and 3",
+      "repairType": "Electrical Outage",
+      "description": "There will be a planned electrical outage that will impact emergency power to outlets, domestic hot water service, and heating/air conditioning in Wings 1 and 3 of the Atlantic Building to accommodate renovation work.",
+      "contacts": [
+        "James Andrews"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "electrical",
+      "services": [
+        "Power",
+        "Hot water",
+        "HVAC"
+      ],
+      "precision": "building",
+      "places": [
+        "building-atlantic"
+      ]
+    },
+    {
+      "id": "hagerstown-hall",
+      "title": "Elevator car 2 out of service",
+      "sourceTitle": "Hagerstown Hall",
+      "section": "elevators",
+      "notice": "emergency",
+      "resolved": false,
+      "start": "2026-11-23T04:00:00-05:00",
+      "end": null,
+      "area": "Elevator Car 2",
+      "repairType": "Elevator Outage",
+      "description": "There is currently an elevator outage impacting elevator car 2 at Hagerstown Hall until further repairs can be made by Facilities Management responders.",
+      "contacts": [
+        "Shane Kogok"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "elevator",
+      "services": [
+        "Elevator"
+      ],
+      "precision": "building",
+      "places": [
+        "building-hagerstown-hall"
+      ]
     }
   ]
 }
