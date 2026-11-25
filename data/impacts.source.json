@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-11-24T06:46:00-05:00",
+  "fetchedAt": "2026-11-25T06:46:00-05:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -300,24 +300,24 @@
     },
     {
       "id": "biology-psychology",
-      "title": "Heating outage on all floors of the biology side",
+      "title": "Demolition for renovations in rooms 4213 and 4219",
       "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
       "notice": "planned",
       "resolved": false,
-      "start": "2026-11-23T06:00:00-05:00",
-      "end": "2026-11-25T14:00:00-05:00",
-      "area": "Biology Side of Building, All Floors",
-      "repairType": "Heating Outage",
-      "description": "There will be a planned heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
+      "start": "2026-11-20T06:00:00-05:00",
+      "end": "2026-12-04T17:00:00-05:00",
+      "area": "Rooms 4213, 4219, 4219C, and 4219D.",
+      "repairType": "Renovation Work",
+      "description": "The demolition work related to renovations will occur in rooms 4213, 4219, 4219C, and 4219D of the Biology-Psychology Building.",
       "contacts": [
-        "William Schmelyun"
+        "Adesanmi Fajemisin"
       ],
       "phone": "301-405-2222",
       "attachments": [],
-      "category": "hvac",
+      "category": "construction",
       "services": [
-        "Heating"
+        "Room access"
       ],
       "precision": "building",
       "places": [
@@ -442,39 +442,13 @@
     },
     {
       "id": "biology-psychology-2",
-      "title": "Demolition for renovations in rooms 4213 and 4219",
-      "sourceTitle": "Biology-Psychology Building",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-20T06:00:00-05:00",
-      "end": "2026-12-04T17:00:00-05:00",
-      "area": "Rooms 4213, 4219, 4219C, and 4219D.",
-      "repairType": "Renovation Work",
-      "description": "The demolition work related to renovations will occur in rooms 4213, 4219, 4219C, and 4219D of the Biology-Psychology Building.",
-      "contacts": [
-        "Adesanmi Fajemisin"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "construction",
-      "services": [
-        "Room access"
-      ],
-      "precision": "building",
-      "places": [
-        "building-biology-psychology-building"
-      ]
-    },
-    {
-      "id": "biology-psychology-3",
       "title": "Heating outage in some south-side offices",
       "sourceTitle": "Biology-Psychology Building",
       "section": "outages",
       "notice": "emergency",
       "resolved": false,
       "start": "2026-11-13T15:15:00-05:00",
-      "end": null,
+      "end": "2026-11-24T11:30:00-05:00",
       "area": "Some office areas on the south side of the building.",
       "repairType": "Heating Outage",
       "description": "There is currently a heating outage affecting some office areas on the south side of the Biology-Psychology Building while emergency repairs are made to the heating system that supports this area of the building.",
@@ -896,34 +870,6 @@
       "locationNote": "The Ellicott Area Dining Hall is not matched in the map data; the three residence halls are shown."
     },
     {
-      "id": "atlantic-3",
-      "title": "Electrical outage in Wings 1 and 3 for renovations",
-      "sourceTitle": "Atlantic Building",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-23T05:00:00-05:00",
-      "end": "2026-11-23T13:00:00-05:00",
-      "area": "Wings 1 and 3",
-      "repairType": "Electrical Outage",
-      "description": "There will be a planned electrical outage that will impact emergency power to outlets, domestic hot water service, and heating/air conditioning in Wings 1 and 3 of the Atlantic Building to accommodate renovation work.",
-      "contacts": [
-        "James Andrews"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "electrical",
-      "services": [
-        "Power",
-        "Hot water",
-        "HVAC"
-      ],
-      "precision": "building",
-      "places": [
-        "building-atlantic"
-      ]
-    },
-    {
       "id": "hagerstown-hall",
       "title": "Elevator car 2 out of service",
       "sourceTitle": "Hagerstown Hall",
@@ -947,6 +893,165 @@
       "precision": "building",
       "places": [
         "building-hagerstown-hall"
+      ]
+    },
+    {
+      "id": "clarise-smith-performing-arts-center",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "Clarise Smith Performing Arts Center",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-12-29T06:00:00-05:00",
+      "end": "2026-12-31T15:00:00-05:00",
+      "area": "Entire Building",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "contacts": [
+        "Clarence Brown"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm",
+        "Sprinklers"
+      ],
+      "precision": "building",
+      "places": [
+        "building-clarice-smith-performing-arts-center"
+      ]
+    },
+    {
+      "id": "brendan-iribe-center",
+      "title": "Air conditioning outage during work at Zupnik Hall",
+      "sourceTitle": "Brendan Iribe Center",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-12-05T06:00:00-05:00",
+      "end": "2026-12-05T18:00:00-05:00",
+      "area": "Entire Building.",
+      "repairType": "Air Conditioning Outage, Elevated Chilled Water Temperatures",
+      "description": "There will be an air conditioning outage at the Brendan Iribe Center due to electrical work/activities related to the Stanley R. Zupnik Hall project. Brendan Iribe Center cooling towers are located on the roof of Stanley R. Zupnik Hall.",
+      "contacts": [
+        "Teon Saunders"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Air conditioning"
+      ],
+      "precision": "building",
+      "places": [
+        "building-brendan-iribe-center-for-computer-science-and-engineering"
+      ]
+    },
+    {
+      "id": "shoemaker",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "Shoemaker Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-12-04T06:00:00-05:00",
+      "end": "2026-12-04T15:00:00-05:00",
+      "area": "Entire Building",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "contacts": [
+        "Clarence Brown"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm",
+        "Sprinklers"
+      ],
+      "precision": "building",
+      "places": [
+        "building-shoemaker-building"
+      ]
+    },
+    {
+      "id": "eppley-recreation-center",
+      "title": "Fire alarm and sprinkler testing",
+      "sourceTitle": "Eppley Recreation Center",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-30T06:00:00-05:00",
+      "end": "2026-11-30T15:00:00-05:00",
+      "area": "Entire Building.",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "Fire alarm and suppression system inspections are scheduled to occur at Eppley Recreation Center to test the building's fire alarm, sprinkler, and suppression systems.",
+      "contacts": [
+        "Clarence Brown"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm",
+        "Sprinklers"
+      ],
+      "precision": "building",
+      "places": [
+        "building-eppley-recreation-center"
+      ]
+    },
+    {
+      "id": "h-j-patterson-hall",
+      "title": "Fire alarm testing",
+      "sourceTitle": "H.J. Patterson Hall",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": false,
+      "start": "2026-11-25T07:00:00-05:00",
+      "end": "2026-11-25T10:00:00-05:00",
+      "area": "Entire Building.",
+      "repairType": "Fire Alarm Testing and Inspection Work",
+      "description": "Fire alarm system inspections are scheduled to occur at H.J. Patterson Hall to test the building's fire alarm system.",
+      "contacts": [
+        "Clarence Brown"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "fire-safety",
+      "services": [
+        "Fire alarm"
+      ],
+      "precision": "building",
+      "places": [
+        "building-h-j-patterson-hall"
+      ]
+    },
+    {
+      "id": "completed-biology-psychology",
+      "title": "Completed: heating outage on all floors of the biology side",
+      "sourceTitle": "**COMPLETED** Biology-Psychology Building",
+      "section": "outages",
+      "notice": "planned",
+      "resolved": true,
+      "start": "2026-11-23T06:00:00-05:00",
+      "end": "2026-11-24T11:30:00-05:00",
+      "area": "Biology Side of Building, All Floors",
+      "repairType": "Heating Outage",
+      "description": "There will be a planned heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
+      "contacts": [
+        "William Schmelyun"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "hvac",
+      "services": [
+        "Heating"
+      ],
+      "precision": "building",
+      "places": [
+        "building-biology-psychology-building"
       ]
     }
   ]

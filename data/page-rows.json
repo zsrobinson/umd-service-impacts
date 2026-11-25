@@ -1,96 +1,19 @@
 {
-  "pageHash": "b7d443775f3c644e",
-  "changedAt": "2026-11-24T06:46:00-05:00",
+  "pageHash": "3b71a06fb61adf75",
+  "changedAt": "2026-11-25T06:46:00-05:00",
   "rows": {
-    "farm-drive-parking-lot-n4": {
-      "section": "roads",
-      "title": "Farm Drive, Parking Lot N4",
-      "area": "West of Cumberland Hall **See map attached**",
-      "start": "11-23-2026 7:00 am",
-      "finish": "11-27-2026 5:00 pm",
-      "repairType": "Partial Roadway Closure, Partial Parking Lot Closure",
-      "description": "There will be a partial roadway closure of Farm Drive west of Cumberland Hall to repair a section of roadway in that area. The faculty and staff parking in Lot N4 parallel to the work site will be closed to accommodate vehicular traffic.",
+    "jimenez-hall": {
+      "section": "outages",
+      "title": "Jimenez Hall",
+      "area": "Basement and First Floor Classroom Areas.",
+      "start": "12-01-2026 6:00 am",
+      "finish": "12-11-2026 3:00 pm",
+      "repairType": "Air Conditioning Outage",
+      "description": "There will be a planned air conditioning outage of the basement and first-floor classroom areas of Jimenez Hall in preparation for the chiller renewal project in the building.",
       "impactType": "Planned",
-      "contact": "Charles Patterson",
+      "contact": "James Trythall",
       "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Farm-Drive.png"
-      ]
-    },
-    "valley-drive": {
-      "section": "roads",
-      "title": "Valley Drive",
-      "area": "North of Chestertown Hall",
-      "start": "11-21-2026 7:00 am",
-      "finish": "11-27-2026 4:00 pm",
-      "repairType": "Partial Roadway Closure, Sidewalk Closure",
-      "description": "Partial roadway closure of the area of Valley Drive north of Chestertown Hall to accommodate a crane and dumpster for roofing repairs. This will result in a sidewalk closure north of the building while crane and roof work is occurring.",
-      "impactType": "Planned",
-      "contact": "Anthony Gourley",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/North-of-Chestertown-Hall---Partial-Roadway-Closure-of-Valley-Drive-and-Sidewalk-Closure%2C-November-21---November-27-%28Map%29.pdf"
-      ]
-    },
-    "stadium-drive": {
-      "section": "roads",
-      "title": "Stadium Drive",
-      "area": "South of the E.A. Fernandez IDEA Factory Building, between the Chemistry Lane and Engineering Drive Intersection to the Stanley Zupnik Hall loading dock.",
-      "start": "10-21-2026 6:00 am",
-      "finish": "04-30-2027 4:00 pm",
-      "repairType": "Sidewalk Closures, Roadway Closure",
-      "description": "Closure is occurring for the staging of crane equipment to support construction activities occurring in this area of campus.",
-      "impactType": "Planned",
-      "contact": "Randall Phillips",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Dr-Closure%2C-Crane-Setup%2C-Detours-%28Map%29.pdf"
-      ]
-    },
-    "purple-line-sign-installation": {
-      "section": "roads",
-      "title": "Purple Line, Campus-wide",
-      "area": "**See attached map for impacts**",
-      "start": "08-29-2026 10:00 pm",
-      "finish": "01-26-2027 6:00 am",
-      "repairType": "Purple Line Construction",
-      "description": "Campus-wide overnight testing.",
-      "impactType": "Planned",
-      "contact": "Casey Ferraro",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---LRV-Testing-Vehicle%2C-Pedestrian-Impacts---Notification-Map.pdf"
-      ]
-    },
-    "purple-line-overnight-testing": {
-      "section": "roads",
-      "title": "Purple Line, Campus-wide",
-      "area": "**See attached map for impacted roadways and sidewalks**",
-      "start": "08-29-2026 12:00 am",
-      "finish": "01-26-2027 11:00 pm",
-      "repairType": "Purple Line Construction",
-      "description": "Periodic lane and sidewalk closures.",
-      "impactType": "Planned",
-      "contact": "Casey Ferraro",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---Periodic-Lane-%26-Sidewalk-Closures---Fall-2026---Notification-Map.pdf"
-      ]
-    },
-    "lot-z-partial-closure": {
-      "section": "roads",
-      "title": "Parking Lot Z",
-      "area": "Southeast corner of the parking lot.",
-      "start": "12-22-2025 7:00 am",
-      "finish": "09-01-2028 4:00 pm",
-      "repairType": "Partial Parking Lot Closure",
-      "description": "To facilitate the construction laydown area for the Health and Human Sciences Complex project.",
-      "impactType": "Planned",
-      "contact": "Randall Phillips",
-      "phone": "443-500-2356",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
-      ]
+      "attachments": []
     },
     "atlantic": {
       "section": "outages",
@@ -115,6 +38,19 @@
       "description": "There will be a campus-wide steam outage in which domestic hot water temperatures, building heating service, and steam-fired equipment will be unavailable.",
       "impactType": "Planned",
       "contact": "Randolph Bayer",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "ellicott-hall-hagerstown-hall-la-plata": {
+      "section": "outages",
+      "title": "Ellicott Hall, Hagerstown Hall, La Plata Hall, Ellicott Area Dining Hall",
+      "area": "Entire Building(s)",
+      "start": "11-25-2026 9:00 am",
+      "finish": "11-25-2026 1:00 pm",
+      "repairType": "Domestic Hot and Cold Water Outage",
+      "description": "There will be a domestic hot and cold water outage that will impact sinks, showers, toilets, and drinking water in all buildings within the Ellicott Community. This outage is to accommodate the replacement of the water main valve at Ellicott Hall.",
+      "impactType": "Planned",
+      "contact": "Sandra Williams",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -217,19 +153,6 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Patuxent-Building---South-Entrance%2C-Exterior-Door-Closure-and-Concrete-Work%2C-November-23---November-27-%28Map%29.png"
       ]
     },
-    "biology-psychology": {
-      "section": "outages",
-      "title": "Biology-Psychology Building",
-      "area": "Biology Side of Building, All Floors",
-      "start": "11-23-2026 6:00 am",
-      "finish": "11-25-2026 2:00 pm",
-      "repairType": "Heating Outage",
-      "description": "There will be a planned heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
-      "impactType": "Planned",
-      "contact": "William Schmelyun",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "c-daniel-mote-jr-engineering-laboratory": {
       "section": "outages",
       "title": "C. Daniel Mote, Jr. Engineering Laboratory Building",
@@ -245,7 +168,7 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Exterior-North-of-C.-Daniel-Mote%2C-Jr.-Engineering-Laboratory-Building%2C-Sidewalk-Closure-and-Entrance-Closure%2C-November-23---November-27-%28Map%29.pdf"
       ]
     },
-    "biology-psychology-2": {
+    "biology-psychology": {
       "section": "outages",
       "title": "Biology-Psychology Building",
       "area": "Rooms 4213, 4219, 4219C, and 4219D.",
@@ -258,12 +181,12 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "biology-psychology-3": {
+    "biology-psychology-2": {
       "section": "outages",
       "title": "Biology-Psychology Building",
       "area": "Some office areas on the south side of the building.",
       "start": "11-13-2026 3:15 pm",
-      "finish": "",
+      "finish": "11-24-2026 11:30 am",
       "repairType": "Heating Outage",
       "description": "There is currently a heating outage affecting some office areas on the south side of the Biology-Psychology Building while emergency repairs are made to the heating system that supports this area of the building.",
       "impactType": "Emergency",
@@ -357,19 +280,6 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/148---Urgent-Outage-Notice-HVAC-Cooling.png"
       ]
     },
-    "mckeldin-library-2": {
-      "section": "elevators",
-      "title": "McKeldin Library",
-      "area": "Elevator Car 3",
-      "start": "11-18-2026 6:00 am",
-      "finish": "03-31-2027 4:00 pm",
-      "repairType": "Elevator modernization",
-      "description": "Elevator Car 3 will be taken out of service at McKeldin Library for a planned modernization upgrade of the elevator car.",
-      "impactType": "Planned",
-      "contact": "Chris O'Dea",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "paint-branch-drive": {
       "section": "roads",
       "title": "Paint Branch Drive",
@@ -385,44 +295,95 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Paint-branch-tree-removals.pdf"
       ]
     },
-    "jimenez-hall": {
-      "section": "outages",
-      "title": "Jimenez Hall",
-      "area": "Basement and First Floor Classroom Areas.",
-      "start": "12-01-2026 6:00 am",
-      "finish": "12-11-2026 3:00 pm",
-      "repairType": "Air Conditioning Outage",
-      "description": "There will be a planned air conditioning outage of the basement and first-floor classroom areas of Jimenez Hall in preparation for the chiller renewal project in the building.",
+    "farm-drive-parking-lot-n4": {
+      "section": "roads",
+      "title": "Farm Drive, Parking Lot N4",
+      "area": "West of Cumberland Hall **See map attached**",
+      "start": "11-23-2026 7:00 am",
+      "finish": "11-27-2026 5:00 pm",
+      "repairType": "Partial Roadway Closure, Partial Parking Lot Closure",
+      "description": "There will be a partial roadway closure of Farm Drive west of Cumberland Hall to repair a section of roadway in that area. The faculty and staff parking in Lot N4 parallel to the work site will be closed to accommodate vehicular traffic.",
       "impactType": "Planned",
-      "contact": "James Trythall",
+      "contact": "Charles Patterson",
       "phone": "301-405-2222",
-      "attachments": []
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Farm-Drive.png"
+      ]
     },
-    "ellicott-hall-hagerstown-hall-la-plata": {
-      "section": "outages",
-      "title": "Ellicott Hall, Hagerstown Hall, La Plata Hall, Ellicott Area Dining Hall",
-      "area": "Entire Building(s)",
-      "start": "11-25-2026 9:00 am",
-      "finish": "11-25-2026 1:00 pm",
-      "repairType": "Domestic Hot and Cold Water Outage",
-      "description": "There will be a domestic hot and cold water outage that will impact sinks, showers, toilets, and drinking water in all buildings within the Ellicott Community. This outage is to accommodate the replacement of the water main valve at Ellicott Hall.",
+    "valley-drive": {
+      "section": "roads",
+      "title": "Valley Drive",
+      "area": "North of Chestertown Hall",
+      "start": "11-21-2026 7:00 am",
+      "finish": "11-27-2026 4:00 pm",
+      "repairType": "Partial Roadway Closure, Sidewalk Closure",
+      "description": "Partial roadway closure of the area of Valley Drive north of Chestertown Hall to accommodate a crane and dumpster for roofing repairs. This will result in a sidewalk closure north of the building while crane and roof work is occurring.",
       "impactType": "Planned",
-      "contact": "Sandra Williams",
+      "contact": "Anthony Gourley",
       "phone": "301-405-2222",
-      "attachments": []
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/North-of-Chestertown-Hall---Partial-Roadway-Closure-of-Valley-Drive-and-Sidewalk-Closure%2C-November-21---November-27-%28Map%29.pdf"
+      ]
     },
-    "atlantic-3": {
-      "section": "outages",
-      "title": "Atlantic Building",
-      "area": "Wings 1 and 3 **Wings 2 and 4 will not be impacted by this outage**",
-      "start": "11-23-2026 5:00 am",
-      "finish": "11-23-2026 1:00 pm",
-      "repairType": "Electrical Outage",
-      "description": "There will be a planned electrical outage that will impact emergency power to outlets, domestic hot water service, and heating/air conditioning in Wings 1 and 3 of the Atlantic Building to accommodate renovation work.",
+    "stadium-drive": {
+      "section": "roads",
+      "title": "Stadium Drive",
+      "area": "South of the E.A. Fernandez IDEA Factory Building, between the Chemistry Lane and Engineering Drive Intersection to the Stanley Zupnik Hall loading dock.",
+      "start": "10-21-2026 6:00 am",
+      "finish": "04-30-2027 4:00 pm",
+      "repairType": "Sidewalk Closures, Roadway Closure",
+      "description": "Closure is occurring for the staging of crane equipment to support construction activities occurring in this area of campus.",
       "impactType": "Planned",
-      "contact": "James Andrews",
+      "contact": "Randall Phillips",
       "phone": "301-405-2222",
-      "attachments": []
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Stadium-Dr-Closure%2C-Crane-Setup%2C-Detours-%28Map%29.pdf"
+      ]
+    },
+    "purple-line-sign-installation": {
+      "section": "roads",
+      "title": "Purple Line, Campus-wide",
+      "area": "**See attached map for impacts**",
+      "start": "08-29-2026 10:00 pm",
+      "finish": "01-26-2027 6:00 am",
+      "repairType": "Purple Line Construction",
+      "description": "Campus-wide overnight testing.",
+      "impactType": "Planned",
+      "contact": "Casey Ferraro",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---LRV-Testing-Vehicle%2C-Pedestrian-Impacts---Notification-Map.pdf"
+      ]
+    },
+    "purple-line-overnight-testing": {
+      "section": "roads",
+      "title": "Purple Line, Campus-wide",
+      "area": "**See attached map for impacted roadways and sidewalks**",
+      "start": "08-29-2026 12:00 am",
+      "finish": "01-26-2027 11:00 pm",
+      "repairType": "Purple Line Construction",
+      "description": "Periodic lane and sidewalk closures.",
+      "impactType": "Planned",
+      "contact": "Casey Ferraro",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/2026-08-29---Periodic-Lane-%26-Sidewalk-Closures---Fall-2026---Notification-Map.pdf"
+      ]
+    },
+    "lot-z-partial-closure": {
+      "section": "roads",
+      "title": "Parking Lot Z",
+      "area": "Southeast corner of the parking lot.",
+      "start": "12-22-2025 7:00 am",
+      "finish": "09-01-2028 4:00 pm",
+      "repairType": "Partial Parking Lot Closure",
+      "description": "To facilitate the construction laydown area for the Health and Human Sciences Complex project.",
+      "impactType": "Planned",
+      "contact": "Randall Phillips",
+      "phone": "443-500-2356",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/12-22-25-thru-09-01-2028-Lot-Z-Partial-Closure---P%26C.pdf"
+      ]
     },
     "hagerstown-hall": {
       "section": "elevators",
@@ -434,6 +395,97 @@
       "description": "There is currently an elevator outage impacting elevator car 2 at Hagerstown Hall until further repairs can be made by Facilities Management responders.",
       "impactType": "Emergency",
       "contact": "Shane Kogok",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "mckeldin-library-2": {
+      "section": "elevators",
+      "title": "McKeldin Library",
+      "area": "Elevator Car 3",
+      "start": "11-18-2026 6:00 am",
+      "finish": "03-31-2027 4:00 pm",
+      "repairType": "Elevator modernization",
+      "description": "Elevator Car 3 will be taken out of service at McKeldin Library for a planned modernization upgrade of the elevator car.",
+      "impactType": "Planned",
+      "contact": "Chris O'Dea",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "clarise-smith-performing-arts-center": {
+      "section": "outages",
+      "title": "Clarise Smith Performing Arts Center",
+      "area": "Entire Building",
+      "start": "12-29-2026 6:00 am",
+      "finish": "12-31-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "brendan-iribe-center": {
+      "section": "outages",
+      "title": "Brendan Iribe Center",
+      "area": "Entire Building.",
+      "start": "12-05-2026 6:00 am",
+      "finish": "12-05-2026 6:00 pm",
+      "repairType": "Air Conditioning Outage, Elevated Chilled Water Temperatures",
+      "description": "There will be an air conditioning outage at the Brendan Iribe Center due to electrical work/activities related to the Stanley R. Zupnik Hall project. Brendan Iribe Center cooling towers are located on the roof of Stanley R. Zupnik Hall.",
+      "impactType": "Planned",
+      "contact": "Teon Saunders",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "shoemaker": {
+      "section": "outages",
+      "title": "Shoemaker Building",
+      "area": "Entire Building",
+      "start": "12-04-2026 6:00 am",
+      "finish": "12-04-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "eppley-recreation-center": {
+      "section": "outages",
+      "title": "Eppley Recreation Center",
+      "area": "Entire Building.",
+      "start": "11-30-2026 6:00 am",
+      "finish": "11-30-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "Fire alarm and suppression system inspections are scheduled to occur at Eppley Recreation Center to test the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "h-j-patterson-hall": {
+      "section": "outages",
+      "title": "H.J. Patterson Hall",
+      "area": "Entire Building.",
+      "start": "11-25-2026 7:00 am",
+      "finish": "11-25-2026 10:00 am",
+      "repairType": "Fire Alarm Testing and Inspection Work",
+      "description": "Fire alarm system inspections are scheduled to occur at H.J. Patterson Hall to test the building's fire alarm system.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "completed-biology-psychology": {
+      "section": "outages",
+      "title": "**COMPLETED** Biology-Psychology Building",
+      "area": "Biology Side of Building, All Floors",
+      "start": "11-23-2026 6:00 am",
+      "finish": "11-24-2026 11:30 am",
+      "repairType": "Heating Outage",
+      "description": "There will be a planned heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
+      "impactType": "Planned",
+      "contact": "William Schmelyun",
       "phone": "301-405-2222",
       "attachments": []
     }
