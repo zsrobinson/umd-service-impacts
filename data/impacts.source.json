@@ -1,6 +1,6 @@
 {
   "source": "https://facilities.umd.edu/info-resources/service-impacts",
-  "fetchedAt": "2026-11-25T06:46:00-05:00",
+  "fetchedAt": "2026-11-27T06:47:00-05:00",
   "impacts": [
     {
       "id": "purple-line-sign-installation",
@@ -389,33 +389,6 @@
     },
     {
       "id": "mckeldin-library",
-      "title": "Fire alarm and sprinkler testing",
-      "sourceTitle": "McKeldin Library",
-      "section": "outages",
-      "notice": "planned",
-      "resolved": false,
-      "start": "2026-11-23T18:00:00-05:00",
-      "end": "2026-11-25T15:00:00-05:00",
-      "area": "Entire Building",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "contacts": [
-        "Clarence Brown"
-      ],
-      "phone": "301-405-2222",
-      "attachments": [],
-      "category": "fire-safety",
-      "services": [
-        "Fire alarm",
-        "Sprinklers"
-      ],
-      "precision": "building",
-      "places": [
-        "building-theodore-r-mckeldin-library"
-      ]
-    },
-    {
-      "id": "mckeldin-library-2",
       "title": "Elevator car 3 modernization",
       "sourceTitle": "McKeldin Library",
       "section": "elevators",
@@ -1053,6 +1026,34 @@
       "places": [
         "building-biology-psychology-building"
       ]
+    },
+    {
+      "id": "campus-wide-2",
+      "title": "Campus-wide reduced steam pressure after PEPCO power blips",
+      "sourceTitle": "Campus-Wide",
+      "section": "outages",
+      "notice": "unplanned",
+      "resolved": false,
+      "start": "2026-11-26T06:00:00-05:00",
+      "end": null,
+      "area": "Entire Building(s)",
+      "repairType": "Campus Steam Pressure Reduction",
+      "description": "Campus utility systems are being affected by PEPCO, which is experiencing storm-related intermittent power blips. Currently, electrical power is available across campus, although steam pressure has been reduced.",
+      "contacts": [
+        "William Olen"
+      ],
+      "phone": "301-405-2222",
+      "attachments": [],
+      "category": "steam",
+      "services": [
+        "Heating",
+        "Hot water"
+      ],
+      "precision": "campus-wide",
+      "places": [
+        "building-umcp-chp-plant"
+      ],
+      "locationNote": "Affects the whole campus; shown at the energy plant."
     }
   ]
 }

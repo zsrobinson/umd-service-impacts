@@ -1,7 +1,46 @@
 {
-  "pageHash": "3b71a06fb61adf75",
-  "changedAt": "2026-11-25T06:46:00-05:00",
+  "pageHash": "77c548a6e51df8ba",
+  "changedAt": "2026-11-27T06:47:00-05:00",
   "rows": {
+    "clarise-smith-performing-arts-center": {
+      "section": "outages",
+      "title": "Clarise Smith Performing Arts Center",
+      "area": "Entire Building",
+      "start": "12-29-2026 6:00 am",
+      "finish": "12-31-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "brendan-iribe-center": {
+      "section": "outages",
+      "title": "Brendan Iribe Center",
+      "area": "Entire Building.",
+      "start": "12-05-2026 6:00 am",
+      "finish": "12-05-2026 6:00 pm",
+      "repairType": "Air Conditioning Outage, Elevated Chilled Water Temperatures",
+      "description": "There will be an air conditioning outage at the Brendan Iribe Center due to electrical work/activities related to the Stanley R. Zupnik Hall project. Brendan Iribe Center cooling towers are located on the roof of Stanley R. Zupnik Hall.",
+      "impactType": "Planned",
+      "contact": "Teon Saunders",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "shoemaker": {
+      "section": "outages",
+      "title": "Shoemaker Building",
+      "area": "Entire Building",
+      "start": "12-04-2026 6:00 am",
+      "finish": "12-04-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "jimenez-hall": {
       "section": "outages",
       "title": "Jimenez Hall",
@@ -12,6 +51,19 @@
       "description": "There will be a planned air conditioning outage of the basement and first-floor classroom areas of Jimenez Hall in preparation for the chiller renewal project in the building.",
       "impactType": "Planned",
       "contact": "James Trythall",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "eppley-recreation-center": {
+      "section": "outages",
+      "title": "Eppley Recreation Center",
+      "area": "Entire Building.",
+      "start": "11-30-2026 6:00 am",
+      "finish": "11-30-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "Fire alarm and suppression system inspections are scheduled to occur at Eppley Recreation Center to test the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -54,6 +106,19 @@
       "phone": "301-405-2222",
       "attachments": []
     },
+    "h-j-patterson-hall": {
+      "section": "outages",
+      "title": "H.J. Patterson Hall",
+      "area": "Entire Building.",
+      "start": "11-25-2026 7:00 am",
+      "finish": "11-25-2026 10:00 am",
+      "repairType": "Fire Alarm Testing and Inspection Work",
+      "description": "Fire alarm system inspections are scheduled to occur at H.J. Patterson Hall to test the building's fire alarm system.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "atlantic-2": {
       "section": "outages",
       "title": "Atlantic Building",
@@ -80,19 +145,6 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "mckeldin-library": {
-      "section": "outages",
-      "title": "McKeldin Library",
-      "area": "Entire Building",
-      "start": "11-23-2026 6:00 pm",
-      "finish": "11-25-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "ellicott-hall-hagerstown-hall-stadium-drive": {
       "section": "outages",
       "title": "Ellicott Hall, Hagerstown Hall, Stadium Drive",
@@ -106,6 +158,21 @@
       "phone": "301-405-2222",
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Ellicott-Hall.png"
+      ]
+    },
+    "patuxent": {
+      "section": "outages",
+      "title": "Patuxent Building",
+      "area": "South Side Entrance **See map attached**",
+      "start": "11-23-2026 7:00 am",
+      "finish": "11-27-2026 5:00 pm",
+      "repairType": "Exterior Door Closure, Concrete Work",
+      "description": "There will be a temporary closure of the south side exterior door 0197 at the Patuxent Building to perform the installation of new exterior drains.",
+      "impactType": "Planned",
+      "contact": "Richard Scott Rupert",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Patuxent-Building---South-Entrance%2C-Exterior-Door-Closure-and-Concrete-Work%2C-November-23---November-27-%28Map%29.png"
       ]
     },
     "bioscience-research": {
@@ -138,20 +205,18 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Van-Munching-Hall.png"
       ]
     },
-    "patuxent": {
+    "completed-biology-psychology": {
       "section": "outages",
-      "title": "Patuxent Building",
-      "area": "South Side Entrance **See map attached**",
-      "start": "11-23-2026 7:00 am",
-      "finish": "11-27-2026 5:00 pm",
-      "repairType": "Exterior Door Closure, Concrete Work",
-      "description": "There will be a temporary closure of the south side exterior door 0197 at the Patuxent Building to perform the installation of new exterior drains.",
+      "title": "**COMPLETED** Biology-Psychology Building",
+      "area": "Biology Side of Building, All Floors",
+      "start": "11-23-2026 6:00 am",
+      "finish": "11-24-2026 11:30 am",
+      "repairType": "Heating Outage",
+      "description": "There will be a planned heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
       "impactType": "Planned",
-      "contact": "Richard Scott Rupert",
+      "contact": "William Schmelyun",
       "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Patuxent-Building---South-Entrance%2C-Exterior-Door-Closure-and-Concrete-Work%2C-November-23---November-27-%28Map%29.png"
-      ]
+      "attachments": []
     },
     "c-daniel-mote-jr-engineering-laboratory": {
       "section": "outages",
@@ -398,7 +463,7 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "mckeldin-library-2": {
+    "mckeldin-library": {
       "section": "elevators",
       "title": "McKeldin Library",
       "area": "Elevator Car 3",
@@ -411,81 +476,16 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "clarise-smith-performing-arts-center": {
+    "campus-wide-2": {
       "section": "outages",
-      "title": "Clarise Smith Performing Arts Center",
-      "area": "Entire Building",
-      "start": "12-29-2026 6:00 am",
-      "finish": "12-31-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "brendan-iribe-center": {
-      "section": "outages",
-      "title": "Brendan Iribe Center",
-      "area": "Entire Building.",
-      "start": "12-05-2026 6:00 am",
-      "finish": "12-05-2026 6:00 pm",
-      "repairType": "Air Conditioning Outage, Elevated Chilled Water Temperatures",
-      "description": "There will be an air conditioning outage at the Brendan Iribe Center due to electrical work/activities related to the Stanley R. Zupnik Hall project. Brendan Iribe Center cooling towers are located on the roof of Stanley R. Zupnik Hall.",
-      "impactType": "Planned",
-      "contact": "Teon Saunders",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "shoemaker": {
-      "section": "outages",
-      "title": "Shoemaker Building",
-      "area": "Entire Building",
-      "start": "12-04-2026 6:00 am",
-      "finish": "12-04-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "to perform testing of the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "eppley-recreation-center": {
-      "section": "outages",
-      "title": "Eppley Recreation Center",
-      "area": "Entire Building.",
-      "start": "11-30-2026 6:00 am",
-      "finish": "11-30-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "Fire alarm and suppression system inspections are scheduled to occur at Eppley Recreation Center to test the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "h-j-patterson-hall": {
-      "section": "outages",
-      "title": "H.J. Patterson Hall",
-      "area": "Entire Building.",
-      "start": "11-25-2026 7:00 am",
-      "finish": "11-25-2026 10:00 am",
-      "repairType": "Fire Alarm Testing and Inspection Work",
-      "description": "Fire alarm system inspections are scheduled to occur at H.J. Patterson Hall to test the building's fire alarm system.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "completed-biology-psychology": {
-      "section": "outages",
-      "title": "**COMPLETED** Biology-Psychology Building",
-      "area": "Biology Side of Building, All Floors",
-      "start": "11-23-2026 6:00 am",
-      "finish": "11-24-2026 11:30 am",
-      "repairType": "Heating Outage",
-      "description": "There will be a planned heating outage that will impact all floors on the biology side of the Biology-Psychology Building to repair a leak in the main heating hot-water pipework that provides heating in this area of the building.",
-      "impactType": "Planned",
-      "contact": "William Schmelyun",
+      "title": "Campus-Wide",
+      "area": "Entire Building(s)",
+      "start": "11-26-2026 6:00 am",
+      "finish": "",
+      "repairType": "Campus Steam Pressure Reduction",
+      "description": "Campus utility systems are being affected by PEPCO, which is experiencing storm-related intermittent power blips. Currently, electrical power is available across campus, although steam pressure has been reduced.",
+      "impactType": "Unplanned",
+      "contact": "William Olen",
       "phone": "301-405-2222",
       "attachments": []
     }
