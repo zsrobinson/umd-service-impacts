@@ -1,6 +1,6 @@
 {
-  "pageHash": "77c548a6e51df8ba",
-  "changedAt": "2026-11-27T06:47:00-05:00",
+  "pageHash": "88781dd7db138c4a",
+  "changedAt": "2026-11-28T06:46:00-05:00",
   "rows": {
     "clarise-smith-performing-arts-center": {
       "section": "outages",
@@ -54,19 +54,6 @@
       "phone": "301-405-2222",
       "attachments": []
     },
-    "eppley-recreation-center": {
-      "section": "outages",
-      "title": "Eppley Recreation Center",
-      "area": "Entire Building.",
-      "start": "11-30-2026 6:00 am",
-      "finish": "11-30-2026 3:00 pm",
-      "repairType": "Fire Alarm/Suppression Testing and Inspection",
-      "description": "Fire alarm and suppression system inspections are scheduled to occur at Eppley Recreation Center to test the building's fire alarm, sprinkler, and suppression systems.",
-      "impactType": "Planned",
-      "contact": "Clarence Brown",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
     "atlantic": {
       "section": "outages",
       "title": "Atlantic Building",
@@ -80,6 +67,19 @@
       "phone": "301-405-2222",
       "attachments": []
     },
+    "eppley-recreation-center": {
+      "section": "outages",
+      "title": "Eppley Recreation Center",
+      "area": "Entire Building.",
+      "start": "11-30-2026 6:00 am",
+      "finish": "11-30-2026 3:00 pm",
+      "repairType": "Fire Alarm/Suppression Testing and Inspection",
+      "description": "Fire alarm and suppression system inspections are scheduled to occur at Eppley Recreation Center to test the building's fire alarm, sprinkler, and suppression systems.",
+      "impactType": "Planned",
+      "contact": "Clarence Brown",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
     "campus-wide": {
       "section": "outages",
       "title": "Campus-Wide",
@@ -90,6 +90,19 @@
       "description": "There will be a campus-wide steam outage in which domestic hot water temperatures, building heating service, and steam-fired equipment will be unavailable.",
       "impactType": "Planned",
       "contact": "Randolph Bayer",
+      "phone": "301-405-2222",
+      "attachments": []
+    },
+    "campus-wide-2": {
+      "section": "outages",
+      "title": "Campus-Wide",
+      "area": "Entire Building(s)",
+      "start": "11-26-2026 6:00 am",
+      "finish": "",
+      "repairType": "Campus Steam Pressure Reduction",
+      "description": "Campus utility systems are being affected by PEPCO, which is experiencing storm-related intermittent power blips. Currently, electrical power is available across campus, although steam pressure has been reduced.",
+      "impactType": "Unplanned",
+      "contact": "William Olen",
       "phone": "301-405-2222",
       "attachments": []
     },
@@ -160,21 +173,6 @@
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Ellicott-Hall.png"
       ]
     },
-    "patuxent": {
-      "section": "outages",
-      "title": "Patuxent Building",
-      "area": "South Side Entrance **See map attached**",
-      "start": "11-23-2026 7:00 am",
-      "finish": "11-27-2026 5:00 pm",
-      "repairType": "Exterior Door Closure, Concrete Work",
-      "description": "There will be a temporary closure of the south side exterior door 0197 at the Patuxent Building to perform the installation of new exterior drains.",
-      "impactType": "Planned",
-      "contact": "Richard Scott Rupert",
-      "phone": "301-405-2222",
-      "attachments": [
-        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Patuxent-Building---South-Entrance%2C-Exterior-Door-Closure-and-Concrete-Work%2C-November-23---November-27-%28Map%29.png"
-      ]
-    },
     "bioscience-research": {
       "section": "outages",
       "title": "Bioscience Research Building",
@@ -203,6 +201,21 @@
       "phone": "301-405-2222",
       "attachments": [
         "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Van-Munching-Hall.png"
+      ]
+    },
+    "patuxent": {
+      "section": "outages",
+      "title": "Patuxent Building",
+      "area": "South Side Entrance **See map attached**",
+      "start": "11-23-2026 7:00 am",
+      "finish": "11-27-2026 5:00 pm",
+      "repairType": "Exterior Door Closure, Concrete Work",
+      "description": "There will be a temporary closure of the south side exterior door 0197 at the Patuxent Building to perform the installation of new exterior drains.",
+      "impactType": "Planned",
+      "contact": "Richard Scott Rupert",
+      "phone": "301-405-2222",
+      "attachments": [
+        "https://facilities.umd.edu/sites/default/files/%5Bdocuments/service-impact/Patuxent-Building---South-Entrance%2C-Exterior-Door-Closure-and-Concrete-Work%2C-November-23---November-27-%28Map%29.png"
       ]
     },
     "completed-biology-psychology": {
@@ -473,19 +486,6 @@
       "description": "Elevator Car 3 will be taken out of service at McKeldin Library for a planned modernization upgrade of the elevator car.",
       "impactType": "Planned",
       "contact": "Chris O'Dea",
-      "phone": "301-405-2222",
-      "attachments": []
-    },
-    "campus-wide-2": {
-      "section": "outages",
-      "title": "Campus-Wide",
-      "area": "Entire Building(s)",
-      "start": "11-26-2026 6:00 am",
-      "finish": "",
-      "repairType": "Campus Steam Pressure Reduction",
-      "description": "Campus utility systems are being affected by PEPCO, which is experiencing storm-related intermittent power blips. Currently, electrical power is available across campus, although steam pressure has been reduced.",
-      "impactType": "Unplanned",
-      "contact": "William Olen",
       "phone": "301-405-2222",
       "attachments": []
     }
